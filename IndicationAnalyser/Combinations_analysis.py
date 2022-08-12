@@ -19,7 +19,8 @@ def analyse_drugs():
     file_address = "Indications_drugs.tsv"
     analysis_output_file_address = "Indications drugs combination analysis.txt"
     database_combinations = get_combinations(file_address)
-    databases_to_inspect=[1,3,4,5,6,7,8,9,10,11,12,13,15,16,17]
+    #Databases with small count of drugs mapped(2,14) and RepoDB(15) are ignored
+    databases_to_inspect=[1,3,4,5,6,7,8,9,10,11,12,13,16,17]
     # databases_to_inspect=list(range(1,17))
     for k in range(4, 11):
         combs_stats = dict()
@@ -36,7 +37,8 @@ def analyse_diseases():
     file_address = "Indications_diseases.tsv"
     analysis_output_file_address = "Indications diseases combination analysis.txt"
     database_combinations = get_combinations(file_address)
-    databases_to_inspect=[2,3,4,5,6,7,8,9,10,12,13,14,15,16,18,19,20,21]
+    #Databases with small count of diseases mapped(1,11,17,22) and RepoDB(20) are ignored
+    databases_to_inspect=[2,3,4,5,6,7,8,9,10,12,13,14,15,16,18,19,21]
 
 
     for k in range(4, 11):

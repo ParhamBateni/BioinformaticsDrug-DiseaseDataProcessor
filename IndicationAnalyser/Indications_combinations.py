@@ -2,12 +2,12 @@ import pandas as pd
 
 global disease_best_combinations, drug_best_combinations
 global indication_diseases_df, indication_drugs_df
-disease_best_combinations = [(3, 7, 20, 21), (7, 9, 18, 20, 21), (3, 7, 9, 18, 20, 21), (3, 5, 7, 9, 18, 20, 21),
-                             (3, 5, 7, 8, 9, 18, 20, 21), (3, 5, 7, 8, 9, 15, 18, 20, 21),
-                             (3, 5, 7, 8, 9, 15, 18, 19, 20, 21)]
-drug_best_combinations = [(3, 4, 12, 15), (3, 4, 10, 12, 15), (3, 4, 5, 10, 12, 15), (3, 4, 5, 6, 10, 12, 15),
-                          (3, 4, 5, 6, 9, 10, 12, 15), (1, 3, 4, 5, 6, 9, 10, 12, 15),
-                          (1, 3, 4, 5, 6, 9, 10, 11, 12, 15)]
+disease_best_combinations = [(7, 9, 18, 21), (3, 7, 9, 18, 21), (3, 5, 7, 9, 18, 21), (3, 5, 7, 8, 9, 18, 21),
+                             (3, 5, 7, 8, 9, 15, 18, 21),(3, 5, 7, 8, 9, 15, 18, 19, 21),
+                             (3, 5, 6, 7, 8, 9, 15, 18, 19, 21)]
+drug_best_combinations = [(3, 4, 10, 12), (3, 4, 5, 10, 12), (3, 4, 5, 6, 10, 12), (3, 4, 5, 6, 9, 10, 12),
+                          (1, 3, 4, 5, 6, 9, 10, 12), (1, 3, 4, 5, 6, 9, 10, 11, 12),
+                          (1, 3, 4, 5, 6, 8, 9, 10, 11, 12)]
 
 
 def get_count_indications_in_best_combinations(disease_combination: set, drug_combination: set,i,j):
@@ -31,7 +31,7 @@ def get_count_indications_in_best_combinations(disease_combination: set, drug_co
     best_indications['DiseaseID']=disease_IDs
     best_indications['DrugCID']=drug_CIDs
     best_indications.to_csv(f"Best Drug-Disease Indications/Disease{j}-Drug{i} indications.tsv",sep='\t',index=0)
-    return count
+    return len(set(drug_CIDs)),len(set(disease_IDs)),count
 
 
 if __name__ == '__main__':
@@ -44,8 +44,9 @@ if __name__ == '__main__':
     for i in range(4, 11):
         col_counts = []
         for j in range(4, 11):
-            col_counts.append(get_count_indications_in_best_combinations(set(disease_best_combinations[j - 4]),
-                                                                         set(drug_best_combinations[i - 4]),i,j))
+            count_unique_drugs,count_unique_diseases,count=get_count_indications_in_best_combinations(set(disease_best_combinations[j - 4]),
+                                                                         set(drug_best_combinations[i - 4]),i,j)
+            col_counts.append(f"{count} ({count_unique_diseases},{count_unique_drugs})")
         df[f"K={i}"] = col_counts
     df.index = ["K=4", "K=5", "K=6", "K=7", "K=8", "K=9", "K=10"]
     df.to_csv("Indications_combinations_results.tsv", sep="\t")
