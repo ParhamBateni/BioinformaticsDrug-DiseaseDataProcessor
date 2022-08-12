@@ -1,0 +1,1555 @@
+DiseaseID	DiseaseName
+ICD-11:1A00	Vibrio cholerae infection
+ICD-11:1A00-1A09	Methicillin-resistant staphylococci infection
+ICD-11:1A00-1C4Z	Bacterial infection
+ICD-11:1A00-CA43	Postoperative inflammation
+ICD-11:1A00-CA43.1	Inflammation
+ICD-11:1A02	Bacillary dysentery
+ICD-11:1A03	Escherichia coli infection
+ICD-11:1A04	C. difficile infection
+ICD-11:1A07	Typhoid fever
+ICD-11:1A08	Salmonella infection
+ICD-11:1A09	Salmonella infection
+ICD-11:1A11	Botulism
+ICD-11:1A20	Adenovirus infection
+ICD-11:1A23	Norovirus infection
+ICD-11:1A24-1D9Z	Virus infection
+ICD-11:1A2Z	HIV-associated diarrhoea
+ICD-11:1A32	Cryptosporidium infection
+ICD-11:1A33	Isosporiasis
+ICD-11:1A36	Intestinal amebiasis
+ICD-11:1A36.0Z	Chronic diarrhoea
+ICD-11:1A36.Z	Entamoeba histolytica infection
+ICD-11:1A40	Intra-abdominal infection
+ICD-11:1A40.0	Lleum inflammation
+ICD-11:1A40.Z	Colitis
+ICD-11:1A61-1A6Z	Syphilis
+ICD-11:1A6Z	Syphilis infection
+ICD-11:1A70-1A7Z	Gonococcal infection
+ICD-11:1A70.0Y	Gonococcal urethritis
+ICD-11:1A73	Bacteremia
+ICD-11:1A7Z	Neisseria gonorrhoeae infection
+ICD-11:1A81	Chlamydia infection
+ICD-11:1A94	Genital herpes
+ICD-11:1A95	External genital and perianal wart
+ICD-11:1A9Y	Human papillomavirus infection
+ICD-11:1A9Y-1A9Z	Sexually transmitted infection
+ICD-11:1A9Z	Sexually transmitted infection
+ICD-11:1B10-1B12	Tuberculosis
+ICD-11:1B10-1B14	Tuberculosis
+ICD-11:1B10-1B1Z	Tuberculosis
+ICD-11:1B10-1B21	Mycobacterium infection
+ICD-11:1B10-1F85	Pulmonary disease
+ICD-11:1B10.Z	Pulmonary and extrapulmonary tuberculosis
+ICD-11:1B40	Rheumatic fever
+ICD-11:1B40-1B42	Rheumatic fever
+ICD-11:1B52	Toxic shock syndrome
+ICD-11:1B53	Streptococcus infection
+ICD-11:1B5Y	Staphylococcus infection
+ICD-11:1B71	Necrotizing soft tissue infection
+ICD-11:1B72	Impetigo
+ICD-11:1B74-1F40	Gram-positive bacterial infection
+ICD-11:1B74-1G40	Gram-positive bacterial infection
+ICD-11:1B91	Leptospira infection
+ICD-11:1B92	Pseudomonas infection
+ICD-11:1B93	Yersinia infection
+ICD-11:1B94	Tularemia
+ICD-11:1B97	Anthrax
+ICD-11:1C12	Pertussis
+ICD-11:1C12.0	Bordetella pertussis infection
+ICD-11:1C12.Z	Pertussis
+ICD-11:1C13	Tetanus
+ICD-11:1C17	Diphtheria
+ICD-11:1C19	Legionella infection
+ICD-11:1C1C	Meningococcal infection
+ICD-11:1C1C.0	Neisseria meningitis infection
+ICD-11:1C1G	Lyme disease
+ICD-11:1C33	Coxiella infection
+ICD-11:1C41	Acute bacterial skin infection
+ICD-11:1C4Y	Klebsiella infection
+ICD-11:1C60-1C62	Human immunodeficiency virus disease
+ICD-11:1C62	Human immunodeficiency virus infection
+ICD-11:1C62.1	HIV-associated lipodystrophy
+ICD-11:1C62.3	Acquired immune deficiency syndrome
+ICD-11:1C80	Respiratory syncytial virus infection
+ICD-11:1C80-1D48	Propagation of disease by mosquito
+ICD-11:1C81	Poliomyelitis
+ICD-11:1C82	Rabies
+ICD-11:1C83-1C84	Encephalitis virus infection
+ICD-11:1C85	Japanese encephalitis virus infection
+ICD-11:1C8E.Y	Paramyxovirus infection
+ICD-11:1C8Y	Poliovirus infection
+ICD-11:1D01	Meningitis
+ICD-11:1D01.0Y	MRSA infection
+ICD-11:1D01.10	Adolescent meningitis
+ICD-11:1D0Y	Nervous system inflammation
+ICD-11:1D0Y-1G2Z	Parasitic infection
+ICD-11:1D20-1D2Z	Dengue
+ICD-11:1D2Z	Dengue fever
+ICD-11:1D40	Chikungunya virus infection
+ICD-11:1D44	Rift valley fever
+ICD-11:1D46	West nile virus infection
+ICD-11:1D47	Yellow fever virus infection
+ICD-11:1D48	Zika virus infection
+ICD-11:1D51-1F53	Trypanosomiasis
+ICD-11:1D60	Filovirus disease
+ICD-11:1D60.0	Ebola virus infection
+ICD-11:1D60.1	Marburg virus infection
+ICD-11:1D61	Hemorrhagic fever
+ICD-11:1D61.2	Lassa fever
+ICD-11:1D62	Hantavirus infection
+ICD-11:1D63	Henipavirus Encephalitis
+ICD-11:1D64	Middle East Respiratory Syndrome (MERS)
+ICD-11:1D65	Severe acute respiratory syndrome (SARS)
+ICD-11:1D6Y	Coronavirus Disease 2019 (COVID-19)
+ICD-11:1D80	Mumps virus infection
+ICD-11:1D82	Cytomegalovirus infection
+ICD-11:1D84.0	Acute adenoviral conjunctivitis
+ICD-11:1D91	Enterovirus infection
+ICD-11:1D92	Coronavirus infection
+ICD-11:1D93	Parvovirus infection
+ICD-11:1D9Y	Parainfluenza virus infection
+ICD-11:1E30	Influenza A virus infection
+ICD-11:1E30-1E32	Influenza virus infection
+ICD-11:1E50	Acute viral hepatitis
+ICD-11:1E50-1E51	Hepatitis virus infection
+ICD-11:1E50.0	Hepatitis A virus infection
+ICD-11:1E50.4	Hepatitis E virus infection
+ICD-11:1E51	Hepatovirus infection
+ICD-11:1E51.0	Hepatitis B virus infection
+ICD-11:1E51.0Z	Chronic HBV infection
+ICD-11:1E51.1	Hepatitis C virus infection
+ICD-11:1E51.2	Hepatitis D virus infection
+ICD-11:1E70	Smallpox
+ICD-11:1E71	Monkeypox virus infection
+ICD-11:1E76	Molluscum contagiosum infection
+ICD-11:1E80	Common wart
+ICD-11:1E80.1	Plantar wart
+ICD-11:1E91	Varicella zoster virus infection
+ICD-11:1E91.5	Postherpetic neuralgia
+ICD-11:1F00	Herpes simplex virus infection
+ICD-11:1F00.01	Recurrent herpes labialis
+ICD-11:1F00.02	Oral herpes
+ICD-11:1F00.1	Ocular infection
+ICD-11:1F00.10	Herpetic keratitis
+ICD-11:1F00.1Z	Ocular disease
+ICD-11:1F02	Rubella prophylaxis
+ICD-11:1F03	Measles
+ICD-11:1F05.0	Hand, foot and mouth disease
+ICD-11:1F20	Aspergillosis
+ICD-11:1F20.0	Invasive aspergillosis
+ICD-11:1F22	Blastomycosis
+ICD-11:1F23	Candidiasis
+ICD-11:1F23.0	Oral candidiasis
+ICD-11:1F23.10	Vulvovaginal Candidiasis
+ICD-11:1F23.13	Paronychia
+ICD-11:1F23.14	Cutaneous candidiasis
+ICD-11:1F23.3Y	Candidemia
+ICD-11:1F28	Dermatologic infection
+ICD-11:1F28-1G07	Itching
+ICD-11:1F28-1G0Z	Skin infection
+ICD-11:1F28.2	Dermatophytosis
+ICD-11:1F28.3	Jock itch
+ICD-11:1F28.Y	Tinea corporis
+ICD-11:1F29-1F2F	Fungal infection
+ICD-11:1F2A.Z	Histoplasma infection
+ICD-11:1F2D	Non-dermatophyte superficial dermatomycose
+ICD-11:1F2D.0	Tinea versicolor
+ICD-11:1F2Z	Mycoses
+ICD-11:1F40	Infection of P. falciparum
+ICD-11:1F40-1F45	Malaria
+ICD-11:1F41	Plasmodium vivax malaria
+ICD-11:1F41-1G40	Gram-negative bacterial infection
+ICD-11:1F51	African trypanosomiasis
+ICD-11:1F54	Leishmaniasis
+ICD-11:1F54.0	Visceral leishmaniasis
+ICD-11:1F54.2	Leishmania braziliensis infection
+ICD-11:1F57	Toxoplasmosis
+ICD-11:1F60-1F69	Nematode infection
+ICD-11:1F61-1G2Z	Kinetoplastids
+ICD-11:1F62	Ascariasis
+ICD-11:1F65	Enterobiasis
+ICD-11:1F66	Filarial disease
+ICD-11:1F66.3	Lymphatic filariasis
+ICD-11:1F68	Hookworm infection
+ICD-11:1F6A	Onchocerciasis
+ICD-11:1F6A.0	River blindness
+ICD-11:1F6B	Intestinal strongyloidiasis due to nematode parasite
+ICD-11:1F6G	Trichuris trichiura infection
+ICD-11:1F6Y	Mature gastrointestinal nematode infection
+ICD-11:1F70-1F76	Cestodes infection
+ICD-11:1F70-1F86	Flatworm infection
+ICD-11:1F86	Schistosomiasis
+ICD-11:1F8Y	Trematode infection
+ICD-11:1F90	Parasitic worm infestation
+ICD-11:1F90.0	Helminth infection
+ICD-11:1F90.Z	Worm infection
+ICD-11:1G00	Pediculosis
+ICD-11:1G00.0	Head and body lice
+ICD-11:1G00.Z	Infestations of lice and scabies
+ICD-11:1G04	Sarcoptes scabiei infection
+ICD-11:1G40	Bacillus anthracis infection
+ICD-11:1G40-1G41	Sepsis
+ICD-11:1G41	Endotoxic shock
+ICD-11:1H0Z	Serious infection
+ICD-11:2A00	Brain cancer
+ICD-11:2A00-2F9Z	Solid tumour/cancer
+ICD-11:2A00.0	Glioblastoma multiforme
+ICD-11:2A00.00	Recurrent glioblastoma
+ICD-11:2A00.0Y	Astrocytoma
+ICD-11:2A00.10	Medulloblastoma
+ICD-11:2A00.11	Brain and central nervous system tumour
+ICD-11:2A00.1Y	Malignant rhabdoid tumour
+ICD-11:2A00.20	Pineoblastoma
+ICD-11:2A01	Meningioma tumour
+ICD-11:2A01.0	Leptomeningeal sarcoma
+ICD-11:2A02	Spinal cord/cranial nerve neoplasm
+ICD-11:2A02.12	Choroid plexus carcinoma
+ICD-11:2A20	Myeloproliferative neoplasm
+ICD-11:2A20.0	Chronic myelogenous leukaemia
+ICD-11:2A20.2	Myelofibrosis
+ICD-11:2A20.3	Hypereosinophilic syndrome
+ICD-11:2A20.4	Polycythemia vera
+ICD-11:2A20.5	Small round cell desmoplastic tumour
+ICD-11:2A21	Mastocytosis
+ICD-11:2A21.0	Systemic mastocytosis
+ICD-11:2A21.00	Mast cell leukaemia
+ICD-11:2A22	Myeloproliferative syndrome
+ICD-11:2A37	Myelodysplastic syndrome
+ICD-11:2A40	Chronic myelomonocytic leukaemia
+ICD-11:2A41	Acute myelogenous leukaemia
+ICD-11:2A44	Myelodysplastic malignancy
+ICD-11:2A60	Acute myeloid leukaemia
+ICD-11:2A60-2B33	leukaemia
+ICD-11:2A60-2C35	Sarcoma
+ICD-11:2A60.0	Acute promyelocytic leukaemia
+ICD-11:2A60.32	Mediastinal large B-cell lymphoma
+ICD-11:2A60.5	Blastic plasmacytoid dendritic cell neoplasm
+ICD-11:2A70	Precursor B-lymphoblastic neoplasm
+ICD-11:2A80	Follicular lymphoma
+ICD-11:2A80-2A86	Lymphoma
+ICD-11:2A80.Z	Large cell lymphoma
+ICD-11:2A81	Diffuse large B-cell lymphoma
+ICD-11:2A81.Y	Idiopathic multicentric Castlemans disease
+ICD-11:2A82	Malignant lymphatic
+ICD-11:2A82.0	Chronic lymphocytic leukaemia
+ICD-11:2A82.00	B-cell chronic lymphocytic leukaemia
+ICD-11:2A82.1	Prolymphocytic leukaemia
+ICD-11:2A82.2	Hairy cell leukaemia
+ICD-11:2A83	Multiple myeloma
+ICD-11:2A83.1	Plasma cell myeloma
+ICD-11:2A85	Acute lymphoblastic leukaemia
+ICD-11:2A85.0	Marginal zone lymphoma
+ICD-11:2A85.4	Waldenstrom macroglobulinemia
+ICD-11:2A85.5	Mantle cell lymphoma
+ICD-11:2A85.6	Burkitt cell leukaemia
+ICD-11:2A86	B-cell lymphoma
+ICD-11:2A90	T-cell leukaemia
+ICD-11:2A90.1	Large granular lymphocytic leukemia
+ICD-11:2A90.5	T-cell acute lymphoblastic leukaemia
+ICD-11:2A90.9	Angioimmunoblastic T-cell Lymphoma
+ICD-11:2A90.A	Anaplastic large cell lymphoma
+ICD-11:2A90.C	Peripheral T-cell lymphoma
+ICD-11:2B01	Cutaneous T-cell lymphoma
+ICD-11:2B02	Sezary syndrome
+ICD-11:2B30	Hodgkin lymphoma
+ICD-11:2B32	Post-transplant lymphoproliferative disorder
+ICD-11:2B33	Malignant haematopoietic neoplasm
+ICD-11:2B33.1	Myeloid leukaemia
+ICD-11:2B33.3	Acute lymphocytic leukaemia
+ICD-11:2B33.4	T lymphoblastic leukaemia
+ICD-11:2B33.5	Non-hodgkin lymphoma
+ICD-11:2B33.Y	Haematological malignancy
+ICD-11:2B50	Chondrosarcoma
+ICD-11:2B51	Osteosarcoma
+ICD-11:2B52	Ewing sarcoma
+ICD-11:2B54	Pleomorphic sarcoma
+ICD-11:2B55	Rhabdomyosarcoma
+ICD-11:2B56	Angiosarcoma
+ICD-11:2B56.1	Hemangiosarcoma
+ICD-11:2B57	Soft tissue sarcoma
+ICD-11:2B58	Leiomyosarcoma
+ICD-11:2B59	Liposarcoma
+ICD-11:2B5A	Synovial sarcoma
+ICD-11:2B5B	Gastrointestinal stromal tumour
+ICD-11:2B5D	Epithelial ovarian cancer
+ICD-11:2B5D-2B5Y	Malignant mesenchymal neoplasm
+ICD-11:2B5E	Peripheral nervous system tumour
+ICD-11:2B5Y	Malignant perivascular epithelioid cell tumour
+ICD-11:2B5Z	Bone cancer
+ICD-11:2B60-2D01	Squamous cell carcinoma
+ICD-11:2B6A	Oropharyngeal cancer
+ICD-11:2B6A.0	Oropharyngeal squamous cell carcinoma
+ICD-11:2B6B	Nasopharyngeal carcinoma
+ICD-11:2B6D	Hypopharyngeal cancer
+ICD-11:2B6D.0	Hypopharyngeal squamous cell carcinoma
+ICD-11:2B6E	Oral cancer
+ICD-11:2B6E.0	Oral cavity squamous cell carcinoma
+ICD-11:2B70	Esophageal cancer
+ICD-11:2B71	Esophagogastric junction neoplasm
+ICD-11:2B71.Z	Oesophagogastric junction cancer
+ICD-11:2B72	Gastric adenocarcinoma
+ICD-11:2B72.1	Neuroendocrine cancer
+ICD-11:2B90	Colon cancer
+ICD-11:2B90.Y	Familial adenomatous polyposis
+ICD-11:2B90.Z	Colon cancer
+ICD-11:2B91	Metastatic colorectal cancer
+ICD-11:2B91.Z	Colorectal cancer
+ICD-11:2B92	Rectal adenocarcinoma
+ICD-11:2C00	Anal cancer
+ICD-11:2C00.3	Squamous cell anal carcinoma
+ICD-11:2C0Z	Intestine cancer
+ICD-11:2C10	Pancreatic cancer
+ICD-11:2C10-2F32	Malignant solid tumour
+ICD-11:2C10.0	Pancreatic ductal carcinoma
+ICD-11:2C10.1	Insulinoma
+ICD-11:2C11	Gastrointestinal cancer
+ICD-11:2C12	Liver cancer
+ICD-11:2C12.02	Hepatocellular carcinoma
+ICD-11:2C12.10	Intrahepatic cholangiocarcinoma
+ICD-11:2C14-2C17	Metastatic biliary tract neoplasms
+ICD-11:2C17	Biliary tract cancer
+ICD-11:2C25	Non-small cell lung cancer
+ICD-11:2C25.0	Lung cancer
+ICD-11:2C25.2	Lung squamous cell carcinoma
+ICD-11:2C25.Y	Non-small-cell lung cancer
+ICD-11:2C26	Pleural mesothelioma
+ICD-11:2C26.0	Malignant pleural mesothelioma
+ICD-11:2C27	Thymic cancer
+ICD-11:2C27.2	Malignant thymoma
+ICD-11:2C29.Z	Aerodigestive tract cancer
+ICD-11:2C30	Melanoma
+ICD-11:2C30-2C37	Skin cancer
+ICD-11:2C32	Basal cell carcinoma
+ICD-11:2C34	Merkel cell carcinoma
+ICD-11:2C50-2F93	Pten-deficient tumour
+ICD-11:2C51	Peritoneal cancer
+ICD-11:2C51-2F10	Mesothelin Positive tumour
+ICD-11:2C51.2	Mesothelioma
+ICD-11:2C51.Z	Peritoneal cavity cancer
+ICD-11:2C60	Advanced/metastatic breast cancer
+ICD-11:2C60-2C65	Breast cancer
+ICD-11:2C60-2C6Y	Breast cancer
+ICD-11:2C60-2C6Z	Mammary tumour
+ICD-11:2C62	Inflammatory breast cancer
+ICD-11:2C6Y	Metastatic breast cancer
+ICD-11:2C72	Uterine ligament/parametrium/uterine adnexa neoplasm
+ICD-11:2C72.1	Uterine serous carcinoma
+ICD-11:2C73	Ovarian cancer
+ICD-11:2C74	Fallopian tube cancer
+ICD-11:2C75.0	Choriocarcinoma
+ICD-11:2C76	Endometrial cancer
+ICD-11:2C76.Z	Malignant uterine tumour
+ICD-11:2C77	Cervical cancer
+ICD-11:2C77.0	Cervical cancer
+ICD-11:2C80	Testicular cancer
+ICD-11:2C80.2	Testicular germ cell tumour
+ICD-11:2C81	Penile squamous cancer
+ICD-11:2C82	Invasive prostate cancer
+ICD-11:2C82.0	Prostate cancer
+ICD-11:2C8Z	Genitourinary tract cancer
+ICD-11:2C90	Renal cell carcinoma
+ICD-11:2C90.0	Kidney cancer
+ICD-11:2C92	Ureteral cancer
+ICD-11:2C92.0	Urothelial carcinoma
+ICD-11:2C93	Urethral cancer
+ICD-11:2C94	Bladder cancer
+ICD-11:2C95-2C9Z	Urogenital cancer
+ICD-11:2D00-2D07	Ocular cancer
+ICD-11:2D02	Retina cancer
+ICD-11:2D02.2	Retinoblastoma
+ICD-11:2D10	Thyroid cancer
+ICD-11:2D11	Malignant adrenal gland cancer
+ICD-11:2D11.2	Neuroblastoma
+ICD-11:2D11.Z	Adrenocortical carcinoma
+ICD-11:2D40	Adenocarcinoma
+ICD-11:2D42	Head and neck cancer
+ICD-11:2D50	Bone metastases
+ICD-11:2D50-2E09	Metastatic malignant neoplasm
+ICD-11:2D50-2E2Z	Metastatic cancer
+ICD-11:2D51	Meningioma metastases
+ICD-11:2D60	Metastatic epithelial tumour
+ICD-11:2D60.0	Squamous head and neck cell carcinom
+ICD-11:2D70	Metastatic lung cancer
+ICD-11:2D72	Malignant pleural effusion
+ICD-11:2D80	Liver metastasis
+ICD-11:2D8Y	Metastatic gastric or gastroesophageal junction cancer
+ICD-11:2D91	Peritoneal metastasis
+ICD-11:2E2Z	Metastatic melanoma
+ICD-11:2E60	Oral cavity/oesophagus/stomach in situ carcinoma
+ICD-11:2E60.1	Esophageal squamous cell carcinoma
+ICD-11:2E65	Breast in situ carcinoma
+ICD-11:2E65.2	Ductal carcinoma
+ICD-11:2E66	Cervical intraepithelial neoplasia
+ICD-11:2E66.1	Cervical Intraepithelial neoplasia
+ICD-11:2E67	Genital organ in situ carcinoma
+ICD-11:2E67.10	Vulvar intraepithelial neoplasia
+ICD-11:2E81-2F2Y	Hemangioma
+ICD-11:2E86	Uterine fibroid
+ICD-11:2E86.0	Uterine fibroids
+ICD-11:2E92	Digestive organ benign neoplasm
+ICD-11:2E92.2	Paraganglioma
+ICD-11:2E92.5	Anal intraepithelial neoplasia
+ICD-11:2E92.7	Biliary cancer
+ICD-11:2F10	Epithelioid mesothelioma
+ICD-11:2F33-2F76	Gestational trophoblastic neoplasia
+ICD-11:2F37	Endocrine gland neoplasm
+ICD-11:2F37.0	Pituitary adenoma
+ICD-11:2F37.Y	Adrenal adenoma
+ICD-11:2F7B	Tenosynovial giant cell tumour
+ICD-11:2F7C	Desmoid tumour
+ICD-11:3A00	Iron-deficiency anemia
+ICD-11:3A00-3A9Z	Anemia
+ICD-11:3A02	Folate deficiency anaemia
+ICD-11:3A02.Y	Folate-deficiency anemia
+ICD-11:3A10	Hereditary haemolytic anaemia
+ICD-11:3A10.3	Hereditary haemolytic anemia
+ICD-11:3A10.Y	Atypical hemolytic uremic syndrome
+ICD-11:3A20-3A2Z	Haemolytic anemia
+ICD-11:3A20.1	Cold type autoimmune haemolytic anemia
+ICD-11:3A21	Paroxysmal nocturnal haemoglobinuria
+ICD-11:3A21.0	Paroxysmal nocturnal haemoglobinuria
+ICD-11:3A21.2	Haemolytic uraemic syndrome
+ICD-11:3A4Z	Acquired haemolytic anemia
+ICD-11:3A50	Thalassemia
+ICD-11:3A50.2	Beta thalassemia
+ICD-11:3A51	Sickle-cell disorder
+ICD-11:3A70	Aplastic anemia
+ICD-11:3A70.0	Fanconi's anemia
+ICD-11:3A70.Z	Pancytopenia
+ICD-11:3A90	Anaemia
+ICD-11:3A93	Acquired methemoglobinemia
+ICD-11:3B10	Factor VIII deficiency
+ICD-11:3B10.0	Hemophilia
+ICD-11:3B11	Factor IX deficiency
+ICD-11:3B11.0	Haemophilia B
+ICD-11:3B12	Von willebrand disease
+ICD-11:3B14	Factor VII deficiency
+ICD-11:3B14.Z	Thrombin deficiency
+ICD-11:3B20	Disseminated intravascular coagulation
+ICD-11:3B50.1	Congenital plasminogen activator inhibitor type 1 deficiency
+ICD-11:3B60	Vascular purpura
+ICD-11:3B62	Platelet aggregation disorder
+ICD-11:3B62.0	Wiskott-Aldrich syndrome
+ICD-11:3B63	Thrombocythemia
+ICD-11:3B63.1Z	Essential thrombocythemia
+ICD-11:3B64	Thrombocytopenia
+ICD-11:3B64.10	Idiopathic thrombocytopenic purpura
+ICD-11:3B64.13	Immune thrombocytopenic purpura
+ICD-11:3B64.14	Thrombotic thrombocytopenic purpura
+ICD-11:3B65	Thrombotic microangiopathy
+ICD-11:3C0Z	Hematologic disease
+ICD-11:4A00	Innate/adaptive immunodeficiency
+ICD-11:4A00-4A85	Immunodeficiency
+ICD-11:4A00.0Y	Chronic granulomatous disease
+ICD-11:4A00.14	Hereditary angioedema
+ICD-11:4A00.15	Angioedema
+ICD-11:4A00.Y	Whim syndrome
+ICD-11:4A01	Adaptive immunity immunodeficiency
+ICD-11:4A01-4B41	Immune System disease
+ICD-11:4A01.1	Adenosine deaminase defciency
+ICD-11:4A01.10	Severe combined immunodeficiency
+ICD-11:4A01.1Y	T-cell mediated immune dysfunction
+ICD-11:4A01.2	Immune dysregulation
+ICD-11:4A01.22	XIAP deficiency
+ICD-11:4A01.23	Primary haemophagocytic lymphohistiocytosis
+ICD-11:4A01.31	Ataxia-telangiectasia
+ICD-11:4A40	Lupus
+ICD-11:4A40-4A45	Autoimmune disease
+ICD-11:4A40.0	Systemic lupus erythematosus
+ICD-11:4A40.0Y	Lupus nephritis
+ICD-11:4A41	Idiopathic inflammatory myopathy
+ICD-11:4A41.2	Hereditary inclusion body myositis
+ICD-11:4A42	Systemic sclerosis
+ICD-11:4A42.1	Diffuse systemic sclerosis
+ICD-11:4A43	Sjogren syndrome
+ICD-11:4A43.0	IgG4 related disease
+ICD-11:4A43.20	Sjogren syndrome
+ICD-11:4A43.3	Mixed connective tissue disease
+ICD-11:4A44	Vasculitis
+ICD-11:4A44.2	Giant cell arteritis
+ICD-11:4A44.A	Anca-associated vasculitis
+ICD-11:4A44.A2	Eosinophilic granulomatosis with polyangiitis
+ICD-11:4A45	Phospholipid syndrome
+ICD-11:4A45.Z	Hughes syndrome
+ICD-11:4A60	Monogenic autoinflammatory syndrome
+ICD-11:4A60.1	Cryopyrin-associated periodic syndromes
+ICD-11:4A62	Behcet disease
+ICD-11:4A80	Respiratory allergy
+ICD-11:4A80-4A85	Allergy
+ICD-11:4A80-4A8Z	Allergic/hypersensitivity disorder
+ICD-11:4A81	Ocular allergy
+ICD-11:4A82	Allergic skin disorder
+ICD-11:4A83	Peanut hypersensitivity
+ICD-11:4A85.2	Food allergy
+ICD-11:4A8Z	Ragweed hypersensitivity allergic disease
+ICD-11:4B00	Neutropenia
+ICD-11:4B00.0	Constitutional neutropenia
+ICD-11:4B00.0Z	Leukopenia
+ICD-11:4B07	Grass pollen hypersensitivity
+ICD-11:4B20	Sarcoidosis
+ICD-11:4B20.5	Sarcoidosis
+ICD-11:4B24	Graft-versus-host disease
+ICD-11:4B24.0	Delayed graft function
+ICD-11:4B2Y	Castleman's disease
+ICD-11:5A00	Hypothyroidism
+ICD-11:5A00-5A06	Thyroid disease
+ICD-11:5A01.1	Euthyroid goiter
+ICD-11:5A02	Hyperthyroidism
+ICD-11:5A02.0	Graves disease
+ICD-11:5A10	Type-1 diabetes
+ICD-11:5A10-5A11	Type-1/2 diabetes
+ICD-11:5A11	Non-insulin dependent diabetes
+ICD-11:5A2Y	Diabetic complication
+ICD-11:5A41	Hypoglycemia
+ICD-11:5A44	Insulin-resistant disorder
+ICD-11:5A4Y	Hyperinsulinemia
+ICD-11:5A50	Hypoparathyroidism
+ICD-11:5A50-5A5Z	Parathyroid disease
+ICD-11:5A51	Hyperparathyroidism
+ICD-11:5A51.1	Secondary hyperparathyroidism
+ICD-11:5A60-5A61	Pituitary gland disorder
+ICD-11:5A60.0	Acromegaly
+ICD-11:5A60.1	Hyperprolactinaemia
+ICD-11:5A60.3	Central precocious puberty
+ICD-11:5A61	Fertility problem
+ICD-11:5A61.0	Hypogonadism
+ICD-11:5A61.1	Hormone deficiency
+ICD-11:5A61.2	Hypothalamic hypogonadism
+ICD-11:5A61.3	Growth hormone deficiency
+ICD-11:5A61.5	Diabetes insipidus
+ICD-11:5A70	Cushing disease
+ICD-11:5A71	Adrenogenital disorder
+ICD-11:5A71.01	Congenital adrenal hyperplasia
+ICD-11:5A72	Hyperaldosteronism
+ICD-11:5A74	Adrenocortical insufficiency
+ICD-11:5A74.0	Addison disease
+ICD-11:5A75	Pheochromocytoma
+ICD-11:5A80	Ovulation dysfunction
+ICD-11:5A80.1	Polycystic ovarian syndrome
+ICD-11:5A81	Male hormonal deficiency
+ICD-11:5A81.1	Androgen deficiency
+ICD-11:5B0Z	Salivary gland dysfunction
+ICD-11:5B10	Carcinoid syndrome
+ICD-11:5B11	Dwarfism
+ICD-11:5B3Z	Endocrine disease
+ICD-11:5B50-5B71	Malnutrition
+ICD-11:5B55-5B5F	Vitamin deficiency
+ICD-11:5B55-5B71	Vitamin deficiency
+ICD-11:5B55.Y	Xerophthalmia
+ICD-11:5B56	Vitamin C deficiency
+ICD-11:5B57	Vitamin D deficiency
+ICD-11:5B58	Vitamin E deficiency
+ICD-11:5B59	Vitamin K deficiency
+ICD-11:5B5A	Thiamine deficiency
+ICD-11:5B5A.1	Wernicke-Korsakoff Syndrome
+ICD-11:5B5D	Vitamin B6 deficiency
+ICD-11:5B5F	Vitamin B12 deficiency
+ICD-11:5B5K	Dietary shortage
+ICD-11:5B5K.0	Iron deficiency
+ICD-11:5B5K.1	Mild hypocalcemia
+ICD-11:5B5K.2	Zinc deficiency
+ICD-11:5B5K.A	Molybdenum cofactor deficiency
+ICD-11:5B80-5B81	Obesity
+ICD-11:5B81	Obesity
+ICD-11:5B91	Mineral excesses
+ICD-11:5B91.0	Hypercalcaemia
+ICD-11:5C50	Inborn homocystinuria
+ICD-11:5C50-5C59	Inborn error of metabolism
+ICD-11:5C50-5C8Z	Anabolic metabolism
+ICD-11:5C50-5D2Z	Metabolic disorder
+ICD-11:5C50.0	Phenylketonuria
+ICD-11:5C50.11	Hereditary tyrosinemia type 1
+ICD-11:5C50.A	Urea cycle disorder
+ICD-11:5C50.A2	Arginase 1 deficiency
+ICD-11:5C50.A3	Argininosuccinate synthase deficiency
+ICD-11:5C50.AY	Ornithine transcarbamylase deficiency
+ICD-11:5C50.B	Homocystinuria
+ICD-11:5C50.D0	Maple-syrup-urine disease
+ICD-11:5C50.E0	Methylmalonic acidemia
+ICD-11:5C50.E1	Neurologic conditions associated with aminoacylase 1 deficiency
+ICD-11:5C51	Inborn carbohydrate metabolism error
+ICD-11:5C51-5C57	Enzyme deficiency
+ICD-11:5C51.2	Hyperoxaluria
+ICD-11:5C51.3	Pompe disease
+ICD-11:5C51.Z	Carbohydrate metabolism disorder
+ICD-11:5C52	Inborn lipid metabolism error
+ICD-11:5C52-5C59	Synthesis disorder
+ICD-11:5C52.03	Sjogren-Larsson syndrome
+ICD-11:5C52.Z	Lipid metabolism disorder
+ICD-11:5C53	Inborn energy metabolism error
+ICD-11:5C53.00	Pyruvate kinase deficiency
+ICD-11:5C53.02	Pyruvate dehydrogenase complex deficiency
+ICD-11:5C53.2	Hypoalbuminemia
+ICD-11:5C53.24	Leigh syndrome
+ICD-11:5C53.4	Syndrome X
+ICD-11:5C53.Y	Mitochondrial disease
+ICD-11:5C55	Inborn purine/pyrimidine/nucleotide metabolism error
+ICD-11:5C55.1	Thymidine kinase 2 deficiency
+ICD-11:5C55.2	Aicardi-Goutieres syndrome
+ICD-11:5C55.Y	Hyperuricaemia
+ICD-11:5C56	Lysosomal disease
+ICD-11:5C56.0	Sphingolipidosis
+ICD-11:5C56.00	GM1 gangliosidosis
+ICD-11:5C56.01	Fabry disease
+ICD-11:5C56.02	Metachromatic leukodystrophy
+ICD-11:5C56.0Y	Niemann-pick disease
+ICD-11:5C56.1	Neuronal ceroid lipofuscinosis
+ICD-11:5C56.21	Alpha-mannosidosis
+ICD-11:5C56.3	Mucopolysaccharidosis
+ICD-11:5C56.31	Hunter syndrome
+ICD-11:5C56.32	Morquio syndrome
+ICD-11:5C56.33	Maroteaux-lamy syndrome
+ICD-11:5C56.3Y	Sanfilippo syndrome
+ICD-11:5C56.Z	Lysosomal storage disease
+ICD-11:5C57	Peroxisomal disorder
+ICD-11:5C58	Hyperbilirubinemia
+ICD-11:5C58.00	Crigler-Najjar syndrome
+ICD-11:5C58.03	Progressive familial intrahepatic cholestasis
+ICD-11:5C58.1	Porphyria
+ICD-11:5C58.11	Acute intermittent hepatic porphyria
+ICD-11:5C58.12	Erythropoietic porphyrias
+ICD-11:5C59	Neurotransmitter metabolic error
+ICD-11:5C59.00	Aromatic L-amino acid decarboxylase deficiency
+ICD-11:5C5A	Alpha-1 antitrypsin deficiency
+ICD-11:5C60	Nephropathic cystinosis
+ICD-11:5C60.2	Cystinuria
+ICD-11:5C61.5	Blood brain barrier
+ICD-11:5C61.6	Lactose intolerance
+ICD-11:5C63	Vitamin/non-protein cofactor absorption/transport disorder
+ICD-11:5C63.22	X-linked hypophosphataemia
+ICD-11:5C64	Mineral-electrolyte metabolism disorder
+ICD-11:5C64.0	Menkes disease
+ICD-11:5C64.00	Wilson disease
+ICD-11:5C64.10	Iron overload disease
+ICD-11:5C64.1Y	Hemochromatosis
+ICD-11:5C64.3	Hypophosphatasia
+ICD-11:5C64.4	Magnesium intoxication
+ICD-11:5C64.5	Disorder of calcium metabolism
+ICD-11:5C71	Hypernatremia
+ICD-11:5C72	Hyponatraemia
+ICD-11:5C73	Acidosis
+ICD-11:5C74	Alkalosis
+ICD-11:5C76	Hyperkalemia
+ICD-11:5C77	Hypokalemia
+ICD-11:5C80	Hyperlipidaemia
+ICD-11:5C80-5C81	Dyslipidemia
+ICD-11:5C80-5C8Z	Lipoprotein disorder
+ICD-11:5C80.0	Hypercholesterolaemia
+ICD-11:5C80.00	Familial hypercholesterolemia
+ICD-11:5C80.1	Hypertriglyceridemia
+ICD-11:5C80.2	Dysbetalipoproteinemia
+ICD-11:5C80.Z	Hyperlipidemia
+ICD-11:5C81	Hypocholesterolemia
+ICD-11:5C8Z	Cholesterol metabolism disorder
+ICD-11:5D00	Amyloidosis
+ICD-11:5D00.0	Cerebral amyloid angiopathy
+ICD-11:5D00.2	Hereditary amyloidosis
+ICD-11:5D00.20	Amyloid cardiomyopathy
+ICD-11:5D00.Y	Glomerulonephritis
+ICD-11:6A00-6A0Z	Pervasive developmental disorder
+ICD-11:6A02	Autism spectrum disorder
+ICD-11:6A05	Pediatric attention deficit hyperactivity disorder
+ICD-11:6A05.Z	Attention deficit hyperactivity disorder
+ICD-11:6A20	Schizophrenia
+ICD-11:6A20-6A25	Psychotic disorder
+ICD-11:6A21	Schizoaffective disorder
+ICD-11:6A25	Primary psychotic disorder manifestation
+ICD-11:6A25.4	Motor symptoms
+ICD-11:6A60	Bipolar disorder
+ICD-11:6A60-6E23	Mood disorder
+ICD-11:6A70-6A7Z	Depression
+ICD-11:6A70.3	Major depressive disorder
+ICD-11:6A71	Manic depression disorder
+ICD-11:6A7Z	Narcotic depression
+ICD-11:6B00	Generalized anxiety disorder
+ICD-11:6B00-6B0Z	Anxiety disorder
+ICD-11:6B01	Panic disorder
+ICD-11:6B04	Social anxiety disorder
+ICD-11:6B0Z	Fear-related disorder
+ICD-11:6B20	Obsessive compulsive disorder
+ICD-11:6B25	Body-focused behaviour disorder
+ICD-11:6B25.0	Trichotillomania
+ICD-11:6B40	Post-traumatic stress disorder
+ICD-11:6B40-6B45	Stress
+ICD-11:6B60	Neurological disorder
+ICD-11:6B60.8	Hyperkinetic movement disorder
+ICD-11:6B80	Anorexia nervosa cachexia
+ICD-11:6B81	Bulimia nervosa
+ICD-11:6B82	Eating disorder
+ICD-11:6C00	Enuresis
+ICD-11:6C40	Substance abuse
+ICD-11:6C40-6C4B	Intoxication
+ICD-11:6C40.2	Alcohol dependence
+ICD-11:6C40.2Z	Chronic alcoholism
+ICD-11:6C41	Marijuana use disorder
+ICD-11:6C43	Heroin and opiate withdrawal
+ICD-11:6C43.2Z	Opioid dependence
+ICD-11:6C45	Cocaine use disorder
+ICD-11:6C45.2	Cocaine addiction
+ICD-11:6C46	Methamphetamine use disorder
+ICD-11:6C46.2	Methamphetamine dependence
+ICD-11:6C4A	Nicotine use disorder
+ICD-11:6C4A.2	Tobacco dependence
+ICD-11:6C4G	Psychoactive substances use disorder
+ICD-11:6C4G.1Z	Drug abuse
+ICD-11:6C4Z	Substance use disorder
+ICD-11:6C50-6C5Z	Addictive disorder
+ICD-11:6C73	Intermittent explosive disorder
+ICD-11:6D71	Cognitive impairment
+ICD-11:6D80-6D86	Dementia
+ICD-11:6D80-6D8Z	Dementia
+ICD-11:6D81	Vascular dementia
+ICD-11:6D82	Lewy body dementia
+ICD-11:6D85.3	HIV-associated dementia
+ICD-11:6D85.Y	Tauopathy
+ICD-11:6D8Z	Senile dementia
+ICD-11:6E20-6E8Z	Mental/behavioural/neurodevelopmental disorder
+ICD-11:6E20.0	Postpartum depression
+ICD-11:6E8Z	Psychiatric disorder
+ICD-11:7A00	Intractable insomnia
+ICD-11:7A00-7A0Z	Insomnia
+ICD-11:7A00-7B2Z	Sleep-wake disorder
+ICD-11:7A20	Narcolepsy
+ICD-11:7A21	Hypersomnia
+ICD-11:7A41	Obstructive sleep apnea
+ICD-11:7A4Z	Chronic breathing disorder
+ICD-11:7A60-7A65	Circadian rhythm sleep disorder
+ICD-11:7A80	Restless legs syndrome
+ICD-11:8A00	Parkinsonism
+ICD-11:8A00-8A0Z	Neurobehavioral disorder
+ICD-11:8A00-8C12	Lesion
+ICD-11:8A00-8E7Z	Nervous system disease
+ICD-11:8A00.0	Parkinson disease
+ICD-11:8A00.0Z	Idiopathic parkinson disease
+ICD-11:8A00.10	Progressive supranuclear palsy
+ICD-11:8A00.1Y	Corticobasal degeneration
+ICD-11:8A01	Choreiform disorder
+ICD-11:8A01.10	Huntington disease
+ICD-11:8A02	Dystonia
+ICD-11:8A02.0Y	Cervical dystonia
+ICD-11:8A02.1	Focal dystonia
+ICD-11:8A02.10	Tardive dyskinesia
+ICD-11:8A03	Ataxic disorder
+ICD-11:8A03.1	Hereditary spinocerebellar ataxia
+ICD-11:8A03.10	Friedreich's ataxia
+ICD-11:8A03.16	Spinocerebellar ataxia
+ICD-11:8A04	Tremor-related disorder
+ICD-11:8A04-8D87	Central nervous system disease
+ICD-11:8A04-8E7Z	Central and peripheral nervous disease
+ICD-11:8A04.1	Essential tremor or related tremors
+ICD-11:8A05	Tic disorder
+ICD-11:8A05.00	Tourette syndrome
+ICD-11:8A07-8A0Z	Movement disorder
+ICD-11:8A20	Alzheimer disease
+ICD-11:8A20-8A23	Neurodegenerative disorder
+ICD-11:8A40	Multiple sclerosis
+ICD-11:8A40.0	Relapsing-remitting multiple sclerosis
+ICD-11:8A40.1	Primary progressive multiple sclerosis
+ICD-11:8A43	Neuromyelitis optica
+ICD-11:8A44	Leukodystrophy
+ICD-11:8A44.1	Adrenoleukodystrophy
+ICD-11:8A45.02	Progressive multifocal leukoencephalopathy
+ICD-11:8A60-8A68	Epilepsy
+ICD-11:8A61-8A6Z	Epileptic seizures
+ICD-11:8A61.11	Dravet syndrome
+ICD-11:8A61.4Y	Genetic epileptic syndromes with variable age of onset
+ICD-11:8A62	Epileptic encephalopathy
+ICD-11:8A62.0	Infantile spasm
+ICD-11:8A62.1	LennoxGastaut syndrome
+ICD-11:8A66	Status epilepticus
+ICD-11:8A66.1Y	Status epilepticus seizure
+ICD-11:8A67	Acute repetitive seizure
+ICD-11:8A68.0	Complex partial seizure
+ICD-11:8A68.2	Absence seizure
+ICD-11:8A68.Z	Convulsion
+ICD-11:8A6Z	Seizure disorder
+ICD-11:8A80	Migraine
+ICD-11:8A80-8A84	Headache
+ICD-11:8A81	Tension-type headache
+ICD-11:8A81.0	Cluster headache
+ICD-11:8B00	Intracerebral haemorrhage
+ICD-11:8B00.4	Nontraumatic intracerebral hemorrhage
+ICD-11:8B01	Subarachnoid hemorrhage
+ICD-11:8B01.0	Aneurysmal subarachnoid hemorrhage
+ICD-11:8B10	Carotid artery disease
+ICD-11:8B10-8B11	Ischemia
+ICD-11:8B11	Cerebral ischemia
+ICD-11:8B11.5Z	Cerebral infarction
+ICD-11:8B1Z	Cerebrovascular ischaemia
+ICD-11:8B20	Stroke
+ICD-11:8B22	Intracranial embolism
+ICD-11:8B22-8B2Z	Cerebrovascular disease
+ICD-11:8B22.1	Intracranial embolism
+ICD-11:8B2Z	Cerebrovascular disease
+ICD-11:8B42	Myelopathy
+ICD-11:8B60	Motor neurone disease
+ICD-11:8B60.0	Amyotrophic lateral sclerosis
+ICD-11:8B61	Spinal muscular atrophy
+ICD-11:8B82	Trigeminal nerve disorder
+ICD-11:8B82.0	Trigeminal neuralgia
+ICD-11:8B93	Radiculopathy
+ICD-11:8B93.Y	Lumbosacral radiculopathy
+ICD-11:8C01.3	Chronic inflammatory demyelinating polyneuropathy
+ICD-11:8C0Z	Diabetic neuropathy
+ICD-11:8C11	Lower limb mononeuropathy
+ICD-11:8C11.6	Morton neuroma
+ICD-11:8C21.Z	Charcot marie tooth disease
+ICD-11:8C62	LambertEaton myasthenic syndrome
+ICD-11:8C6Y	Neuromuscular disease
+ICD-11:8C70	Duchenne dystrophy
+ICD-11:8C70-8E61	Brain disease
+ICD-11:8C70.4	Limb girdle muscular dystrophy
+ICD-11:8C71	Myotonic disorder
+ICD-11:8C71.0	Myotonic dystrophy
+ICD-11:8C72	X-linked myotubular myopathy
+ICD-11:8C72.01	Centronuclear myopathy
+ICD-11:8C73	Mitochondrial myopathy
+ICD-11:8C73.Y	Leber hereditary optic neuropathy
+ICD-11:8C7Y	Muscular wasting
+ICD-11:8D43	Scorpion envenoming syndrome
+ICD-11:8D60	Increased intracranial pressure
+ICD-11:8D60.1	Cerebral oedema in diabetic ketoacidosis
+ICD-11:8D64	Dutch elm disease
+ICD-11:8D87	Autonomic nervous system disorder
+ICD-11:8D87.0	Multiple system atrophy
+ICD-11:8D87.0Y	Neurogenic orthostatic hypotension
+ICD-11:8D8A	Focal/segmental autonomic disorder
+ICD-11:8D8A.0	Complex regional pain syndrome
+ICD-11:8D8A.1	Horner syndrome
+ICD-11:8E01	Hormone replacement therapy
+ICD-11:8E02	Genetic disease
+ICD-11:8E43	Chronic post cancer treatment pain
+ICD-11:8E43.0	Neuropathic pain
+ICD-11:8E47	Encephalopathy
+ICD-11:8E49	Chronic fatigue syndrome
+ICD-11:8E4A	Nervous system paraneoplastic/autoimmune disorder
+ICD-11:8E4A.0	Neuromyelitis optica spectrum disorder
+ICD-11:8E4A.1	Nervous system paraneoplastic or autoimmune disorders
+ICD-11:8E4A.3	Muscle wasting disease
+ICD-11:9A01-9A0Z	Eye disorder
+ICD-11:9A02	Eye inflammation
+ICD-11:9A02.2	Ligneous conjunctivitis
+ICD-11:9A05	Eyelid inflammatory/movement disorder
+ICD-11:9A05.Z	Blepharospasm
+ICD-11:9A2Y-9C40	Atrophy
+ICD-11:9A60	Conjunctivitis
+ICD-11:9A60.02	Allergic conjunctivitis
+ICD-11:9A61-9B7Y	Hyperaemia
+ICD-11:9A61.3	Conjunctival fibrosis
+ICD-11:9A74	Neurotrophic keratitis
+ICD-11:9A76	Corneal ulcer
+ICD-11:9A76-9A78	Corneal disease
+ICD-11:9A78	Cornea epithelial defect
+ICD-11:9A78.5	Corneal deformity
+ICD-11:9A78.50	Keratoconus
+ICD-11:9A78.6	Anaesthesia
+ICD-11:9A78.Z	Corneal disease
+ICD-11:9A79	Keratoconjunctivitis sicca
+ICD-11:9A96	Anterior uveitis
+ICD-11:9A96.Z	Uveitis
+ICD-11:9B10	Cataract
+ICD-11:9B10.21	Diabetic cataract
+ICD-11:9B61	Choroidal dystrophy
+ICD-11:9B70	Leber congenital amaurosis
+ICD-11:9B70-9B7Z	Retina disorder
+ICD-11:9B71	Retinopathy
+ICD-11:9B71.0	Diabetic retinopathy
+ICD-11:9B71.01	Proliferative diabetic retinopathy
+ICD-11:9B71.02	Diabetic macular edema
+ICD-11:9B72	Retinal inflammation
+ICD-11:9B72.00	Cytomegalovirus retinitis
+ICD-11:9B73	Retinal detachment
+ICD-11:9B73.11	X-linked retinoschisis
+ICD-11:9B74	Retinal vascular occlusion
+ICD-11:9B74.0	Vasospasm
+ICD-11:9B74.1	Retina venous occlusion
+ICD-11:9B75	Dry age-related macular degeneration
+ICD-11:9B75.0	Age-related macular degeneration
+ICD-11:9B75.3	Macular telangiectasia type 2
+ICD-11:9B75.Y	Myopic macular degeneration
+ICD-11:9B76	Choroidal neovascularization
+ICD-11:9B78	Diabetic macular degeneration
+ICD-11:9B78.2	Proliferative vitreoretinopathy
+ICD-11:9B78.3	Macular degeneration
+ICD-11:9B78.3Z	Wet age-related macular degeneration
+ICD-11:9B78.9	Geographic retinal atrophy
+ICD-11:9B8Z	Symptomatic vitreomacular adhesion
+ICD-11:9C40	Intra ocular pressure reduction
+ICD-11:9C40.1	Optic neuritis
+ICD-11:9C40.4	Ischemic optic neuropathy
+ICD-11:9C40.40	Non-arteritic anterior ischemic optic neuropathy
+ICD-11:9C61	Open-angle glaucoma
+ICD-11:9C61.0	Chronic open-angle glaucoma
+ICD-11:9C61.01	Ocular hypertension
+ICD-11:9C61.0Z	Chronic glaucoma
+ICD-11:9C61.24	Ocular inflammation
+ICD-11:9C82	Extraocular muscle disorder
+ICD-11:9C82.1	Oculopharyngeal muscular dystrophy
+ICD-11:9C82.3	Graves ophthalmopathy
+ICD-11:9C84	Acquired nystagmus
+ICD-11:9D00.0	Myopia
+ICD-11:9D45	Night blindness
+ICD-11:9D90	Blindness
+ICD-11:9E1Z	Dry eye disease
+ICD-11:AA00-AA13	Otitis externa
+ICD-11:AA0Y	infection in the ear canal
+ICD-11:AA0Y-AC0Z	Ear disease
+ICD-11:AA42	Impacted cerumen
+ICD-11:AA80-AB0Z	Otitis media
+ICD-11:AA91	Chronic suppurative otitis media
+ICD-11:AB00	Acute otitis media
+ICD-11:AB30-AB37	Inner ear disease
+ICD-11:AB30.1	Labyrinthitis
+ICD-11:AB31	Episodic vestibular syndrome
+ICD-11:AB31.0	Meniere disease
+ICD-11:AB50-AB57	Hearing disorder
+ICD-11:AB52	Deafness
+ICD-11:BA00	Essential hypertension
+ICD-11:BA00-BA04	Hypertension
+ICD-11:BA00-BE2Z	Cardiovascular disease
+ICD-11:BA00.Z	Moderate and severe hypertension
+ICD-11:BA03	Hypertensive emergency
+ICD-11:BA04	Increase blood pressure
+ICD-11:BA20-BA21	Hypotension
+ICD-11:BA21	Orthostatic hypotension
+ICD-11:BA40	Angina pectoris
+ICD-11:BA40-BA6Z	Ischemic heart disease
+ICD-11:BA40.1	Chronic/stable angina
+ICD-11:BA40.Z	Acute cardiac ischemic events
+ICD-11:BA41	Acute myocardial infarction
+ICD-11:BA41-BA42	Heart disease
+ICD-11:BA41-BA43	Myocardial infarction
+ICD-11:BA43	Venous thrombosis
+ICD-11:BA4Z	Acute cardiac ischemia
+ICD-11:BA50-BA51	Coronary ischemia
+ICD-11:BA6Z	Myocardial ischemia
+ICD-11:BA80	Coronary artery disease
+ICD-11:BA80.Z	Coronary heart disease
+ICD-11:BA85	Coronary vasospastic disease
+ICD-11:BA85.Z	Cerebral vasospasm
+ICD-11:BA86	Microvascular angina
+ICD-11:BB00	Pulmonary embolism
+ICD-11:BB01	Pulmonary hypertension
+ICD-11:BB01.0	Pulmonary arterial hypertension
+ICD-11:BB40-BA42	Endocarditis
+ICD-11:BB70	Aortic valve stenosis
+ICD-11:BC43	Cardiac output syndrome
+ICD-11:BC43.0	Dilated cardiomyopathy
+ICD-11:BC43.10	Long-chain fatty acid oxidation disorder
+ICD-11:BC43.12	Obstructive hypertrophic cardiomyopathy
+ICD-11:BC43.20	Myocardial disease
+ICD-11:BC45	Myocardial hypertrophy
+ICD-11:BC63	Heart block
+ICD-11:BC65	Heart arrhythmia
+ICD-11:BC65.0	Long QT syndrome
+ICD-11:BC71	Ventricular arrhythmias
+ICD-11:BC71.1	Ventricular fibrillation
+ICD-11:BC81	Acute supraventricular tachycardia
+ICD-11:BC81.2Z	Atrial flutter
+ICD-11:BC81.3	Atrial fibrillation
+ICD-11:BC81.30	Paroxysmal atrial fibrillation
+ICD-11:BC81.3Y	Nonvalvular atrial fibrillation
+ICD-11:BC81.Z	Paroxysmal supraventricular tachycardia
+ICD-11:BC9Y	Sinus rhythm disorder
+ICD-11:BC9Z	Cardiac arrhythmias
+ICD-11:BD10	Congestive heart failure
+ICD-11:BD10-BD13	Heart failure
+ICD-11:BD10-BD1Z	Heart failure
+ICD-11:BD11	Left ventricular dysfunction
+ICD-11:BD1Z	Acute and chronic heart failure
+ICD-11:BD30-BD40	Peripheral ischemia
+ICD-11:BD40	Arteriosclerosis
+ICD-11:BD40.00	Intermittent claudication
+ICD-11:BD40.2	Renal artery disease
+ICD-11:BD42	Raynaud phenomenon
+ICD-11:BD42.0	Raynaud disease
+ICD-11:BD4Y	Critical limb ischemia
+ICD-11:BD4Z	Peripheral arterial disease
+ICD-11:BD50	Aortic aneurysm
+ICD-11:BD50.4	Abdominal aortic aneurysm
+ICD-11:BD51.Z	Aneurysm
+ICD-11:BD52	Artery stenosis
+ICD-11:BD52.Y	Arterial calcification
+ICD-11:BD53.Y	Diabetic angiopathy
+ICD-11:BD54	Diabetic foot ulcer
+ICD-11:BD5Z	Vascular systems peripheral arterial disorder
+ICD-11:BD71	Deep vein thrombosis
+ICD-11:BD72	Venous thromboembolism
+ICD-11:BD74	Chronic lower extremities peripheral venous insufficiency
+ICD-11:BD74-BD75	Varicose veins
+ICD-11:BD74.1	Varicose and spider veins of leg
+ICD-11:BD74.3	Venous leg ulcer
+ICD-11:BD9Z	Lymphatic disease
+ICD-11:BE2Y	Vaso-occlusive crisis
+ICD-11:BE2Z	Angiogenesis disorder
+ICD-11:CA00	Mucositis
+ICD-11:CA00-CA40	Pneumococcal infection
+ICD-11:CA02-CB40	Ulcer
+ICD-11:CA02.Z	Pharyngitis
+ICD-11:CA05	Airway inflammation
+ICD-11:CA07	Respiratory tract inflammation
+ICD-11:CA07-CA45	Recurring respiratory infection
+ICD-11:CA07-CA4Z	Respiratory infection
+ICD-11:CA08	Vasomotor/allergic rhinitis
+ICD-11:CA08.0	Allergic rhinitis
+ICD-11:CA08.00	Hay fever
+ICD-11:CA08.01	Seasonal allergic rhinitis
+ICD-11:CA08.03	Perennial allergic rhinitis
+ICD-11:CA0A.Z	Sinusitis
+ICD-11:CA0J	Nasal polyp
+ICD-11:CA0Y	Throat irritation
+ICD-11:CA0Z	Upper respiratory tract disorder
+ICD-11:CA20	Bronchitis
+ICD-11:CA20.1	Chronic bronchitis
+ICD-11:CA21	Emphysema
+ICD-11:CA21.Z	Pulmonary emphysema
+ICD-11:CA22	Chronic obstructive pulmonary disease
+ICD-11:CA22.Z	Obstructive lung disease
+ICD-11:CA23	Asthma
+ICD-11:CA23.0	Allergic asthma
+ICD-11:CA23.30	Exacerbation of acute asthma
+ICD-11:CA24	Bronchiectasis
+ICD-11:CA25	Cystic fibrosis
+ICD-11:CA40	Pneumonia
+ICD-11:CA40.0	Bacterial pneumonia
+ICD-11:CA40.03	Pneumonia due to Klebsiella pneumoniae
+ICD-11:CA40.0Y	Acinetobacter baumannii infection
+ICD-11:CA40.13	Metapneumovirus infection
+ICD-11:CA40.20	Pneumocystis pneumonia
+ICD-11:CA40.Z	Hospital-acquired pneumonia
+ICD-11:CA42	Acute bronchitis
+ICD-11:CA45	Respiratory tract infection
+ICD-11:CA4Z	Lung infection
+ICD-11:CA60-CA8Z	Lung disease
+ICD-11:CA60.2	Asbestosis
+ICD-11:CB00	Acute respiratory distress syndrome
+ICD-11:CB02	Pulmonary eosinophilia
+ICD-11:CB02.0	Eosinophilic asthma
+ICD-11:CB03	Idiopathic interstitial pneumonitis
+ICD-11:CB03.4	Idiopathic pulmonary fibrosis
+ICD-11:CB04	Infancy/childhood primary interstitial lung disease
+ICD-11:CB04.2	Neonatal respiratory distress
+ICD-11:CB04.31	Autoimmune pulmonary alveolar proteinosis
+ICD-11:CB07	Lymphangioleiomyomatosis
+ICD-11:CB0Z	Interstitial lung disease
+ICD-11:CB27	Pleural disease
+ICD-11:CB40	Respiratory disease
+ICD-11:CB40-CB7Z	Respiratory system disease
+ICD-11:CB40.Y	Obstructive airway disease
+ICD-11:CB41	Respiratory failure
+ICD-11:CB7Z	Respiratory tract disease
+ICD-11:DA01	Oral mucositis
+ICD-11:DA01.11	Oral mucositis
+ICD-11:DA02	Lips/oral mucosa miscellaneous disorder
+ICD-11:DA02.1	Xerostomia
+ICD-11:DA04.6	Hypersalivation
+ICD-11:DA08	Dental disease
+ICD-11:DA08.0	Dental caries
+ICD-11:DA08.4	Dental plaque
+ICD-11:DA0B	Gingivitis
+ICD-11:DA0C	Periodontal disease
+ICD-11:DA0C.Y	Chronic periodontitis
+ICD-11:DA0D	Advanced gum disease
+ICD-11:DA0D.3	Hypoplasminogenemia
+ICD-11:DA21	Gastric motility disorder
+ICD-11:DA22	Gastro-oesophageal reflux
+ICD-11:DA22.0	Non-erosive gastro-esophageal reflux disease
+ICD-11:DA22.Z	Gastroesophageal reflux disease
+ICD-11:DA24	Oesophagitis
+ICD-11:DA24.1	Eosinophilic esophagitis
+ICD-11:DA24.Y	Dermatological disease
+ICD-11:DA25	Oesophageal ulcer
+ICD-11:DA25.0	Erosive esophagitis
+ICD-11:DA2Y-DA2Z	Esophagus sensitivity
+ICD-11:DA40-DA7Z	Gastric disease
+ICD-11:DA40.0	Pyloric stenosis
+ICD-11:DA41	Gastroduodenal motor/secretory disorder
+ICD-11:DA41.00	Gastroparesis
+ICD-11:DA42	Gastritis
+ICD-11:DA42-DA60	Chemotherapy or radiotherapy-induced mucositis
+ICD-11:DA42-DA63	Helicobacter infection
+ICD-11:DA43-DA4Y	Stomach disease
+ICD-11:DA60	NSAID-associated gastric ulcer
+ICD-11:DA60.Z	Stomach ulcer
+ICD-11:DA61	Peptic ulcer
+ICD-11:DA63	Duodenal ulcer
+ICD-11:DA90	Diarrhea
+ICD-11:DA90.0	Carcinoid syndrome diarrhea
+ICD-11:DA91-DB30	Postoperative ileus
+ICD-11:DA93	Small intestine motility disorder
+ICD-11:DA93.0	Ileus
+ICD-11:DA94	Therapeutic intestinal toxicity
+ICD-11:DA94.1	Intestinal toxicities from therapy
+ICD-11:DA95	Coeliac disease
+ICD-11:DB10	Appendicitis
+ICD-11:DB32	Large intestine motility disorder
+ICD-11:DB32.1	Opioid-induced constipation
+ICD-11:DB33.Z	Proctitis
+ICD-11:DB35	Colon polyp
+ICD-11:DB50	Anal fissure/fistula
+ICD-11:DB50.0	Anal fissure
+ICD-11:DB50.1	Anal fistula
+ICD-11:DB60	Hemorrhoids
+ICD-11:DB61-DD30	Arterial thrombosis
+ICD-11:DB61-GB90	Thrombosis
+ICD-11:DB90-BD99	Liver disease
+ICD-11:DB90-DB9Z	Liver disease
+ICD-11:DB91	Acute liver failure
+ICD-11:DB92	Non-alcoholic fatty liver disease
+ICD-11:DB92.1	Non-alcoholic steatohepatitis
+ICD-11:DB92.Z	Fatty liver disease
+ICD-11:DB93	Cirrhosis
+ICD-11:DB93.0	Hepatic fibrosis
+ICD-11:DB93.1	Liver cirrhosis
+ICD-11:DB94	Alcoholic cirrhosis of liver
+ICD-11:DB94.1	Alcoholic hepatitis
+ICD-11:DB96	Autoimmune liver disease
+ICD-11:DB96.0	Autoimmune hepatitis
+ICD-11:DB96.1	Primary biliary cirrhosis
+ICD-11:DB96.2	Primary sclerosing cholangitis
+ICD-11:DB97	Inflammatory liver disease
+ICD-11:DB97.Z	Hepatitis
+ICD-11:DB98	Liver vascular disorder
+ICD-11:DB98.6	Hepatic veno-occlusive disease
+ICD-11:DB98.8	Cardiac fibrosis
+ICD-11:DB98.B	Ischemia-reperfusion injury
+ICD-11:DB99.0	Chronic liver disease
+ICD-11:DB99.5	Hepatic encephalopathy
+ICD-11:DB99.60	Cholestasis of parenteral nutrition
+ICD-11:DB99.7	Liver failure
+ICD-11:DC11	Cholelithiasis
+ICD-11:DC11-DC1Z	Bladder disease
+ICD-11:DC11.3	Gallstone
+ICD-11:DC30-DC3Z	Pancreatic malfunction
+ICD-11:DC31-DC34	Pancreatitis
+ICD-11:DC32	Chronic idiopathic constipation
+ICD-11:DC35-DC3Z	Pancreas disease
+ICD-11:DC35.1	Exocrine pancreatic insufficiency
+ICD-11:DC3Z	Pancreatic exocrine dysfunction
+ICD-11:DD70	Crohn disease
+ICD-11:DD70.4	Perianal crohn disease
+ICD-11:DD71	Ulcerative colitis
+ICD-11:DD72	Inflammatory bowel disease
+ICD-11:DD90	Gastric secretory disorder
+ICD-11:DD90.3	Functional dyspepsia
+ICD-11:DD90.4	Chronic functional vomiting
+ICD-11:DD91	Functional bowel disorder
+ICD-11:DD91.0	Irritable bowel syndrome
+ICD-11:DD91.01	Diarrhea-predominant irritable bowel syndrome
+ICD-11:DD91.1	Constipation
+ICD-11:DD91.4	Abdominal stomach pain
+ICD-11:DD93	Infants/toddlers/children functional digestive disorder
+ICD-11:DD93.1	Infantile colics
+ICD-11:DE2Z	Gastrointestinal disease
+ICD-11:EA00-EM0Z	Skin disease
+ICD-11:EA60	Dermatomycosis
+ICD-11:EA80	Atopic dermatitis
+ICD-11:EA80-EA89	Dermatitis
+ICD-11:EA81	Seborrhoeic dermatitis
+ICD-11:EA90	Psoriasis vulgaris
+ICD-11:EA90.0	Plaque psoriasis
+ICD-11:EA90.42	Palmoplantar pustulosis
+ICD-11:EA91	Lichen planus
+ICD-11:EA91.4	Oral lichen planus
+ICD-11:EB00	Spontaneous urticaria
+ICD-11:EB00-EB05	Urticaria
+ICD-11:EB00.1	Chronic idiopathic urticaria
+ICD-11:EB21	Pyoderma gangrenosum
+ICD-11:EB40	Pemphigus vulgaris
+ICD-11:EB41	Pemphigoid
+ICD-11:EB41.0	Bullous pemphigoid
+ICD-11:EB44	Dermatitis herpetiformis
+ICD-11:EB50	Subacute cutaneous lupus erythematosus
+ICD-11:EB50-EB5Z	Cutaneous lupus erythematosus
+ICD-11:EB51.0	Discoid lupus erythematosus
+ICD-11:EB5Z	Cutaneous lupus erythematosus
+ICD-11:EB90	Calcific uremic arteriolopathy
+ICD-11:EB90.42	Calciphylaxis
+ICD-11:EC20	Congenital ichthyosis
+ICD-11:EC20.02	Autosomal recessive congenital ichthyosis
+ICD-11:EC20.0Y	Non-syndromic ichthyosis
+ICD-11:EC20.2	Hereditary acantholytic dermatoses
+ICD-11:EC23	Skin pigmentation genetic disorder
+ICD-11:EC23.2	Albinism
+ICD-11:EC32	Dystrophic epidermolysis bullosa
+ICD-11:EC3Z	Epidermolysis bullosa
+ICD-11:EC90	Pruritus
+ICD-11:EC90.10	Uremic pruritus
+ICD-11:EC91	Prurigo
+ICD-11:EC91.0	Prurigo nodularis
+ICD-11:ED56	Keratosis
+ICD-11:ED60	Acquired hypermelanosis
+ICD-11:ED60.1	Melasma
+ICD-11:ED61	Acquired melanotic macule/lentigine
+ICD-11:ED61.0	Ephelides
+ICD-11:ED63	Acquired hypomelanotic disorder
+ICD-11:ED63.0	Vitiligo
+ICD-11:ED70	Alopecia
+ICD-11:ED72	Hirsutism
+ICD-11:ED80	Acne vulgaris
+ICD-11:ED90	Rosacea
+ICD-11:ED90.0	Rosacea
+ICD-11:ED91	Sebaceous gland disorder
+ICD-11:ED91.2	Seborrhea
+ICD-11:ED92	Hidradenitis suppurativa
+ICD-11:ED92.0	Hidradenitis suppurativa
+ICD-11:EE00	Hyperhidrosis
+ICD-11:EE00.00	Palmar hyperhidrosis
+ICD-11:EE00.01	Primary axillary hyperhidrosis
+ICD-11:EE00.Z	Excessive sweating
+ICD-11:EE10	Nail plate acquired deformity
+ICD-11:EE10.3	Pachyonychia
+ICD-11:EE12	Nail/perionychium infection
+ICD-11:EE12.1	Onychomycosis
+ICD-11:EE40	Aging skin
+ICD-11:EE60	Keloid
+ICD-11:EF01	Lipodystrophy
+ICD-11:EF20	Reticular veins
+ICD-11:EF20.Y	Inflammatory skin condition
+ICD-11:EG00	Vasodilatation of extremities
+ICD-11:EH90	Pressure ulcers
+ICD-11:EJ20	Skin photoaging
+ICD-11:EJ40	Skin photodamage
+ICD-11:EJ9Y	Facial wrinkles
+ICD-11:EK00	Allergic contact dermatitis
+ICD-11:EK00-EK0Z	Contact dermatitis
+ICD-11:EK02	Irritant contact dermatitis
+ICD-11:EK0Z	Contact dermatitis
+ICD-11:EK20	Photocontact dermatitis
+ICD-11:EK71	Skin imperfections
+ICD-11:EK90	Epidermal dysplasias
+ICD-11:EK90.0	Actinic keratosis
+ICD-11:EL50	Skin surgical scar
+ICD-11:EL50.0	Keloidal surgical scar
+ICD-11:EL8Y	Wound healing
+ICD-11:EM0Z	Sebaceous gland disease
+ICD-11:FA00-FA05	Osteoarthritis
+ICD-11:FA00-FC0Z	Musculoskeletal disorder
+ICD-11:FA01	Knee osteoarthritis
+ICD-11:FA10	Joint infection
+ICD-11:FA11	Claudication
+ICD-11:FA11-FA38	Arthropathy
+ICD-11:FA11-FA5Z	Arthropathy
+ICD-11:FA20	Rheumatoid arthritis
+ICD-11:FA21	Psoriatic arthritis
+ICD-11:FA24	Juvenile idiopathic arthritis
+ICD-11:FA25	Gout
+ICD-11:FA25.0	Acute gout flare
+ICD-11:FA27.1	Pigmented villonodular synovitis
+ICD-11:FA2Z	Pheumatoid arthritis
+ICD-11:FA30-FA34	Contracture
+ICD-11:FA30-FA38	Joint lubricant
+ICD-11:FA34	Cartilage disorder
+ICD-11:FA34.1	Laxative
+ICD-11:FA34.Y	Articular cartilage disorder
+ICD-11:FA72	Spinal disease
+ICD-11:FA80	Intervertebral disc degeneration
+ICD-11:FA82	Spinal stenosis
+ICD-11:FA92	Inflammatory spondyloarthritis
+ICD-11:FA92.0	Ankylosing spondylitis
+ICD-11:FB1Y	Intervertebral disc displacement
+ICD-11:FB31	Muscle calcification/ossification
+ICD-11:FB31.1	Fibrodysplasia ossificans progressiva
+ICD-11:FB32-FB3Z	Muscle disorder
+ICD-11:FB32.5	Muscle fatigue
+ICD-11:FB32.Y	Muscle atrophy
+ICD-11:FB3Z	Stabilize muscle contraction
+ICD-11:FB53	Scapulohumeral periarthritis
+ICD-11:FB53-FB55	Enthesopathy
+ICD-11:FB56	Muscular pain
+ICD-11:FB56.2	Myalgia
+ICD-11:FB80.8	Tibial nonunions
+ICD-11:FB81	Osteonecrosis
+ICD-11:FB82-FB85	Bone related disease
+ICD-11:FB83	Low bone mass disorder
+ICD-11:FB83.0	Osteoporosis
+ICD-11:FB83.0Y	Estrogen deficiency
+ICD-11:FB83.11	Postmenopausal osteoporosis
+ICD-11:FB83.20	Acute iron or aluminum toxicity
+ICD-11:FB85	Paget's disease
+ICD-11:FB86	Cell proliferative disorder
+ICD-11:FB8Y	Metabolic bone disease
+ICD-11:FC0Z	Bone disease
+ICD-11:GA02	Gonorrheal vaginitis
+ICD-11:GA02.0	Vulvovaginitis
+ICD-11:GA05	Pelvic inflammatory disease
+ICD-11:GA0Z	Female genital tract inflammation
+ICD-11:GA0Z-GC8Z	Genitourinary disease
+ICD-11:GA10	Endometriosis
+ICD-11:GA12	Dyspareunia
+ICD-11:GA14-GC01	Fibrosis
+ICD-11:GA1Y	Vaginal disease
+ICD-11:GA20	Menstrual cycle bleeding disorder
+ICD-11:GA20-GA21	Bleeding disorder
+ICD-11:GA20.0	Amenorrhea
+ICD-11:GA20.3	Menstrual disorder
+ICD-11:GA20.50	Menorrhagia
+ICD-11:GA30	Menopausal and postmenopausal disorder
+ICD-11:GA30.0	Menopause symptom
+ICD-11:GA30.02	Excessive bleeding
+ICD-11:GA30.2	Postmenopausal vaginal atrophy
+ICD-11:GA30.6	Female hypogonadism
+ICD-11:GA31	Female infertility
+ICD-11:GA31.Z	Female infertility
+ICD-11:GA34	Female pelvic pain
+ICD-11:GA34.3	Dysmenorrhea
+ICD-11:GA34.40	Premenstrual syndrome
+ICD-11:GA6Z	Gynecological disease
+ICD-11:GA90	Prostate hyperplasia
+ICD-11:GA91	Prostate disease
+ICD-11:GB04	Infertility
+ICD-11:GB04.0	Azoospermia
+ICD-11:GB40	Nephritis
+ICD-11:GB4Z	Pediatric immunological disease
+ICD-11:GB51	Acute pyelonephritis
+ICD-11:GB60	Acute kidney injury
+ICD-11:GB60-GB6Z	Renal failure
+ICD-11:GB61	Chronic kidney disease
+ICD-11:GB61.5	End-stage renal disease
+ICD-11:GB61.Z	Diabetic nephropathy
+ICD-11:GB6Z	Kidney failure
+ICD-11:GB70-GB7Z	Cystine urolithiasis
+ICD-11:GB70.0Z	Kidney stone
+ICD-11:GB71	Lower urinary tract symptom
+ICD-11:GB7Z	Urolithiasis
+ICD-11:GB81	Autosomal dominant polycystic kidney disease
+ICD-11:GB8Y	Polycystic kidney disease
+ICD-11:GB90	kidney/ureter disorder
+ICD-11:GB90.3	Phlebothrombosis
+ICD-11:GC00	Cystitis
+ICD-11:GC00.3	Interstitial cystitis
+ICD-11:GC01	Neurogenic detrusor overactivity
+ICD-11:GC01.4	Neurogenic bladder dysfunction
+ICD-11:GC08	Urinary tract infection
+ICD-11:GC2Z	Kidney disease
+ICD-11:GC50	Functional bladder disorder
+ICD-11:GC50.0	Overactive bladder
+ICD-11:HA00	Hypoactive sexual desire dysfunction
+ICD-11:HA00-HA01	Sexual dysfunction
+ICD-11:HA01.1	Female sexual arousal dysfunction
+ICD-11:HA02	Orgasmic dysfunction
+ICD-11:HA02.0	Male sexual disorder
+ICD-11:HA03	Ejaculatory dysfunction
+ICD-11:HA03.0Z	Premature ejaculation
+ICD-11:IF53	Chagas disease
+ICD-11:JA00	Abortion
+ICD-11:JA00-JA02	Reproduction
+ICD-11:JA00.0	Miscarriage
+ICD-11:JA00.1Z	Medical abortion
+ICD-11:JA24	Pre-eclampsia
+ICD-11:JA25	Eclampsia
+ICD-11:JA43	Postpartum haemorrhage
+ICD-11:JB00	Premature labour
+ICD-11:JB02.0	Cervical dilation
+ICD-11:JB0C	Labour/delivery anaesthesia complication
+ICD-11:JB0C.3	Procedural sedation
+ICD-11:JB42	Embolism
+ICD-11:JB46	Childbirth associated breast/lactation disorder
+ICD-11:JB46.3	Lactation failure
+ICD-11:JB63	Pregnancy/childbirth/puerperium maternal infection
+ICD-11:JB64.1	Blood forming organ disorder
+ICD-11:KA20.1Z	Fetal growth restriction
+ICD-11:KA40	Central nervous system injury
+ICD-11:KA87	Neonatal hyperbilirubinemia
+ICD-11:KB08	Newborn muscle tone disorder
+ICD-11:KB08.1	Hypertonia
+ICD-11:KB29.0	Bronchopulmonary dysplasia
+ICD-11:KB88	Necrotizing enterocolitis of newborn
+ICD-11:KB89	Neonatal malabsorption syndrome
+ICD-11:KB89.1	Short bowel syndrome
+ICD-11:LA11	Eye anterior segment structural developmental anomaly
+ICD-11:LA11.3	Aniridia
+ICD-11:LA11.62	Miosis
+ICD-11:LA75	Lung structural developmental anomaly
+ICD-11:LA75.Y	Primary ciliary dyskinesia
+ICD-11:LA89.3	Hypoplastic left heart syndrome
+ICD-11:LA90	Vascular system developmental anomaly
+ICD-11:LA90.00	Hereditary hemorrhagic telangiectasia
+ICD-11:LB20	Bile duct disease
+ICD-11:LB20.0	Structural developmental anomalies of liver
+ICD-11:LB20.0Y	Alagille syndrome
+ICD-11:LB30-LD2F	Dysplasia
+ICD-11:LB45	Ovarian developmental anomaly
+ICD-11:LB45.1	Ovarian stimulation
+ICD-11:LC02	Complex epidermal hamartoma
+ICD-11:LC30	Congenital alopecia
+ICD-11:LD20	CNS anomalies syndrome
+ICD-11:LD20.01	Pontocerebellar hypoplasia type 6
+ICD-11:LD24	Skeletal anomaly
+ICD-11:LD24.00	Achondroplasia
+ICD-11:LD24.10	Osteopetrosis
+ICD-11:LD24.K0	Osteogenesis imperfecta
+ICD-11:LD27	Skin/mucosal anomaly
+ICD-11:LD27.0	Ectodermal dysplasia
+ICD-11:LD27.3	Peripheral sensory neuropathies
+ICD-11:LD28.1	Ehlers-Danlos syndrome
+ICD-11:LD2A	Sex development malformative disorder
+ICD-11:LD2A.4	Complete androgen insensitivity syndrome
+ICD-11:LD2B	Cockayne syndrome
+ICD-11:LD2C	Proteus syndrome
+ICD-11:LD2D	Dermal neurofibromatoses
+ICD-11:LD2D.10	Neurofibromatosis type 1
+ICD-11:LD2D.11	Neurofibromatosis type 2
+ICD-11:LD2D.2	Tuberous sclerosis
+ICD-11:LD2F	Multiple structural anomalies syndrome
+ICD-11:LD2F.0Y	Fetal trimethadione syndrome
+ICD-11:LD2F.1Y	Growth failure
+ICD-11:LD2H	Syndromic genetic deafness
+ICD-11:LD55	Fragile X syndrome
+ICD-11:LD90	Intellectual development disorder
+ICD-11:LD90.3	Prader-Willi syndrome
+ICD-11:LD90.4	Rett syndrome
+ICD-11:MA14	Blood/blood-forming organ sympton
+ICD-11:MA14.15	Elevated C-reactive protein
+ICD-11:MA18	Blood chemistry clinical sympton
+ICD-11:MA18.0	Hyperglycemia
+ICD-11:MB21	Cognition symptoms/signs/clinical sympton
+ICD-11:MB21.1	Amnesia
+ICD-11:MB21.1Z	Memory loss
+ICD-11:MB23	Appearance/behaviour symptom
+ICD-11:MB23.H	Panic attacks
+ICD-11:MB23.M	Psychomotor agitation
+ICD-11:MB24	Irritability
+ICD-11:MB24.2	Anhedonia
+ICD-11:MB26	Thought content symptom
+ICD-11:MB26.A	Suicidal ideation
+ICD-11:MB40	Sensation disturbance
+ICD-11:MB40.1	Allodynia
+ICD-11:MB40.3	Spinal anesthesia
+ICD-11:MB40.8	Analgesia
+ICD-11:MB45.0	Ataxia
+ICD-11:MB47	Tonus and reflex abnormality
+ICD-11:MB47.3	Muscle spasm
+ICD-11:MB47.4	Dyskinesia
+ICD-11:MB47.8	Muscle hypertonia
+ICD-11:MB48	Dizziness
+ICD-11:MB5Y	Spastic paralysis
+ICD-11:MB6Y	Facial pain
+ICD-11:MC18	Ocular pain
+ICD-11:MC41	Tinnitus
+ICD-11:MC81	Heart beat abnormality
+ICD-11:MC81.1	Bradycardia
+ICD-11:MC82	Cardiac events
+ICD-11:MC85	Dermal necrosis
+ICD-11:MD10	Expectorant
+ICD-11:MD11	Breathing abnormality
+ICD-11:MD11.0	Apnea
+ICD-11:MD11.1	Hypoxia
+ICD-11:MD11.5	Respiratory depression
+ICD-11:MD11.9	Nasal congestion
+ICD-11:MD11.Y	Cheyne-stokes respiration
+ICD-11:MD12	Cough
+ICD-11:MD81	Abdominal pelvic pain
+ICD-11:MD81.4	Visceral spasms
+ICD-11:MD90	Vomiting
+ICD-11:MD92	Dyspepsia
+ICD-11:ME04	Ascites
+ICD-11:ME05	Bowel habit change
+ICD-11:ME05.1	Diarrhea
+ICD-11:ME07	Fecal incontinence
+ICD-11:ME21	Magnetic resonance imaging of liver
+ICD-11:ME60.Z	Skin ulcer
+ICD-11:ME63	Chronic skin disorder
+ICD-11:ME63.3	Chronic blistering skin disorder
+ICD-11:ME64	Non-specific cutaneous vascular sympton
+ICD-11:ME64.0	Erythema
+ICD-11:ME65	Skin sensation disturbance
+ICD-11:ME65.0	Skin burns
+ICD-11:ME82	Arthralgia
+ICD-11:ME84	Spinal pain
+ICD-11:ME84.3	Sciatica
+ICD-11:ME84.Z	Back pain
+ICD-11:ME86	Chronic back pain
+ICD-11:MF3A	Bacterial vaginosis
+ICD-11:MF50	Abnormal micturition
+ICD-11:MF50.1	Pollakiuria
+ICD-11:MF50.2	Urinary incontinence
+ICD-11:MF50.20	Stress urinary incontinence
+ICD-11:MF50.3	Urinary retention
+ICD-11:MF50.7	Dysuria
+ICD-11:MF55	Nocturia
+ICD-11:MF8Y	Focal segmental glomerulosclerosis
+ICD-11:MF98	Abnormal urine serum electrolytes level
+ICD-11:MF98.0	Hypercalciuria
+ICD-11:MG02	Measure kidney function
+ICD-11:MG20	Cachexia
+ICD-11:MG22	Fatigue
+ICD-11:MG26	Fever
+ICD-11:MG27	Hemorrhage
+ICD-11:MG29	Edema
+ICD-11:MG2A	Frailty
+ICD-11:MG30	Chronic pain
+ICD-11:MG30-MG31	Acute or chronic pain
+ICD-11:MG30-MG3Z	Pain
+ICD-11:MG30.01	Fibromyalgia
+ICD-11:MG30.02	Chronic low back pain
+ICD-11:MG30.31	Osteoarthritis pain
+ICD-11:MG30.42	Inflammatory pain
+ICD-11:MG30.5	Chronic neuropathic pain
+ICD-11:MG30.50	Painful bladder syndrome
+ICD-11:MG31	Acute pain
+ICD-11:MG40	Shock
+ICD-11:MG40.1	Hemorrhagic shock
+ICD-11:MG42	Excessive daytime sleepiness
+ICD-11:MG43	Appetite suppressant
+ICD-11:MG43.5	Weight loss
+ICD-11:MG43.6	Weight gain
+ICD-11:MG43.9	Hyperphagia
+ICD-11:MG50-MG52	Antimicrobial drug resistance
+ICD-11:MG50.C	Enterobacteriaceae infection
+ICD-11:MG51	Multidrug resistant infection
+ICD-11:MG52.00	Multi-drug resistant tuberculosis
+ICD-11:N.A	Reversal of the anticoagulant effects of dabigatran
+ICD-11:N.A.	Diagnostic imaging
+ICD-11:NA00-NA0Z	Head injury
+ICD-11:NA00-ND5Z	Injury
+ICD-11:NA06.4	Corneal abrasion
+ICD-11:NA07	Intracranial injury
+ICD-11:NA07.Z	Brain injury
+ICD-11:NA0Z	Glabellar frown line
+ICD-11:NB31	Myocardial reperfusion injury
+ICD-11:NB32	Intrathoracic organs injury
+ICD-11:NB32.3	Acute lung injury
+ICD-11:NB32.3Z	Lung injury
+ICD-11:NB92	Urinary/pelvic organs injury
+ICD-11:NB92.0	Kidney injury
+ICD-11:NC93.3Z	Cartilage lesions
+ICD-11:NC96.0	Tendon injuries
+ICD-11:NC9Z	Knee injuries
+ICD-11:ND51	Spine/trunk injury
+ICD-11:ND51.2	Spinal cord injury
+ICD-11:ND56	Fracture
+ICD-11:ND56.0	Contusion
+ICD-11:ND56.4	Nerve injury
+ICD-11:ND56.Y	Bone injury
+ICD-11:ND56.Z	Reperfusion injury
+ICD-11:ND90-NE2Z	Burn and burn infection
+ICD-11:NE60	Harmful effects of drugs, medicaments or biological substances
+ICD-11:NE61	Ricin poisoning
+ICD-11:NE6Z	Poison intoxication
+ICD-11:NE81	Procedure injury
+ICD-11:NE81.0Z	Postoperative hemorrhage
+ICD-11:NE84	Transplant rejection
+ICD-11:NF00	Radiation syndrome
+ICD-11:NF08.3	Motion sickness
+ICD-11:PB24	Adverse reactions to acetaminophen or acetaminophen overdose
+ICD-11:PC91	Benzodiazepine overdose
+ICD-11:PK80-PK81	Medical/surgical procedure injury
+ICD-11:PK80.20	lung transplantation
+ICD-11:PK81.0	Ventilator-associated pneumonia
+ICD-11:PK97	Ophthalmic surgery injury
+ICD-11:PL10	Nosocomial infection
+ICD-11:QA00	General examination
+ICD-11:QA00.6	Examination of eyes or vision
+ICD-11:QA0B	Imaging
+ICD-11:QA21	Contraception
+ICD-11:QB50	Implantation failure
+ICD-11:QB63	Hematopoietic stem cell transplantation
+ICD-11:QB63.6	Bone marrow transplantation
+ICD-11:QB63.8	Stem cell engraftment
+ICD-11:QB83	Scar conditions
+ICD-11:QB8Z	Investigative surgical procedure
+ICD-11:QB98	Blood transfusion
+ICD-11:SA80-SA8Z	Phlegmy cough
+ICD-11:SC00	Morning sickness

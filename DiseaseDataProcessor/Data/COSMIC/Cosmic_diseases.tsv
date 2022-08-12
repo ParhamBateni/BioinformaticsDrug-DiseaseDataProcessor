@@ -1,0 +1,1627 @@
+DiseaseID	DiseaseName
+NCIT:C100054	primary_acquired_melanosis
+NCIT:C102872	carcinoma squamous_cell_carcinoma
+NCIT:C104373	pseudoangiomatous_stromal_hyperplasia
+NCIT:C111786	bile_duct_proliferation
+NCIT:C112117	Overgrowth_syndrome Proteus_syndrome
+NCIT:C114828	malignant_melanoma
+NCIT:C116318	carcinoma small_cell_carcinoma
+NCIT:C118828	malignant_melanoma
+NCIT:C121153	adenoma LH
+NCIT:C121583	leiomyosarcoma
+NCIT:C121655	rhabdomyosarcoma sclerosing
+NCIT:C121668	haemangioendothelioma pseudomyogenic
+NCIT:C121671	angiosarcoma
+NCIT:C121681	palisaded_encapsulated_neuroma
+NCIT:C121687	neuromuscular_choristoma
+NCIT:C121831	fibro-osseous_lesion_NOS
+NCIT:C121929	nonossifying_fibroma
+NCIT:C121932	giant_cell_tumour
+NCIT:C121953	sex_cord-stromal_tumour microcystic_stromal_tumour
+NCIT:C121955	angiomyoadenomatous_tumour
+NCIT:C121963	cribriform_neuroepithelial_tumour
+NCIT:C121967	meningioangiomatosis
+NCIT:C121968	neurocristic_hamartoma
+NCIT:C121970	pancreaticobiliary_malunion
+NCIT:C121974	lymphoid_neoplasm acute_lymphoblastic_B_cell_leukaemia
+NCIT:C122985	chondromesenchymal_hamartoma
+NCIT:C12313	normal
+NCIT:C123384	carcinoma mammary_analogue_secretory_carcinoma_of_salivary_glands
+NCIT:C12370	normal
+NCIT:C12437	normal
+NCIT:C12471	normal
+NCIT:C126357	solitary_fibrous_tumour
+NCIT:C126358	desmoid_tumour-fibromatosis
+NCIT:C126359	epithelioid_inflammatory_myofibroblastic_sarcoma
+NCIT:C126449	carcinoma serous_carcinoma
+NCIT:C126769	carcinoma dedifferentiated_carcinoma
+NCIT:C127058	rhabdomyosarcoma
+NCIT:C12801	normal
+NCIT:C128045	carcinoma neuroendocrine_carcinoma
+NCIT:C128046	leiomyoma
+NCIT:C128050	malignant_peripheral_nerve_sheath_tumour
+NCIT:C128079	myofibroblastoma
+NCIT:C128165	fibroepithelial_neoplasm phyllodes_tumour
+NCIT:C128240	adnexal_tumour hidradenoma_papilliferum
+NCIT:C128242	fibroepithelial_neoplasm fibroadenoma
+NCIT:C128295	germ_cell_tumour yolk_sac_tumour
+NCIT:C128847	carcinoma micropapillary_adenocarcinoma
+NCIT:C129309	glioma diffuse_midline_glioma
+NCIT:C129327	glioma astrocytoma_Grade_III
+NCIT:C129431	rosette-forming_glioneuronal_tumour
+NCIT:C129444	primitive_neuroectodermal_tumour-medulloblastoma non_WNT-non_SHH_subtype
+NCIT:C129526	solitary_fibrous_tumour
+NCIT:C129548	desmoid_tumour-fibromatosis
+NCIT:C129782	haematopoietic_neoplasm acute_myeloid_leukaemia
+NCIT:C129783	haematopoietic_neoplasm acute_myeloid_leukaemia_associated_with_MDS
+NCIT:C129785	haematopoietic_neoplasm acute_myeloid_leukaemia
+NCIT:C129863	dysplasia
+NCIT:C13049	normal
+NCIT:C13051	normal
+NCIT:C13076	normal
+NCIT:C131760	haemangioma anastomosing
+NCIT:C13272	normal
+NCIT:C133091	adenofibroma
+NCIT:C133187	malignant_melanoma
+NCIT:C133252	carcinoma squamous_cell_carcinoma
+NCIT:C135565	Brunner_gland_hyperplasia
+NCIT:C136624	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C136709	carcinoma invasive_mucinous_adenocarcinoma
+NCIT:C136710	carcinoma enteric_adenocarcinoma
+NCIT:C139012	lymphoid_neoplasm breast_implant_associated_anaplastic_large_cell_lymphoma_in_situ
+NCIT:C139546	fibroepithelial_neoplasm fibroadenoma
+NCIT:C139547	fibroepithelial_neoplasm fibroadenoma
+NCIT:C139548	mixed_fibroadenoma-hidradenoma
+NCIT:C142783	perivascular_epithelioid_cell_tumour_(PEComa)
+NCIT:C142825	intimal_sarcoma
+NCIT:C154324	carcinoma poorly_differentiated_carcinoma
+NCIT:C156457	carcinoma small_cell_carcinoma
+NCIT:C157067	lymphoid_neoplasm primary_central_nervous_system_lymphoma
+NCIT:C159507	carcinoma carcinosarcoma-malignant_mesodermal_mixed_tumour
+NCIT:C159663	malignant_melanoma
+NCIT:C159669	rhabdomyosarcoma alveolar
+NCIT:C161022	carcinoma intraductal_carcinoma
+NCIT:C162485	solid_pseudopapillary_neoplasm
+NCIT:C162966	sex_cord-stromal_tumour signet_ring_stromal_cell_tumour
+NCIT:C164141	carcinoma adenocarcinoma
+NCIT:C165261	solid_pseudopapillary_neoplasm
+NCIT:C166399	malignant_melanoma
+NCIT:C166405	malignant_melanoma nodular
+NCIT:C172129	haematopoietic_neoplasm acute_leukaemic_transformation_of_chronic_neutrophilic_leukaemia
+NCIT:C172813	carcinoma micropapillary_adenocarcinoma
+NCIT:C173094	teratocarcinosarcoma
+NCIT:C173125	angiosarcoma
+NCIT:C176467	chondrosarcoma synovial
+NCIT:C176515	angiosarcoma
+NCIT:C176516	carcinoma ductal_carcinoma
+NCIT:C178245	schwannoma epithelioid
+NCIT:C178437	malignant_melanoma
+NCIT:C178441	malignant_melanoma
+NCIT:C178443	malignant_melanoma
+NCIT:C178507	atypical_teratoid-rhabdoid_tumour desmoplastic_myxoid_tumour_SMARCB1_mutant
+NCIT:C178517	malignant_melanoma
+NCIT:C178519	malignant_melanoma
+NCIT:C178521	malignant_melanoma
+NCIT:C178522	malignant_melanoma
+NCIT:C178523	germ_cell_tumour yolk_sac_tumour
+NCIT:C179218	periductal_stromal_tumour
+NCIT:C179229	myxoid_glioneuronal_tumour
+NCIT:C179230	myxoid_glioneuronal_tumour
+NCIT:C179320	carcinoma mesonephric-like_adenocarcinoma
+NCIT:C179888	carcinoma squamous_cell_carcinoma
+NCIT:C179932	gastrointestinal_stromal_tumour dedifferentiated
+NCIT:C25765	haematopoietic_neoplasm acute_leukaemic_transformation_of_primary_myelofibrosis
+NCIT:C26712	carcinoma mucinous_carcinoma
+NCIT:C26749	carcinoid-endocrine_tumour vipoma
+NCIT:C26765	enteritis_cystica_profunda
+NCIT:C26780	gastritis
+NCIT:C26783	reactive_gliosis
+NCIT:C26869	fibrosis
+NCIT:C26876	fibrosis
+NCIT:C26894	chronic_thyroiditis
+NCIT:C26997	hypertrophic_scar
+NCIT:C27004	carcinoma sarcomatoid_carcinoma
+NCIT:C27005	sarcoma spindle
+NCIT:C27007	benign_melanocytic_nevus Spitz
+NCIT:C27094	adnexal_tumour cylindroma
+NCIT:C27122	lymphoid_neoplasm Burkitt_lymphoma
+NCIT:C27125	adnexal_tumour tricholemmal_cyst
+NCIT:C27132	adnexal_tumour trichoepithelioma
+NCIT:C27134	haematopoietic_neoplasm
+NCIT:C27178	secondary_erythrocytosis
+NCIT:C27191	chronic_thyroiditis Hashimotos_thyroiditis
+NCIT:C27253	adenoma
+NCIT:C27255	adnexal_tumour malignant_adnexal_tumour
+NCIT:C27257	cellular_angiofibroma
+NCIT:C27262	haematopoietic_neoplasm myelodysplastic-myeloproliferative_neoplasm
+NCIT:C27273	adnexal_tumour poroma
+NCIT:C27280	haematopoietic_neoplasm myelodysplastic_transformation_of_essential_thrombocythaemia
+NCIT:C27291	biphenotypic_sarcoma_with_myogenic_and_neural_differentiation
+NCIT:C27293	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+NCIT:C27350	haematopoietic_neoplasm myeloproliferative_neoplasm_unclassifiable
+NCIT:C27390	carcinoma small_cell_carcinoma
+NCIT:C27394	malignant_melanoma
+NCIT:C27398	ameloblastoma
+NCIT:C27409	lymphoid_neoplasm Burkitt_lymphoma
+NCIT:C27425	intraepithelial_neoplasia
+NCIT:C27440	lymphoid_neoplasm mantle_cell_lymphoma
+NCIT:C27456	adenoma tubular
+NCIT:C27458	adenoma
+NCIT:C27459	dysplasia
+NCIT:C27462	dysplasia
+NCIT:C27465	lymphoid_neoplasm Burkitt_lymphoma
+NCIT:C27475	lipoma
+NCIT:C27476	schwannoma
+NCIT:C27479	angiofibroma
+NCIT:C27483	lipoblastoma
+NCIT:C27485	angiomyolipoma
+NCIT:C27493	rhabdomyosarcoma alveolar
+NCIT:C27502	chondrosarcoma myxoid
+NCIT:C27510	haemangioendothelioma kaposiform
+NCIT:C27514	lymphoid_neoplasm juvenile_xanthogranuloma
+NCIT:C27515	desmoplastic_fibroblastoma
+NCIT:C27521	adnexal_tumour trichilemmoma
+NCIT:C27527	adnexal_tumour apocrine_adenoma
+NCIT:C27531	in_situ_epithelial_neoplasm
+NCIT:C27605	pingueculum
+NCIT:C27628	endometriosis
+NCIT:C27720	carcinoid-endocrine_tumour islet_cell
+NCIT:C27722	haematopoietic_neoplasm myelodysplastic_syndrome_therapy_related
+NCIT:C27723	lichen_sclerosus
+NCIT:C27735	gastrointestinal_stromal_tumour diffuse_interstitial_cell_of Cajal_hyperplasia
+NCIT:C27780	haematopoietic_neoplasm myelodysplastic-myeloproliferative_neoplasm-unclassifiable
+NCIT:C27789	endometrial_intraepithelial_neoplasia
+NCIT:C27790	in_situ_neoplasm carcinoma_in_situ
+NCIT:C27792	gastrointestinal_stromal_tumour spindle
+NCIT:C27793	gastrointestinal_stromal_tumour spindle_and_epithelioid
+NCIT:C27794	apparent_erythrocytosis
+NCIT:C27813	carcinoma adenocarcinoma
+NCIT:C27814	carcinoma
+NCIT:C27835	Barrett_oesophagus
+NCIT:C27838	carcinoma serous_carcinoma
+NCIT:C27878	hyperplasia flat_urothelial
+NCIT:C27891	carcinoma melanotic
+NCIT:C27892	carcinoma renal_cell_carcinoma_unclassified
+NCIT:C27893	carcinoma sarcomatoid_renal_cell_carcinoma
+NCIT:C27907	lymphoid_neoplasm B_cell_lymphoma_unspecified
+NCIT:C27908	lymphoid_neoplasm indolent_T_cell_lymphoproliferative_disease
+NCIT:C27911	lymphoid_neoplasm chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+NCIT:C27912	haematopoietic_neoplasm acute_myeloid_leukaemia_myelodysplastic_syndrome_therapy_related_NOS
+NCIT:C27914	lymphoid_neoplasm Burkitt_lymphoma
+NCIT:C27915	lymphoid_neoplasm Burkitt_lymphoma
+NCIT:C27941	hyperplasia ductal_epithelial_hyperplasia-hyperplasia_of_usual_type
+NCIT:C2852	carcinoma adenocarcinoma
+NCIT:C2854	malignant_Warthin_tumour
+NCIT:C2858	adrenal_cortical_neoplasm virilizing_syndrome_producing
+NCIT:C2859	neoplasm
+NCIT:C2862	haematopoietic_neoplasm primary_myelofibrosis
+NCIT:C2874	Overgrowth_syndrome CLOVES_syndrome
+NCIT:C2880	sex_cord-stromal_tumour Sertoli-Leydig_cell_tumour
+NCIT:C2891	Barrett_oesophagus
+NCIT:C2895	benign_epithelial_tumour
+NCIT:C2897	hyperplasia
+NCIT:C2901	neoplasm
+NCIT:C2907	neoplasm
+NCIT:C2910	neoplasm
+NCIT:C2912	lymphoid_neoplasm Burkitt_lymphoma
+NCIT:C2915	carcinoid-endocrine_tumour
+NCIT:C2916	carcinoma
+NCIT:C2917	undifferentiated_carcinoma_in_situ
+NCIT:C2918	carcinoma other_carcinoma
+NCIT:C2919	carcinoma adenocarcinoma
+NCIT:C2921	carcinoma basal_cell_carcinoma
+NCIT:C2922	carcinoma basosquamous_carcinoma
+NCIT:C2923	carcinoma bronchioloalveolar_adenocarcinoma
+NCIT:C2924	carcinoma_in_situ ductal_carcinoma_in_situ
+NCIT:C2926	carcinoma undifferentiated_carcinoma
+NCIT:C2929	carcinoma squamous_cell_carcinoma
+NCIT:C2930	carcinoma transitional_cell_carcinoma
+NCIT:C2942	adenoma
+NCIT:C2945	chondroblastoma
+NCIT:C2946	chondrosarcoma
+NCIT:C2947	chordoma
+NCIT:C2948	choriocarcinoma
+NCIT:C2952	ulcerative_colitis
+NCIT:C2953	
+NCIT:C2955	carcinoma mixed_carcinoma
+NCIT:C2956	neoplasm
+NCIT:C2960	condyloma_acuminatum
+NCIT:C2964	craniopharyngioma
+NCIT:C2965	Crohn_disease
+NCIT:C2970	carcinoma adenoid_cystic_carcinoma
+NCIT:C2979	haematopoietic_neoplasm clonal_cytopenia_of_undetermined_significance
+NCIT:C2995	neoplasm
+NCIT:C3007	chondroma
+NCIT:C3011	germ_cell_tumour yolk_sac_tumour
+NCIT:C3012	neoplasm
+NCIT:C3013	hyperplasia
+NCIT:C3017	glioma ependymoma_Grade_II
+NCIT:C3028	
+NCIT:C3041	fibroma
+NCIT:C3043	fibrosarcoma
+NCIT:C3044	fibrosis
+NCIT:C3049	ganglioneuroma
+NCIT:C3050	carcinoid-endocrine_tumour
+NCIT:C3055	giant_cell_tumour
+NCIT:C3056	angiofollicular_lymphoid_hyperplasia
+NCIT:C3058	glioma astrocytoma_Grade_IV
+NCIT:C3059	glioma
+NCIT:C3060	glomus_tumour
+NCIT:C3061	paraganglioma benign
+NCIT:C3067	central_giant_cell_lesion
+NCIT:C3071	Graves_disease
+NCIT:C3072	sex_cord-stromal_tumour gynandroblastoma
+NCIT:C3075	hamartoma
+NCIT:C3077	
+NCIT:C3084	haemangioendothelioma
+NCIT:C3085	haemangioma
+NCIT:C3086	haemangioma cavernous
+NCIT:C3087	glomangiopericytoma
+NCIT:C3088	angiosarcoma
+NCIT:C3099	carcinoma hepatocellular_carcinoma
+NCIT:C3107	lymphoid_neoplasm Langerhans_cell_histiocytosis
+NCIT:C3110	hydatidiform_mole
+NCIT:C3113	hyperplasia
+NCIT:C3124	Overgrowth_syndrome Proteus_syndrome
+NCIT:C3134	epidermal_cyst
+NCIT:C3137	inflammation
+NCIT:C3145	keloid
+NCIT:C3146	keratoacanthoma
+NCIT:C3148	in_situ_epithelial_neoplasm actinic_keratosis
+NCIT:C3150	neoplasm
+NCIT:C3153	Krukenberg_tumour
+NCIT:C3157	leiomyoma
+NCIT:C3158	leiomyosarcoma
+NCIT:C3159	lentigo
+NCIT:C3164	haematopoietic_neoplasm acute_basophilic_leukaemia
+NCIT:C3167	lymphoid_neoplasm acute_lymphoblastic_leukaemia
+NCIT:C3171	haematopoietic_neoplasm acute_myeloid_leukaemia
+NCIT:C3174	haematopoietic_neoplasm chronic_myeloid_leukaemia
+NCIT:C3176	haematopoietic_neoplasm blast_phase_chronic_myeloid_leukaemia
+NCIT:C3178	haematopoietic_neoplasm chronic_myelomonocytic_leukaemia
+NCIT:C3179	haematopoietic_neoplasm chronic_neutrophilic_leukaemia
+NCIT:C3183	lymphoid_neoplasm acute_lymphoblastic_T_cell_leukaemia
+NCIT:C3184	lymphoid_neoplasm adult_T_cell_lymphoma-leukaemia
+NCIT:C3188	interstitial_cell_stromal_tumour
+NCIT:C3189	lichenoid_keratosis
+NCIT:C3192	lipoma
+NCIT:C3194	liposarcoma
+NCIT:C3200	neoplasm
+NCIT:C3202	sex_cord-stromal_tumour stromal_luteoma
+NCIT:C3205	lymphangiosarcoma
+NCIT:C3209	lymphoid_neoplasm follicular_lymphoma
+NCIT:C3212	lymphoid_neoplasm lymphoplasmacytic_lymphoma
+NCIT:C32209	normal
+NCIT:C3222	primitive_neuroectodermal_tumour-medulloblastoma WNT_subtype
+NCIT:C3224	malignant_melanoma
+NCIT:C3230	meningioma haemangiopericytic
+NCIT:C3234	mesothelioma
+NCIT:C3236	metaplasia
+NCIT:C3242	lymphoid_neoplasm plasma_cell_myeloma
+NCIT:C3247	haematopoietic_neoplasm myelodysplastic_syndrome
+NCIT:C3248	haematopoietic_neoplasm myelofibrosis
+NCIT:C3254	angiomyxoma
+NCIT:C3256	nasal_polyp
+NCIT:C3262	
+NCIT:C3267	Wilms_tumour
+NCIT:C3269	schwannoma
+NCIT:C3272	neurofibroma
+NCIT:C3276	schwannoma
+NCIT:C3288	glioma oligodendroglioma
+NCIT:C3292	osteosarcoma Pagets_disease
+NCIT:C32931	normal
+NCIT:C3294	osteoblastoma
+NCIT:C3295	osteochondroma
+NCIT:C3302	carcinoma_in_situ ductal_carcinoma_in_situ
+NCIT:C33024	normal
+NCIT:C3304	non-neoplastic_cyst
+NCIT:C3305	cystic_tumour
+NCIT:C3306	focal_pancreatitis
+NCIT:C3308	paraganglioma
+NCIT:C3309	paraganglioma
+NCIT:C3316	penile_superficial_fibromatosis
+NCIT:C3326	pheochromocytoma
+NCIT:C3328	pineal_region_tumour
+NCIT:C3329	adenoma
+NCIT:C3336	haematopoietic_neoplasm polycythaemia_vera
+NCIT:C33414	normal
+NCIT:C3342	adenoma PRL
+NCIT:C3345	pseudomyxoma_peritonei
+NCIT:C33461	normal
+NCIT:C3350	
+NCIT:C33563	normal
+NCIT:C3359	rhabdomyosarcoma
+NCIT:C3372	neoplasm
+NCIT:C3377	neoplasm
+NCIT:C33785	normal
+NCIT:C3387	
+NCIT:C3400	synovial_sarcoma
+NCIT:C3402	giant_cell_tumour_of_tendon_sheath
+NCIT:C3404	neoplasm
+NCIT:C3407	haematopoietic_neoplasm essential_thrombocythaemia
+NCIT:C34086	normal
+NCIT:C3411	thymoma
+NCIT:C3414	adenoma-nodule-goitre trabecular_tumour
+NCIT:C34447	carcinoma squamous_cell_carcinoma
+NCIT:C34448	carcinoma carcinosarcoma
+NCIT:C34467	chondromatosis
+NCIT:C3451	lymphoid_neoplasm juvenile_xanthogranuloma
+NCIT:C3456	infantile_digital_fibromatosis
+NCIT:C3457	lymphoid_neoplasm B_cell_lymphoma_unspecified
+NCIT:C34609	fibrous_dysplasia
+NCIT:C3466	lymphoid_neoplasm gamma-delta_T_cell_lymphoma
+NCIT:C3467	lymphoid_neoplasm cutaneous_T_cell_lymphoma
+NCIT:C3469	palmar_superficial_fibromatosis
+NCIT:C3471	lymphoid_neoplasm AIDS_related_lymphoma
+NCIT:C3474	granular_cell_tumour
+NCIT:C34747	keratosis
+NCIT:C3480	haemangioma capillary
+NCIT:C34835	nabothian_cyst
+NCIT:C3484	adenosis
+NCIT:C3486	gastrointestinal_stromal_tumour epithelioid
+NCIT:C34866	oral_submucous_fibrosis
+NCIT:C3493	carcinoma squamous_cell_carcinoma
+NCIT:C3495	adenoma villous
+NCIT:C34967	haemangioma capillary
+NCIT:C3497	hamartoma
+NCIT:C3506	adrenal_cortical_hyperplasia
+NCIT:C3510	malignant_melanoma
+NCIT:C3512	carcinoma adenocarcinoma
+NCIT:C3513	carcinoma
+NCIT:C3516	aneurysmal_bone_cyst
+NCIT:C35423	hyperplasia complex
+NCIT:C35424	lymphoid_neoplasm chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+NCIT:C35463	hyperplasia simple
+NCIT:C3547	carcinoma small_cell_carcinoma
+NCIT:C35516	inflammatory_fibroid_polyp
+NCIT:C35530	secondary_thrombocythaemia
+NCIT:C35560	hyperplasia complex-atypical
+NCIT:C3567	carcinoma lacrimal_ductal_carcinoma
+NCIT:C35688	lymphoid_neoplasm MALT_lymphoma
+NCIT:C35689	lymphoid_neoplasm MALT_lymphoma
+NCIT:C35691	mixed_tumour
+NCIT:C35700	carcinoma myoepithelial_carcinoma
+NCIT:C35702	carcinoma polymorphous_low_grade_adenocarcinoma
+NCIT:C35703	carcinoma neuroendocrine_carcinoma
+NCIT:C35718	thymic_carcinoma undifferentiated_carcinoma
+NCIT:C35735	carcinoma large_cell_undifferentiated_carcinoma
+NCIT:C35737	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C35765	histiocytoma
+NCIT:C35774	inflammatory_epithelia
+NCIT:C35780	malignant_melanoma epithelioid
+NCIT:C35781	malignant_melanoma mixed
+NCIT:C35815	haematopoietic_neoplasm granulocytic_sarcoma
+NCIT:C35832	carcinoma carcinosarcoma
+NCIT:C35838	adrenal_medullary_hyperplasia
+NCIT:C35850	carcinoma
+NCIT:C35869	lymphoid_neoplasm marginal_zone_lymphoma
+NCIT:C35871	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+NCIT:C36060	haematopoietic_neoplasm chronic_myelomonocytic_leukaemia
+NCIT:C36075	Rosai-Dorfman_disease
+NCIT:C36086	hyperplasia flat_epithelial_atypia
+NCIT:C36097	carcinoma carcinosarcoma-malignant_mesodermal_mixed_tumour
+NCIT:C36127	germ_cell_tumour non_seminoma
+NCIT:C3616	cystic_hamartoma
+NCIT:C36205	Peutz-Jeghers_polyp
+NCIT:C36206	hamartoma
+NCIT:C36207	adenoma
+NCIT:C3622	pterygium
+NCIT:C36262	leukoplakia-hyperplakia-erythroplakia
+NCIT:C3628	adenoma-nodule-goitre
+NCIT:C3638	carcinoma_in_situ
+NCIT:C3642	in_situ_neoplasm glandular_intraepithelial_neoplasia_Grade_III
+NCIT:C3644	dysplasia-carcinoma_in_situ
+NCIT:C3660	fibrosis
+NCIT:C3678	carcinoma basal_cell_adenocarcinoma
+NCIT:C3680	carcinoma cribriform_adenocarcinoma
+NCIT:C3689	carcinoid-endocrine_tumour goblet_cell
+NCIT:C3694	benign_melanocytic_nevus dysplastic
+NCIT:C3696	glioma astrocytoma_Grade_I
+NCIT:C3697	glioma ependymoma
+NCIT:C3698	choroid_plexus_papilloma
+NCIT:C37005	sarcoma spindle
+NCIT:C3704	liposarcoma dedifferentiated
+NCIT:C3705	liposarcoma pleomorphic
+NCIT:C3706	primitive_neuroectodermal_tumour-medulloblastoma medullomyoblastoma
+NCIT:C3709	in_situ_epithelial_neoplasm
+NCIT:C3714	epithelioid_sarcoma
+NCIT:C37193	lymphoid_neoplasm anaplastic_large_cell_lymphoma
+NCIT:C37194	lymphoid_neoplasm anaplastic_large_cell_lymphoma
+NCIT:C3720	lymphoid_neoplasm anaplastic_large_cell_lymphoma
+NCIT:C3721	lymphoid_neoplasm lymphomatoid_papulosis
+NCIT:C37212	carcinoma solid_pseudopapillary_carcinoma
+NCIT:C3724	cystic_lymphangioma
+NCIT:C37257	malignant_melanoma desmoplastic
+NCIT:C37263	mixed_epithelial_and_stromal_tumour
+NCIT:C3727	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C3728	hepatoblastoma
+NCIT:C3729	carcinoma carcinosarcoma
+NCIT:C3732	carcinoma blastoma
+NCIT:C3733	angiolipoma
+NCIT:C3736	myelolipoma
+NCIT:C3737	chondrosarcoma mesenchymal
+NCIT:C3738	giant_cell_tumour
+NCIT:C3740	desmoplastic_fibroma
+NCIT:C3741	desmoid_tumour-fibromatosis
+NCIT:C3742	infantile_myofibromatosis
+NCIT:C3744	fibroepithelial_neoplasm fibroadenoma
+NCIT:C3745	malignant_melanoma_of_soft_parts-clear_cell_sarcoma
+NCIT:C3747	angioleiomyoma
+NCIT:C3748	leiomyoma leiomyomatosis
+NCIT:C3749	rhabdomyosarcoma alveolar
+NCIT:C3750	alveolar_soft_part_sarcoma
+NCIT:C3751	smooth_muscle_tumour_of_uncertain_malignant_potential
+NCIT:C3752	germ_cell_tumour embryonal_carcinoma
+NCIT:C3757	gestational_trophoblastic_neoplasm
+NCIT:C3758	adenoma
+NCIT:C3766	carcinoma clear_cell_carcinoma
+NCIT:C3771	carcinoma lobular_carcinoma
+NCIT:C3772	carcinoma mucoepidermoid_carcinoma
+NCIT:C3773	carcinoma neuroendocrine
+NCIT:C3774	carcinoma signet_ring_cell_adenocarcinoma
+NCIT:C3775	adnexal_tumour malignant_adnexal_tumour
+NCIT:C3780	carcinoma large_cell_carcinoma
+NCIT:C3782	in_situ_neoplasm cervical_intraepithelial_neoplasia_Grade_I
+NCIT:C37864	autoimmune_leukoproliferative_disease
+NCIT:C37869	lymphoid_neoplasm B_cell_lymphoma_unclassifiable_with_features_intermediate_between_DLBCL_and_Hodgkin_lymphoma
+NCIT:C3787	high_grade_neuroepithelial_tumour
+NCIT:C3788	ganglioglioma
+NCIT:C3789	olfactory_neuroblastoma
+NCIT:C3790	ganglioneuroblastoma
+NCIT:C3791	central_neurocytoma
+NCIT:C3795	glioma subependymoma_Grade_I
+NCIT:C3796	glioma gliosarcoma
+NCIT:C3797	neurofibroma plexiform
+NCIT:C3798	malignant_peripheral_nerve_sheath_tumour
+NCIT:C3799	angiofibroma
+NCIT:C3800	haemangioendothelioma epithelioid
+NCIT:C3801	haemangioblastoma
+NCIT:C3803	benign_melanocytic_nevus blue
+NCIT:C3804	benign_melanocytic_nevus intradermal
+NCIT:C3808	glioma rhabdoid_glioblastoma
+NCIT:C3812	carcinoma of_unknown_primary
+NCIT:C38150	perivascular_epithelioid_cell_tumour_(PEComa)
+NCIT:C38151	angiomyolipoma
+NCIT:C38153	lymphangioleiomyomatosis
+NCIT:C3826	juvenile_polyp
+NCIT:C3827	nodular_fasciitis
+NCIT:C3828	carcinoma combined_hepatocellular-cholangiocarcinoma
+NCIT:C3830	chondromyxoid_fibroma
+NCIT:C38342	mixed_tumour
+NCIT:C3840	vascular_malformation
+NCIT:C3841	haemangioma congenital
+NCIT:C3844	carcinoma sarcomatoid_carcinoma
+NCIT:C3850	carcinoma
+NCIT:C38516	normal
+NCIT:C3863	papilloma
+NCIT:C3864	adenoma
+NCIT:C3867	carcinoma
+NCIT:C3868	gastrointestinal_stromal_tumour
+NCIT:C3869	haemangioma
+NCIT:C3871	carcinoma nasopharyngeal_carcinoma
+NCIT:C3873	germ_cell_tumour
+NCIT:C3875	glioma ependymoma_Grade_II
+NCIT:C38762	carcinoma mucoepidermoid_carcinoma
+NCIT:C3877	germ_cell_tumour teratoma
+NCIT:C3878	carcinoma anaplastic_carcinoma
+NCIT:C3879	carcinoma medullary_carcinoma
+NCIT:C3886	leukoplakia-hyperplakia-erythroplakia
+NCIT:C3888	angiomyolipoma
+NCIT:C38936	meningioma xanthomatous
+NCIT:C3898	lymphoid_neoplasm MALT_lymphoma
+NCIT:C3901	benign_melanocytic_nevus compound
+NCIT:C3902	osteosarcoma telangiectatic
+NCIT:C3904	meningioma papillary
+NCIT:C3908	carcinoma
+NCIT:C3915	carcinoma small_cell_carcinoma
+NCIT:C3916	adenoma
+NCIT:C3917	carcinoma
+NCIT:C3937	woolly_hair_nevus
+NCIT:C3942	fibrous_hamartoma_of_infancy
+NCIT:C3944	benign_melanocytic_nevus congenital
+NCIT:C3953	metaplasia
+NCIT:C3958	leiomyomatosis_peritonealis_disseminata
+NCIT:C39610	lymphoid_neoplasm enteropathy_type_T_cell_lymphoma
+NCIT:C3970	cyst
+NCIT:C39740	inflammatory_myofibroblastic_tumour
+NCIT:C39741	inflammatory_myofibroblastic_tumour
+NCIT:C39749	carcinoma mixed_serous_and_undifferentiated_carcinoma
+NCIT:C39753	malignant_ameloblastoma
+NCIT:C39755	ameloblastoma
+NCIT:C39756	ameloblastoma
+NCIT:C39758	ameloblastoma
+NCIT:C39821	carcinoma lymphoepithelial_carcinoma
+NCIT:C39823	carcinoma transitional_cell_carcinoma
+NCIT:C39824	carcinoma sarcomatoid_carcinoma
+NCIT:C39842	carcinoma undifferentiated_carcinoma
+NCIT:C39843	carcinoma adenocarcinoma
+NCIT:C39844	carcinoma transitional_cell_carcinoma
+NCIT:C39845	carcinoma squamous_cell_carcinoma
+NCIT:C39851	carcinoma transitional_cell_carcinoma
+NCIT:C39856	dysplasia
+NCIT:C39882	carcinoma foamy_gland_carcinoma
+NCIT:C3989	hyperplasia
+NCIT:C39902	carcinoma basal_cell_carcinoma
+NCIT:C39944	sex_cord-stromal_tumour Sertoli_cell_tumour
+NCIT:C39945	sex_cord-stromal_tumour Sertoli_cell_tumour
+NCIT:C39949	sex_cord-stromal_tumour fibroma-thecoma-fibrothecoma
+NCIT:C3996	lymphoid_neoplasm monoclonal_gammopathy_of_undetermined_significance
+NCIT:C39963	in_situ_neoplasm Bowenoid_papulosis
+NCIT:C39965	sex_cord-stromal_tumour signet_ring_stromal_cell_tumour
+NCIT:C39985	gonadoblastoma
+NCIT:C39998	germ_cell_tumour teratoma
+NCIT:C39999	germ_cell_tumour teratoma
+NCIT:C40001	germ_cell_tumour teratoma
+NCIT:C40004	carcinoma sebaceous_carcinoma
+NCIT:C40022	carcinoma endometrioid_adenocarcinoma
+NCIT:C40023	carcinoma peritoneal_serous_surface_carcinoma
+NCIT:C40031	adenoma adenofibroma
+NCIT:C40032	adenoma cystadenofibroma
+NCIT:C40036	low_malignant_potential_(borderline)_tumour mucinous
+NCIT:C40039	adenoma mucinous
+NCIT:C4004	carcinoma undifferentiated_adenocarcinoma
+NCIT:C40061	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C40072	adenoma endometrioid
+NCIT:C40078	carcinoma clear_cell_carcinoma
+NCIT:C40079	carcinoma clear_cell_adenocarcinofibroma
+NCIT:C40080	low_malignant_potential_(borderline)_tumour clear_cell
+NCIT:C40090	carcinoma mixed_carcinoma
+NCIT:C40093	carcinoma squamous_cell_carcinoma
+NCIT:C40099	carcinoma serous_carcinoma
+NCIT:C40107	low_malignant_potential_(borderline)_tumour serous
+NCIT:C40124	carcinoma carcinosarcoma-malignant_mesodermal_mixed_tumour
+NCIT:C40141	female_adnexal_tumour_of_probable_wolffian_origin
+NCIT:C40144	carcinoma mucinous_carcinoma
+NCIT:C40145	carcinoma mixed_endometrioid_and_mucinous_carcinoma
+NCIT:C40153	carcinoma mixed_serous_and_endometrioid_carcinoma
+NCIT:C40155	carcinoma small_cell_carcinoma
+NCIT:C40156	carcinoma undifferentiated_carcinoma
+NCIT:C40157	hyperplasia typical
+NCIT:C40158	solitary_cyst
+NCIT:C4016	squamous_cell_carcinoma
+NCIT:C40164	leiomyoblastoma
+NCIT:C40168	lipoleiomyoma
+NCIT:C4017	carcinoma ductal_carcinoma
+NCIT:C40170	leiomyoma leiomyomatosis
+NCIT:C40177	smooth_muscle_tumour_of_uncertain_malignant_potential
+NCIT:C4018	carcinoma_in_situ lobular_carcinoma_in_situ
+NCIT:C4020	osteosarcoma fibroblastic
+NCIT:C40201	carcinoma serous_carcinoma
+NCIT:C40206	adenoma_malignum
+NCIT:C40208	carcinoma villoglandular_adenocarcinoma
+NCIT:C4021	osteosarcoma chondroblastic
+NCIT:C40213	carcinoma adenoid_basal_carcinoma
+NCIT:C40214	carcinoma large_cell_neuroendocrine_carcinoma
+NCIT:C4022	malignant_melanoma acral_lentiginous
+NCIT:C40229	adenosarcoma
+NCIT:C4023	osteosarcoma small_cell
+NCIT:C40235	adenomyoma
+NCIT:C40236	Wilms_tumour
+NCIT:C40239	malignant_melanoma
+NCIT:C4024	carcinoma squamous_cell_carcinoma
+NCIT:C4025	carcinoma adenocarcinoma
+NCIT:C40254	carcinoma mesonephric_carcinoma
+NCIT:C40258	adenoma tubulovillous
+NCIT:C40261	carcinoma adenoid_cystic_carcinoma
+NCIT:C4027	carcinoma_in_situ ductal_carcinoma_in_situ
+NCIT:C40278	carcinoma carcinosarcoma-malignant_mesodermal_mixed_tumour
+NCIT:C4028	carcinoma squamous_cell_carcinoma
+NCIT:C4029	carcinoma mixed_adenocarcinoma
+NCIT:C40293	carcinoma squamous_cell_carcinoma
+NCIT:C4030	carcinoma transitional_cell_carcinoma
+NCIT:C4031	carcinoma squamous_cell_carcinoma
+NCIT:C40310	adnexal_tumour sebaceous_carcinoma
+NCIT:C40315	glioma astrocytoma_Grade_I
+NCIT:C4032	carcinoma adenocarcinoma
+NCIT:C40322	angiomyxoma deep_aggressive
+NCIT:C40326	leiomyoma
+NCIT:C40327	cellular_angiofibroma
+NCIT:C40329	malignant_melanoma nodular
+NCIT:C4033	carcinoma clear_cell_renal_cell_carcinoma
+NCIT:C40337	gastrointestinal_stromal_tumour dedifferentiated
+NCIT:C4035	carcinoma papillary_carcinoma
+NCIT:C40362	carcinoma low_grade_adenosquamous_carcinoma
+NCIT:C40367	carcinoma acinic_cell_carcinoma
+NCIT:C40375	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C4038	carcinoid-endocrine_tumour
+NCIT:C40384	adenoma
+NCIT:C4039	carcinoma adenocarcinoma
+NCIT:C40392	myoepithelioma
+NCIT:C40395	carcinoma myoepithelial_carcinoma
+NCIT:C40405	fibroepithelial_neoplasm
+NCIT:C40407	Wilms_tumour
+NCIT:C40409	adenoma pleomorphic
+NCIT:C40410	carcinoma ex-pleomorphic_adenoma_carcinoma
+NCIT:C4044	carcinoma squamous_cell_carcinoma
+NCIT:C4047	glioma astrocytoma_Grade_I
+NCIT:C4049	glioma ependymoma_Grade_III-IV
+NCIT:C4050	glioma oligoastrocytoma_Grade_II
+NCIT:C4051	meningioma anaplastic
+NCIT:C4052	carcinoma squamous_cell_carcinoma
+NCIT:C4056	metaplasia
+NCIT:C4057	papilloma
+NCIT:C4064	in_situ_neoplasm glandular_intraepithelial_neoplasia
+NCIT:C4071	xanthoma
+NCIT:C4072	carcinoma mesonephric_carcinoma
+NCIT:C4083	hyperplastic_polyp
+NCIT:C4086	dysplasia
+NCIT:C4087	warty_dyskeratoma_BRAF_inhibitor_related
+NCIT:C4088	epidermal_nevus seborrhoeic
+NCIT:C4107	carcinoma lymphoepithelioma_like_carcinoma
+NCIT:C4112	adnexal_tumour trichofolliculoma
+NCIT:C4113	adnexal_tumour trichilemmoma
+NCIT:C4114	adnexal_tumour malignant_adnexal_tumour
+NCIT:C4121	carcinoma basaloid_carcinoma
+NCIT:C4122	carcinoma transitional_cell_carcinoma
+NCIT:C41235	haematopoietic_neoplasm myeloproliferative_neoplasm
+NCIT:C4126	carcinoma intestinal_adenocarcinoma
+NCIT:C4131	carcinoma fibrolamellar_carcinoma
+NCIT:C4138	carcinoid-endocrine_tumour
+NCIT:C41430	schwannoma
+NCIT:C4146	carcinoma chromophobe_renal_cell_carcinoma
+NCIT:C4168	adnexal_tumour apocrine_adenoma
+NCIT:C4169	adnexal_tumour malignant_adnexal_tumour
+NCIT:C4170	adnexal_tumour spiradenoma
+NCIT:C4171	adnexal_tumour hidradenoma_papilliferum
+NCIT:C4172	adnexal_tumour syringocystadenoma_papilliferum
+NCIT:C4174	adnexal_tumour sebaceous_adenoma
+NCIT:C4179	papillary_cystic_tumour
+NCIT:C4192	adenoma
+NCIT:C4195	carcinoma_in_situ ductal_and_lobular_carcinoma_in_situ
+NCIT:C4204	sex_cord-stromal_tumour sclerosing_stromal_tumour
+NCIT:C4208	sex_cord-stromal_tumour sex_cord_tumour_with_annular_tubules
+NCIT:C42088	focal_cortical_dysplasia
+NCIT:C4215	sex_cord-stromal_tumour steroid_cell_tumour
+NCIT:C4219	paraganglioma malignant
+NCIT:C4220	pheochromocytoma malignant
+NCIT:C4221	glomus_tumour malignant
+NCIT:C4225	malignant_melanoma nodular
+NCIT:C4230	melanocytoma
+NCIT:C4231	benign_melanocytic_nevus junctional
+NCIT:C4233	melanosis
+NCIT:C4236	malignant_melanoma epithelioid
+NCIT:C4237	malignant_melanoma spindle
+NCIT:C4240	malignant_melanoma malignant_blue_nevus
+NCIT:C4241	benign_melanocytic_nevus blue
+NCIT:C4244	congenital_(infantile)_fibrosarcoma
+NCIT:C4246	fibroxanthoma atypical
+NCIT:C4247	malignant_fibrous_histiocytoma-pleomorphic_sarcoma
+NCIT:C4250	liposarcoma well_differentiated
+NCIT:C4253	liposarcoma myxoid-round_cell
+NCIT:C4254	lipoma spindle_cell
+NCIT:C4258	rhabdomyosarcoma pleomorphic
+NCIT:C42589	chondroid_hamartoma
+NCIT:C4259	rhabdomyosarcoma mixed
+NCIT:C42598	low_grade_mucinous_neoplasm
+NCIT:C4260	rhabdomyoma fetal
+NCIT:C4262	benign_stromal_nodule
+NCIT:C4265	pancreatoblastoma
+NCIT:C4270	carcinoma Brenner_tumour
+NCIT:C42700	carcinoma carcinosarcoma-malignant_mesodermal_mixed_tumour
+NCIT:C4274	fibroepithelial_neoplasm phyllodes_tumour
+NCIT:C4279	synovial_sarcoma biphasic
+NCIT:C4282	mesothelioma biphasic
+NCIT:C4287	germ_cell_tumour teratoma
+NCIT:C4289	germ_cell_tumour teratoma
+NCIT:C4290	germ_cell_tumour mixed
+NCIT:C4291	germ_cell_tumour teratoma
+NCIT:C4302	chondroma
+NCIT:C4303	chondrosarcoma myxoid
+NCIT:C4304	giant_cell_tumour
+NCIT:C4306	cemento-osseous_dysplasia
+NCIT:C4310	odontogenic_tumour adenomatoid
+NCIT:C4313	ameloblastoma
+NCIT:C4314	Overgrowth_syndrome Proteus_syndrome
+NCIT:C4316	ameloblastic_fibroma
+NCIT:C4318	glioma gliomatosis_cerebri
+NCIT:C4321	glioma astrocytoma_Grade_II
+NCIT:C4322	glioma astrocytoma_Grade_II
+NCIT:C4323	glioma astrocytoma
+NCIT:C4324	glioma astroblastoma
+NCIT:C4326	glioma oligodendroglioma_Grade_III
+NCIT:C43278	hypomelanotic_macule
+NCIT:C4329	meningioma meningothelial
+NCIT:C4330	meningioma fibroblastic
+NCIT:C4331	meningioma psammomatous
+NCIT:C4332	meningioma angiomatous
+NCIT:C43325	adnexal_tumour trichoadenoma
+NCIT:C4333	meningioma transitional
+NCIT:C43336	adnexal_tumour
+NCIT:C43340	adnexal_tumour sebaceous_carcinoma
+NCIT:C43341	adnexal_tumour sebaceous_carcinoma
+NCIT:C43342	adnexal_tumour apocrine_hidrocystoma
+NCIT:C4335	malignant_peripheral_nerve_sheath_tumour with_rhabdomyosarcomatous_differentiation
+NCIT:C43353	adnexal_tumour poroma
+NCIT:C4337	lymphoid_neoplasm mantle_cell_lymphoma
+NCIT:C4340	lymphoid_neoplasm peripheral_T_cell_lymphoma_unspecified
+NCIT:C4341	lymphoid_neoplasm marginal_zone_lymphoma
+NCIT:C4344	haematopoietic_neoplasm acute_myeloid_leukaemia
+NCIT:C4345	haematopoietic_neoplasm myeloproliferative_neoplasm
+NCIT:C4348	adenoma ACTH_non_functioning
+NCIT:C4349	carcinoma adenocarcinoma
+NCIT:C43526	adenoma pyloric_gland
+NCIT:C43546	adenoma tubular
+NCIT:C43547	adenoma tubulovillous
+NCIT:C4355	papilloma
+NCIT:C43550	adenoma
+NCIT:C43551	adenoma villous
+NCIT:C43552	adenoma tubular
+NCIT:C43553	adenoma tubulovillous
+NCIT:C43558	mucinous_neoplasm
+NCIT:C43577	serrated_polyp serrated_adenoma
+NCIT:C43588	carcinoma squamous_cell_carcinoma
+NCIT:C43589	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C43606	dysplasia-carcinoma_in_situ
+NCIT:C43614	normal
+NCIT:C43615	normal
+NCIT:C4364	neoplasm_of_the_pigmented_ciliary_epithelium
+NCIT:C4373	hamartoma
+NCIT:C4409	intraductal_papillary_neoplasm
+NCIT:C4417	clear_cell_microcystic_adenoma
+NCIT:C4434	borderline_tumour
+NCIT:C4448	carcinoma squamous_cell_carcinoma
+NCIT:C4450	carcinoma large_cell_carcinoma
+NCIT:C4452	carcinoma giant_cell_carcinoma
+NCIT:C4453	haemangioendothelioma epithelioid
+NCIT:C4455	bronchiolar_adenoma
+NCIT:C4456	mesothelioma
+NCIT:C4457	solitary_fibrous_tumour
+NCIT:C4463	adnexal_tumour
+NCIT:C4470	adnexal_tumour perifollicular_fibroma
+NCIT:C4471	adnexal_tumour adenoid_cystic_carcinoma
+NCIT:C4474	adnexal_tumour malignant_adnexal_tumour
+NCIT:C4487	haemangioma capillary
+NCIT:C4488	angiokeratoma
+NCIT:C4508	carcinoma mixed_endometrioid_and_clear_cell_carcinoma
+NCIT:C4509	carcinoma undifferentiated_carcinoma
+NCIT:C4510	adenoma
+NCIT:C4514	germ_cell_tumour malignant
+NCIT:C4515	germ_cell_tumour choriocarcinoma
+NCIT:C4518	leiomyoma intravascular_leiomyomatosis
+NCIT:C4519	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C45194	lymphoid_neoplasm primary_cutaneous_diffuse_large_B_cell_lymphoma_leg_type
+NCIT:C45202	sarcoma fibromyxoid
+NCIT:C45203	hyalinizing_spindle_cell_tumour_with_giant_rosettes
+NCIT:C4523	carcinoma_in_situ
+NCIT:C4526	oncocytoma
+NCIT:C45264	lymphoid_neoplasm chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+NCIT:C45339	lymphoid_neoplasm aggressive_epidermotropic_CD8+_T_cell_lymphoma
+NCIT:C45340	lymphoid_neoplasm gamma-delta_T_cell_lymphoma
+NCIT:C4536	carcinoma
+NCIT:C45366	lymphoid_neoplasm CD4+_small-medium_T_cell_lymphoproliferative_disorder
+NCIT:C4540	carcinoma adenoid_cystic_carcinoma
+NCIT:C4543	rhabdomyosarcoma mixed
+NCIT:C45433	ulcerative_colitis
+NCIT:C45445	angiomyofibroblastoma
+NCIT:C45446	angiomyofibroblastoma
+NCIT:C4549	carcinoma squamous_cell_carcinoma
+NCIT:C4550	malignant_melanoma
+NCIT:C45509	carcinoma fetal_adenocarcinoma
+NCIT:C4551	benign_melanocytic_nevus
+NCIT:C45514	carcinoma signet_ring_cell_adenocarcinoma
+NCIT:C45519	carcinoma lymphoepithelioma_like_carcinoma
+NCIT:C45540	carcinoma sarcomatoid_carcinoma
+NCIT:C45541	carcinoma spindle_cell_carcinoma
+NCIT:C45542	carcinoma pleomorphic_carcinoma
+NCIT:C45543	carcinoma carcinosarcoma
+NCIT:C45544	carcinoma mucoepidermoid_carcinoma
+NCIT:C45550	carcinoid-endocrine_tumour typical
+NCIT:C45551	carcinoid-endocrine_tumour atypical
+NCIT:C45605	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C4562	haemangioma
+NCIT:C4563	haematopoietic_neoplasm chronic_eosinophilic_leukaemia-hypereosinophilic_syndrome
+NCIT:C4564	angiosarcoma
+NCIT:C45655	mesothelioma sarcomatous-fibrous
+NCIT:C45661	mesothelioma papillary
+NCIT:C45662	mesothelioma epithelial
+NCIT:C45663	mesothelioma sarcomatous-fibrous
+NCIT:C45665	mesothelioma biphasic
+NCIT:C45716	midline_carcinoma
+NCIT:C4573	adnexal_tumour malignant_adnexal_tumour
+NCIT:C45743	paraganglioma
+NCIT:C45744	solitary_fibrous_tumour
+NCIT:C45837	carcinoid-endocrine_tumour non_functioning
+NCIT:C45915	adenoma FSH-LH
+NCIT:C45916	adenoma GH-PRL-alpha_SU
+NCIT:C45927	adenoma GH-PRL
+NCIT:C4594	carcinoma_in_situ
+NCIT:C4600	neoplasm
+NCIT:C46008	carcinoma squamous_cell_carcinoma
+NCIT:C46100	C_cell_hyperplasia
+NCIT:C46104	carcinoma mixed_medullary_and_follicular_carcinoma
+NCIT:C46105	spindle_epithelial_tumour_with_thymus_like_differentiation
+NCIT:C4612	adenoma
+NCIT:C4615	adnexal_tumour benign_mixed_tumour
+NCIT:C4623	paraganglioma malignant
+NCIT:C4633	malignant_melanoma amelanotic
+NCIT:C4635	carcinoid-endocrine_tumour
+NCIT:C4638	carcinoid-endocrine_tumour
+NCIT:C4639	malignant_melanoma
+NCIT:C4640	malignant_melanoma
+NCIT:C4641	glioma astrocytoma_Grade_IV
+NCIT:C4642	glioma astrocytoma_Grade_IV
+NCIT:C4650	adenoma pleomorphic
+NCIT:C4654	hyperplasia atypical
+NCIT:C4657	neurenteric_cyst
+NCIT:C4660	solitary_fibrous_tumour
+NCIT:C4661	melanocytic_neoplasm
+NCIT:C4662	melanocytoma
+NCIT:C4664	lymphoid_neoplasm T_cell_large_granular_lymphocytic_leukaemia
+NCIT:C4669	sarcoma
+NCIT:C4670	sarcoma
+NCIT:C4672	sex_cord-stromal_tumour Sertoli_cell_tumour
+NCIT:C4678	nevus_sebaceous
+NCIT:C4680	plantar_superficial_fibromatosis
+NCIT:C4683	dermatofibrosarcoma_protuberans
+NCIT:C4684	lymphoid_neoplasm NK-T_cell_lymphoma
+NCIT:C4696	leukoplakia-hyperplakia-erythroplakia
+NCIT:C4715	choroid_plexus_carcinoma
+NCIT:C4716	malignant_ectomesenchymoma
+NCIT:C4718	meningioma secretory
+NCIT:C4720	meningioma lymphoplasmacyte-rich
+NCIT:C4721	meningioma microcystic
+NCIT:C4722	meningioma clear_cell
+NCIT:C4723	meningioma atypical
+NCIT:C4724	schwannoma cellular
+NCIT:C4725	craniopharyngioma papillary
+NCIT:C4726	craniopharyngioma adamantinomatous
+NCIT:C4727	lymphoid_neoplasm post_transplant_lymphoproliferative_disorder
+NCIT:C4730	hyperplasia atypical_lobular_hyperplasia
+NCIT:C4733	Peutz-Jeghers_polyp
+NCIT:C4738	desmoplastic_infantile_ganglioglioma
+NCIT:C4746	adenoma Brenner_tumour
+NCIT:C4747	ganglioglioma-dysembryoplastic_neuroepithelial_tumour
+NCIT:C4750	haemangioma cavernous
+NCIT:C4752	lymphoid_neoplasm T_cell_prolymphocytic_leukaemia
+NCIT:C4753	lymphoid_neoplasm B_cell_prolymphocytic_leukaemia
+NCIT:C4754	haemangioma spindle_cell
+NCIT:C4756	in_situ_neoplasm vulvar_intraepithelial_neoplasia_Grade_III
+NCIT:C4760	in_situ_neoplasm vulvar_intraepithelial_neoplasia_Grade_I
+NCIT:C4778	metanephric_stromal_tumour
+NCIT:C4780	neoplasm
+NCIT:C4781	tuberous_sclerosis_tuber
+NCIT:C4783	low_malignant_potential_(borderline)_tumour
+NCIT:C4800	reactive_retinal_astrocytic_tumour
+NCIT:C4803	carcinoma serrated_carcinoma
+NCIT:C4804	hyperplasia
+NCIT:C4812	carcinoma odontogenic_carcinoma
+NCIT:C4815	carcinoma
+NCIT:C4819	carcinoma squamous_cell_carcinoma
+NCIT:C4824	carcinoma
+NCIT:C4827	neuroblastoma
+NCIT:C4828	primary_sclerosing_cholangitis
+NCIT:C4830	carcinoma transitional_cell_carcinoma
+NCIT:C48305	pheochromocytoma benign
+NCIT:C48314	paraganglioma benign
+NCIT:C48317	paraganglioma benign
+NCIT:C48320	angiosarcoma
+NCIT:C4833	carcinoma squamous_cell_carcinoma
+NCIT:C4838	dysplasia
+NCIT:C4839	intraepithelial_neoplasia
+NCIT:C4840	intraepithelial_neoplasia
+NCIT:C4843	intraepithelial_neoplasia
+NCIT:C48449	adrenal_cortical_adenoma cortisol_producing
+NCIT:C4845	dysplasia-in_situ_neoplasm
+NCIT:C48451	adrenal_cortical_adenoma aldosterone_producing
+NCIT:C48452	adrenal_cortical_adenoma virilizing_syndrome_producing
+NCIT:C48458	adrenal_cortical_adenoma non_functioning
+NCIT:C4847	dysplasia
+NCIT:C4853	carcinoma_in_situ
+NCIT:C4855	carcinoma
+NCIT:C48576	paraganglioma
+NCIT:C4860	sarcoma
+NCIT:C48613	malignant_melanoma congenital_melanocytic
+NCIT:C4862	sex_cord-stromal_tumour
+NCIT:C48622	malignant_melanoma mucosal_lentiginous
+NCIT:C4863	carcinoma
+NCIT:C4866	carcinoma
+NCIT:C4867	small_round_cell_tumour
+NCIT:C4868	chorioangioma
+NCIT:C4871	hydatidiform_mole complete
+NCIT:C4872	carcinoma
+NCIT:C4878	carcinoma
+NCIT:C4879	adnexal_tumour spiradenocylindroma
+NCIT:C48900	Overgrowth_syndrome macrodactyly
+NCIT:C49024	low_grade_myofibroblastic_sarcoma
+NCIT:C49027	sclerosing_epithelioid_fibrosarcoma
+NCIT:C4906	carcinoma
+NCIT:C4908	carcinoma
+NCIT:C4910	carcinoma
+NCIT:C49101	myofibroblastic_proliferation
+NCIT:C49107	giant_cell_tumour
+NCIT:C4911	carcinoma
+NCIT:C4912	carcinoma
+NCIT:C4914	carcinoma
+NCIT:C4915	glioma ependymoblastoma_Grade_IV
+NCIT:C4917	carcinoma small_cell_carcinoma
+NCIT:C4919	adenoma villous
+NCIT:C4923	carcinoma
+NCIT:C4925	germ_cell_tumour
+NCIT:C4930	serrated_polyp hyperplastic_polyp
+NCIT:C4932	adenoma
+NCIT:C4935	carcinoid-endocrine_tumour
+NCIT:C4936	granuloma
+NCIT:C4946	carcinoma Hurthle_cell_carcinoma
+NCIT:C4951	glioma astrocytoma
+NCIT:C4956	primitive_neuroectodermal_tumour-medulloblastoma desmoplastic
+NCIT:C4977	Rathke_cleft_cyst
+NCIT:C4984	neoplasm
+NCIT:C5028	wart
+NCIT:C50401	myopericytoma benign
+NCIT:C50559	periosteal_fasciitis
+NCIT:C5097	glioma astrocytoma_Grade_IV
+NCIT:C5105	carcinoma adenocarcinoma
+NCIT:C5123	glioma astrocytoma_Grade_III
+NCIT:C5124	glioma astrocytoma_Grade_III
+NCIT:C5129	glioma astrocytoma_Grade_IV
+NCIT:C5130	carcinoma adenoid_cystic_carcinoma
+NCIT:C5143	adenomyoepithelioma
+NCIT:C5144	adenomyoepithelioma
+NCIT:C5148	glioma astrocytoma_Grade_IV
+NCIT:C5149	glioma astrocytoma_Grade_IV
+NCIT:C5150	glioma astrocytoma_Grade_IV
+NCIT:C5151	glioma astrocytoma_Grade_IV
+NCIT:C5154	myxoid_mesenchymal_tumour
+NCIT:C5156	chordoma
+NCIT:C5160	carcinoma ductolobular_carcinoma
+NCIT:C5161	carcinoma other_carcinoma
+NCIT:C5164	carcinoma metaplastic_carcinoma
+NCIT:C5195	hyperplasia atypical
+NCIT:C5214	carcinoma_in_situ
+NCIT:C5226	low_malignant_potential_(borderline)_tumour serous
+NCIT:C5231	sex_cord-stromal_tumour Leydig_cell_tumour
+NCIT:C5232	angiosarcoma
+NCIT:C5238	carcinoma large_cell_neuroendocrine_carcinoma
+NCIT:C5240	carcinoma transitional_cell_carcinoma
+NCIT:C5243	carcinoma mucinous_carcinoma
+NCIT:C5248	carcinoma mucinous_adenocarcinoma
+NCIT:C5250	carcinoma signet_ring_adenocarcinoma
+NCIT:C5253	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C5264	lymphoid_neoplasm MALT_lymphoma
+NCIT:C5266	lymphoid_neoplasm MALT_lymphoma
+NCIT:C5317	malignant_melanoma
+NCIT:C5322	lymphoid_neoplasm anaplastic_large_cell_lymphoma
+NCIT:C5323	schwannoma
+NCIT:C5326	paraganglioma
+NCIT:C5327	paraganglioma benign
+NCIT:C5328	paraganglioma
+NCIT:C5338	adenoma villous
+NCIT:C5340	adenoma
+NCIT:C53459	chondroma
+NCIT:C53553	carcinoma ER-PR-HER-positive_carcinoma
+NCIT:C53554	carcinoma luminal_A_carcinoma
+NCIT:C53555	carcinoma luminal_B_carcinoma
+NCIT:C53556	carcinoma HER-positive_carcinoma
+NCIT:C53557	carcinoma normal-like_carcinoma
+NCIT:C5356	leiomyoma intravascular_leiomyomatosis
+NCIT:C53589	myxoma cellular
+NCIT:C5364	leiomyosarcoma
+NCIT:C53677	intimal_sarcoma
+NCIT:C53707	osteosarcoma
+NCIT:C5390	paraganglioma malignant
+NCIT:C53953	osteosarcoma osteoblastic
+NCIT:C53958	osteosarcoma high_grade_surface
+NCIT:C5396	haemangioma epithelioid
+NCIT:C5398	primitive_neuroectodermal_tumour-medulloblastoma
+NCIT:C54039	primitive_neuroectodermal_tumour-medulloblastoma classic
+NCIT:C5406	primitive_neuroectodermal_tumour-medulloblastoma
+NCIT:C5409	lymphoid_neoplasm primary_central_nervous_system_lymphoma
+NCIT:C54183	hyperplasia columnar_cell_lesion
+NCIT:C54220	glandular_odontogenic_cyst
+NCIT:C5428	germ_cell_tumour teratoma
+NCIT:C54293	carcinoma adenocarcinoma
+NCIT:C54294	carcinoma undifferentiated_carcinoma
+NCIT:C54295	squamous_cell_carcinoma
+NCIT:C54300	carcinoma clear_cell_odontogenic_carcinoma
+NCIT:C54301	calcifying_epithelial_odontogenic_tumour
+NCIT:C54302	odontogenic_keratocyst
+NCIT:C54317	odontoameloblastoma
+NCIT:C54319	calcifying_odontogenic_cyst
+NCIT:C5432	haemangioma cavernous
+NCIT:C54336	carcinoma spindle_cell_carcinoma
+NCIT:C5434	schwannoma
+NCIT:C5446	primary_leptomeningeal_gliomatosis
+NCIT:C54659	benign_melanocytic_nevus junctional
+NCIT:C5466	paraganglioma
+NCIT:C54662	malignant_melanoma nevoid
+NCIT:C54664	adnexal_tumour malignant_adnexal_tumour
+NCIT:C5472	carcinoma papillary_adenocarcinoma
+NCIT:C5473	carcinoma tubular_adenocarcinoma
+NCIT:C5474	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C5475	carcinoma squamous_cell_carcinoma
+NCIT:C5476	carcinoma undifferentiated_carcinoma
+NCIT:C5490	carcinoma squamous_cell_carcinoma
+NCIT:C5496	adenoma tubulovillous
+NCIT:C5497	carcinoid-endocrine_tumour
+NCIT:C5498	lymphoid_neoplasm MALT_lymphoma
+NCIT:C5501	carcinoid-endocrine_tumour
+NCIT:C5505	malignant_melanoma
+NCIT:C5512	adenoma villous
+NCIT:C5517	inflammatory_fibroid_polyp
+NCIT:C5518	juvenile_polyp
+NCIT:C5519	Peutz-Jeghers_polyp
+NCIT:C5520	adenoma villous
+NCIT:C5522	rhabdomyosarcoma mixed
+NCIT:C5526	leiomyosarcoma
+NCIT:C5537	carcinoma mucinous_carcinoma
+NCIT:C5543	carcinoma adenocarcinoma
+NCIT:C5545	carcinoma neuroendocrine_carcinoma
+NCIT:C5546	adenoma
+NCIT:C5560	adnexal_tumour malignant_adnexal_tumour
+NCIT:C5576	malignant_fibrous_histiocytoma-pleomorphic_sarcoma
+NCIT:C5585	sarcoma
+NCIT:C5600	carcinoma adenocarcinoma
+NCIT:C5619	serrated_polyp hyperplastic_polyp
+NCIT:C5620	adenoma tubulovillous
+NCIT:C5649	carcinoma acinar_adenocarcinoma
+NCIT:C5656	pneumocytoma_(sclerosing_haemangioma)
+NCIT:C5665	hyperplasia
+NCIT:C5666	carcinoma adenoid_cystic_carcinoma
+NCIT:C5672	carcinoma large_cell_neuroendocrine_carcinoma
+NCIT:C5673	adenoma
+NCIT:C5674	serrated_polyp serrated_adenoma
+NCIT:C5675	adenoma tubulovillous
+NCIT:C5676	adenoma villous
+NCIT:C5681	retention_polyp
+NCIT:C5682	serrated_polyp hyperplastic_polyp
+NCIT:C5685	adenoma
+NCIT:C5703	schwannoma
+NCIT:C5707	malignant_melanoma
+NCIT:C5715	sarcoma
+NCIT:C5716	borderline_tumour
+NCIT:C5722	carcinoma carcinosarcoma
+NCIT:C5723	carcinoma osteoclast-like_giant_cell_carcinoma
+NCIT:C5724	carcinoma serous_cystadenocarcinoma
+NCIT:C5731	carcinoid-endocrine_tumour gastrinoma
+NCIT:C5752	solitary_fibrous_tumour
+NCIT:C5777	carcinoma squamous_cell_carcinoma
+NCIT:C5778	carcinoma adenosquamous_carcinoma
+NCIT:C5783	carcinoid-endocrine_tumour
+NCIT:C5806	gastrointestinal_stromal_tumour dedifferentiated
+NCIT:C5811	gastrointestinal_stromal_tumour dedifferentiated
+NCIT:C5818	carcinoma adenoid_cystic_carcinoma
+NCIT:C5832	fibrosarcoma
+NCIT:C5858	inflammatory_myofibroblastic_tumour
+NCIT:C5901	carcinoma acinic_cell_carcinoma
+NCIT:C5903	carcinoma adenocarcinoma
+NCIT:C5904	carcinoma salivary_duct_carcinoma
+NCIT:C5905	carcinoma adenoid_cystic_carcinoma
+NCIT:C5906	carcinoma mucoepidermoid_carcinoma
+NCIT:C5907	carcinoma
+NCIT:C5908	carcinoma mucoepidermoid_carcinoma
+NCIT:C5912	granular_cell_tumour
+NCIT:C5915	malignant_melanoma
+NCIT:C5933	carcinoma acinic_cell_carcinoma
+NCIT:C5935	carcinoma adenoid_cystic_carcinoma
+NCIT:C5936	carcinoma adenoid_cystic_carcinoma
+NCIT:C5937	carcinoma adenoid_cystic_carcinoma
+NCIT:C5938	carcinoma mucoepidermoid_carcinoma
+NCIT:C5939	carcinoma mucoepidermoid_carcinoma
+NCIT:C5940	carcinoma adenocarcinoma
+NCIT:C5941	carcinoma basal_cell_adenocarcinoma
+NCIT:C5942	carcinoma squamous_cell_carcinoma
+NCIT:C5943	carcinoma squamous_cell_carcinoma
+NCIT:C5948	carcinoma adenocarcinoma
+NCIT:C5950	adenoma basal_cell
+NCIT:C5953	carcinoma mucoepidermoid_carcinoma
+NCIT:C5957	carcinoma mammary_analogue_secretory_carcinoma_of_salivary_glands
+NCIT:C5962	carcinoma PRL
+NCIT:C5964	carcinoma ACTH
+NCIT:C5966	glioma astrocytoma_Grade_III
+NCIT:C5973	carcinoma
+NCIT:C5974	carcinoma ex-pleomorphic_adenoma_carcinoma
+NCIT:C5975	carcinoma ex-pleomorphic_adenoma_carcinoma
+NCIT:C5978	adenoma myoepithelial
+NCIT:C6019	carcinoma adenoid_cystic_carcinoma
+NCIT:C6025	carcinoma small_cell_carcinoma
+NCIT:C6040	carcinoma insular_carcinoma
+NCIT:C6042	adenoma-nodule-goitre Hurthle_cell_tumour
+NCIT:C6043	angiosarcoma
+NCIT:C6046	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C6051	carcinoma adenoid_cystic_carcinoma
+NCIT:C60536	aberrant_crypt_foci
+NCIT:C60639	carcinoma small_cell_carcinoma
+NCIT:C60641	carcinoma medullary_carcinoma
+NCIT:C6065	carcinoma squamous_cell_carcinoma
+NCIT:C60780	glioma astrocytoma
+NCIT:C60781	glioma astrocytoma
+NCIT:C6086	carcinoma squamous_cell_carcinoma
+NCIT:C6104	benign_melanocytic_nevus
+NCIT:C6120	intraepithelial_neoplasia
+NCIT:C6142	carcinoma
+NCIT:C6143	carcinoma adenocarcinoma
+NCIT:C6149	dysplasia-carcinoma_in_situ
+NCIT:C6165	carcinoma squamous_cell_carcinoma
+NCIT:C6166	carcinoma transitional_cell_carcinoma
+NCIT:C6167	carcinoma adenocarcinoma
+NCIT:C6172	carcinoma clear_cell_adenocarcinoma
+NCIT:C6176	carcinoma small_cell_carcinoma
+NCIT:C6177	inflammatory_myofibroblastic_tumour
+NCIT:C6192	papilloma inverted
+NCIT:C6193	dysplasia-carcinoma_in_situ
+NCIT:C6194	carcinoma collecting_duct_carcinoma
+NCIT:C6219	desmoplastic_infantile_astrocytoma-ganglioglioma
+NCIT:C62191	carcinoma clear_cell_carcinoma
+NCIT:C62192	carcinoma intraductal_carcinoma
+NCIT:C62193	carcinoma mucinous_adenocarcinoma
+NCIT:C62210	adenoma
+NCIT:C62332	carcinoma adenocarcinoma
+NCIT:C6239	carcinoma adenoid_cystic_carcinoma
+NCIT:C6241	carcinoma adenoid_cystic_carcinoma
+NCIT:C6246	rhabdomyosarcoma embryonal
+NCIT:C62571	in_situ_epithelial_neoplasm Bowen_disease
+NCIT:C6261	sex_cord-stromal_tumour granulosa_cell_tumour
+NCIT:C6287	carcinoma endometrioid_carcinoma
+NCIT:C6336	adenosarcoma
+NCIT:C6338	adenomyoma
+NCIT:C6339	sarcoma
+NCIT:C6341	germ_cell_tumour embryonal_carcinoma
+NCIT:C6343	carcinoma endometrioid_adenocarcinoma
+NCIT:C6344	carcinoma clear_cell_carcinoma
+NCIT:C6346	carcinoma adenoid_cystic_carcinoma
+NCIT:C6347	germ_cell_tumour mixed
+NCIT:C63533	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C6356	sex_cord-stromal_tumour Leydig_cell_tumour
+NCIT:C6357	sex_cord-stromal_tumour granulosa_cell_tumour
+NCIT:C6358	sex_cord-stromal_tumour mixed_germ_cell_sex_cord-stromal_tumour
+NCIT:C6414	paraganglioma benign
+NCIT:C6416	paraganglioma malignant
+NCIT:C6427	carcinoid-endocrine_tumour
+NCIT:C6429	carcinoid-endocrine_tumour
+NCIT:C6430	carcinoid-endocrine_tumour ACTH
+NCIT:C6433	endometrial_polyp
+NCIT:C6439	germ_cell_tumour teratoma
+NCIT:C6440	germ_cell_tumour choriocarcinoma
+NCIT:C6443	germ_cell_tumour yolk_sac_tumour
+NCIT:C6446	germ_cell_tumour
+NCIT:C6454	thymoma spindle
+NCIT:C6455	thymic_carcinoma squamous_cell_carcinoma
+NCIT:C6460	thymic_carcinoma small_cell_carcinoma
+NCIT:C6463	thymic_carcinoma sarcomatoid_carcinoma
+NCIT:C6474	osteosarcoma low_grade_central
+NCIT:C6475	chondrosarcoma clear_cell
+NCIT:C6476	chondrosarcoma dedifferentiated
+NCIT:C6481	inflammatory_myofibroblastic_tumour
+NCIT:C6484	medallion-like_dermal_dendrocyte_hamartoma
+NCIT:C6485	fibroma_of_tendon_sheath
+NCIT:C6488	calcifying_fibrous_pseudotumour
+NCIT:C6489	desmoid_tumour-fibromatosis
+NCIT:C6496	fibrosarcoma myxofibrosarcoma
+NCIT:C6497	malignant_fibrous_histiocytoma-pleomorphic_sarcoma inflammatory
+NCIT:C6505	atypical_lipomatous_tumour
+NCIT:C6510	leiomyoblastoma
+NCIT:C65181	carcinoma transitional_cell_carcinoma
+NCIT:C6519	rhabdomyosarcoma embryonal
+NCIT:C65203	clear_cell_papillary_cystadenoma
+NCIT:C6528	pericytoma
+NCIT:C6534	synovial_sarcoma monophasic
+NCIT:C6536	mesothelioma multicystic
+NCIT:C6561	malignant_peripheral_nerve_sheath_tumour epithelioid
+NCIT:C6569	mesoblastic_nephroma
+NCIT:C6577	myxoma
+NCIT:C6581	parachordoma
+NCIT:C6582	ossifying_fibromyxoid_tumour
+NCIT:C6584	intranodal_palisaded_myofibroblastoma
+NCIT:C6586	rhabdoid_tumour
+NCIT:C6591	neuroblastoma
+NCIT:C6604	fibrosarcoma
+NCIT:C6605	fibrosarcoma
+NCIT:C6613	angiosarcoma
+NCIT:C6619	leiomyosarcoma
+NCIT:C6628	neuroblastoma
+NCIT:C6634	lymphoid_neoplasm Hodgkin_lymphoma
+NCIT:C6657	adenoma
+NCIT:C66760	fibromyxoma
+NCIT:C66774	ossifying_renal_tumour_of_infancy
+NCIT:C66800	ameloblastic_fibrodentinoma
+NCIT:C66801	glioma polar_spongioblastoma
+NCIT:C66804	ganglioneuroma ganglioneuromatosis
+NCIT:C66806	medulloepithelioma
+NCIT:C66807	medulloepithelioma benign
+NCIT:C66865	adenolymphoma_(Warthin_tumour)
+NCIT:C66950	carcinoma hepatoid_adenocarcinoma
+NCIT:C66951	carcinoma endocervical_adenocarcinoma
+NCIT:C66991	sex_cord-stromal_tumour Sertoli-Leydig_cell_tumour
+NCIT:C67092	carcinoma serous_adenocarcinofibroma
+NCIT:C6713	desmoid_tumour-fibromatosis
+NCIT:C67237	phosphaturic_mesenchymal_tumour
+NCIT:C6739	rhabdomyoma
+NCIT:C67560	endolymphatic_sac_tumour
+NCIT:C6760	carcinoma small_cell_carcinoma
+NCIT:C6761	carcinoma small_cell_carcinoma
+NCIT:C6762	carcinoma small_cell_carcinoma
+NCIT:C6763	carcinoma small_cell_carcinoma
+NCIT:C6764	carcinoma small_cell_adenocarcinoma
+NCIT:C6766	carcinoma small_cell_carcinoma
+NCIT:C6767	germ_cell_tumour embryonal_carcinoma
+NCIT:C6791	carcinoma
+NCIT:C6801	dermatofibroma
+NCIT:C6809	glioma astrocytoma_Grade_I
+NCIT:C6814	superficial_fibromatosis_NS
+NCIT:C6835	papilloma_(Schneiderian)
+NCIT:C6846	adenoma-nodule-goitre hyalinizing_trabecular_tumour
+NCIT:C68611	carcinoma squamous_cell_carcinoma
+NCIT:C6871	papilloma_(Schneiderian)
+NCIT:C6875	carcinoma large_cell_neuroendocrine_carcinoma
+NCIT:C6878	carcinoma mixed_acinar-neuroendocrine_carcinoma
+NCIT:C6881	papillomatosis
+NCIT:C6882	carcinoma serous_micropapillary_carcinoma
+NCIT:C6885	thymoma mixed_lymphoepithelial
+NCIT:C6887	thymoma lymphocyte_predominant
+NCIT:C6888	thymoma cortical
+NCIT:C6890	melanocytosis
+NCIT:C6894	solitary_fibrous_tumour malignant
+NCIT:C6899	adenomyoepithelioma
+NCIT:C6900	epithelioid_trophoblastic_tumour
+NCIT:C6902	chordoma chondroid
+NCIT:C6904	primitive_neuroectodermal_tumour-medulloblastoma large_cell
+NCIT:C6905	liponeurocytoma
+NCIT:C6906	atypical_teratoid-rhabdoid_tumour
+NCIT:C6907	meningioma metaplastic
+NCIT:C6908	meningioma chordoid
+NCIT:C6909	meningioma rhabdoid
+NCIT:C6911	perineurioma
+NCIT:C6912	perineurioma
+NCIT:C6915	lymphoid_neoplasm primary_effusion_lymphoma
+NCIT:C6918	lymphoid_neoplasm subcutaneous_panniculitis-like_T_cell_lymphoma
+NCIT:C6919	lymphoid_neoplasm precursor_T_cell_lymphoblastic_lymphoma
+NCIT:C6921	lymphoid_neoplasm Langerhans_cell_sarcoma
+NCIT:C6934	gangliocytoma
+NCIT:C6959	glioma oligoastrocytoma_Grade_III
+NCIT:C6963	neuroblastic_tumour
+NCIT:C6966	pineocytoma
+NCIT:C6967	pineal_parenchymal_tumour_of_intermediate_differentiation
+NCIT:C6970	schwannoma melanotic
+NCIT:C6975	carcinoma papillary_renal_cell_carcinoma
+NCIT:C6984	carcinoma sarcomatoid_carcinoma
+NCIT:C6985	invasive_mole
+NCIT:C6990	embryonal_tumour
+NCIT:C6991	hyperplasia simple-atypical
+NCIT:C7010	germ_cell_tumour embryonal_carcinoma
+NCIT:C7011	germ_cell_tumour yolk_sac_tumour
+NCIT:C7015	germ_cell_tumour teratoma
+NCIT:C7016	germ_cell_tumour mixed
+NCIT:C7017	granular_cell_tumour
+NCIT:C7018	neurothekeoma myxoid
+NCIT:C7029	heterotopic_gastric_mucosa
+NCIT:C7033	hyperplastic_polyp
+NCIT:C7041	adenoma tubular
+NCIT:C7052	myofibroma
+NCIT:C7053	haemangioma cavernous
+NCIT:C7058	atypical_Spitzoid_tumour
+NCIT:C7065	lymphoid_neoplasm
+NCIT:C7072	oncocytoma
+NCIT:C7075	myofibroblastic_tumour
+NCIT:C7091	malignant_melanoma
+NCIT:C7103	
+NCIT:C7130	intracholecystic_papillary_neoplasm
+NCIT:C7155	chondrosarcoma conventional
+NCIT:C7161	benign_melanocytic_nevus melanocytic_tumour
+NCIT:C71720	lymphoid_neoplasm primary_central_nervous_system_lymphoma
+NCIT:C7203	haematopoietic_neoplasm blastic_plasmacytoid_dendritic_cell_neoplasm
+NCIT:C72074	carcinoid-endocrine_tumour atypical
+NCIT:C7218	lymphoid_neoplasm follicular_lymphoma
+NCIT:C7224	lymphoid_neoplasm plasmablastic_lymphoma
+NCIT:C7230	lymphoid_neoplasm MALT_lymphoma
+NCIT:C7251	carcinoma
+NCIT:C7267	carcinoma large_cell_neuroendocrine_carcinoma
+NCIT:C7281	low_malignant_potential_(borderline)_tumour seromucinous
+NCIT:C7282	adenoma mixed
+NCIT:C7290	sex_cord-stromal_tumour fibroma-thecoma-fibrothecoma
+NCIT:C7295	lymphoid_neoplasm Hodgkin_lymphoma
+NCIT:C7301	lymphoid_neoplasm hairy_cell_leukaemia
+NCIT:C7305	lymphoid_neoplasm lymphoplasmacytic_lymphoma
+NCIT:C7306	lymphoid_neoplasm mantle_cell_lymphoma
+NCIT:C7308	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C7313	adenoma serous
+NCIT:C7317	adenoma adenosarcoma
+NCIT:C7327	germ_cell_tumour seminoma
+NCIT:C7328	germ_cell_tumour seminoma
+NCIT:C7355	carcinoma transitional_cell_carcinoma
+NCIT:C7356	carcinoma adenosquamous_carcinoma
+NCIT:C7357	chondrosarcoma peripheral
+NCIT:C7359	carcinoma adenocarcinoma
+NCIT:C7368	adnexal_tumour pilomatricoma
+NCIT:C7373	carcinoma nasopharyngeal_carcinoma
+NCIT:C7377	ciliated_muconodular_papillary_tumour
+NCIT:C7381	carcinoma papillary_carcinoma
+NCIT:C7383	carcinoma transitional_cell_carcinoma
+NCIT:C7387	hepatic_small_vessel_neoplasm
+NCIT:C7402	lymphoid_neoplasm hairy_cell_leukaemia
+NCIT:C7412	acinar-ductal_metaplasia
+NCIT:C7415	nephrogenic_adenoma
+NCIT:C7419	acanthoma_BRAF_inhibitor_related
+NCIT:C7436	dysplasia
+NCIT:C7440	papilloma typical
+NCIT:C7445	glioma astrocytoma
+NCIT:C7457	haemangioma capillary
+NCIT:C7461	adenoma GH
+NCIT:C7462	adenoma ACTH
+NCIT:C7464	haematopoietic_neoplasm acute_leukaemia_of_ambiguous_lineage
+NCIT:C7484	neoplasm
+NCIT:C7492	carcinoma ameloblastic_carcinoma
+NCIT:C7501	odontogenic_myxoma
+NCIT:C7504	cystic_nephroma
+NCIT:C7528	lymphoid_neoplasm angioimmunoblastic_T_cell_lymphoma
+NCIT:C7533	glioma astrocytoma_Grade_I
+NCIT:C7539	lymphoid_neoplasm T_cell_leukaemia_not_otherwise_specified
+NCIT:C7541	retinoblastoma
+NCIT:C7542	Askins_tumour
+NCIT:C7550	carcinoma serous_carcinoma
+NCIT:C7558	carcinoma
+NCIT:C7563	adnexal_tumour hidradenoma
+NCIT:C7569	thymic_carcinoma
+NCIT:C7571	benign_melanocytic_nevus
+NCIT:C7572	carcinoma renal_medullary_carcinoma
+NCIT:C7575	fibroepithelial_neoplasm phyllodes_tumour
+NCIT:C7580	adnexal_tumour
+NCIT:C7581	adnexal_tumour malignant_adnexal_tumour
+NCIT:C7582	benign_melanocytic_nevus nevus_of_Ito
+NCIT:C7583	benign_melanocytic_nevus nevus_of_Ota
+NCIT:C7588	haematopoietic_neoplasm acute_myeloid_leukaemia_myelodysplastic_syndrome_NOS
+NCIT:C7591	neuroblastoma
+NCIT:C7596	myoepithelial_carcinoma
+NCIT:C7600	haematopoietic_neoplasm acute_myeloid_leukaemia_associated_with_MDS
+NCIT:C7601	lymphoid_neoplasm MALT_lymphoma
+NCIT:C7631	mesothelioma
+NCIT:C7633	mesothelioma
+NCIT:C7634	solitary_fibrous_tumour
+NCIT:C7673	lobular_endocervical_glandular_hyperplasia
+NCIT:C7699	adenoma
+NCIT:C7700	carcinoma adenocarcinoma
+NCIT:C7709	carcinoid-endocrine_tumour
+NCIT:C7712	malignant_melanoma
+NCIT:C7718	carcinoma adenocarcinoma
+NCIT:C7720	adenoma
+NCIT:C7724	carcinoma
+NCIT:C7733	germ_cell_tumour choriocarcinoma
+NCIT:C7736	carcinoma squamous_cell_carcinoma
+NCIT:C7743	leukoplakia-hyperplakia-erythroplakia
+NCIT:C7755	Peutz-Jeghers_polyp
+NCIT:C7758	carcinoma lymphoepithelioma_like_carcinoma
+NCIT:C78182	bile_duct_stenosis
+NCIT:C7888	carcinoma adenocarcinoma
+NCIT:C7889	carcinoma adenocarcinoma
+NCIT:C7913	malignant_melanoma
+NCIT:C7927	carcinoma adenocarcinoma
+NCIT:C7930	lymphoid_neoplasm lymphomatoid_granulomatosis
+NCIT:C79545	actinic_cheilitis
+NCIT:C79748	atrophy
+NCIT:C7977	carcinoma acinar_carcinoma
+NCIT:C7979	carcinoma endometrioid_carcinoma
+NCIT:C7982	carcinoma small_cell_carcinoma
+NCIT:C7983	low_malignant_potential_(borderline)_tumour endometrioid
+NCIT:C7985	mesothelioma epithelial
+NCIT:C7986	malignant_melanoma spindle
+NCIT:C7991	carcinoma squamous_cell_carcinoma
+NCIT:C79948	solitary_fibrous_tumour dedifferentiated
+NCIT:C79950	paraganglioma benign
+NCIT:C7997	thymoma epithelial_predominant
+NCIT:C8000	germ_cell_tumour yolk_sac_tumour
+NCIT:C8011	adenoma GH-PRL-TSH
+NCIT:C8013	carcinoma acinic_cell_carcinoma
+NCIT:C8014	carcinoma basal_cell_carcinoma
+NCIT:C8021	carcinoma adenocarcinoma
+NCIT:C8026	carcinoma adenoid_cystic_carcinoma
+NCIT:C8028	carcinoma clear_cell_carcinoma
+NCIT:C80281	lymphoid_neoplasm diffuse_large_B_cell_of_the_elderly
+NCIT:C80291	lymphoid_neoplasm B_cell_lymphoma_unclassifiable_with_features_intermediate_between_DLBCL_and_Burkitt_lymphoma
+NCIT:C80309	lymphoid_neoplasm diffuse_red_pulp_small_B_cell_lymphoma
+NCIT:C80310	lymphoid_neoplasm chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma
+NCIT:C80373	lymphoid_neoplasm EBV_positive_T_cell_lymphoproliferative_disease
+NCIT:C8054	carcinoma follicular_carcinoma
+NCIT:C8099	carcinoma squamous_cell_carcinoma
+NCIT:C8106	germ_cell_tumour dysgerminoma
+NCIT:C8107	germ_cell_tumour yolk_sac_tumour
+NCIT:C8108	germ_cell_tumour embryonal_carcinoma
+NCIT:C8110	germ_cell_tumour teratoma
+NCIT:C8114	germ_cell_tumour mixed
+NCIT:C8178	carcinoma mucoepidermoid_carcinoma
+NCIT:C8183	carcinoma squamous_cell_carcinoma
+NCIT:C82217	lymphoid_neoplasm NK_cell_leukaemia
+NCIT:C82338	haematopoietic_neoplasm myeloproliferative_neoplasm
+NCIT:C82431	haematopoietic_neoplasm acute_myeloid_leukaemia
+NCIT:C8252	haematopoietic_neoplasm acute_myeloid_leukaemia_therapy_related
+NCIT:C8267	sarcoma
+NCIT:C8284	lymphoid_neoplasm AIDS_related_lymphoma
+NCIT:C82887	chronic_sclerosing_sialadenitis
+NCIT:C8295	papilloma
+NCIT:C82995	hyperplasia microglandular
+NCIT:C8300	desmoplastic_small_round_cell_tumour
+NCIT:C83176	serrated_polyp
+NCIT:C8355	hyperplasia atypical
+NCIT:C8356	lobular_endocervical_glandular_hyperplasia
+NCIT:C8360	intestinal_metaplasia
+NCIT:C8361	metaplasia
+NCIT:C8371	Overgrowth_syndrome Proteus_syndrome
+NCIT:C8380	malignant_fibrous_histiocytoma-pleomorphic_sarcoma giant_cell
+NCIT:C8402	indeterminate_fibrohistiocytic_tumour
+NCIT:C8422	cemento-ossifying_fibroma
+NCIT:C8423	malignant_melanoma in_situ_melanotic_neoplasm
+NCIT:C8427	paraganglioma benign
+NCIT:C84276	haematopoietic_neoplasm myeloid_neoplasm_with_PDGFRB_rearrangement
+NCIT:C84347	glioma astroblastoma_Grade_III
+NCIT:C8436	hyperplasia atypical_ductal_hyperplasia
+NCIT:C8459	lymphoid_neoplasm hepatosplenic_T_cell_lymphoma
+NCIT:C8461	adamantinoma
+NCIT:C84637	chronic_pancreatitis
+NCIT:C84834	Overgrowth_syndrome Proteus_syndrome
+NCIT:C8501	glioma
+NCIT:C85032	Overgrowth_syndrome Proteus_syndrome
+NCIT:C85189	thyroglossal_cyst
+NCIT:C8537	neoplasm
+NCIT:C8538	sarcoma
+NCIT:C8559	paraganglioma malignant
+NCIT:C8562	malignant_melanoma
+NCIT:C8563	malignant_fibrous_histiocytoma-pleomorphic_sarcoma
+NCIT:C8566	neoplasm of_unknown_primary
+NCIT:C8591	germ_cell_tumour
+NCIT:C8612	peritoneal_mucinous_surface_proliferation_benign
+NCIT:C8614	neoplasm
+NCIT:C8644	lymphoid_neoplasm acute_lymphoblastic_B_cell_leukaemia
+NCIT:C8647	lymphoid_neoplasm NK_cell_leukaemia
+NCIT:C8715	carcinoma rhabdoid_renal_cell_carcinoma
+NCIT:C8719	carcinoma squamous_cell_carcinoma
+NCIT:C8810	osteosarcoma
+NCIT:C8851	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C88537	nephrogenic_rest
+NCIT:C8863	lymphoid_neoplasm MALT_lymphoma
+NCIT:C8881	choriocarcinoma
+NCIT:C8885	germ_cell_tumour teratoma
+NCIT:C8893	choriocarcinoma
+NCIT:C8936	lymphoid_neoplasm B_lymphoblastic_leukaemia-lymphoma
+NCIT:C8957	lichen_sclerosus
+NCIT:C8965	Overgrowth_syndrome lymphangioma
+NCIT:C8969	osteosarcoma parosteal
+NCIT:C8970	osteosarcoma periosteal
+NCIT:C8971	rhabdomyosarcoma embryonal
+NCIT:C8972	undifferentiated_endometrial_sarcoma
+NCIT:C8973	endometrial_stromal_sarcoma
+NCIT:C8984	adenoma adenofibroma
+NCIT:C8990	carcinoma
+NCIT:C8993	carcinoma
+NCIT:C8997	blastoma
+NCIT:C9003	adrenal_cortical_adenoma
+NCIT:C9005	malignant_tumour
+NCIT:C9006	seborrhoeic_keratosis
+NCIT:C9039	carcinoma
+NCIT:C9055	carcinoma epithelial-myoepithelial
+NCIT:C9061	carcinoma
+NCIT:C9063	germ_cell_tumour malignant
+NCIT:C9087	Kaposi_sarcoma
+NCIT:C9110	haematopoietic_neoplasm blast_phase_chronic_myeloid_leukaemia
+NCIT:C9118	
+NCIT:C9119	carcinoma medullary_carcinoma
+NCIT:C9120	carcinoma ductal_carcinoma
+NCIT:C9133	carcinoma mixed_adenosquamous_carcinoma
+NCIT:C9137	carcinoma mixed_large_cell_carcinoma-small_cell_carcinoma
+NCIT:C9145	osteosarcoma
+NCIT:C9148	Wilms_tumour fetal_rhabdomyomatous_nephroblastoma
+NCIT:C9149	metanephric_adenosarcoma
+NCIT:C9151	malignant_melanoma lentigo_maligna
+NCIT:C9152	malignant_melanoma superficial_spreading
+NCIT:C9157	carcinoma intestinal_adenocarcinoma
+NCIT:C9159	carcinoma diffuse_adenocarcinoma
+NCIT:C9161	carcinoma squamous_cell_carcinoma
+NCIT:C9166	carcinoma adenocarcinoma
+NCIT:C9167	carcinoma undifferentiated_carcinoma
+NCIT:C9170	carcinoma squamous_cell_carcinoma
+NCIT:C9182	desmoid_tumour-fibromatosis
+NCIT:C9192	carcinoma carcinosarcoma-malignant_mesodermal_mixed_tumour
+NCIT:C9224	oesophagitis
+NCIT:C9231	carcinoma Merkel_cell_carcinoma
+NCIT:C9233	haematopoietic_neoplasm juvenile_myelomonocytic_leukaemia
+NCIT:C9245	carcinoma luminal_NS_carcinoma
+NCIT:C92552	glioma angiocentric
+NCIT:C92554	papillary_glioneuronal_tumour
+NCIT:C92624	papillary_tumour_of_the_pineal_region
+NCIT:C92647	malignant_peripheral_nerve_sheath_tumour with_rhabdomyoblastic_differentiation
+NCIT:C9265	lymphoid_neoplasm mycosis_fungoides-Sezary_syndrome
+NCIT:C92652	solitary_fibrous_tumour malignant
+NCIT:C9272	carcinoma
+NCIT:C9281	lymphoid_neoplasm follicular_dendritic_cell_sarcoma
+NCIT:C9282	lymphoid_neoplasm interdigitating_dendritic_cell_sarcoma
+NCIT:C9284	haematopoietic_neoplasm acute_myeloid_leukaemia_associated_with_mastocytosis
+NCIT:C9285	haematopoietic_neoplasm mast_cell_neoplasm
+NCIT:C9292	solid_neoplasm
+NCIT:C9293	neoplasm
+NCIT:C9294	lymphoid_neoplasm malignant_histiocytosis
+NCIT:C9295	haematopoietic_neoplasm mast_cell_neoplasm
+NCIT:C9296	carcinoma adenocarcinoma
+NCIT:C9297	carcinoma
+NCIT:C9300	haematopoietic_neoplasm acute_leukaemia
+NCIT:C9301	lymphoid_neoplasm primary_central_nervous_system_lymphoma
+NCIT:C9305	cancer
+NCIT:C9306	sarcoma
+NCIT:C9312	sarcoma
+NCIT:C9313	germ_cell_tumour non_seminoma
+NCIT:C9325	adrenal_cortical_carcinoma
+NCIT:C9343	neoplasm
+NCIT:C9344	primitive_neuroectodermal_tumour-medulloblastoma pineoblastoma
+NCIT:C9347	carcinoma adenocarcinoma
+NCIT:C9348	haematopoietic_neoplasm mast_cell_neoplasm
+NCIT:C9349	lymphoid_neoplasm plasmacytoma
+NCIT:C9351	mesothelioma
+NCIT:C9357	lymphoid_neoplasm Hodgkin_lymphoma
+NCIT:C9377	glioma oligodendroglioma_Grade_II
+NCIT:C9379	carcinoma mixed_small_cell_carcinoma-adenocarcinoma
+NCIT:C9382	carcinoma adenocarcinoma
+NCIT:C9383	carcinoma adenocarcinoma
+NCIT:C9384	carcinoma mixed_renal_cell_carcinoma
+NCIT:C9385	carcinoma mixed_renal_cell_carcinoma
+NCIT:C9423	carcinoma mixed_small_cell_carcinoma-squamous_cell_carcinoma
+NCIT:C94408	perforating_folliculitis
+NCIT:C94524	pituicytoma
+NCIT:C94537	spindle_cell_oncocytoma
+NCIT:C9459	low_malignant_potential_(borderline)_tumour Brenner_tumour
+NCIT:C9461	carcinoma small_cell_carcinoma
+NCIT:C9462	carcinoma adenoid_cystic_carcinoma
+NCIT:C9466	carcinoma
+NCIT:C94676	in_situ_neoplasm cervical_intraepithelial_neoplasia_Grade_II
+NCIT:C9473	adenoma
+NCIT:C9475	glioma astrocytoma
+NCIT:C9476	glioma astrocytoma_Grade_I
+NCIT:C9477	glioma astrocytoma_Grade_III
+NCIT:C9482	chondroma
+NCIT:C94828	Overgrowth_syndrome
+NCIT:C9495	hyperplasia radial_scar
+NCIT:C9505	dysembryoplastic_neuroepithelial_tumour
+NCIT:C95331	dysplasia
+NCIT:C95437	acute_pancreatitis
+NCIT:C95458	carcinoma mixed_acinar-ductal_carcinoma
+NCIT:C95460	carcinoma mixed_acinar-neuroendocrine-ductal_carcinoma
+NCIT:C95466	carcinoma medullary_carcinoma
+NCIT:C95582	carcinoma large_cell_neuroendocrine_carcinoma
+NCIT:C95583	carcinoma small_cell_carcinoma
+NCIT:C95595	carcinoid-endocrine_tumour somatostatinoma
+NCIT:C95596	carcinoid-endocrine_tumour gastrinoma
+NCIT:C95597	carcinoid-endocrine_tumour glucagonoma
+NCIT:C95598	carcinoid-endocrine_tumour insulinoma
+NCIT:C95599	carcinoid-endocrine_tumour vipoma
+NCIT:C95608	carcinoma sarcomatoid_carcinoma
+NCIT:C95749	choriocarcinoma
+NCIT:C95754	dysplasia
+NCIT:C95884	carcinoma neuroendocrine
+NCIT:C95901	schwannoma
+NCIT:C95902	plexiform_angiomyxoid_myofibroblastic_tumour
+NCIT:C95909	dysplasia-in_situ_neoplasm
+NCIT:C96055	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C96073	paraganglioma gangliocytic
+NCIT:C96156	carcinoma neuroendocrine_carcinoma
+NCIT:C96158	carcinoma mixed_adenoneuroendocrine_carcinoma
+NCIT:C96160	carcinoid-endocrine_tumour
+NCIT:C96183	reactive_fibroblastic_proliferation
+NCIT:C96415	serrated_polyp
+NCIT:C96416	serrated_polyp hyperplastic_polyp
+NCIT:C96421	high_grade_mucinous_neoplasm
+NCIT:C96463	serrated_polyp serrated_adenoma
+NCIT:C96464	serrated_polyp
+NCIT:C96469	serrated_polyp admixed_hyperplastic_polyp-adenoma
+NCIT:C96474	hamartoma
+NCIT:C96475	hamartoma
+NCIT:C96477	adenoma tubular
+NCIT:C96485	carcinoma serrated_carcinoma
+NCIT:C96487	carcinoma serrated_carcinoma
+NCIT:C96503	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C96505	lymphoid_neoplasm mantle_cell_lymphoma
+NCIT:C96508	sarcoma
+NCIT:C96513	serrated_polyp serrated_fibroblastic_polyp-intramucosal_perineurioma
+NCIT:C96699	adnexal_tumour hidradenoma_papilliferum
+NCIT:C96830	nested_stromal_epithelial_tumour
+NCIT:C96839	haemangioma cavernous
+NCIT:C96843	lymphoid_neoplasm diffuse_large_B_cell_lymphoma
+NCIT:C96846	haemangioendothelioma epithelioid
+NCIT:C96848	carcinoma carcinosarcoma
+NCIT:C96888	carcinoma carcinosarcoma
+NCIT:C96924	carcinoid-endocrine_tumour
+NCIT:C96945	intraepithelial_neoplasia
+NCIT:C96963	carcinoma
+NCIT:C97051	carcinoma lobular_carcinoma
+NCIT:C97083	epithelial_hyperplasia
+NCIT:C97114	atrophy
+NCIT:C97117	pseudocyst
+NCIT:C97124	pulmonary_sequestration
+NCIT:C98291	germ_cell_tumour teratoma
+NCIT:C98882	fetal_lung_interstitial_tumour
+NCIT:C99107	splanchnic_vein_thrombosis
+NCIT:C99180	infantile_fibromatosis

@@ -1,0 +1,3060 @@
+DrugName
+(+)-JQ1
+(+)-Usniacin
+(+/-)-SULFINPYRAZONE
+(-)-Blebbistatin
+(-)-Gossypol
+(-)-Indolactam V
+(?-Taxifolin
+(R)-PFI-2
+(S)-(+)-Niguldipine
+1-(5-DEOXYPENTOFURANOSYL)-5-FLUORO-4-{[(PENTYLOXY)CARBONYL]AMINO}PYRIMIDIN-2(1H)-ONE
+10-Deacetylbaccatin
+10-hydroxycamptothecin
+10058-F4
+10074-G5
+16,16-dimethyl PGE2
+17 alpha-propionate
+17-Methyltestosterone
+17-hydroxy Wortmannin
+17_-hydroxy Wortmannin
+2',3'-Dideoxyinosine
+2-Deoxyglucose
+2-Fluoro Ara-A
+2-Fluoroadenosine
+2-Iminobiotin
+2-Methoxyestradiol
+2-Methoxyestradiol (2-MeOE2)
+20-hydroxyecdysone
+3-AMINO-2-OXAZOLIDINONE
+3-BDO
+3-Bromopyruvate
+3-Deazaneplanocin A
+3-Methyladenine
+3-indolebutyric acid
+34793-34-5
+4'-Epiadriamycin
+4-AMINOSALICYLIC ACID
+4-Hydroxyandrostenedione
+4-Methylumbelliferone
+4-Quinazolinamine
+4SC-202
+5,7-Dihydroxyflavone
+5-Azacitidine
+5-FLUORO-2'-DEOXYURIDINE
+5-FU
+5-Hydroxytryptophan
+6-Bromoindirubin-3'-acetoxime
+6-HYDROXYBUSPIRONE
+6-Thioguanine
+6-mercaptopurine
+7-Aminocephalosporanic acid
+7-Ethyl-10-hydroxycamptothecin
+7-Hydroxystaurosporine
+8-Cl-Ado
+842166X
+9-cis-Retinoic acid
+A 438079
+A 804598
+A-1210477
+A-196
+A-366
+A-419259
+A-443654
+A-485
+A-66
+A-674563
+A-740003
+A-769662
+A-770041
+A-803467
+A-83-01
+A-839977
+A-922500
+A-966492
+A77 1726
+ABACAVIR
+ABC-294640
+ABT-702
+ABT-737
+ABT-888
+AC-261066
+AC-265347
+AC-480
+ACAMPROSATE
+ACAMPROSATE CALCIUM
+ACC-789
+ACC1 BMS
+ACETAZOLAMIDE
+ACETOHEXAMIDE
+ACETOHYDROXAMIC ACID
+ACPA
+ACTB-1003
+ACY-1215
+ACY-738
+ACY-775
+ADL-5859
+ADM HYDROCHLORIDE
+ADW-742
+ADX-47273
+AEE-788
+AG-041R
+AG-1024
+AG-13958
+AG-14361
+AG-1478
+AG-881
+AGI-5198
+AGI-6780
+AGN-194204
+AHPN
+AIM-100
+AKT Inhibitor VIII
+AL-8697
+ALBENDAZOLE
+ALISKIREN
+ALW-II-41-27
+AM-5992
+AM-630
+AMANTADINE
+AMD-3465
+AMG PERK 44
+AMG-1
+AMG-208
+AMG-232
+AMG-25
+AMG-319
+AMG-337
+AMG-458
+AMG-47a
+AMG-51
+AMG-511
+AMG-548
+AMG-837
+AMG-900
+AMG-925 (FLX925)
+AMG-Tie2-1
+AMILORIDE
+AN-2728
+ANTIBIOTIC AD 32
+ANTIBIOTIC AY 22989
+AP-26113
+AP-761
+AP-768
+APR-246
+APTO-253
+APY29
+AQX-MN-100
+AR-00341677
+AR-42
+AR-7
+AR-C155858
+ARMODAFINIL
+ARQ-621
+ARRY-162
+ARRY-380
+ARRY-520
+ARS-853
+ARV-771
+ARV-825
+AS-1940477
+AS-1949490
+AS-252424
+AS-602801
+AS-604850
+AS-605240
+ASENAPINE
+ASP-3026
+ASP-9521
+ASR-isobudimer-SO2Ph-4-CH2OC(O)NMe2
+AST-1306
+AST-487
+AT-13148
+AT-406
+AT-7519
+AT-7867
+AT-9283
+AT-IAP
+ATENOLOL
+ATN-161
+AV-412
+AVN-944
+AVN944
+AX-024
+AZ-10606120
+AZ-11645373
+AZ-191
+AZ-23
+AZ-3146
+AZ-628
+AZ-82
+AZ-9482
+AZ-960
+AZ-TAK1 Inhibitor
+AZACYTIDINE
+AZATADINE
+AZD-0156
+AZD-1208
+AZD-1480
+AZD-2461
+AZD-26
+AZD-2858
+AZD-3147
+AZD-3264
+AZD-3463
+AZD-3514
+AZD-3759
+AZD-3965
+AZD-4547
+AZD-5153 6-Hydroxy-2-naphthoic acid
+AZD-5363
+AZD-5438
+AZD-6482
+AZD-6738
+AZD-7545
+AZD-7762
+AZD-8055
+AZD-8186
+AZD-8330
+AZD-8797
+AZD-8835
+AZD-9496 maleate
+AZD1152
+AZD1775
+AZD9668
+Abametapir
+Abemaciclib
+Abexinostat
+Abiraterone
+Ac-SAH-p53-8
+Acadesine
+Acalabrutinib
+Acalisib
+Acarbose
+Acemetacin
+Acetaminophen
+Acetylcysteine
+Aciclovir
+Acipimox
+Acitazanolast
+Acitretin
+Aclarubicin
+Acolbifene
+Actinomycin D
+Adapalene
+Adefovir dipivoxil
+Adenosine
+Aderbasib
+Adomeglivant
+Afatinib
+Afuresertib (GSK2110183)
+Agomelatine
+Ak-7
+Akt-I-1
+Akt-I-1,2
+Alacepril
+Albendazole oxide
+Aldoxorubicin hydrochlorid
+Alectinib (CH5424802)
+Alendronate
+Alendronate (Fosamax)
+Alfacalcidol
+Alfuzosin hydrochloride
+Alibendol
+Alisertib
+Aliskiren hemifumarate
+Allopurinol
+Almotriptan
+Aloe-emodin
+Aloin
+Aloperine
+Aloxistatin
+Alpelisib
+Alprostadil
+Altiratinib
+Altretamine
+Alvespimycin hydrochloride
+Alvimopan
+Amantadine hydrochloride
+Amastatin
+Ambrisentan
+Amcasertib
+Amifostine
+Amiloride hydrochloride
+Aminocaproic acid
+Aminoglutethimide
+Aminolevulinic acid hydrochloride
+Aminopterin
+Amiodarone hydrochloride
+Amiselimod hydrochloride
+Amisulpride
+Amlexanox
+Amodiaquin dihydrochloride dihydrate
+Amonafide
+Amorolfine hydrochloride
+Amoxapine
+Amoxicillin sodium
+Ampanel
+Amphotericin B
+Amprenavir
+Amrubicin
+Amsacrine
+Amuvatinib
+Amygdalin
+Anacetrapib
+Anagrelide
+Anamorelin
+Anastrozole
+Andarine
+Andrographolide
+Aniracetam
+Anlotinib
+Ansamitocin P3
+Antimycin A
+Apalutamide
+Apatinib
+Apaziquone
+Apigenin
+Apilimod
+Apixaban
+Apratastat
+Aprepitant
+Apresoline
+Arbidol
+Arbutin
+Arecoline
+Argatroban
+Arglabin
+Aripiprazole
+Arsenic trioxide
+Artefanilide
+Artemether
+Artemisinin
+Artenimol
+Arterolane
+Artesanilide
+Artesunate
+Asaraldehyde
+Asciminib
+Asenapine maleate
+Asiatic acid
+Aspartame
+Aspirin
+Astragaloside A
+Ataciguat
+Atazanavir sulfate
+Atiprimod
+Atorvastatin calcium
+Atovaquone
+Atractylenolide I
+Atrasentan
+Atropine
+Atuveciclib
+Auranofin
+Aurantiamarin (Methyl Hesperidin)
+Aurora A Inhibitor I
+Avacopan
+Avadomide
+Avagacestat
+Avasimibe
+Avitinib
+Avobenzone
+Axitinib
+Azacitidine
+Azalomycin-B
+Azasetron hydrochloride
+Azathioprine
+Azelastine hydrochloride
+Azelnidipine
+Azithromycin
+Azixa
+Azomycin
+Aztreonam
+BACLOFEN
+BAF-312
+BAG-956
+BAM-7
+BAY-1125976
+BAY-1161909
+BAY-1217389
+BAY-1436032
+BAY-1895344
+BAY-356
+BAY-41-2272
+BAY-41-8543
+BAY-60-7550
+BAY-876
+BAY61-3606
+BCL6 Inhibitor
+BD-1047
+BETAMETHASONE
+BEZ-235
+BFH-772
+BGB-3111
+BGP-15
+BI-2536
+BI-7273
+BI-78D3
+BI-847325
+BI-9564
+BI-D1870
+BI09
+BIBR-1048
+BIBR-1532
+BIO
+BIX-01294
+BIX-02189
+BIX-02565
+BIX02188
+BKM-120
+BLEOMYCIN
+BLU-554
+BLU-9931
+BLZ-945
+BML-277
+BMN-673
+BMS-2
+BMS-202
+BMS-214662
+BMS-265246
+BMS-299897
+BMS-3
+BMS-345541
+BMS-378806
+BMS-4
+BMS-5
+BMS-509744
+BMS-536924
+BMS-582949
+BMS-587101
+BMS-595
+BMS-599626
+BMS-687453
+BMS-690514
+BMS-707035
+BMS-754807
+BMS-777607
+BMS-794833
+BMS-806 (BMS 378806)
+BMS-833923
+BMS-906024
+BMS-911543
+BMS-983970
+BMS-986020
+BMS-986158
+BMS-986205
+BOSENTAN
+BP-1-102
+BPTES
+BQ-123
+BQU-57
+BRETYLIUM TOSYLATE
+BRL-15572
+BS-181
+BS-194
+BTM-2C-dimer allyl oxime
+BTM-2C-dimer ketone
+BTZ-10526043
+BUSPIRONE
+BVT-14225
+BVT-3498
+BX-471
+BX-795
+BX-912
+Bacitracin (Zinc)
+Bacitracin zinc
+Bafetinib
+Bafilomycin A1
+Baicalein
+Baicalin
+Balicatib
+Balofloxacin
+Balsalazide disodium
+Banoxantrone
+Barasertib
+Bardoxolone methyl
+Baricitinib
+Basmisanil
+Batimastat
+Bay-65-1942 hydrochloride
+Bayer-18
+Bazedoxifene
+Belinostat
+Belizatinib
+Belotecan
+Bemcentinib
+Benazepril
+Bendamustine
+Benserazide
+Benzamil
+Bepridil
+Berberine
+Bergenin
+Berzosertib
+Betaine
+Betamethasone dipropionate
+Betamethasone valerate
+Betanin
+Betaxolol
+Betaxolol hydrochloride
+Bethanechol chloride
+Betulinic acid
+Bexarotene
+Biapenem
+Bicalutamide
+Bifemelane
+Bilobalide
+Bimatoprost
+Bimiralisib
+Bindarit
+Biochanin A
+Bioymifi
+Biperiden
+Birabresib
+Birinapant
+Bisindolylmaleimide
+Bisoprolol
+Blebbistatin
+Bleomycin sulfate
+Bortezomib
+Bosutinib
+Brequinar
+Briciclib
+Brigatinib
+Brilanestrant
+Brincidofovir
+Brintellix
+Brivanib
+Brivudine
+Bromhexine hydrochloride
+Bruceantin
+Budesonide
+Bufexamac
+Buflomedil hydrochloride
+Bumetanide
+Buprenorphine hydrochloride
+Bupropion hydrochloride
+Busulfan
+Buthionine sulphoximine
+Butoconazole nitrate
+Butylscopolamine bromide
+C-188-9
+C-646
+C75
+CA-074 Me
+CAA-0225
+CANRENONE
+CAP-232
+CARBACHOL
+CARGLUMIC ACID
+CASIN
+CAY-10581
+CAY-10626
+CAY10505
+CB 300919
+CB-5083
+CB-839
+CBL-0137
+CC-115
+CC-223
+CC-401
+CC-885
+CCT-018159
+CCT-128930
+CCT-129202
+CCT-137690
+CCT-241533
+CCT-244747
+CCT-251545
+CCT-251921
+CCT251236
+CDIBA
+CDK8i-51
+CDK9 Inhibitor
+CEFMENOXIME
+CEP-32496
+CEP-33779
+CEP-37440
+CEP-40783
+CEP28122
+CERIVASTATIN
+CEVIMELINE
+CFI-400945
+CFI-402257
+CGI-1746
+CGM-097
+CGP-60474
+CGP-74588 (N-Desmethyl imatinib)
+CGS-21680
+CH-5132799
+CH-5183284
+CHEMBL17639
+CHEMBL277800
+CHIR-124
+CHIR-265
+CHLORPHENESIN
+CHLORZOXAZONE
+CHZ868
+CI-966
+CILASTATIN
+CINACALCET
+CISAPRIDE
+CISPLATINO
+CITALOPRAM
+CITCO
+CK-59
+CL-82198
+CLOFIBRIC ACID
+CLOPIDOGREL
+CNF-2024
+CNX-2006
+CNX-774
+CO-V
+CP-346086
+CP-456773
+CP-466722
+CP-673451
+CP-724714
+CP-91149
+CPG-52364
+CPI-0610
+CPI-1189
+CPI-1205
+CPI-169 racemate
+CPI-203
+CPI-360
+CPI-4203
+CPI-444
+CPI-455
+CPI-613
+CPI-637
+CPI-703
+CT-98014
+CT-99021
+CTS-1027
+CUDC-101
+CUDC-305
+CUDC-427
+CUDC-907
+CVT-313
+CVT-6883
+CX-5461
+CX-6258
+CXC-195
+CYC-116
+CYCLOGUANIL
+Cabazitaxel
+Cabozantinib
+Caffeic acid
+Caffeine
+Calcitriol
+Calcitriol (Ro-21-5535)
+Calcium folinate
+Calhex-231
+Calindol
+Calmidazolium chloride
+Calpeptin
+Camostat
+Camptothecin
+Canagliflozin
+Canertinib
+Cannabidiol
+Cantharidin
+Capecitabine
+Capmatinib
+Capsaicin
+Carbazochrome sodium sulfonate
+Carbidopa
+Carboplatin
+Carboxyamidotriazole
+Cardiogenol
+Carfilzomib
+Carisoprodol
+Carmofur
+Carmustine
+Caroverine
+Carvedilol
+Cathepsin S Inhibitor
+Cdk4/6 Inhibitor IV
+Cebranopadol
+Cediranib
+Cefaclor
+Cefdinir
+Cefditoren pivoxil
+Cefoperazone (sodium salt)
+Cefoperazone sodium
+Cefoselis sulfate
+Cefprozil monohydrate
+Ceftiofur hydrochloride
+Celecoxib
+Celsentri (Maraviroc)
+Cephalexin
+Cephalomannine
+Cephradine
+Cerdulatinib
+Ceritinib
+Cerulenin
+Cetirizine hydrochloride
+Cevipabulin
+Chelerythrine chloride
+Chenodeoxycholic acid
+Chidamide
+Chlorambucil
+Chloramphenicol
+Chloramphenicol palmitate
+Chlorhexidine
+Chlormethine
+Chlormezanone
+Chloro-IB-MECA
+Chloropyramine hydrochloride
+Chloroquine
+Chlorothiazide
+Chloroxine
+Chlorphenamine maleate
+Cholic acid
+Chrysophanol
+Ciclesonide
+Ciclopirox
+Cidofovir
+Cilengitide
+Cilliobrevin D
+Cilomilast
+Cilostazol
+Cinacalcet hydrochloride
+Cinaciguat
+Cinchonidine
+Cinchonine dihydrochloride
+Ciprofibrate
+Ciprofloxacin
+Cisatracurium besylate
+Cisplatin
+Citalopram hydrobromide
+Citarinostat
+Cladribine
+Clarithromycin
+Clemastine fumarate
+Clemizole hydrochloride
+Clevudine
+Clindamycin
+Clindamycin HCl
+Clindamycin hydrochloride
+Clindamycin palmitate
+Clinofibrate
+Clobetasol propionate
+Clobetasone butyrate
+Clofarabine
+Clofibrate
+Clomifene citrate
+Clomiphene citrate
+Clomipramine hydrochloride
+Clonidine
+Clopidogrel bisulfate
+Clorsulon
+Clotrimazole
+Clozapine
+Cobimetinib
+Coenzyme Q10
+Colchicine
+Combretastatin A-4
+Compound 2
+Compound 22d
+Compound 36
+Compound 7
+Conivaptan hydrochloride
+Copanlisib
+Cordycepin
+Cortisone acetate
+Cortivazol
+Costunolide
+Crenigacestat
+Crenolanib
+Cridanimod
+Crizotinib
+Crotamiton
+Cryptotanshinone
+Cucurbitacin I
+Curcumin
+Curcumol
+Cutamesine hydrochloride
+Cyanein
+Cyclobenzaprine hydrochloride
+Cyclocytidine hydrochloride
+Cyclopamine
+Cyclophosphamide
+Cyclosporine A
+Cyclovirobuxin D
+Cymeval
+Cyprodime
+Cyproheptadine hydrochloride
+Cyproterone acetate
+Cytarabine
+Cytarabine hydrochloride
+Cytidine
+Cytisine
+D-106669
+D-159687
+D-4476
+D-942
+D-Cycloserine
+D-NMAPPD
+DA-3003-1
+DANTROLENE
+DASA-58
+DB-07268
+DCC-2036
+DCC-2618
+DE-096
+DESIPRAMINE HYDROCHLORIDE
+DESOXYCORTICOSTERONE PIVALATE
+DEXCHLORPHENIRAMINE
+DEXMEDETOMIDINE
+DEXTROMETHORPHAN
+DIAZOXIDE
+DICHLORPHENAMIDE
+DIDEOXYCYTIDINE 5'-TRIPHOSPHATE
+DIETHYLCARBAMAZINE
+DIGITOXIN
+DIHYDROARTEMISININ
+DIPHENIDOL
+DMEP
+DOPAMINE
+DOXAPRAM
+DRONEDARONE
+Dabigatran
+Dabrafenib
+Dacarbazine
+Dacinostat
+Daclatasvir dihydrochloride
+Dacomitinib
+Dactinomycin
+Daidzein
+Daidzin
+Dalcetrapib
+Daminozide
+Danirixin
+Danoprevir
+Danusertib
+Danusertib (PHA-739358)
+Dapagliflozin
+Daphnetin
+Daporinad
+Dapoxetine hydrochloride
+Daprodustat
+Daptomycin
+Darolutamide (ODM-201)
+Darunavir
+Dasatinib
+Daunorubicin
+Daunorubicin hydrochloride
+Deacetyl cortivazol
+Decernotinib
+Decitabine
+Decoquinate
+Defactinib
+Deferasirox
+Deferoxamine mesylate
+Deflazacort
+Degrasyn
+Deguelin
+Dehydroepiandrosterone
+Delanzomib
+Deltarasin
+Demecolcine
+Derazantinib
+Desonide
+Dexamethasone
+Dexanabinol
+Dexchlorpheniramine hydrochloride
+Dexrazoxane
+Dexrazoxane hydrochloride
+Dextromethorphan hydrobromide
+Diartefanilide
+Diclazuril
+Diclofenac sodium
+Diclofenamide
+Diclofensine
+Dienestrol
+Dienogest
+Diethylstilbestrol
+Digitoflavone
+Digoxin
+Dihydroergotamine
+Dihydromyricetin
+Diindolylmethane
+Diltiazem
+Diltiazem hydrochloride
+Dimethyl fumarate
+Dinaciclib
+Dinaciclib (SCH727965)
+Dioscin
+Diosgenin
+Diosmin
+Diphenhydramine hydrochloride
+Dipyridamole
+Disopyramide
+Disufenton sodium
+Disulfiram
+Dobutamine
+Docetaxel
+Docosanol
+Dofequidar
+Dofetilide
+Dolastatin 10
+Dolutegravir
+Domperidone
+Dopamine hydrochloride
+Doramapimod
+Doripenem
+Dorsomorphin
+Dorzolamide hydrochloride
+Double JS-K
+Dovitinib
+Doxazosin mesylate
+Doxepin
+Doxercalciferol
+Doxifluridine
+Doxofylline
+Doxorubicin
+Doxorubicin hydrochloride
+Doxycycline
+Dronedarone hydrochloride
+Drospirenone
+Droxinostat
+Duloxetine hydrochloride
+Dutasteride
+Duvelisib
+Dydrogesterone
+Dyphylline
+E-7010
+E-7449
+E-7820
+E5555
+EAI045
+EBPC
+EED-226
+EFLORNITHINE
+EL-102
+ELN-441958
+ELOXATIN (TN) (SANOFI SYNTHELAB)
+ELR-510444
+ELTROMBOPAG
+EMCYT (PHARMACIA)
+EMD-1214063
+EMD-534085
+EMD-638683
+EMPM
+ENALAPRILAT
+ENMD-981693
+ENTACAPONE
+EO-1428
+EOS-200271
+EPTIFIBATIDE
+EPZ-005687
+EPZ-015666
+EPZ-015866
+EPZ-020411
+EPZ-031686
+EPZ-5676
+EPZ004777
+EPZ011989
+ER 819762
+ETHAMBUTOL
+ETHINYL ESTRADIOL
+EZETIMIBE GLUCURONIDE
+Ecdysone
+Echinomycin
+Econazole nitrate
+Edaravone
+Eeyarestatin I
+Efaproxiral
+Efatutazone
+Efavirenz
+Eflornithine Hydrochloride
+Elacestrant
+Elacridar
+Elafibranor
+Elagolix
+Elesclomol (STA-4783)
+Eliprodil
+Ellagic acid
+Eltanexor
+Eltrombopag olamine
+Elvitegravir
+Embelin
+Emetine
+Emodin
+Emricasan
+Emtricitabine
+Enalapril maleate
+Enasidenib
+Encorafenib
+Endoxifen
+Englerin A
+Enoxacin
+Enoxolone
+Ensartinib
+Entecavir
+Entinostat
+Entospletinib
+Entrectinib
+Enzalutamide
+Enzastaurin
+Epacadostat
+Epalrestat
+Epiblastin A
+Epinephrine
+Epirubicin hydrochloride
+Episilvestrol
+Eplerenone
+Epothilone A
+Epothilone B
+Epothilone D
+Eprosartan mesylate
+Erastin
+Erdafitinib
+Erdosteine
+Ergosterol
+Eribulin mesylate
+Erlotinib
+Erlotinib hydrochloride
+Erteberel
+Erythromycin
+Esomeprazole Sodium
+Esomeprazole magnesium
+Estetrol
+Estradiol
+Estramustine
+Estramustine phosphate sodium
+Estriol
+Estrone
+Eszopiclone
+Ethinylestradiol
+Ethionamide
+Ethisterone
+Ethosuximide
+Etodolac
+Etomidate
+Etomoxir
+Etonogestrel
+Etoposide
+Etoricoxib
+Etoximir
+Etrasimod
+Evacetrapib (LY2484595)
+Everolimus
+Evobrutinib
+Evodiamine
+Evofosfamide
+Exatecan
+Exemestane
+Exherin
+Ezatiostat
+Ezetimibe
+Ezutromid
+FASN BI
+FASN MRK
+FCCP
+FENOPROFEN
+FG-2216
+FK-506
+FLUDARABINE BASE
+FLUNISOLIDE
+FMK
+FOSCARNET
+FOSFOMYCIN
+FR-180204
+FR-900098
+FRAX-1036
+FRAX-486
+FRAX-597
+FURAZOLIDONE
+FX-9847
+Fadrozole
+Famciclovir
+Famotidine
+Fascaplysin
+Fasudil hydrochloride
+Favipiravir
+Febrifugine
+Febuxostat
+Felbamate
+Fenbendazole
+Fendiline
+Fenobam
+Fenofibrate
+Fenoldopam
+Fenretinide
+Fenticonazole nitrate
+Fesoterodine fumarate
+Filanesib
+Filgotinib
+Finasteride
+Fingolimod hydrochloride
+Fisetin
+Flavopiridol
+Flecainide acetate
+Fleroxacin
+Floxuridine
+Flubendazole
+Fluconazole
+Flucytosine
+Fludarabine
+Fludarabine phosphate
+Flumatinib mesylate
+Flumazenil
+Flunarizine
+Flunarizine hydrochloride
+Fluocinolone acetonide
+Fluocinonide
+Fluorocyclopentenylcytosine
+Fluorouracil
+Fluphenazine hydrochloride
+Flupirtine maleate
+Flurbiprofen
+Fluspirilene
+Flutamide
+Fluticasone furoate
+Fluticasone propionate
+Fluvastatin
+Fluvoxamine
+Fomepizole
+Foretinib
+Formestane
+Formononetin
+Fosmidomycin
+Fostamatinib
+Fotemustine
+Fruquintinib
+Fulvestrant
+Fumalic acid
+Furosemide
+G-007-LK
+G-Strophanthin
+GALANTAMINE
+GANT-61
+GB-83
+GBR-12935
+GDC-0077
+GDC-0084
+GDC-0152
+GDC-0326
+GDC-0339
+GDC-0349
+GDC-046
+GDC-0623
+GDC-0834 racemate
+GDC-0980
+GEMZAR (LILLY)
+GGTI-2418
+GKT-137831
+GLPG-0187
+GLPG-0974
+GLPG0187
+GLS-968
+GM-1489
+GMX-1778
+GNE-317
+GNE-3511
+GNE-477
+GNE-490
+GNE-493
+GNE-495
+GNE-618
+GNE-9605
+GNF-2
+GNF-5837
+GNF-6231
+GNF-7
+GR-159897
+GS-9901
+GSI-IX
+GSK-1016790A
+GSK-1070916A
+GSK-126
+GSK-1292263A
+GSK-1838705A
+GSK-1904529A
+GSK-1995010
+GSK-2126458
+GSK-2194069
+GSK-2250665A
+GSK-2256098
+GSK-2256294A
+GSK-2334470
+GSK-25
+GSK-256066
+GSK-2578215A
+GSK-2606414
+GSK-2636771
+GSK-2656157
+GSK-269962A
+GSK-2801
+GSK-2830371
+GSK-2837808A
+GSK-2879552
+GSK-2981278
+GSK-2982772
+GSK-3326595
+GSK-343
+GSK-3787
+GSK-3965
+GSK-4112
+GSK-429286A
+GSK-461364A
+GSK-481
+GSK-484
+GSK-503
+GSK-525768
+GSK-583
+GSK-5959
+GSK-615
+GSK-650394
+GSK-682753A
+GSK-6853
+GSK-690693
+GSK-837149A
+GSK-864
+GSK-872
+GSK-923295
+GSK-963
+GSK-J1
+GSK-J2
+GSK-J4
+GSK1324726A (I-BET726)
+GSK2141795
+GSK2795039
+GSK3 Inhibitor
+GSK9311
+GUANADREL
+GUANFACINE
+GW-0742
+GW-1929
+GW-2580
+GW-4064X
+GW-441756
+GW-4869
+GW-501516
+GW-5074
+GW-6471
+GW-7647
+GW-768505A
+GW-788388
+GW-791343
+GW-843682X
+GW-9508
+GYKI-53655
+GZD-824
+Gabapentin
+Gabexate mesilate
+Galantamine hydrobromide
+Galeterone
+Gallamine triethiodide
+Galunisertib
+Ganciclovir
+Gandotinib
+Ganetespib (STA-9090)
+Gardiquimod
+Gatifloxacin
+Gavestinel sodium
+Gedatolisib
+Gefitinib
+Geldanamycin
+Gemcitabine
+Gemcitabine hydrochloride
+Gemfibrozil
+Genipin
+Geniposidic acid
+Genistein
+Genistin
+Gentamycin sulfate
+Genz-644282
+Genz-668764
+Genz-669178
+Gestodene
+Gilteritinib
+Gimeracil
+Ginkgolide A
+Ginkgolide B
+Ginsenoside Rb1
+Givinostat hydrochloride
+Glasdegib
+Glesatinib
+Gliclazide
+Glimepiride
+Glipizide
+Glycyl-H-1152
+Glycyrrhizic acid
+Go-6976
+Go-6983
+Golvatinib
+Gramicidin
+Granisetron (AB-1001)
+Granisetron hydrochloride
+H-89
+HA-130
+HA-14-1
+HC-067047
+HDACi-01
+HDACi-02
+HG-6-64-1
+HLI-373989
+HM-30181
+HMSL10015
+HMSL10016
+HMSL10019
+HMSL10038
+HMSL10058
+HMSL10076
+HMSL10077
+HMSL10083
+HMSL10084
+HMSL10087
+HMSL10088
+HMSL10089
+HPI-1
+HSP-990
+HYDRALAZINE
+HYDROXYCHLOROQUINE
+HYDROXYMETRONIDAZOLE
+Halofantrine
+Halofantrine hydrochloride
+Haloperidol
+Hematoxylin
+Hesperadin
+Hesperetin
+Hexestrol
+Hexylcaine hydrochloride
+Hg-10-102-01
+Hh-Ag1.5
+Histamine dihydrochloride
+Honokiol
+Hordenine
+Huperizine A
+Hydrochlorothiazide
+Hydrocortisone
+Hydroxocobalamin
+Hydroxychloroquine sulfate
+Hydroxyflutamide
+Hydroxyurea
+Hyodeoxycholic acid
+Hypothemycin
+I-BET
+I-BET151
+I-BET762
+IBUTILIDE
+IC-87114
+ICG-001
+ICI-D7288
+ICRF-193
+ID-8
+IDE-2
+IDH-001
+IDH-C227
+IKK-16
+IKK-2 Inhibitor VIII
+IKK-3 Inhibitor IX
+ILOPROST
+IMD-0354
+IMIPRAMINE
+INCB8761 (PF-4136309)
+INK-128
+INO-1001
+IOX-1
+IOX2
+IPA-3
+IPFK2
+IPI-549
+IRAK-1-4 Inhibitor I
+ISOPROTERENOL
+ISOSORBIDE DINITRATE
+ISOX
+ITD-1
+ITK Inhibitor
+ITX3
+IVX-214
+IWP-2
+Ibandronate sodium hydrate
+Ibiglustat
+Ibrutinib (PCI-32765)
+Ibuprofen lysine
+Ibutamoren mesilate
+Ibutilide fumarate
+Icariin
+Icaritin
+Icotinib hydrochloride
+Idarubicin hydrochloride
+Idasanutlin
+Idebenone
+Idelalisib
+Idoxuridine
+Idronoxil
+Ifomide
+Ifosfamide
+Iguratimod
+Ilomastat
+Ilomastat (GM6001, Galardin)
+Iloperidone
+Imatinib
+Imatinib mesylate
+Imeglimin
+Imexon
+Imipenem
+Imiquimod
+Incyclinide
+Indapamide
+Indibulin
+Indimitecan hydrochloride (LMP-776)
+Indinavir sulfate
+Indiplon
+Indirubin
+Indisulam (E7070)
+Indomethacin
+Indotecan hydrochloride (LMP-400)
+Indoximod
+Infigratinib
+Ingenol mebutate
+Iniparib
+Ipatasertib
+Ipratropium bromide hydrate
+Ipriflavone
+Irestatin 9389
+Irinotecan
+Irosustat (STX-64)
+Irsogladine maleate
+Isepamicin
+Isepamicin sulfate
+Isoconazole nitrate
+Isoliquiritigenin
+Isoniazid
+Isoprenaline hydrochloride
+Isotretinoin
+Ispinesib
+Isradipine
+Istradefylline
+Itacitinib
+Itraconazole
+Ivabradine hydrochloride
+Ivacaftor
+Ivachtin
+Ivermectin
+Ivosidenib
+Ixabepilone
+Ixazomib
+Ixazomib citrate
+J113397
+JAK3i
+JK-184
+JNJ-16259685
+JNJ-28312141
+JNJ-28871063 hydrochloride
+JNJ-38158471
+JNJ-38877605
+JNJ-42041935
+JNJ-42165279
+JNJ-7706621
+JNK Inhibitor V
+JNK-IN-7
+JNK-IN-8
+JPH203
+JQ1
+JS-59-4
+JS-65-103
+JTC-801
+JX-401
+JZL-184
+JZL-195
+KD-025
+KDM5-C70
+KDS-4103
+KH-CB19
+KHS-101
+KI-16425
+KI-20227
+KI-696
+KI-8751
+KL001
+KN-62
+KN-93
+KPT-276
+KPT-9274
+KRCA-0008
+KRN-633
+KRP-203
+KU-0060648
+KU-0063794
+KU-0064
+KU-60019
+KUC103669N
+KUC105555N
+KUC107550N
+KUC107871N
+KUC107887N
+KUC110948N
+KUC111774N
+KW-2449
+KW-2478
+KX-01
+KY-02111
+Kaempferol
+Kanamycin
+Kartogenin
+Ketanserin
+Ketoconazole
+Ketoprofen
+Ketorolac
+Ketotifen
+Kinetin
+L-165041
+L-690330
+L-778123
+L-779450
+L-NAME
+L-Thyroxine
+L-selenomethionine
+L-tetramisol
+L778123
+LCL-161
+LDN-193189
+LDN-212854
+LDN-214117
+LDN-57444
+LEVAMISOLE
+LF3
+LFM-A13
+LG-100268
+LGH-447
+LGK-974
+LIOTHYRONINE
+LITHIUM CITRATE
+LLL-12
+LLY-507
+LMP-744
+LOPERAMIDE
+LP-533401
+LRRK2-IN-1
+LSD1-C76
+LTX-315
+LX-7101
+LXS-196
+LY-2090314
+LY-2109761
+LY-2140023
+LY-2228820
+LY-2334737
+LY-2365109 hydrochloride
+LY-2409881
+LY-2584702
+LY-2608204
+LY-2811376
+LY-2857785
+LY-2874455
+LY-2886721
+LY-294002
+LY-3009120
+LY-3023414
+LY-3177833
+LY-320135
+LY-3214996
+LY-3314814
+LY-341495
+LY-411575
+LY2157299
+LY310762
+Lacidipine
+Lacosamide
+Lactobionic acid
+Lactulose
+Lafutidine
+Lamivudine
+Lamotrigine
+Lansoprazole
+Lapatinib
+Lapatinib ditosylate
+Lappaconitine
+Laquinimod
+Laropiprant
+Larotrectinib
+Latrepirdine hydrochloride
+Leflunomide
+Lemborexant
+Lenalidomide
+Lenvatinib
+Leptomycin B
+Lestaurtinib
+Letrozole
+Levetiracetam
+Levodopa
+Levofloxacin
+Levonorgestrel
+Levosimendan
+Levosulpiride
+Lexibulin hydrochloride
+Liarozole
+Licofelone
+Lidoflazine
+Lificiguat
+Limonin
+Linagliptin
+Lincomycin hydrochloride
+Linezolid
+Linifanib
+Linopirdine
+Linsitinib
+Liranaftate
+Lirimilast
+Litronesib
+Lomefloxacin hydrochloride
+Lomeguatrib
+Lomerizine dihydrochloride
+Lomibuvir
+Lomustine
+Lonafarnib
+Lonidamine
+Loperamide hydrochloride
+Lopinavir
+Loratadine
+Lorlatinib
+Lornoxicam
+Losmapimod
+Loteprednol etabonate
+Lovastatin
+Lubiprostone
+Lucanthone
+Lucitanib
+Lumacaftor
+Lumefantrine
+Lupeol
+Lurbinectedin
+M-024
+M-344
+M-475271
+M2698
+MAPROTILINE
+MC-1568
+MCOPPB
+MEBUTAMATE
+MECAMYLAMINE
+MECLOFENAMIC ACID
+MELPHALAN HYDROCHLORIDE
+MEMANTINE
+MEPHENYTOIN
+MESALAZINE
+METAXALONE
+METHYCLOTHIAZIDE
+METHYLERGONOVINE
+METYROSINE
+MG-115
+MG-132
+MG-149
+MGCD-265
+MI-2
+MI-503
+MI-538
+MI-773 (SAR405838)
+MIGLUSTAT
+MINOXIDIL SULFATE
+MIR96-IN-1
+MK-0354
+MK-0557
+MK-0752
+MK-0812
+MK-1064
+MK-1775
+MK-2048
+MK-2206
+MK-2461
+MK-3207
+MK-4101
+MK-4541
+MK-4815
+MK-4827
+MK-5108
+MK-767
+MK-8033
+MK-8245
+MK-8669
+MK-8776
+MK-886
+MK-8931
+MK591
+MKC-1
+MKC-3946
+ML-119
+ML-141
+ML-228
+ML-323
+ML-347
+ML-364
+ML-390
+ML-7
+ML226
+ML238
+ML264
+ML323
+ML324
+ML327
+MLN-120B
+MLN-2480
+MLN-4924
+MLN-7243
+MLN-8054
+MP-10
+MPEP
+MPI-0479605
+MPS1-IN-1
+MPT-0B098
+MRK-003
+MRT-67307
+MRT-68601 hydrochloride
+MRT-83
+MSC2530818
+MT-DADMe-ImmA
+MX-69
+Macitentan
+Malotilate
+Manassantin A
+Manidipine
+Mannitol
+Manoalide
+Maprotiline hydrochloride
+Maraviroc
+Marbofloxacin
+Marimastat
+Marizomib
+Marizomib / Salinosporamide A
+Martinostat
+Masitinib
+Maslinic acid
+Masoprocol
+Matrine
+Mavacamten
+Mebendazole
+Mecarbinate
+Mechlorethamine hydrochloride
+Meclinertant
+Meclizine hydrochloride
+Medroxyprogesterone acetate
+Mefloquine
+Megestrol acetate
+Meglumine
+Melatonin
+Meloxicam
+Melphalan
+Memantine hydrochloride
+Menadione
+Meprednisone
+Mercaptopurine
+Merck-22-6
+Merestinib
+Meropenem
+Mesna
+Mesna disulfide
+Mestranol
+Metarrestin (KUC109088N)
+Metenkephalin
+Metformin
+Methacycline hydrochloride
+Methdilazine hydrochloride
+Methocarbamol
+Methotrexate
+Methoxsalen
+Methscopolamine (bromide)
+Methscopolamine bromide
+Methyldopa
+Methylene blue
+Methylprednisolone
+Methylrosaniline chloride
+Methylstat
+Metolazone
+Metronidazole
+Mevastatin
+Mianserin
+Mibefradil dihydrochloride
+Miconazole
+Miconazole nitrate
+Midostaurin
+Mifepristone
+Miglitol
+Milademetan
+Milciclib
+Milrinone
+Minocycline
+Minoxidil
+Miransertib
+Mirtazapine
+Mitapivat
+Mithramycin
+Mithramycin A
+Mitiglinide calcium
+Mitiglinide calcium hydrate
+Mitomycin
+Mitomycin C
+Mitomycine
+Mitotane
+Mitoxantrone
+Mivebresib (ABBV-075)
+Mizolastine
+Mizoribine
+Mocetinostat
+Modufolin
+Molidustat
+Momelotinib
+Mometasone furoate
+Monastrol
+Monatepil
+Monensin sodium salt
+Monobenzone
+Moracizine
+Morin hydrate
+Moroxydine
+Mosapride citrate
+Motesanib
+Motolimod
+Moxifloxacin hydrochloride
+Moxonidine hydrochloride hydrate
+Mubritinib
+Mycophenolate mofetil
+Mycophenolic acid
+Myricetin
+NABILONE
+NAMPT-IN-1
+NAVELBINE DITARTRATE (TN)
+NBI-74330
+NCB-1026
+NCGC00015463-02
+NCGC00037850
+NCGC00166281-02
+NCGC00168459-01
+NCGC00183434-01
+NCGC00185053
+NCGC00185090-04
+NCGC00188382-01
+NCGC00188866
+NCGC00189393
+NCGC00238624
+NCGC00241036
+NCGC00241410
+NCGC00241411
+NCGC00242487
+NCGC00244250
+NCGC00247866
+NCGC00249661
+NCGC00249759
+NCGC00253463-01
+NCGC00262228
+NCGC00262331
+NCGC00262376
+NCGC00262398
+NCGC00262689
+NCGC00263015
+NCGC00263018-01
+NCGC00263020
+NCGC00344990-01
+NCGC00344999-01
+NCGC00346543
+NCGC00346747
+NCGC00372530
+NCGC00378588
+NCGC00381504-01
+NCGC00384826-01
+NCGC00408930
+NCGC00505117
+NCGC00505118
+NCGC00510249-02
+NCGC00510708
+NIBR-17
+NIBR-189
+NITD609
+NITROSOGLUTATHIONE
+NIZATIDINE
+NMP
+NMS-859
+NMS-873
+NMS-P118
+NMS-P937
+NORCISAPRIDE
+NOVOBIOCIN
+NPS-1034
+NPS-2143
+NPS-R568
+NSC 85998
+NSC-127716
+NSC-207895
+NSC-23766
+NSC-23925
+NSC-319726
+NSC-48006
+NSC-678515
+NSC-724771
+NSC-75503
+NSC-87877
+NSC141540
+NSC256439
+NSC707389
+NSC733504
+NU-6027
+NU-6102
+NU-7441
+NVP-231
+NVP-ABE171
+NVP-AEW541
+NVP-AUY922
+NVP-BGT226
+NVP-BHG712
+NVP-BSK805
+NVP-BVU-972
+NVP-FGF-401
+NVP-LCQ195
+NVP-TAE226
+NVP-XAV-939
+NVS-CECR2-1
+NVS-PAK1-1
+Nafamostat mesilate
+Naftopidil
+Nalidixic acid
+Naltrexone
+Naltrexone hydrochloride
+Naltrindole hydrochloride
+Namodenoson
+Nanchangmycin
+Nandrolone phenylpropionate
+Napabucasin
+Naproxen sodium
+Naquotinib mesylate
+Naratriptan hydrochloride
+Naringenin
+Nastorazepide
+Natamycin
+Nateglinide
+Navitoclax (ABT-263)
+Navoximod
+Necrostatin 2
+Necrostatin-1
+Nedaplatin
+Nefiracetam
+Nelarabine
+Nelfinavir
+Nemorubicin
+Neohesperidin dihydrochalcone
+Neomycin sulfate
+Nepafenac
+Nepicastat hydrochloride
+Neratinib
+Nesbuvir
+Netarsudil
+Nevirapine
+Niacin
+Niacinamide
+Nicardipine
+Niclosamide
+Nicorandil
+Nifekalant
+Niflumic acid
+Niguldipine
+Nilotinib
+Nilutamide
+Nimesulide
+Nimorazole
+Nintedanib
+Niraparib
+Nirogacestat
+Nisoldipine
+Nisoxetine
+Nitazoxanide
+Nitd609-wrong enantiomer
+Nitisinone
+Nitrofurazone
+Nitroxoline
+Nocodazole
+Noradrenaline bitartrate monohydrate
+Norfloxacin
+Noscapine
+Novobiocin sodium
+Nutlin-3
+Nystatin
+O6-Benzylguanine
+OAC1
+OICR-9429
+OLMESARTAN MEDOXOMIL
+ON-01910
+ON-123300
+ONO-4059 (GS-4059)
+ONO-4059 analog
+ONO-4817
+ORY-1001
+OSELTAMIVIR
+OSELTAMIVIR ACID
+OSI-027
+OSI-420
+OSI-632
+OSI-930
+OSU-03012
+OSU-T315
+OTS-167
+OTS-514
+OTS964
+OTX-008
+OXA-01
+OXYPHENBUTAZONE
+OXYPHENONIUM BROMIDE
+Obatoclax
+Octocrylene
+Octreotide
+Octylonium bromide
+Odanacatib
+Ofloxacin
+Oglufanide
+Olanzapine
+Olanzapine (LY-170053)
+Olaparib
+Oleanolic acid
+Oligomycin A
+Olmesartan
+Olmutinib
+Olopatadine hydrochloride
+Olprinone
+Oltipraz
+Omacetaxine mepesuccinate
+Omaveloxolone
+Ombrabulin
+Omecamtiv mecarbil
+Omeprazole
+Omigapil
+Onalespib
+Ondansetron
+Oprozomib
+Orantinib
+Oridonin
+Orlistat
+Orotic acid
+Orphenadrine hydrochloride
+Orteronel
+Osanetant
+Oseltamivir phosphate
+Osimertinib mesylate
+Ospemifene
+Ostarine
+Ostol
+Otenabant
+Oteracil potassium
+Otilonium bromide
+Oxacillin sodium salt
+Oxaliplatin
+Oxamflatin
+Oxandrolone
+Oxcarbazepine
+Oxeladin citrate
+Oxfendazole
+Oxibendazole
+Oxybutynin chloride
+Oxymatrine
+Oxymetazoline hydrochloride
+Oxytetracycline
+Ozagrel hydrochloride
+Ozanimod
+P21d hydrochloride
+PA-824
+PAC-1
+PALONOSETRON
+PAMIDRONIC ACID
+PARGYLINE
+PAROMOMYCIN
+PB-28
+PCI-27483
+PCI-34051
+PD-0220245
+PD-0325901
+PD-098059
+PD-1/PD-L1 Inhibitor 1
+PD-128907
+PD-134308
+PD-150606
+PD-153035
+PD-166285
+PD-166793
+PD-168393
+PD-169316
+PD-173074
+PD-173955
+PD-173955 Analogue 1
+PD-184352
+PD-198306
+PD-318088
+PD325901
+PDHK RIKEN
+PDPK1 Inhibitor
+PENTAMIDINE
+PENTOLINIUM TARTRATE
+PF-03716556
+PF-03814735
+PF-04217903
+PF-04418948
+PF-04457845
+PF-04620110
+PF-04691502
+PF-04937319
+PF-04979064
+PF-05175157
+PF-05212384
+PF-06250112
+PF-06273340
+PF-06282999
+PF-06439015
+PF-06447475
+PF-06454589
+PF-06650833
+PF-06651600
+PF-06747775
+PF-06821497
+PF-184
+PF-3644022
+PF-3758309
+PF-3845
+PF-431396
+PF-4693627
+PF-4708671
+PF-477736
+PF-4800567
+PF-4989216
+PF-5006739
+PF-5274857
+PF-543
+PF-573228
+PF-670462
+PF-8380
+PF-956980
+PF-CBP1
+PF562271
+PFI-3
+PFI-4
+PFK-158
+PH-797804
+PHA-408
+PHA-665752
+PHA-680632
+PHA-690509
+PHA-767491A
+PHA-793887
+PHENPROCOUMON
+PHENSUXIMIDE
+PHT-427
+PI-103
+PI-3065
+PIK-293
+PIK-294
+PIK-75
+PIK-90
+PIK-93
+PINACIDIL
+PIPERAZINE HEXAHYDRATE
+PK-11195
+PKI-166
+PKI-402
+PLX-4720
+PLX-647
+PLX-7904
+PLX-8394
+PMSF
+PNU-120596
+PNU-200577
+PNU-282987
+PNU-74654
+PP-121
+PP242
+PRAMIPEXOLE
+PROBENECID
+PROCARBAZINE
+PRP003-013
+PRP003-032
+PRP003-062
+PRP003-073
+PRP01-012
+PRT-060318
+PRT-062607
+PS-1145
+PT-2385
+PTC-124
+PTC-691
+PU-WS-13
+PX-12
+PX-478
+PX-866
+PYRAZINOIC ACID
+PYRIDOSTIGMINE BROMIDE
+PYRONARIDINE TETRAPHOSPHATE
+PYRVINIUM CHLORIDE DIHYDRATE
+Paclitaxel
+Pacritinib
+Paeoniflorin
+Paeonol
+Palbociclib
+Pancuronium bromide
+Panobinostat
+Pantoprazole
+Pantothenic acid
+Papaverine hydrochloride
+Parbendazole
+Parecoxib sodium
+Paricalcitol-D6 (ABT-358)
+Parietin
+Parogrelil
+Paroxetine
+Parthenolide
+Patidegib
+Pazopanib
+Pazopanib hydrochloride
+Peficitinib
+Pefloxacin
+Pelitinib
+Pemafibrate
+Pemetrexed
+Pemetrexed Disodium 
+Pemetrexed disodium
+Penicillamine
+Pentagastrin
+Pentamidine isethionate
+Pentostatin
+Pepstatin
+Peramivir
+Perhexiline
+Perifosine
+Perindopril
+Pexidartinib
+Pexmetinib
+Phenelzine
+Phenformin hydrochloride
+Phenoxybenzamine hydrochloride
+Phentolamine mesilate
+Phenylephrine hydrochloride
+Phloretin
+Phlorizin
+Phortress (NSC-710305)
+Piboserod hydrochloride
+Piceatannol
+Picoplatin
+Picropodophyllin
+Pictilisib
+Pilaralisib
+Pim 1 Inhibitor 2
+Pimagedine
+Pimasertib
+Pimecrolimus
+Pimobendan
+Pinorubicin
+Pioglitazone hydrochloride
+Pipequaline
+Piperacetazine
+Piperaquine
+Piperine
+Pipobroman
+Pirarubicin
+Piraxostat
+Piroxicam
+Pitavastatin calcium
+Pizotifen
+Plerixafor hydrochloride
+Plicamycin
+Plinabulin
+PluriSln 1
+Pluripotin
+Podofilox
+Polydatin
+Polymyxin B sulphate
+Pomalidomide
+Ponatinib
+Porfiromycin
+Posaconazole
+Poziotinib
+Ppads
+Pracinostat
+Pradigastat
+Pralatrexate
+Pralnacasan
+Pramipexole hydrochloride
+Pramiracetam hydrochloride
+Pranlukast hydrate
+Prasugrel
+Pravadoline
+Pravastatin sodium
+Praziquantel
+Prazosin hydrochloride
+Prednisolone
+Prednisolone acetate
+Prednisone
+Pregabalin
+Pregnenolone
+Preladenant
+Prexasertib
+Primaquine
+Primaquine diphosphate
+Primidone
+Prinaberel
+Probucol
+Procarbazine hydrochloride
+Procaterol hydrochloride
+Prochlorperazine
+Prochlorperazine dimaleate
+Progesterone
+Proglumide
+Proguanil
+Propafenone hydrochloride
+Proparacaine
+Propofol
+Propylthiouracil
+Proscillaridin
+Prostaglandin E2
+Protionamide
+Prucalopride
+Prulifloxacin
+Puerarin
+Purfalcamine
+Purmorphamine
+Purvalanol A
+Purvalanol B
+Pyrantel pamoate
+Pyrazinamide
+Pyridone 6
+Pyridostatin
+Pyrimethamine
+Pyronaridine
+Pyroxamide
+QS11
+Quercetin
+Quinacrine
+Quinacrine hydrochloride
+Quinidine
+Quinine
+Quisinostat
+Quizartinib
+R(-)-Me5
+R-1487
+R-1530
+R-268712
+R-406
+R-547
+R-Etodolac
+RABEPRAZOLE SODIUM
+RAF-265 derivative
+RAF-709
+RALOXIFENE
+RD-162
+RG-108
+RG-7845 (GDC-0853)
+RGB-286147
+RGB-286638
+RIBAVIRIN 5'-TRIPHOSPHATE
+RIFAMPIN
+RISPERIDONE
+RITA
+RKI-1447
+RO-4929097
+RO-4987655
+RO-5126766
+RO-9021
+RO495
+RO8994
+RRx-001
+RSL3
+RUC-4
+RUFINAMIDE
+RUSKI-201
+RVX-208
+RWJ-67657
+RX-5902 (SUPINOXIN)
+Rabeprazole
+Rabusertib
+Racecadotril
+Ralaniten (EPI-001)
+Raloxifene hydrochloride
+Raltegravir
+Raltitrexed
+Ramatroban
+Ramelteon
+Ramipril
+Ranelic acid distrontium salt
+Ranolazine
+Rasagiline mesylate
+Ravoxertinib
+Rebamipide
+Rebeccamycin
+Reboxetine mesylate
+Refametinib
+Regorafenib
+Relugolix
+Repaglinide
+Reparixin
+Resatorvid
+Reserpine
+Resiquimod
+Resistomycin
+Resminostat
+Resveratrol
+Retaspimycin
+Retaspimycin Hydrochloride
+Retigabine
+Reversine
+Rhein
+Ribavirin
+Ribitol
+Ribociclib (LEE011)
+Riboflavin
+Ridaforolimus
+Rifabutin
+Rifampicin
+Rifapentine
+Rifaximin
+Rigosertib (ON-01910)
+Rilmenidine
+Riluzole
+Rimantadine
+Rimonabant
+Riociguat
+Ripasudil
+Risedronate sodium
+Risperidone???
+Ritodrine hydrochloride
+Ritonavir
+Rivaroxaban
+Rivaroxaban (Xarelto)
+Rivastigmine tartrate
+Riviciclib (P276-00)
+Rizatriptan benzoate
+Ro-28-1675
+Ro-31-8425
+Ro-51
+Robotnikinin
+Rociletinib
+Rocuronium bromide
+Rofecoxib
+Roflumilast
+Rolapitant
+Rolipram
+Rolofylline
+Romidepsin
+Roniciclib
+Roquinimex
+Rose Bengal disodium
+Rosiglitazone
+Rotenone
+Rottlerin
+Rotundine
+Roxadustat
+Roxithromycin
+Ru360
+Ruboxistaurin mesylate
+Rucaparib
+Rupintrivir
+Rutaecarpine
+Ruxolitinib
+S-(+)-Rolipram
+S-99
+S-Trityl-L-cysteine
+S31-201
+S63845
+S6K-18
+SAG
+SANT-2
+SAR-020106
+SAR-131675
+SAR-260301
+SAR-405
+SB-1317
+SB-202190
+SB-203580
+SB-206553
+SB-216763
+SB-224289
+SB-239063
+SB-242235
+SB-265610
+SB-3CT
+SB-408124
+SB-415286
+SB-431542
+SB-505124
+SB-525334
+SB-590885
+SB-705498
+SB-743921
+SB-747651-A
+SB1518
+SB228357
+SB612111
+SCH 900776
+SCH-51344
+SCH-772984
+SCH-79797
+SCH-900435
+SD-06
+SD-169
+SD-208
+SERTRALINE
+SF-2523
+SG-00529
+SGC-0946
+SGC-2085
+SGC-707
+SGI-1776
+SGI-7079
+SGX-523
+SHP-099
+SID-7969543
+SILDENAFIL
+SJ-172550
+SJG-136
+SJN-2511
+SKF-89976A
+SKI-II
+SKLB4771
+SL-0101-1
+SL-327
+SM-164
+SMDC-530602
+SMDC873969
+SMDC914896
+SMI-4a
+SN-38
+SNS-032
+SNS-314
+SNX-2112
+SNX-5422
+SODIUM DIETHYLDITHIOCARBAMATE TRIHYDRATE
+SP-2509
+SP-600125
+SPC-839
+SPIRONOLACTONE
+SR 33805
+SR-1664
+SR-2211
+SR-3029
+SR-3306
+SR-3677
+SR-9011
+SR-9243
+SRT-1720
+SRT-2104
+SRT-3025
+SSR-504734
+SSR-69071
+ST-2825
+STF-083010
+STF-118804
+STF-62247
+STK16-IN-1
+STX-0119
+SU-014813
+SU-5402
+SU-6656
+SU-MI-2
+SUCCINYLCHOLINE CHLORIDE
+SUMATRIPTAN
+Safinamide mesilate
+Salbutamol sulfate
+Salicin
+Salidroside
+Salinomycin
+Salirasib
+Sapitinib
+Saquinavir mesylate
+Saracatinib
+Sarafloxacin hydrochloride
+Sarpogrelate
+Savolitinib
+Saxagliptin
+Sclareolide
+Scopine
+Scopolamine
+Secin H3
+Secnidazole
+Secoisolariciresinol
+Selegiline hydrochloride
+Seletalisib
+Seliciclib
+Selinexor
+Selisistat
+Selonsertib
+Selumetinib
+Semagacestat
+Semaxanib
+Senexin-B
+Seocalcitol
+Sepantronium bromide
+Serabelisib
+Seratrodast
+Serdemetan
+Sertraline hydrochloride
+Sesamin
+Seviteronel
+Shikimic acid
+Shikonin
+Sibutramine hydrochloride
+Sildenafil citrate
+Silmitasertib
+Silodosin
+Silver sulfadiazine
+Silybin
+Simvastatin
+Sinomenine
+Sipatrigine
+Sirolimus
+Sitafloxacin hydrate
+Sitagliptin
+Sitaxentan
+Sitravatinib
+Sivelestat
+Sodium Danshensu
+Sodium cloxacillin
+Sodium cromoglycate
+Sofosbuvir
+Solanesol
+Solcitinib
+Sonidegib
+Sophocarpine
+Sorafenib
+Sorafenib tosylate
+Sotalol
+Sotrastaurin
+Sparfloxacin
+Spautin-1
+Spebrutinib (AVL-292)
+Spectinomycin hydrochloride
+Spermidine
+Stanozolol
+Stauprimide
+Staurosporine
+Stavudine
+StemRegenin 1
+Stigmasterol
+Streptomycin (sulfate)
+Streptomycin sulfate
+Streptozocin
+Strophantine octahydrate
+Sufugolix
+Sulbactam
+Sulfadoxine
+Sulfafurazole
+Sulfameter
+Sulfamethizole
+Sulfamethoxazole
+Sulfanilamide
+Sulfaphenazole
+Sulfapyridine
+Sulfasalazine
+Sulfatinib
+Sulindac
+Sulphadimethoxine
+Sumanirole maleate
+Sumatriptan succinate
+Sunitinib
+Sunitinib (free base)
+Sunitinib malate
+Suplatast tosylate
+Suramin
+Suramin sodium
+Synephrine
+T-00127-HEV1
+T3.5
+TA02
+TACRINE
+TACROLIMUS
+TAE-684
+TAK-285
+TAK-441
+TAK-593
+TAK-659
+TAK-715
+TAK-733
+TAK-875
+TAK-901
+TAK-931
+TAK-960
+TAME
+TAS-116
+TCN-201
+TCS-2312
+TCS-JNK-5a
+TD-139
+TEPP-46
+TERAZOSIN
+TESTOLACTONE
+TETRACYCLINE
+TG-003
+TG-100115
+TG-100801
+TG-101209
+TG-101348
+TG-46
+TG-89
+TGX-221
+THEOPHYLLINE
+THZ-2
+THZ1
+THZ531
+TIAGABINE
+TIC-10
+TINIDAZOLE
+TIZOXANIDE
+TM-30089
+TM-5275
+TMP-195
+TNKS-656
+TOLAZOLINE
+TP-0903
+TP-3654
+TPCA-1
+TPCK
+TPOP-146
+TPX-0005
+TRAM-34
+TRAZODONE
+TRIAMTERENE
+TRICLOSAN
+TRIFLUOPERAZINE
+TRIFLUPROMAZINE
+TRIHEXYPHENIDYL
+TRIMETHOBENZAMIDE
+TRIMETHOPRIM
+TRO 19622
+TW-37
+TWS-119
+Tacedinaline
+Tacrine hydrochloride
+Tadalafil
+Tafenoquine
+Takeda-6d
+Taladegib
+Talarozole (R enantiomer)
+Talmapimod
+Taltirelin
+Tamibarotene
+Tamoxifen
+Tamoxifen citrate
+Tamsulosin hydrochloride
+Tandutinib
+Tanespimycin
+Tanshinone I
+Tanshinone IIA
+Tariquidar
+Taselisib (GDC-0032)
+Tasquinimod
+Taurine
+Tavaborole / AN2690
+Taxifolin (Dihydroquercetin)
+Tazarotene
+Tazemetostat
+Tebipenem pivoxil
+Tegafur
+Tegaserod maleate
+Teicoplanin
+Telaprevir (VX-950)
+Telatinib
+Telbivudine
+Telithromycin
+Telmisartan
+Telotristat Etiprate (LX 1606 Hippurate)
+Telotristat etiprate
+Temocapril hydrochloride
+Temozolomide
+Tempol
+Temsirolimus
+Tenalisib
+Tenatoprazole
+Teniposide
+Tenofovir disoproxil fumarate
+Tenoxicam
+Terameprocol
+Terazosin hydrochloride
+Terbinafine hydrochloride
+Teriflunomide
+Tesevatinib
+Tesmilifene hydrochloride
+Testosterone
+Testosterone cypionate
+Testosterone propionate
+Tetrabenazine
+Tetracycline hydrochloride
+Tetrahydroberberine
+Tetrahydropapaverine
+Tetrahydrouridine
+Tetrandrine
+Thalidomide
+Thapsigargin
+Theobromine
+Theophyllamine
+Thiabendazole
+Thiamphenicol
+Thiazovivin
+ThioTEPA
+Thioguanine
+Thiolactomycin
+Thioproperazine dimethanesulfonate
+Tiagabine hydrochloride
+Tibolone
+Ticlopidine hydrochloride
+Tideglusib
+Tie-2 kinase Inhibitor
+Tigecycline
+Tinostamustine
+Tioconazole
+Tioguanine
+Tiopronin
+Tiotropium bromide
+Tioxolone
+Tipifarnib
+Tipiracil
+Tiplasinin
+Tirapazamine
+Tivantinib
+Tivozanib
+Tizanidine hydrochloride
+Tobramycin
+Tocainide hydrochloride
+Toceranib
+Tofacitinib
+Tolcapone
+Tolimidone
+Tolnaftate
+Tolrestat
+Tolterodine tartrate
+Tolvaptan
+Topiramate
+Topotecan
+Topotecan hydrochloride
+Torasemide
+Torcetrapib
+Toremifene citrate
+Torin-1
+Torin-2
+Torkinib
+Tosedostat
+Tozasertib
+Trabectedin
+Trametinib
+Tranexamic Acid
+Tranilast
+Tranylcypromine
+Travoprost
+Trazodone hydrochloride
+Tretinoin
+Triamcinolone acetonide
+Triapine
+Trichlormethiazide
+Trichostatin A
+Triciribine
+Triciribine phosphate
+Triclocarban
+Triethylenemelamine
+Trifluoperazine hydrochloride
+Trifluridine
+Trilostane
+Trimetrexate
+Trioxsalen
+Tripterin
+Triptolide
+Triptonide
+Troglitazone
+Tropisetron
+Trospium chloride
+Troxacitabine
+Tubacin
+Tubastatin A
+Tucatinib
+Turofexorate isopropyl
+Tussilagone
+Tyrphostin B42
+U-0126
+U-73122
+UK-371804
+UK-383367
+ULIPRISTAL ACETATE
+UNBS-5162
+UNC-0224
+UNC-0631
+UNC-0638
+UNC-0646
+UNC-1215
+UNC-1999
+UNC-2025
+UNC-3866
+UNC-569
+UNC-669
+UNC2250
+Ubenimex
+Ulixertinib
+Umbralisib
+Uracil mustard
+Uridine
+Uridine triacetate
+Ursodiol
+Ursolic acid
+VALPROIC ACID
+VARENICLINE
+VBY-825
+VCH-916
+VE-821
+VER-155008
+VER-3323 hemifumarate salt
+VER-82576
+VINBLASTINE SULFATE
+VLX-1570
+VLX-600
+VPS34 Inhibitor 1 (Compound 19, PIK-III analogue)
+VS-4718
+VS-5584
+VU-0364849
+VU0357121
+VU0482089-2
+VU0483486-1
+VU0483487-1
+VU0483488-1
+VU0661013
+VX-702
+VX-745
+VX-765
+VX-984
+Vactosertib
+Vadadustat
+Vadimezan
+Valaciclovir
+Valdecoxib
+Valproic acid sodium salt
+Valrubicin
+Valspodar
+Vancomycin hydrochloride
+Vandetanib
+Vanoxeamine
+Vapiprost hydrochloride
+Vardenafil
+Varenicline tartrate
+Varespladib
+Varlitinib tosylate
+Vatalanib
+Vecuronium bromide
+Veliflapon
+Veliparib
+Vemurafenib
+Venetoclax (ABT-199)
+Venlafaxine hydrochloride
+Verapamil
+Verdinexor
+Verteporfin
+Vesatolimod
+Vesnarinone
+Vicriviroc (SCH-417690)
+Vidarabine
+Vidofludimus
+Vinblastine
+Vinblastine Sulfate Hydrate
+Vincristine sulfate
+Vindesine sulfate salt
+Vinflunine
+Vinorelbine
+Vinorelbine Tartrate
+Vinpocetine
+Viracept
+Vismodegib
+Vistusertib
+Vitamin B12
+Volasertib
+Vorapaxar
+Voriconazole
+Vorinostat
+Vorinostat (SAHA)
+Voruciclib
+Vosaroxin
+Voxtalisib
+WAY-100635
+WAY-204688
+WAY-262611
+WAY-600
+WDR5-C47
+WEHI-345
+WEHI-539
+WHI-P154
+WHI-P97
+WIKI4
+WIN-55212-2
+WNK-463
+WO2016044770
+WP-1066
+WS-3
+WT-161
+WYE-125132
+WYE-354
+WYE-687
+WZ-3146
+WZ-4002
+WZ-4003
+WZ-8040
+Warfarin sodium
+Withaferin A
+Wnt-C59
+Wortmannin
+Wyeth Cot Inhibitor 2
+XCT-790
+XL 413 hydrochloride
+XL-019
+XL-147
+XL-228
+XL-388
+XL-647
+XL-765
+XL-784
+XL-888
+XL647
+XMD17-109
+XMD17-109 (ERK5-IN-1)
+XMD8-87
+XMD8-92
+XMU-MP-1
+XRP-44X
+Xanthatin
+Ximelagatran
+Xylometazoline hydrochloride
+Y-27632
+Y-39983
+YK-4-279
+YK-72
+YKL-05-099
+YM-201636
+YM-511
+YO-01027
+YU-238259
+YW3-56
+Yohimbine
+ZALEPLON
+ZM-336372
+ZM-39923
+ZM-447439
+ZSTK-474
+Zafirlukast
+Zalcitabine
+Zaldaride maleate
+Zaltoprofen
+Zanamivir
+Zebularine
+Zibotentan
+Zidovudine
+Zileuton
+Zilpaterol
+Ziprasidone hydrochloride
+Zoledronic acid
+Zoledronic acid monohydrate
+Zolinza
+Zolmitriptan
+Zonisamide
+Zosuquidar trihydrochloride
+amodiaquine
+bendamustine hydrochloride
+beta-Carotene
+beta-Lapachone
+beta-Sitosterol
+c-FMS Inhibitor
+cPEPCK Inhibitor
+cycloheximide
+cyclosporin A
+eFT508
+ibrutinib
+methyl jasmonate
+nor-Binaltorphimine
+rac Nebivolol hydrochloride

@@ -1,0 +1,419 @@
+DrugName
+Opium derivatives and expectorants
+Paracetamol, combinations excl. Psycholeptics (Vicks MediNait Sirup)
+Parathyroid Hormones And Analogues
+Vitamin B-complex with vitamin C
+abacavir
+abemaciclib
+acenocoumarol
+acetaminophen / caffeine / dihydrocodeine
+acetaminophen / codeine
+acetaminophen; acetaminophen / tramadol
+acetaminophen; tramadol
+afatinib
+afutuzumab
+alectinib
+alglucosidase alfa
+alirocumab
+aliskiren
+allopurinol
+alpelisib
+amifampridine
+amifampridine phosphate
+amitriptyline
+amlodipine / atorvastatin / perindopril arginine
+amoxapine
+amphetamine
+anakinra
+anastrozole
+antithrombotic agents
+arformoterol
+aripiprazole
+aripiprazole lauroxil
+arsenic trioxide
+articaine / epinephrine
+aspirin
+atazanavir
+atezolizumab
+atomoxetine
+atorvastatin
+avapritinib
+avatrombopag
+avelumab
+axitinib
+azathioprine
+belimumab
+belinostat
+binimetinib
+bisoprolol fumarate / perindopril arginine
+blinatumomab
+boceprevir
+bosutinib
+brentuximab vedotin
+brexpiprazole
+brigatinib
+brivaracetam
+bupivacaine
+bupropion
+busulfan
+cabazitaxel
+cabozantinib
+capecitabine
+capmatinib
+carbamazepine
+carbasalate calcium
+carglumic acid
+cariprazine
+carisoprodol
+carvedilol
+casimersen
+ceftriaxone
+celecoxib
+cemiplimab-rwlc
+ceritinib
+cerliponase alfa
+cetuximab
+cevimeline
+chloroprocaine
+chloroquine
+chlorpropamide
+cholic acid
+ciprofloxacin
+cisplatin
+citalopram
+clobazam
+clomipramine
+clopidogrel
+clozapine
+cobimetinib
+codeine
+crizanlizumab-tmca
+crizotinib
+dabrafenib
+daclatasvir
+dacomitinib
+dapoxetine
+dapsone
+darifenacin
+darunavir
+dasabuvir
+dasabuvir / ombitasvir / paritaprevir / ritonavir
+dasatinib
+denileukin diftitox
+desflurane
+desipramine
+desloratadine
+desvenlafaxine
+deutetrabenazine
+dexlansoprazole
+dextromethorphan
+dextromethorphan / quinidine
+diazepam
+dinutuximab
+divalproex sodium
+docetaxel
+dolutegravir
+dolutegravir / abacavir / lamivudine
+donepezil
+dostarlimab-gxly
+dotatate lutenium lu-177
+doxepin
+dronabinol
+dronedarone
+drospirenone / ethinyl estradiol
+duloxetine
+durvalumab
+duvelisib
+eculizumab
+efavirenz
+efavirenz / emtricitabine / tenofovir disoproxil
+elagolix
+elbasvir / grazoprevir
+eletriptan
+elexacaftor / tezacaftor / ivacaftor
+eliglustat
+elosulfase alfa
+eltrombopag
+emapalumab
+enasidenib
+encorafenib
+enflurane
+enfortumab vedotin
+entrectinib
+erdafitinib
+eribulin
+erlotinib
+erythromycin ethylsuccinate / sulfisoxazole acetyl
+escitalopram
+esomeprazole
+estradiol / progesterone
+eteplirsen
+ethinyl estradiol / norelgestromin
+everolimus
+evinacumab
+evolocumab
+exemestane
+ezetimibe / rosuvastatin
+ezetimibe / simvastatin
+fam-trastuzumab deruxtecan-nxki
+fampridine
+fenofibrate; simvastatin
+fesoterodine
+flibanserin
+flucloxacillin
+flucytosine
+fluorouracil
+fluorouracil / salicylic acid
+fluoxetine
+fluoxetine / olanzapine
+flurbiprofen
+flutamide
+fluvoxamine
+formoterol
+fosamprenavir
+fosdenopterin
+fosphenytoin
+fulvestrant
+galantamine
+gamma hydroxybutyric acid
+gefitinib
+gemtuzumab ozogamicin
+gilteritinib
+givosiran
+glibenclamide
+gliclazide
+glimepiride
+glimepiride; pioglitazone
+glipizide
+golodirsen
+goserelin
+haloperidol
+homoharringtonine
+hydralazine / isosorbide dinitrate
+hydroxychloroquine
+ibritumomab
+ibrutinib
+iloperidone
+imatinib
+imipramine
+indacaterol
+indinavir
+inebilizumab-cdon
+infigratinib
+inotersen
+inotuzumab ozogamicin
+ipilimumab
+irinotecan
+isatuximab-irfc
+isoflurane
+isoniazid
+isoniazid / pyrazinamide / rifampin
+isosorbide dinitrate
+isosorbide mononitrate
+ivabradine
+ivacaftor
+ivacaftor / lumacaftor
+ivacaftor / tezacaftor
+ivosidenib
+ixabepilone
+lacosamide
+lamivudine / abacavir
+lansoprazole
+lapatinib
+larotrectinib sulfate
+ledipasvir / sofosbuvir
+lenalidomide
+lenvatinib
+lesinurad
+letermovir
+letrozole
+lidocaine / prilocaine
+lidocaine and tetracaine
+lofexidine
+lomitapide
+lonafarnib
+lorlatinib
+losartan
+lumasiran
+luspatercept-aamt
+lusutrombopag
+mafenide
+maraviroc
+margetuximab
+meclizine
+mefloquine
+meloxicam
+mepivacaine
+mercaptopurine
+metabutethamine
+methylene blue
+metoclopramide
+metoprolol
+metreleptin
+midostaurin
+migalastat
+mipomersen
+mirabegron
+mivacurium chloride
+moclobemide
+modafinil
+moviprep
+moxifloxacin
+mycophenolic acid
+nalidixic acid
+nebivolol
+nefazodone
+nelfinavir
+neratinib
+nicorandil
+nilotinib
+niraparib
+nitrofurantoin
+nitroglycerin
+nivolumab
+norfloxacin
+nortriptyline
+nusinersen
+ofatumumab
+ofloxacin
+olanzapine
+olaparib
+olaratumab
+oliceridine
+ombitasvir / paritaprevir / ritonavir
+omeprazole
+ondansetron
+osimertinib
+ospemifene
+oxcarbazepine
+oxycodone
+oxymetazoline and tetracaine
+palbociclib
+paliperidone
+palonosetron
+panitumumab
+pantoprazole
+paroxetine
+pazopanib
+peginterferon alfa-2b
+pegloticase
+pembrolizumab
+perindopril
+perphenazine
+pertuzumab
+phenytoin
+pimozide
+piroxicam
+pitavastatin
+pitolisant
+ponatinib
+posaconazole
+pralsetinib
+prasugrel
+pravastatin
+prilocaine
+primaquine
+probenecid
+procainamide
+propafenone
+propranolol
+protriptyline
+quinidine
+quinine
+rabeprazole
+raloxifene
+raltegravir
+ramucirumab
+ranolazine
+rasburicase
+regorafenib
+ribociclib
+rimegepant
+risdiplam
+risperidone
+ritonavir
+rituximab
+rivaroxaban
+ropivacaine
+rosuvastatin
+rucaparib
+ruxolitinib
+sacituzumab govitecan-hziy
+satralizumab
+selpercatinib
+sertindole
+setmelanotide
+sevoflurane
+sildenafil
+simeprevir
+simvastatin
+siponimod
+sirolimus
+sodium benzoate / sodium phenylacetate
+sodium nitrite
+sodium phenylbutyrate
+sofosbuvir
+sofosbuvir / velpatasvir
+sofosbuvir / velpatasvir / voxilaprevir
+sotorasib
+succimer
+succinylcholine
+sulfadiazine
+sulfamethoxazole / trimethoprim
+sulfasalazine
+sunitinib
+synthetic conjugated estrogens, A
+tacrolimus
+tafamidis
+tafenoquine
+talazoparib
+tamoxifen
+tamsulosin
+telaprevir
+telithromycin
+tepotinib
+terbinafine
+tetrabenazine
+thioguanine
+thioridazine
+ticagrelor
+timolol
+tiotropium
+tipiracil / trifluridine
+tipranavir
+tolazamide
+tolbutamide
+tolperisone
+tolterodine
+toremifene
+tositumomab
+tramadol
+trametinib
+trastuzumab
+trastuzumab emtansine
+tretinoin
+trimipramine
+tucatinib
+umeclidinium
+umeclidinium / vilanterol
+upadacitinib
+ustekinumab
+valbenazine
+valproic acid
+vandetanib
+vardenafil
+velaglucerase alfa
+vemurafenib
+venetoclax
+venlafaxine
+vernakalant
+viltolarsen
+vincristine
+vitamin c
+voriconazole
+vortioxetine
+voxelotor
+warfarin
+zidovudine / lamivudine / abacavir
+zonisamide
+zuclopenthixol
