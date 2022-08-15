@@ -120,8 +120,15 @@ def process_RepoDB():
     processed_df = processed_df.sort_index()
     processed_df.to_csv(data_folder + "RepoDB/processed_RepoDB.txt", sep='\t')
 def process_SIDER():
-    # this database has already CID info in it!
-    pass
+    # this database has already CID info in it but the CIDs are different from PubChem!!
+    #todo: check SIDER database
+    df = pd.read_csv(data_folder + "SIDER/SIDER_drug_names.txt", sep='\t')["DrugName"]
+    names = df.drop_duplicates()
+    processed_df = pd.DataFrame({"DrugName": []})
+    processed_df['DrugName'] = names
+    processed_df = processed_df.set_index("DrugName")
+    processed_df = processed_df.sort_index()
+    processed_df.to_csv(data_folder + "SIDER/processed_SIDER.txt", sep='\t')
 def process_SMPDB():
     df = pd.read_csv(data_folder + "SMPDB/smpdb_inchi_keys.txt", sep='\t',header=0)
     names = df.drop_duplicates()

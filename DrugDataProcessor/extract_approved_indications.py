@@ -20,7 +20,7 @@ def find_indication_pairs():
         query=parsed_df.query(f"DrugName=='{drug_name}'")
         for CID in query['CID']:
             for disease_ID in indication_pairs[drug_name]:
-                disease_IDs.append(disease_ID)
+                disease_IDs.append("UMLS:"+disease_ID)
                 drug_CIDs.append(CID)
     indication_df['DiseaseID']=disease_IDs
     indication_df['DrugCID']=drug_CIDs
@@ -33,6 +33,16 @@ def find_indication_pairs():
     # print(parsed_df)
 
 
+def save_indication_diseases():
+    disease_df = pd.read_csv('../DiseaseDataProcessor/disease_results.tsv', sep='\t', dtype=str).set_index('DiseaseID')
+    disease_df.loc[pd.read_csv('../DrugDataProcessor/indication_pairs.tsv', sep='\t', dtype=str)[
+                        'DiseaseID'].tolist(), :].to_csv('../IndicationAnalyser/Indications_diseases.tsv', sep='\t')
+def save_indication_drugs():
+    drug_df=pd.read_csv('../DrugDataProcessor/drug_results.tsv',sep='\t',dtype=str).set_index('CID')
+    drug_df.loc[pd.read_csv('../DrugDataProcessor/indication_pairs.tsv', sep='\t', dtype=str)['DrugCID'].tolist(),
+    :].to_csv('../IndicationAnalyser/Indications_drugs.tsv', sep='\t')
 
 if __name__ == '__main__':
     find_indication_pairs()
+    save_indication_diseases()
+    save_indication_drugs()

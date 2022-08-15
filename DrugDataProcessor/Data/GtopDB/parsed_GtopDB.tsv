@@ -15,9 +15,8 @@ DrugName	CID
 1,25-dihydroxyvitamin D3	6437079
 1,25-dihydroxyvitamin D3	9953732
 1,25-dihydroxyvitamin D3	13019066
-1,25-dihydroxyvitamin D3	2524
-1,25-dihydroxyvitamin D3	5283740
 1,25-dihydroxyvitamin D3	5371993
+1,25-dihydroxyvitamin D3	5283740
 1,25-dihydroxyvitamin D3	101099404
 17&beta;-estradiol	
 5&alpha;-pregnan-3&alpha;-ol-20-one	
@@ -164,8 +163,8 @@ apomorphine	6005
 apraclonidine	2216
 apremilast	11561674
 aprepitant	135413536
-aprotinin	16130295
 aprotinin	156024996
+aprotinin	16130295
 aprotinin	22833874
 aprotinin	53487898
 aprotinin	129627711
@@ -175,13 +174,13 @@ arformoterol	3083544
 argatroban	92722
 aripiprazole	60795
 artemether	68911
-artenimol	11358077
 artenimol	6918483
+artenimol	11358077
 artenimol	3000518
 artenimol	456410
 artenimol	107770
-artenimol	179336
 artenimol	11832956
+artenimol	179336
 artenimol	10221470
 artenimol	16399850
 artesunate	6917864
@@ -190,14 +189,14 @@ artesunate	5464098
 artesunate	156252
 artesunate	105031
 artesunate	53486426
-artesunate	16394563
 artesunate	9821433
+artesunate	16394563
 artesunate	126963478
 artesunate	146160078
-artesunate	60196289
 artesunate	49769200
-artesunate	129009911
+artesunate	60196289
 artesunate	91746179
+artesunate	129009911
 asciminib	72165228
 asenapine	3036780
 asenapine	163091
@@ -244,8 +243,8 @@ azithromycin	447043
 aztreonam	5742832
 aztreonam	5459211
 aztreonam	2274
-aztreonam	54117
 aztreonam	5466987
+aztreonam	54117
 aztreonam	56842327
 aztreonam	86741379
 aztreonam	22842006
@@ -388,12 +387,8 @@ cedazuridine	25267009
 cefaclor	51039
 cefadroxil	47965
 cefepime	5479537
-cefepime	5464190
-cefepime	2622
-cefepime	9615345
-cefepime	53486338
-cefepime	5353490
-cefepime	68606
+cefepime	5491295
+cefepime	16726873
 cefiderocol	77843966
 cefixime	5362065
 cefixime	6321411
@@ -435,8 +430,8 @@ ceftolozane	53234134
 ceftolozane	56843746
 ceftolozane	75984602
 ceftriaxone	5479530
-ceftriaxone	23679441
 ceftriaxone	9570985
+ceftriaxone	23679441
 ceftriaxone	46173365
 cefuroxime	5479529
 cefuroxime	5361202
@@ -589,8 +584,8 @@ dalbavancin	133268464
 dalfopristin	6323289
 dalfopristin	21943994
 dalfopristin	124201618
-dalfopristin	21943991
 dalfopristin	5366
+dalfopristin	21943991
 dalfopristin	5353985
 dalfopristin	470125
 dalfopristin	72734290
@@ -615,8 +610,8 @@ daptomycin	57336511
 daptomycin	25246315
 daptomycin	58936818
 daptomycin	117590581
-daptomycin	132274074
 daptomycin	129009962
+daptomycin	132274074
 daratumumab	
 daridorexant	91801202
 darifenacin	444031
@@ -643,6 +638,8 @@ desirudin	16129703
 deslanoside	28620
 desloratadine	124087
 desmopressin	5311065
+desmopressin	27991
+desmopressin	16051933
 desogestrel	40973
 desonide	5311066
 desoximetasone	5311067
@@ -713,8 +710,8 @@ dotinurad	51349053
 doxapram	3156
 doxazosin	3157
 doxepin	667477
-doxepin	3158
 doxepin	667468
+doxepin	3158
 doxercalciferol	5281107
 doxorubicin	31703
 doxycycline	54671203
@@ -736,8 +733,8 @@ dydrogesterone	9051
 dyphylline	3182
 ecallantide	44152182
 ecallantide	118984459
-ecallantide	156631350
 ecallantide	129628207
+ecallantide	156631350
 echothiophate	10548
 econazole	3198
 eculizumab	
@@ -756,8 +753,8 @@ eldecalcitol	145705672
 eldecalcitol	56670920
 eldecalcitol	72750241
 eldecalcitol	91799043
-eldecalcitol	44296776
 eldecalcitol	134692791
+eldecalcitol	44296776
 eldecalcitol	126843179
 eldecalcitol	156599225
 eletriptan	77993
@@ -791,12 +788,6 @@ epalrestat	1549120
 ephedrine	9294
 epinastine	3241
 eplerenone	443872
-eplerenone	9953590
-eplerenone	21865526
-eplerenone	150310
-eplerenone	9939152
-eplerenone	124040753
-eplerenone	129009858
 eprosartan	5281037
 eptifibatide	448812
 eptinezumab	
@@ -884,11 +875,11 @@ fidaxomicin	151383
 fidaxomicin	91885501
 fidaxomicin	102580518
 fidaxomicin	70678896
-fidaxomicin	156620959
-fidaxomicin	135391138
 fidaxomicin	132472265
 fidaxomicin	131668620
+fidaxomicin	135391138
 fidaxomicin	117590639
+fidaxomicin	156620959
 fidaxomicin	23305223
 filgotinib	49831257
 filgrastim	
@@ -934,9 +925,9 @@ fluvastatin	23663976
 fluvastatin	37888681
 fluvoxamine	5324346
 folinic acid	135403648
+folinic acid	135738681
 folinic acid	135403647
 folinic acid	135802074
-folinic acid	135738681
 fomepizole	3406
 fondaparinux	5282448
 forasartan	132706
@@ -990,9 +981,9 @@ glecaprevir	66828839
 glecaprevir	129635886
 glecaprevir	76470875
 glecaprevir	154809629
-glecaprevir	156758105
 glecaprevir	156963402
 glecaprevir	138991601
+glecaprevir	156758105
 glibenclamide	3488
 glimepiride	3476
 glipizide	3478
@@ -1044,7 +1035,6 @@ icatibant	6918173
 icatibant	71364
 icatibant	90488794
 icatibant	14724482
-icatibant	137705994
 icosapent	446284
 icotinib	22024915
 idarubicin	42890
@@ -1060,9 +1050,9 @@ iloprost	53394043
 iloprost	53486260
 iloprost	89077401
 iloprost	51397006
+iloprost	54313
 iloprost	134694981
 iloprost	91746214
-iloprost	54313
 imatinib	5291
 imdevimab	
 imidapril	5464343
@@ -1122,19 +1112,20 @@ ivacaftor	16220172
 ivermectin	6321424
 ivermectin	4330618
 ivermectin	11957587
-ivermectin	6419971
 ivermectin	71308642
+ivermectin	6419971
 ivermectin	146159550
 ivermectin	45114068
 ivermectin	6427057
 ivermectin	155970341
-ivermectin	3085416
-ivermectin	134687046
 ivermectin	122172888
+ivermectin	3085416
+ivermectin	164186531
+ivermectin	134687046
 ivermectin	135391144
 ivermectin	124870718
-ivermectin	124870720
 ivermectin	57182275
+ivermectin	124870720
 ivermectin	70678372
 ivosidenib	71657455
 ixabepilone	6445540
@@ -1160,9 +1151,9 @@ lanreotide	6918011
 lanreotide	122173799
 lanreotide	134694358
 lanreotide	10796238
+lanreotide	138393800
 lanreotide	44270249
 lanreotide	154734381
-lanreotide	138393800
 lansoprazole	3883
 lapatinib	208908
 larotrectinib	46188928
@@ -1218,7 +1209,8 @@ liraglutide	131709229
 lisdexamfetamine	11597698
 lisinopril	5362119
 lisuride	28864
-lixisenatide	
+lixisenatide	90472060
+lixisenatide	132427670
 lodoxamide	44564
 lofepramine	3947
 lofexidine	30668
@@ -1252,8 +1244,8 @@ lymecycline	54707177
 lymecycline	54714462
 lymecycline	146160332
 lymecycline	54687131
-lymecycline	154730852
 lymecycline	133562720
+lymecycline	154730852
 macimorelin	9804938
 macitentan	16004692
 manidipine	4008
@@ -1447,9 +1439,9 @@ norgestimate	6540478
 norgestimate	5360970
 norgestimate	9601086
 norgestimate	37083
-norgestimate	89386
-norgestimate	146158693
 norgestimate	11773081
+norgestimate	146158693
+norgestimate	89386
 norgestimate	98042564
 norgestimate	133611887
 norgestimate	5311328
@@ -1596,21 +1588,21 @@ pilocarpine	5910
 pimavanserin	10071196
 pimecrolimus	6509979
 pimecrolimus	6447131
-pimecrolimus	53486290
 pimecrolimus	16051947
+pimecrolimus	53486290
 pimecrolimus	17753757
-pimecrolimus	102572331
 pimecrolimus	129010022
+pimecrolimus	102572331
 pimecrolimus	53394893
 pimecrolimus	146157034
-pimecrolimus	131750284
 pimecrolimus	134694728
+pimecrolimus	133659920
 pimecrolimus	134129698
 pimecrolimus	129317859
-pimecrolimus	126969212
-pimecrolimus	133659920
-pimecrolimus	148161124
 pimecrolimus	73897257
+pimecrolimus	131750284
+pimecrolimus	126969212
+pimecrolimus	148161124
 pimozide	16362
 pinacidil	4826
 pindolol	4828
@@ -1637,8 +1629,8 @@ plitidepsin	9812534
 polatuzumab vedotin	
 polmacoxib	9841854
 polymyxin B	49800004
-polymyxin B	9833652
 polymyxin B	4868
+polymyxin B	9833652
 polymyxin B	199402
 polythiazide	4870
 pomalidomide	134780
@@ -1709,17 +1701,17 @@ quinidine	5953
 quinidine	24096961
 quinidine	10448938
 quinidine	6604605
-quinidine	3032576
 quinidine	667449
-quinidine	5484444
+quinidine	3032576
 quinidine	94175
+quinidine	5484444
 quinidine	24867865
 quinine	3034034
 quinupristin	5388937
 quinupristin	71338
 quinupristin	71307528
-quinupristin	470126
 quinupristin	23724509
+quinupristin	470126
 quinupristin	138394214
 quinupristin	146681110
 rabeprazole	5029
@@ -1766,19 +1758,19 @@ rifampicin	135900090
 rifampicin	135925261
 rifampicin	135921134
 rifampicin	135512673
-rifampicin	135932822
-rifampicin	135925741
-rifampicin	135441414
 rifampicin	136122621
+rifampicin	135932822
+rifampicin	135441414
+rifampicin	135925741
 rifampicin	136246612
 rifampicin	135449527
-rifampicin	137286743
 rifampicin	137270779
+rifampicin	137286743
+rifampicin	154825551
 rifampicin	136601293
 rifampicin	136619758
 rifampicin	136709103
 rifampicin	137287990
-rifampicin	154825551
 rifamycin SV	6324616
 rilonacept	
 rilpivirine	6451164
@@ -1811,10 +1803,10 @@ romidepsin	57515973
 romidepsin	3425
 romidepsin	56840936
 romidepsin	90488850
-romidepsin	129905275
-romidepsin	91110640
 romidepsin	123135747
+romidepsin	129905275
 romidepsin	58708317
+romidepsin	91110640
 romidepsin	154574495
 romiplostim	
 romosozumab	
@@ -1831,14 +1823,14 @@ roxithromycin	444037
 roxithromycin	46705420
 roxithromycin	5106
 roxithromycin	5353933
-roxithromycin	45588114
-roxithromycin	73759751
-roxithromycin	25102720
 roxithromycin	5362068
+roxithromycin	45588114
+roxithromycin	25102720
+roxithromycin	73759751
 roxithromycin	126969152
+roxithromycin	139592915
 roxithromycin	133611834
 roxithromycin	135391136
-roxithromycin	139592915
 roxithromycin	5837004
 roxithromycin	122172998
 rucaparib	9931954
@@ -1866,9 +1858,9 @@ saxagliptin	11235729
 saxagliptin	58391580
 saxagliptin	66576989
 saxagliptin	98047158
+saxagliptin	134694638
 saxagliptin	129317852
 saxagliptin	129009973
-saxagliptin	134694638
 scopolamine	3000322
 scopolamine	5184
 scopolamine	11968014
@@ -1909,8 +1901,8 @@ simeprevir	24873435
 simeprevir	66576988
 simeprevir	66811198
 simeprevir	146160179
-simeprevir	118984465
 simeprevir	66811197
+simeprevir	118984465
 simeprevir	134695356
 simeprevir	122172922
 simeprevir	74787539
@@ -2014,18 +2006,18 @@ temsirolimus	6918289
 temsirolimus	18293306
 temsirolimus	23724530
 temsirolimus	86287409
-temsirolimus	53486199
 temsirolimus	148191
+temsirolimus	53486199
 temsirolimus	129317846
 temsirolimus	71433778
 temsirolimus	71312019
 temsirolimus	23308413
 temsirolimus	132274070
-temsirolimus	137295275
-temsirolimus	163359784
-temsirolimus	145712265
 temsirolimus	86277830
+temsirolimus	163359784
 temsirolimus	54608508
+temsirolimus	137295275
+temsirolimus	145712265
 tenapanor	71587953
 teneligliptin	11949652
 teniposide	452548

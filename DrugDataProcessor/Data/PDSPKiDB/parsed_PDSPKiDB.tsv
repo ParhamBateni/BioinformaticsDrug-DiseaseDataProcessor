@@ -965,7 +965,7 @@ DrugName	CID
 (3-((2-(4,6-dimorpholino-1,3,5-triazin-2-yl)hydrazono)methyl)-1H-indol-1-yl)(p-tolyl)methanone	91934340
 (3-Amino-1(R,S)-ethylpropyl)methylphosphinic acid	
 (3-Amino-1(R,S)-hydroxypropyl)methylphosphinic acid	
-(3-Amino-2(R)-hydroxypropyl)methylphosphinic acid	
+(3-Amino-2(R)-hydroxypropyl)methylphosphinic acid	5310934
 (3-Amino-2(R,S)-hydroxypropyl)(cyclohexylmethyl)phosphinic Acid Hydrochloride	
 (3-Amino-2(R,S)-hydroxypropyl)(diethoxymethyl)phosphinic Acid	
 (3-Amino-2(R,S)-hydroxypropyl)(difluoromethyl)phosphinic acid	
@@ -1527,8 +1527,8 @@ DrugName	CID
 (R)-6-bromo-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340745
 (R)-6-chloro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340744
 (R)-6-chloro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	24758166
-(R)-6-fluoro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340743
 (R)-6-fluoro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	24758165
+(R)-6-fluoro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340743
 (R)-7-(4-(2-(1-(Isoquinolin-4-ylsulfonyl)pyrrolidin-2-yl)ethyl)piperazin-1-yl)benzo[d]	
 (R)-7-Ethoxy-4-oxo-1-pentyl-N-(1-phenylethyl)-1,4-dihydroquinoline-3-carboxamide	25034603
 (R)-7-Fluoro-4-oxo-1-pentyl-N-(1-phenylethyl)-1,4-dihydroquinoline-3-carboxamide	25034602
@@ -1912,10 +1912,10 @@ DrugName	CID
 (S)-6-Fluoro-3-(1-(2-(1-(isoquinolin-4-ylsulfonyl-pyrrolidin-2-yl)ethyl)piperidin-4-yl)-1,2-benzoxazole	
 (S)-6-Fluoro-3-(1-(2-(1-(quinolin-5-ylsulfonyl-pyrrolidin-2-yl)ethyl)piperidin-4-yl)-1,2-benzoxazole	
 (S)-6-amino-2-((S)-2-(((3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl)methyl)-3-phenylpropanamido)hexanoic acid	57340779
-(S)-6-chloro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340744
 (S)-6-chloro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	24758290
-(S)-6-fluoro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340743
+(S)-6-chloro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340744
 (S)-6-fluoro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	24758289
+(S)-6-fluoro-2-(pyrrolidin-2-ylmethyl)-1H-pyrrolo[2,3-b]pyridine	57340743
 (S)-7-(3-(4-fluoropiperidin-1-yl)propoxy)-4-(4-methoxyphenyl)-2-methyl-1,2,3,4-tetrahydroisoquinoline	44434236
 (S)-7-(4-(2-(1-(Quinolin-5-ylsulfonyl)pyrrolidin-2-yl)ethyl)piperazin-1-yl)benzo[d]	
 (S)-7-ethynyl-1-(3-methyl-1,2,4-oxadiazol-5-yl)-12,13,13a,14-tetrahydro-9H,11H-benzo[f]imidazo[5,1-d]pyrrolo[1,2-a][1,5]diazocin-9-one	
@@ -2793,8 +2793,8 @@ DrugName	CID
 1,5-Dimethyl-6-(2-methyl-4-(thieno[2,3-c]pyridin-7-yloxy)-phenyl)pyrimidine-2,4(1H,3H)-dione	
 1,5-Dimethyl-6-(2-methyl-4-(thieno[2,3-c]pyridin-7-yloxy)phenyl)pyrimidine-2,4(1H,3H)-dione	
 1,5-bis(2,4-Dichlorophenyl)-4-methyl-N-piperidin-1-yl-1Hpyrazole-3-carboxamide	24881409
-1,6-Dimethyl-1,5,5a,6,7,8-hexahydro-6-aza-benzo[mno]aceanthrylen-1-ol	10707685
 1,6-Dimethyl-1,5,5a,6,7,8-hexahydro-6-aza-benzo[mno]aceanthrylen-1-ol	10683945
+1,6-Dimethyl-1,5,5a,6,7,8-hexahydro-6-aza-benzo[mno]aceanthrylen-1-ol	10707685
 1,6-Dimethyl-1,5,5a,6,7,8-hexahydro-6-aza-benzo[mno]aceanthrylene	10825325
 1,6-Dimethyl-1,5,5a,6,7,8-hexahydro-6-aza-benzo[mno]aceanthrylene	10706553
 1,7-Dimethylxanthine	4687
@@ -4219,7 +4219,7 @@ DrugName	CID
 2-(3-Methoxyphenyl)-5-methyl-thiazolo[5,4-d]pyrimidin-7- one	
 2-(3-Methoxyphenyl)-N,N,N-trimethyl-2-oxoethan-1-aminium formate	
 2-(3-Methoxyphenyl)-N,N,N-trimethylethan-1-aminium formate	
-2-(3-Methoxyphenyl)-N-methylethan-1-amine	
+2-(3-Methoxyphenyl)-N-methylethan-1-amine	118500
 2-(3-fluorophenyl)pyrazolo[3,4-c]quinolin-4-amine	
 2-(3-methoxyphenoxy)ethanimidamide	6484206
 2-(3-methoxyphenyl)ethanimidamide	4321806
@@ -8734,8 +8734,8 @@ AB-MECA	5310992
 AB-MECA	1970
 AB-MECA	11957463
 AB-MECA	24867472
-AB-MECA	46876311
 AB-MECA	118705472
+AB-MECA	46876311
 AB-NECA	57340157
 ABA	5280896
 ABA	5375199
@@ -8844,8 +8844,8 @@ AP5A	45479437
 AP6A	123694
 AP6A	56928007
 APEC	3081741
-APNEA	4397
 APNEA	9952135
+APNEA	4397
 APOMORPHINE	6005
 AQ-RA 741	129989
 ARC-239	
@@ -8855,6 +8855,7 @@ AS-19	23642275
 ASTEMIZOLE	2247
 ATC0065	11238212
 ATC0065	11479128
+ATC0175	9934032
 ATC0175	9934033
 ATENOLOL	2249
 ATIPAMEZOLE	71310
@@ -9002,8 +9003,8 @@ Alinidine	36354
 Allopregnanolone	92786
 Allopregnanolone	92787
 Allopregnanolone	262961
-Allopregnanolone	16760287
 Allopregnanolone	31402
+Allopregnanolone	16760287
 Allopregnanolone	22833567
 Allopregnanolone	6708605
 Allopregnanolone	104881
@@ -9046,6 +9047,7 @@ Amphetamine,(-)
 Ampyrone	2151
 Anabaseine	18985
 Anabasine	2181
+Anabasine	4988232
 Anabasine, (+/-)	2181
 Anandamide + PMSF	5282273
 Anatoxin-A (+)	
@@ -9669,8 +9671,6 @@ CHPG	3645780
 CI 218872	
 CI-1015	
 CI-1033	156414
-CI-1033	156413
-CI-1033	67292089
 CI-988	108187
 CI-996	9828975
 CI-IB-MECA	3035850
@@ -9735,8 +9735,6 @@ CMA57
 CNQX	3721046
 COCAINE	446220
 CODEINE SULFATE	5359613
-CODEINE SULFATE	6098421
-CODEINE SULFATE	21155870
 COMPOUND I	
 COMPOUND II	
 CORYNANTHINE	92766
@@ -9797,8 +9795,8 @@ CST14	16197966
 CST14-Tyr10	57340177
 CST17	91898934
 CTA2	5311387
-CTAP	90479802
 CTAP	10418702
+CTAP	90479802
 CTAP	44309215
 CTAP	44208885
 CTAP	139592710
@@ -10018,15 +10016,16 @@ D-methionine	84815
 D600	1234
 D609	4234241
 D609	6335504
-D609	2941
-D609	2940
 D609	45479729
+D609	2940
+D609	2941
 D888,(+)	65832
 D888,(-)	65832
 DABDMA	57339628
 DADLE	6917707
 DADLE-OH	6917707
 DALDA	122222
+DALDA	14444332
 DALEA	5486816
 DALLE	10099522
 DAMGO	5462471
@@ -10058,8 +10057,8 @@ DHA	15608515
 DHBA	19
 DHC	
 DHE	10531
-DHE	44272242
 DHE	3066
+DHE	44272242
 DHL	6058
 DHPG	
 DHbetaE	31762
@@ -10160,8 +10159,8 @@ DOPAMINE	681
 DOPR	542051
 DOTB	12262514
 DOXEPIN	667477
-DOXEPIN	3158
 DOXEPIN	667468
+DOXEPIN	3158
 DP-5-CT	156314
 DPAT	
 DPCPX	1329
@@ -10182,7 +10181,7 @@ DPI-5402
 DPI-5701	
 DPI-5702	
 DPI-673	
-DPPy	
+DPPy	156014264
 DPSPX	1330
 DPX	
 DPhe6,12,Leu14-Bn	91898968
@@ -10258,8 +10257,8 @@ Devazepide	443375
 Dexetimide	30843
 Dexmedetomidine	5311068
 Dexoxadrol	3034023
-Dexoxadrol	44312340
 Dexoxadrol	66270
+Dexoxadrol	44312340
 Dextrallorphan	5748237
 Dextrallorphan	20834239
 Dextrallorphan	3912
@@ -10410,8 +10409,8 @@ EDC-I-071
 EDC-I-093	
 EDC-II-044	
 EGLU	5311079
-EHNA	3206
 EHNA	11957547
+EHNA	3206
 EHNA	359137
 EHNA	149784
 EHNA	24197375
@@ -10812,12 +10811,12 @@ Glaxo 1192U90	127912
 Gleevec	123596
 Glutamate	33032
 Glutamate	14598502
-Glutamate	4525487
 Glutamate	611
+Glutamate	4525487
 Glutamate	5128032
 Glutamate	104813
-Glutamate	23327
 Glutamate	5460544
+Glutamate	23327
 Gpr6,Ava14,15	57340399
 Guanabenz	5702063
 Guanabenz	3517
@@ -11053,8 +11052,8 @@ ILOPROST	53486260
 ILOPROST	51397006
 ILOPROST	89077401
 ILOPROST	54313
-ILOPROST	91746214
 ILOPROST	134694981
+ILOPROST	91746214
 IMAFEN,(+)	
 IMAFEN,(-)	
 IMILOXAN	133621
@@ -11312,10 +11311,10 @@ L-GDEE	73961
 L-Glu	33032
 L-Glutamate	33032
 L-Glutamate	5460299
-L-Glutamate	5460544
 L-Glutamate	5147171
-L-Glutamate	11840951
 L-Glutamate	14598502
+L-Glutamate	11840951
+L-Glutamate	5460544
 L-Isoleucyl-L-prolinamide trifluoroacetate	
 L-Leucyl-L-prolinamide trifluoroacetate	
 L-Norleucyl-L-prolinamide hydrogen oxalate hemihydrate	
@@ -11433,8 +11432,8 @@ LY 314228	9976312
 LY 314228	56947077
 LY 320950	24121316
 LY 320951	57339955
-LY 320954	10385240
 LY 320954	56947078
+LY 320954	10385240
 LY 334359	24011719
 LY 334362	23786508
 LY 334362	56947079
@@ -11462,9 +11461,9 @@ LY248685	10334821
 LY248686	60835
 LY307452	6324634
 LY341495	9819927
+LY341495	69351741
 LY341495	138113521
 LY341495	6604829
-LY341495	69351741
 LY366563	213056
 LY367385	5311261
 LY379268	10197984
@@ -11770,8 +11769,8 @@ MSA-IV-35
 MSPG	3964410
 MSR-I-032	
 MSX-2	10046145
-MT-1	122172644
 MT-1	129626602
+MT-1	122172644
 MT-2	
 MT-3	1669
 MT-4	121032298
@@ -14043,8 +14042,8 @@ Neuromedin N	9940301
 Neurotensin	25077406
 Neurotensin	25078013
 Neurotensin	90488724
-Neurotensin	134757435
 Neurotensin	133698931
+Neurotensin	134757435
 Neurotensin 2	10440485
 Nevirapine	4463
 NicVape EC Liquid	
@@ -14292,8 +14291,8 @@ PARTHENOLIDE	6473881
 PARTHENOLIDE	5420804
 PARTHENOLIDE	108068
 PARTHENOLIDE	5420805
-PARTHENOLIDE	4692
 PARTHENOLIDE	5353864
+PARTHENOLIDE	4692
 PARTHENOLIDE	5702252
 PARTHENOLIDE	11972532
 PARTHENOLIDE	73759808
@@ -14544,9 +14543,9 @@ Picrotoxin	131704481
 Picrotoxin	57402144
 Picrotoxin	5458938
 Picrotoxin	24802493
+Picrotoxin	13104807
 Picrotoxin	24867522
 Picrotoxin	154731207
-Picrotoxin	13104807
 Picrotoxin	124080966
 Pifluthixol	5311360
 Piflutixol	5477380
@@ -14588,8 +14587,8 @@ Propyl (1S,2R,3S,4R,5S)-4-(2-Chloro-6-((dicyclopropylmethyl)- amino)-9H-purin-9-
 Propyl 2-methyl-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-6-carboxylate	
 Propyl 7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-6-carboxylate	
 Prostratin	454217
-Prostratin	64985
 Prostratin	4962
+Prostratin	64985
 Prostratin	360836
 Prostratin	146159333
 Prostratin	133613180
@@ -14606,9 +14605,9 @@ Pseudonorephedrine, (+) [cathine, (+)]	4786
 Pseudonorephedrine, (-) [cathine, (-)]	4786
 Pseudophenmetrazine	10329865
 Purealidin A	9571169
-Purealin	9601085
 Purealin	9576835
 Purealin	6419303
+Purealin	9601085
 Pyr3TRH	10089973
 Pyrathiazine	10646
 Pyridine-2-carboxylic Acid ((R)-1-{(1S,2S)-1-(4-Bromobenzyloxymethyl)-3-[(S)-1-((S)-1-carbamoyl-3-methylbutylcarbamoyl)ethylcarbamoyl]-2-hydroxypropylcarbamoyl}-2-methylpropyl)amide	6539230
@@ -14666,13 +14665,13 @@ Quinidine	441074
 Quinidine	1065
 Quinidine	3036746
 Quinidine	5953
-Quinidine	24096961
 Quinidine	10448938
+Quinidine	24096961
 Quinidine	6604605
-Quinidine	667449
 Quinidine	3032576
-Quinidine	5484444
+Quinidine	667449
 Quinidine	94175
+Quinidine	5484444
 Quinidine	24867865
 Quinine	3034034
 Quinolinate	1066
@@ -14925,9 +14924,9 @@ Rec 15/3079	9847377
 Rec 27/0074	9868460
 Rec 27/0224	57340712
 Resiniferatoxin	5702546
-Resiniferatoxin	104826
 Resiniferatoxin	5148108
 Resiniferatoxin	6324660
+Resiniferatoxin	104826
 Resiniferatoxin	2733497
 Resiniferatoxin	44564218
 Resiniferatoxin	134688669
@@ -15293,9 +15292,7 @@ Simvastatin lactone	54454
 Sodium salicylate	16760658
 Somatostatin-14	16129681
 Somatostatin-14	16129706
-Somatostatin-14	71308696
 Somatostatin-14	44291156
-Somatostatin-14	16161315
 Sotalol	5253
 Sotalol,(+)	5253
 Sotalol,(-)	5253
@@ -15309,17 +15306,7 @@ Spiroperidol	5265
 Spiro{(1,3-diazacyclopent-1-ene)-5:3'-[spiro(cyclobutane-1':2-indan)]}, Fumarate	
 St-600	65761
 Staurosporine	44259
-Staurosporine	5311103
-Staurosporine	451705
-Staurosporine	5279
-Staurosporine	9937179
-Staurosporine	6419748
-Staurosporine	44299148
-Staurosporine	42610657
-Staurosporine	5459111
-Staurosporine	49831000
-Staurosporine	9956178
-Staurosporine	6711321
+Staurosporine	7048594
 Stavudine	18283
 Strychnine	441071
 Suberyldicholine	123990
@@ -15542,8 +15529,8 @@ Thiabendazole	5430
 Thio-4-PIOL	10035301
 Thio-ATPA	5289517
 Thio-ATPA	5289518
-Thio-ATPA-R	5289517
 Thio-ATPA-R	57340269
+Thio-ATPA-R	5289517
 Thio-ATPA-S	57340269
 Thio-ATPA-S	57340270
 Thiomuscimol	5448
@@ -15562,8 +15549,8 @@ Thujone	12304612
 Thujone	12304613
 Thymeleatoxin	6437389
 Thymeleatoxin	90477734
-Thymeleatoxin	5476508
 Thymeleatoxin	44292322
+Thymeleatoxin	5476508
 Thymeleatoxin (low PS)	5476508
 Thymidine	5789
 Tianeptine	68870
@@ -15818,8 +15805,8 @@ WAY 211686	11624127
 WAY 212922	11667702
 WAY 213394	11616374
 WAY 213613	11531745
-WAY 629	12259556
 WAY 629	6604933
+WAY 629	12259556
 WAY-855	10965467
 WAY-865	57340541
 WAY-879	57340540
@@ -15827,8 +15814,8 @@ WB 4101	5685
 WDYMVm-NH2	57340533
 WEB2086	65889
 WEYMVm-NH2	57340536
-WF-23	10447943
 WF-23	10335384
+WF-23	10447943
 WF-23	9796607
 WF-31	44458747
 WF-60	44319999

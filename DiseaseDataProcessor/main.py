@@ -78,7 +78,7 @@ def update_df(new_df,old_df):
 def get_old_df():
     print("Loading the previous stored database")
     try:
-        df= pd.read_csv('results.tsv', '\t')
+        df= pd.read_csv('disease_results.tsv', '\t')
         df=df.drop('Sum',axis=1)
         df=df.drop('Combinations',axis=1)
         df=df.set_index('DiseaseID')
@@ -249,7 +249,7 @@ if __name__ == '__main__':
         old_df['Combinations'] = combinations
         # indexes_except_sum_and_count = [i for i in old_df.index if i != 'Sum' and i != 'DiseaseCounts']
         # old_df = old_df.loc[['CountOfMappedIDs'] + ['CountOfTotalIDs']+indexes_except_sum_and_count ]
-        old_df.to_csv("results.tsv",sep='\t',index=True)
+        old_df.to_csv("disease_results.tsv",sep='\t',index=True)
         unmapped_ids_df=unmapped_ids_df.sort_index()
         unmapped_ids_df.to_csv("unmapped_ids.tsv",sep="\t")
     print("The result is written in result.tsv")

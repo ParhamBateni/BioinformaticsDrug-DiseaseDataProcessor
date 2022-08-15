@@ -16,7 +16,7 @@ def get_count_common_in_databases(comb,database_combinations):
 
 def analyse_drugs():
     global analysis_result,analysis_output_file_address
-    file_address = "drug_results.tsv"
+    file_address = "../DrugDataProcessor/drug_results.tsv"
     analysis_output_file_address = "Drugs combination analysis.txt"
     database_combinations = get_combinations(file_address)
     #Databases with small count of drugs mapped(2,14) and RepoDB(15) are ignored
@@ -34,7 +34,7 @@ def analyse_drugs():
 
 def analyse_diseases():
     global analysis_result,analysis_output_file_address
-    file_address = "disease_results.tsv"
+    file_address = "../DiseaseDataProcessor/disease_results.tsv"
     analysis_output_file_address = "Diseases combination analysis.txt"
     database_combinations = get_combinations(file_address)
     #Databases with small count of diseases mapped(1,11,17,22) and RepoDB(20) are ignored

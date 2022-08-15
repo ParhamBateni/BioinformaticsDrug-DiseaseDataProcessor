@@ -30,29 +30,31 @@ DrugName	CID
 3-hydroxy-DL-kynurenine	89
 3-nitropropionic acid	1678
 4,5-dianilinophthalimide	1697
-4-hydroxyphenazone
-1-(4-ethoxyphenyl)-3-hydroxy-3-(4-nitrophenyl)-2,5,6,7,8,9-hexahydro-3H-imidazo[1,2-a]azepin-1-ium	5109870
-2-cyano-2-(1,4-dioxaspiro[4.5]dec-8-ylidene)Acetic acid ethyl ester	5114445
-2-[2-Ethoxy-4-[[3-ethyl-2-(3-methoxycarbonylphenyl)imino-4-oxo-1,3-thiazolidin-5-ylidene]methyl]-6-iodophenoxy]acetic acid	5140203
-N-butyl-2-[3-(3-chlorophenyl)-1,2,4-oxadiazol-5-yl]pyrrolidine-1-carboxamide	5149715
-2-(3-Fluorophenyl)acetimidamide	5151277
-3,4,7-trimethyl-2-oxo-2H-chromen-5-yl N-[(benzyloxy)carbonyl]norvalinate	5152487
-(1-Oxo-1-phenylpropan-2-yl) 6-bromo-2-[4-(3,5-dioxo-4-azatetracyclo[5.3.2.02,6.08,10]dodec-11-en-4-yl)phenyl]quinoline-4-carboxylate	5155877
-4-methyl-N-[[2-(4-methylpiperidin-1-yl)phenyl]carbamothioyl]benzamide	5162773
-2-[1-[(2-chlorophenyl)methyl]benzimidazol-2-yl]sulfanyl-N-[(2,3-dimethoxyphenyl)methylideneamino]acetamide	5182598
-propyl 2-(propanoylamino)-5,6,7,8-tetrahydro-4H-cyclohepta[b]thiophene-3-carboxylate	5186223
-N-[5-[(2-butan-2-yloxyphenyl)methylidene]-4-oxo-2-sulfanylidene-1,3-thiazolidin-3-yl]-4-methoxybenzamide	5186324
-N-[(4-chloro-3-nitrophenyl)methylideneamino]-2-[[3-(4-methoxyphenyl)-4-oxo-5,6,7,8-tetrahydro-[1]benzothiolo[2,3-d]pyrimidin-2-yl]sulfanyl]acetamide	5194442
-N-[3-methyl-1-[[5-(methylsulfamoyl)naphthalen-1-yl]amino]-1-oxobutan-2-yl]benzamide	5211181
-4-[[1-(2-Methoxy-5-nitrophenyl)-2,5-dimethylpyrrol-3-yl]methylidene]-1-phenylpyrazolidine-3,5-dione	5213008
-6-Bromo-3-[4-(3,4-dichlorophenyl)-1,3-thiazol-2-yl]chromen-2-one	5224221
-1-(4,6-Dimethyl-1,3-benzothiazol-2-yl)-4-[hydroxy-(3-methoxyphenyl)methylidene]-5-pyridin-4-ylpyrrolidine-2,3-dione	5230742
-4-amino-3,5,6-trichloropiperidin-1-ide-2-carboxylic acid;4-amino-3,5,6-trichloro-2H-pyridin-1-ide-2-carboxylic acid;azanide;manganese;manganese(2+);dihydrate	5248896
-1,3-Dithiolan-2-ylmethanediol;manganese;thiolan-2-ylmethanediol;tetradecahydrate	5252917
-Benzyl 2-[2-(furan-2-yl)-7-methyl-4-oxochromen-3-yl]oxypropanoate	5253409
-3,5-Diisopropylpyrazole	5255229
-(2R,3R)-2-[[(2R)-2-[[(2R)-2-[[(2R)-2-[[(2S)-1-[(2R)-5-amino-2-[[(2R)-2-[[(2R,3S)-2-amino-3-hydroxy-butanoyl]amino]-3-(1H-indol-3-yl)propanoyl]amino]-5-oxo-pentanoyl]pyrrolidine-2-carbonyl]amino]-3-phenyl-propanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]amino]-3-hydroxy-propanoyl]amino]-3-methyl-pentanoic acid	5279552
-ethyl 5-(1,3-benzodioxol-5-yl)-2-(2-chlorobenzylidene)-7-methyl-3-oxo-2,3-dihydro-5H-[1,3]thiazolo[3,2-a]pyrimidine-6-carboxylate	5286656
+4-hydroxyphenazone	
+5109870	
+5114445	
+5140203	
+5149715	
+5151277	
+5152487	
+5155877	
+5162773	
+5182598	
+5186223	
+5186324	
+5194442	
+5211181	
+5213008	
+5224221	
+5230742	
+5248896	
+5252917	
+5253409	
+5255229	
+5279552	
+5286656	
+5666823	
+5707885	
 6-azathymine	70269
 6-benzylaminopurine	62389
 6-bromoindirubin-3'-oxime	448949
@@ -82,9 +84,9 @@ CP-863187	9949821
 CP-944629	9999342
 Chicago Sky Blue 6B	17460
 Chicago Sky Blue 6B	137242217
-Chicago Sky Blue 6B	17461
-Chicago Sky Blue 6B	135422104
 Chicago Sky Blue 6B	102063628
+Chicago Sky Blue 6B	135422104
+Chicago Sky Blue 6B	17461
 DL-thiorphan	3132
 F0447-0125	
 GW-8510	3536
@@ -184,24 +186,24 @@ aconitine	6419868
 aconitine	24832676
 aconitine	6708463
 aconitine	92044462
-aconitine	22393
-aconitine	6713948
 aconitine	45358103
 aconitine	124831709
 aconitine	156592459
-aconitine	70697623
+aconitine	6713948
+aconitine	22393
+aconitine	139593379
+aconitine	122173175
+aconitine	6915984
+aconitine	6323706
+aconitine	162639977
+aconitine	118705467
 aconitine	71774333
+aconitine	134688691
+aconitine	16210989
+aconitine	70697623
+aconitine	131674976
 aconitine	91746192
 aconitine	24014401
-aconitine	16210989
-aconitine	6323706
-aconitine	6915984
-aconitine	131674976
-aconitine	122173175
-aconitine	118705467
-aconitine	134688691
-aconitine	139593379
-aconitine	162639977
 adenosine phosphate	6083
 adiphenine	2031
 adipiodone	3739
@@ -242,25 +244,7 @@ amodiaquine	2165
 amoxapine	2170
 amoxicillin	33613
 amphotericin B	5280965
-amphotericin B	14956
-amphotericin B	5386092
-amphotericin B	1972
-amphotericin B	91827561
-amphotericin B	53486284
-amphotericin B	16667679
-amphotericin B	23863720
-amphotericin B	9919339
-amphotericin B	50990393
-amphotericin B	46783793
-amphotericin B	118705500
-amphotericin B	44399170
-amphotericin B	145705939
-amphotericin B	134719018
-amphotericin B	135391140
-amphotericin B	139246982
-amphotericin B	44421047
-amphotericin B	73438937
-amphotericin B	71311649
+amphotericin B	91819969
 ampicillin	6249
 amprolium	73341
 amprolium	8732
@@ -270,6 +254,7 @@ ampyrone	2151
 amrinone	3698
 amylocaine	10767
 anabasine	2181
+anabasine	4988232
 androsterone	5879
 anisomycin	253602
 antazoline	2200
@@ -293,22 +278,22 @@ asiaticoside	24721205
 asiaticoside	52912190
 asiaticoside	5351525
 asiaticoside	146157550
+asiaticoside	131801307
+asiaticoside	122173143
+asiaticoside	6713990
 asiaticoside	156026232
+asiaticoside	129629012
+asiaticoside	16407391
 asiaticoside	145875207
 asiaticoside	131676368
-asiaticoside	131801307
-asiaticoside	129629012
-asiaticoside	6713990
-asiaticoside	16407391
-asiaticoside	122173143
 astemizole	2247
 atovaquone	74989
 atractyloside	442004
 atractyloside	146156250
+atractyloside	5702200
+atractyloside	16218958
 atractyloside	118701294
 atractyloside	44575838
-atractyloside	16218958
-atractyloside	5702200
 atracurium besilate	47320
 atropine	174174
 atropine methonitrate	657381
@@ -355,8 +340,8 @@ berberine	2353
 bergenin	66065
 beta-escin	16211024
 beta-escin	6857783
-beta-escin	6540709
 beta-escin	6476031
+beta-escin	6540709
 beta-escin	75464811
 beta-escin	44135353
 beta-escin	6476030
@@ -398,8 +383,8 @@ butein	5281222
 butirosin	72393
 butirosin	3000429
 butirosin	73952168
-butirosin	12002176
 butirosin	132940892
+butirosin	12002176
 butoconazole	47472
 butyl hydroxybenzoate	16330
 caffeic acid	689043
@@ -411,8 +396,8 @@ calcium folinate	135738681
 calcium folinate	135430945
 calcium pantothenate	443753
 calcium pantothenate	11306073
-calcium pantothenate	11777341
 calcium pantothenate	23615430
+calcium pantothenate	11777341
 calmidazolium	2531
 calycanthine	5392245
 camptothecin	24360
@@ -431,9 +416,9 @@ carbenoxolone	2561
 carbenoxolone	46936354
 carbenoxolone	56965767
 carbenoxolone	146036893
-carbenoxolone	52897232
-carbenoxolone	134613184
 carbenoxolone	134689748
+carbenoxolone	134613184
+carbenoxolone	52897232
 carbimazole	31072
 carbinoxamine	2564
 carcinine	2574
@@ -448,20 +433,16 @@ cefalotin	6024
 cefamandole	456255
 cefapirin	30699
 cefepime	5479537
-cefepime	5464190
-cefepime	2622
-cefepime	9615345
-cefepime	53486338
-cefepime	68606
-cefepime	5353490
+cefepime	5491295
+cefepime	16726873
 cefixime	5362065
 cefixime	6321411
 cefixime	54362
 cefixime	6604438
 cefixime	91323352
 cefixime	5943039
-cefixime	92329211
 cefixime	90437953
+cefixime	92329211
 cefmetazole	42008
 cefoperazone	44187
 cefotaxime	5742673
@@ -520,23 +501,23 @@ cinchonidine	2757
 cinchonidine	443155
 cinchonidine	6432465
 cinchonidine	11320
-cinchonidine	12254721
 cinchonidine	6918951
-cinchonidine	12032282
+cinchonidine	12254721
+cinchonidine	968909
 cinchonidine	16394529
 cinchonidine	927899
-cinchonidine	968909
+cinchonidine	12032282
 cinchonine	90454
 cinchonine	2724372
 cinchonine	2757
 cinchonine	5702153
 cinchonine	8350
 cinchonine	6916142
-cinchonine	6957610
-cinchonine	6419964
 cinchonine	688243
-cinchonine	101744
+cinchonine	6419964
 cinchonine	6713951
+cinchonine	101744
+cinchonine	6957610
 cinchonine	75466425
 cinchonine	92131260
 cinnarizine	1547484
@@ -598,23 +579,23 @@ crotamiton	688020
 cyanocobalamin	5311498
 cyanocobalamin	70678590
 cyanocobalamin	46853873
-cyanocobalamin	24892734
 cyanocobalamin	11970261
 cyanocobalamin	54605677
 cyanocobalamin	129627537
+cyanocobalamin	24892734
+cyanocobalamin	6474318
+cyanocobalamin	129627679
+cyanocobalamin	25102581
 cyanocobalamin	118701720
-cyanocobalamin	91898871
+cyanocobalamin	139030973
+cyanocobalamin	156587311
+cyanocobalamin	145875202
 cyanocobalamin	23806828
 cyanocobalamin	44176380
-cyanocobalamin	25195380
-cyanocobalamin	25102581
-cyanocobalamin	6474318
 cyanocobalamin	5460135
-cyanocobalamin	129627679
-cyanocobalamin	139030973
+cyanocobalamin	25195380
+cyanocobalamin	91898871
 cyanocobalamin	137332389
-cyanocobalamin	145875202
-cyanocobalamin	156587311
 cyclic adenosine monophosphate	6076
 cyclic adenosine monophosphate	274
 cyclizine	6726
@@ -647,15 +628,15 @@ dehydrocholic acid	6674
 delsoline	441727
 delsoline	92118
 delsoline	60207520
-delsoline	44655937
 delsoline	131674018
 delsoline	156588880
-delsoline	6713964
+delsoline	44655937
 delsoline	73759683
 delsoline	71454486
-delsoline	76323993
-delsoline	25090794
+delsoline	6713964
 delsoline	15558869
+delsoline	25090794
+delsoline	76323993
 demecarium bromide	5965
 demeclocycline	54680690
 demecolcine	220401
@@ -711,21 +692,22 @@ dipyridamole	3108
 dirithromycin	6473883
 dirithromycin	6917067
 dirithromycin	5464388
-dirithromycin	46705321
 dirithromycin	78358338
+dirithromycin	46705321
 dirithromycin	46783780
 dirithromycin	146159353
-dirithromycin	126968498
 dirithromycin	60148420
-dirithromycin	70789200
 dirithromycin	71306790
+dirithromycin	126968498
+dirithromycin	70789200
 dirithromycin	71729967
+dirithromycin	129629095
+dirithromycin	132274080
+dirithromycin	45105094
+dirithromycin	132274085
+dirithromycin	164186513
 dirithromycin	134693953
 dirithromycin	129009964
-dirithromycin	132274080
-dirithromycin	132274085
-dirithromycin	129629095
-dirithromycin	45105094
 disopyramide	3114
 disulfiram	3117
 dizocilpine	180081
@@ -740,8 +722,8 @@ dosulepin	5282426
 dosulepin	3155
 doxazosin	3157
 doxepin	667477
-doxepin	3158
 doxepin	667468
+doxepin	3158
 doxorubicin	31703
 doxycycline	54671203
 doxylamine	3162
@@ -867,37 +849,37 @@ geldanamycin	13017912
 geldanamycin	3460
 geldanamycin	5281885
 geldanamycin	644250
-geldanamycin	24870960
-geldanamycin	71307093
 geldanamycin	5288451
 geldanamycin	5476289
-geldanamycin	5702269
-geldanamycin	5363342
-geldanamycin	24196291
+geldanamycin	71307093
+geldanamycin	24870960
 geldanamycin	73554183
+geldanamycin	24196291
+geldanamycin	5363342
+geldanamycin	5702269
+geldanamycin	16759599
+geldanamycin	133109195
 geldanamycin	122172929
 geldanamycin	98288269
-geldanamycin	16759599
 geldanamycin	45073431
-geldanamycin	44432114
-geldanamycin	129010061
-geldanamycin	134694652
-geldanamycin	133109195
 geldanamycin	134688510
+geldanamycin	129010061
+geldanamycin	44432114
+geldanamycin	134694652
 gelsemine	5390854
 gelsemine	279057
 gelsemine	6713959
-gelsemine	23641111
 gelsemine	6419323
 gelsemine	5462429
-gelsemine	102004460
+gelsemine	23641111
 gelsemine	24776144
+gelsemine	102004460
 gelsemine	102118043
 gelsemine	10510
-gelsemine	146681954
 gelsemine	137628468
-gelsemine	131676201
+gelsemine	146681954
 gelsemine	129316926
+gelsemine	131676201
 gelsemine	122173243
 gelsemine	23817963
 gemfibrozil	3463
@@ -911,20 +893,19 @@ ginkgolide A	9909368
 ginkgolide A	115221
 ginkgolide A	78358336
 ginkgolide A	441293
-ginkgolide A	24883856
 ginkgolide A	23817960
-ginkgolide A	6419993
-ginkgolide A	21725806
 ginkgolide A	46783823
+ginkgolide A	6419993
 ginkgolide A	66524188
+ginkgolide A	21725806
+ginkgolide A	129010090
 ginkgolide A	15978556
 ginkgolide A	102004392
-ginkgolide A	129010090
-ginkgolide A	15944765
-ginkgolide A	12989697
-ginkgolide A	138404338
 ginkgolide A	134692168
+ginkgolide A	138404338
 ginkgolide A	129316869
+ginkgolide A	12989697
+ginkgolide A	15944765
 glafenine	3474
 glibenclamide	3488
 gliclazide	3475
@@ -961,8 +942,8 @@ hesperidin	10621
 hexamethonium bromide	5938
 hexestrol	192197
 hexestrol	3606
-hexestrol	234907
 hexestrol	6432746
+hexestrol	234907
 hexetidine	3607
 hexylcaine	10770
 homatropine	5282593
@@ -982,13 +963,12 @@ hydrocotarnine	3646
 hydroflumethiazide	3647
 hydroquinine	121515
 hydroquinine	3649
-hydroquinine	1257698
 hydroquinine	10651
+hydroquinine	1257698
 hydroquinine	2734756
-hydroquinine	138107851
-hydroquinine	44511035
 hydroquinine	45479755
 hydroquinine	638267
+hydroquinine	44511035
 hydroxyachillin	6713966
 hydroxyachillin	10038339
 hydroxyachillin	6953723
@@ -1009,20 +989,20 @@ ikarugamycin	54680304
 ikarugamycin	57369669
 ikarugamycin	145944873
 ikarugamycin	97042223
+ikarugamycin	101647494
 ikarugamycin	156588453
 ikarugamycin	54714554
-ikarugamycin	101647494
-ikarugamycin	139031630
 ikarugamycin	134688682
+ikarugamycin	139031630
 iloprost	5311181
 iloprost	6435378
 iloprost	53394043
 iloprost	53486260
 iloprost	51397006
 iloprost	89077401
+iloprost	54313
 iloprost	134694981
 iloprost	91746214
-iloprost	54313
 imatinib	5291
 imidurea	38258
 imipenem	104838
@@ -1065,40 +1045,41 @@ ivermectin	4330618
 ivermectin	11957587
 ivermectin	71308642
 ivermectin	6419971
-ivermectin	45114068
 ivermectin	146159550
+ivermectin	45114068
 ivermectin	155970341
 ivermectin	6427057
-ivermectin	124870718
-ivermectin	124870720
-ivermectin	134687046
-ivermectin	135391144
-ivermectin	3085416
-ivermectin	122172888
 ivermectin	70678372
+ivermectin	3085416
+ivermectin	135391144
 ivermectin	57182275
+ivermectin	124870718
+ivermectin	134687046
+ivermectin	124870720
+ivermectin	122172888
+ivermectin	164186531
 josamycin	5282165
 josamycin	5284579
 josamycin	28107
 josamycin	6419972
 josamycin	5474986
 josamycin	137706167
+josamycin	134692189
 josamycin	122174042
 josamycin	126969097
-josamycin	134692189
 kaempferol	5280863
 kanamycin	6032
 karakoline	441742
 karakoline	170157
 karakoline	156588485
-karakoline	11957575
 karakoline	6713968
 karakoline	5281278
-karakoline	137706265
-karakoline	13343322
+karakoline	11957575
 karakoline	24867506
 karakoline	23986045
 karakoline	23640526
+karakoline	137706265
+karakoline	13343322
 karakoline	98052169
 kawain	5281565
 ketanserin	3822
@@ -1182,8 +1163,8 @@ mefexamide	4045
 mefloquine	4046
 mefloquine	40692
 mefloquine	456309
-mefloquine	3000506
 mefloquine	3000516
+mefloquine	3000506
 mefloquine	12986439
 megestrol	19090
 meglumine	8567
@@ -1244,16 +1225,16 @@ midecamycin	5382853
 midecamycin	46783782
 midecamycin	6392391
 midecamycin	5388982
-midecamycin	6915743
 midecamycin	146158698
+midecamycin	6915743
+midecamycin	134693167
 midecamycin	123133975
 midecamycin	6278729
-midecamycin	134693167
 midodrine	4195
 mifepristone	55245
 milrinone	4197
-mimosine	3862
 mimosine	440473
+mimosine	3862
 minaprine	4199
 minocycline	54675783
 minoxidil	4201
@@ -1268,8 +1249,8 @@ monensin	12912923
 monensin	46783804
 monensin	451741
 monensin	12912911
-monensin	134731607
 monensin	133562734
+monensin	134731607
 monobenzone	7638
 monocrotaline	9415
 monorden	6323491
@@ -1295,11 +1276,11 @@ napelline	441749
 napelline	17749282
 napelline	16394550
 napelline	6325720
-napelline	3133561
-napelline	6713970
 napelline	90473812
-napelline	118701206
+napelline	6713970
+napelline	3133561
 napelline	98104034
+napelline	118701206
 naphazoline	4436
 naproxen	156391
 naringenin	932
@@ -1313,20 +1294,20 @@ natamycin	9939594
 natamycin	71308755
 natamycin	57417192
 natamycin	6473973
-natamycin	6057875
 natamycin	146159711
-natamycin	71306823
 natamycin	2723719
-natamycin	138403275
-natamycin	138393806
-natamycin	133053818
-natamycin	134751826
-natamycin	23835497
-natamycin	16102132
+natamycin	6057875
+natamycin	71306823
 natamycin	92023654
-natamycin	90489753
-natamycin	75534860
+natamycin	133053818
 natamycin	66509030
+natamycin	138403275
+natamycin	90489753
+natamycin	138393806
+natamycin	134751826
+natamycin	75534860
+natamycin	16102132
+natamycin	23835497
 nefopam	4450
 neomycin	8378
 neostigmine bromide	8246
@@ -1362,41 +1343,40 @@ norfloxacin	4539
 nortriptyline	4543
 noscapine	275196
 novobiocin	54675769
-nystatin	11286230
 nystatin	6433272
+nystatin	11286230
 nystatin	5702099
-nystatin	16219709
 nystatin	24840667
+nystatin	16219709
 nystatin	44424838
-nystatin	6420032
 nystatin	146156144
 nystatin	129627734
+nystatin	4568
+nystatin	5311331
+nystatin	14960
+nystatin	102090452
 nystatin	60196358
 nystatin	73952271
-nystatin	102090452
-nystatin	5311331
 nystatin	133124921
 nystatin	138403272
 nystatin	146679386
 nystatin	162343947
-nystatin	14960
-nystatin	4568
 octopamine	4581
 ofloxacin	4583
 oleandomycin	72493
-oleandomycin	4587
 oleandomycin	5284598
+oleandomycin	4587
 oleandomycin	19822
 oleandomycin	456832
 oleandomycin	20407245
-oleandomycin	133562742
 oleandomycin	154731039
+oleandomycin	133562742
 oligomycin	5281899
 oligomycin	78358496
-oligomycin	57417283
+oligomycin	4591
 oligomycin	6450197
 oligomycin	6364620
-oligomycin	4591
+oligomycin	57417283
 oligomycin	52947716
 omeprazole	4594
 ondansetron	4595
@@ -1434,19 +1414,19 @@ paroxetine	43815
 parthenolide	7251185
 parthenolide	6473881
 parthenolide	5420804
-parthenolide	5420805
 parthenolide	108068
-parthenolide	4692
+parthenolide	5420805
 parthenolide	5353864
+parthenolide	4692
 parthenolide	5702252
+parthenolide	5320420
 parthenolide	11972532
 parthenolide	73759808
-parthenolide	5320420
 parthenolide	91873711
+parthenolide	163198965
 parthenolide	123134657
 parthenolide	23631982
 parthenolide	124463365
-parthenolide	163198965
 pempidine	6603
 penbutolol	37464
 pentamidine	4735
@@ -1481,12 +1461,12 @@ physostigmine	5983
 picotamide	4814
 picrotoxinin	442292
 picrotoxinin	4816
-picrotoxinin	1268032
 picrotoxinin	7098683
+picrotoxinin	1268032
 picrotoxinin	6419901
 picrotoxinin	6978719
-picrotoxinin	31306
 picrotoxinin	73759784
+picrotoxinin	31306
 picrotoxinin	131673970
 picrotoxinin	24041599
 pilocarpine	5910
@@ -1517,8 +1497,8 @@ pizotifen	27400
 podophyllotoxin	10607
 practolol	4883
 pralidoxime	135398747
-pralidoxime	135484646
 pralidoxime	4884
+pralidoxime	135484646
 pramocaine	4886
 prasterone	5881
 praziquantel	4891
@@ -1573,13 +1553,13 @@ quinidine	441074
 quinidine	1065
 quinidine	3036746
 quinidine	5953
-quinidine	24096961
 quinidine	6604605
+quinidine	24096961
 quinidine	10448938
-quinidine	3032576
 quinidine	667449
-quinidine	94175
+quinidine	3032576
 quinidine	5484444
+quinidine	94175
 quinidine	24867865
 quinisocaine	6857
 quinostatin	6620134
@@ -1599,14 +1579,14 @@ resveratrol	445154
 retrorsine	5281743
 retrorsine	5281756
 retrorsine	12311390
-retrorsine	5352411
 retrorsine	267891
-retrorsine	73759794
+retrorsine	5352411
 retrorsine	1549037
-retrorsine	126968828
-retrorsine	5462906
+retrorsine	73759794
 retrorsine	6427036
 retrorsine	118701601
+retrorsine	126968828
+retrorsine	5462906
 ribavirin	37542
 riboflavin	493570
 ribostamycin	33042
@@ -1616,9 +1596,9 @@ rifabutin	135950975
 rifabutin	135458645
 rifabutin	136117120
 rifabutin	136257950
-rifabutin	137295261
 rifabutin	137313637
 rifabutin	135925740
+rifabutin	137295261
 rifampicin	135398735
 rifampicin	135550179
 rifampicin	135876149
@@ -1626,19 +1606,19 @@ rifampicin	135900090
 rifampicin	135925261
 rifampicin	135921134
 rifampicin	135512673
-rifampicin	135925741
-rifampicin	135932822
 rifampicin	136122621
+rifampicin	135932822
+rifampicin	135925741
 rifampicin	136246612
-rifampicin	135441414
 rifampicin	135449527
+rifampicin	135441414
+rifampicin	136709103
+rifampicin	137286743
+rifampicin	136619758
+rifampicin	136601293
 rifampicin	154825551
 rifampicin	137270779
-rifampicin	137286743
 rifampicin	137287990
-rifampicin	136601293
-rifampicin	136619758
-rifampicin	136709103
 rilmenidine	68712
 riluzole	5070
 rimexolone	5311412
@@ -1658,19 +1638,19 @@ roxithromycin	6915744
 roxithromycin	5480431
 roxithromycin	9567573
 roxithromycin	444037
-roxithromycin	46705420
 roxithromycin	5106
+roxithromycin	46705420
 roxithromycin	5353933
-roxithromycin	5362068
 roxithromycin	25102720
 roxithromycin	73759751
+roxithromycin	5362068
 roxithromycin	45588114
 roxithromycin	126969152
 roxithromycin	122172998
-roxithromycin	5837004
-roxithromycin	135391136
 roxithromycin	133611834
+roxithromycin	135391136
 roxithromycin	139592915
+roxithromycin	5837004
 salbutamol	2083
 salsolidin	164752
 salsolinol	91588
@@ -1679,17 +1659,17 @@ santonin	221071
 saquinavir	441243
 scopolamine	3000322
 scopolamine	5184
-scopolamine	11968014
 scopolamine	153311
+scopolamine	11968014
 scopolamine	6451257
-scopolamine	6432494
-scopolamine	2723877
 scopolamine	452977
-scopolamine	638340
+scopolamine	2723877
+scopolamine	6432494
 scopolamine	5284456
 scopolamine	9916237
-scopolamine	16399351
+scopolamine	638340
 scopolamine	134767951
+scopolamine	16399351
 scopolamine N-oxide	3000667
 scopoletin	5280460
 scoulerine	22955
@@ -1713,12 +1693,12 @@ solanine	5351524
 solanine	54605356
 solasodine	442985
 solasodine	5250
-solasodine	44584207
 solasodine	129316900
-solasodine	5200420
+solasodine	44584207
 solasodine	6710642
 solasodine	6432036
 solasodine	16061352
+solasodine	5200420
 solasodine	122172924
 solasodine	5701987
 sotalol	5253
@@ -1734,37 +1714,27 @@ spiradoline	55652
 spiramycin	6419898
 spiramycin	5289394
 spiramycin	5702243
-spiramycin	6440717
 spiramycin	71729958
+spiramycin	6440717
 spiramycin	5266
-spiramycin	5284619
-spiramycin	5353959
 spiramycin	137704528
+spiramycin	5353959
 spiramycin	5356392
 spiramycin	44629935
 spiramycin	145712264
-spiramycin	76324338
+spiramycin	5284619
 spiramycin	6376223
-spiramycin	129627802
-spiramycin	131674879
-spiramycin	135391165
-spiramycin	134715567
-spiramycin	134717663
 spiramycin	134687906
+spiramycin	131674879
+spiramycin	129627802
+spiramycin	135391165
+spiramycin	76324338
+spiramycin	134717663
+spiramycin	134715567
 spironolactone	5833
 stachydrine	115244
 staurosporine	44259
-staurosporine	5311103
-staurosporine	451705
-staurosporine	5279
-staurosporine	9937179
-staurosporine	9956178
-staurosporine	42610657
-staurosporine	44299148
-staurosporine	49831000
-staurosporine	5459111
-staurosporine	6419748
-staurosporine	6711321
+staurosporine	7048594
 streptomycin	19649
 streptozocin	29327
 streptozocin	2733335
@@ -1855,14 +1825,14 @@ thiostrepton	44574209
 thiostrepton	156592376
 thiostrepton	146157069
 thiostrepton	146681945
-thiostrepton	71720240
 thiostrepton	121493662
-thiostrepton	122173112
-thiostrepton	25102592
 thiostrepton	16129638
+thiostrepton	25102592
 thiostrepton	16130278
-thiostrepton	133562796
 thiostrepton	163285983
+thiostrepton	122173112
+thiostrepton	71720240
+thiostrepton	133562796
 tiabendazole	5430
 tiapride	5467
 tiaprofenic acid	5468
@@ -1925,11 +1895,11 @@ tropine	449293
 tropine	6101956
 tubocurarine chloride	6000
 tubocurarine chloride	23422
+tubocurarine chloride	16051918
 tubocurarine chloride	9917490
 tubocurarine chloride	64645
-tubocurarine chloride	16051918
-tubocurarine chloride	137267374
 tubocurarine chloride	129894468
+tubocurarine chloride	137267374
 tyloxapol	71388
 tyloxapol	16219992
 tyloxapol	8814
@@ -1944,11 +1914,11 @@ valinomycin	5649
 valinomycin	441139
 valinomycin	16217526
 valinomycin	14147354
-valinomycin	74083963
-valinomycin	122173113
-valinomycin	16667711
-valinomycin	131668508
 valinomycin	155859174
+valinomycin	131668508
+valinomycin	122173113
+valinomycin	74083963
+valinomycin	16667711
 valproic acid	3121
 vancomycin	14969
 vanoxerine	3455
@@ -1960,15 +1930,17 @@ vigabatrin	5665
 vinblastine	13342
 vinblastine	241903
 vinblastine	3823887
-vinblastine	6710780
 vinblastine	44417235
+vinblastine	6710780
 vinblastine	11104792
 vinblastine	129009934
 vinblastine	133126830
 vinburnine	71203
 vincamine	15376
 vinpocetine	443955
-viomycin	
+viomycin	135398671
+viomycin	90488875
+viomycin	25245437
 vitexin	5280441
 vorinostat	5311
 withaferin A	265237
