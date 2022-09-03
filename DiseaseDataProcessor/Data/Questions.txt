@@ -1,0 +1,61 @@
+*ClinVar: Some of diseases are not related to any genes.
+Should we exclude these diseases? Should I use gene_condition
+file only?
+**We use all the disease data in the database as long as we know
+this database supports data about disease targets some where
+in its datasets
+
+*COSMIC: Related genes are hard to get from cancer name
+Many samples each pointing to thousands of mutations related to the cancer
+** As long as we know that this database has data about disease
+targets it is good to use it
+
+*CTDBase: This database diseases are extracted into a file
+Can I use these diseases?
+**We use all the disease data in the database as long as we know
+this database supports data about disease targets some where
+in its datasets
+
+*DOID: It just have IDs
+It can only be used for ID mapping
+**Ask from Ali
+
+*DisGeNET: I just have the disease mappings
+**We use all the disease data in the database as long as we know
+this database supports data about disease targets some where
+in its datasets
+
+*EFO: Same as DOID
+**Ask from Ali
+
+*HP: Same as DOID,EFO
+**Ask from Ali
+
+*OMIM: Some diseases are not marked with a gene loci
+**Exclude diseases with not a gene loci specified for them
+
+*DrugRepurposingHub: Is it ok to just get the disease data
+and just make sure that the database supports target info?
+**We use all the disease data in the database as long as we know
+this database supports data about disease targets some where
+in its datasets
+
+Pharos: Could be used for Drugs
+
+*SIDER: has side effect of a disease data not gene data
+
+
+OMIM: I don't have access to full data
+
+mention about humans only
+
+indications section: failures are important data for example TTD drugs
+databases mapping disease to drugs
+
+pdf or svg
+suggest: 
+
+
+
+TTD: it has drug to disease mapping should i use it?
+should i consider the approval state?

@@ -1,4 +1,4 @@
-DiseaseID	DiseaseName	vocabulary	code	vocabularyName
+diseaseId	name	vocabulary	code	vocabularyName
 UMLS:C0018923	Hemangiosarcoma	DO	0001816	angiosarcoma
 UMLS:C0854893	Angiosarcoma non-metastatic	DO	0001816	angiosarcoma
 UMLS:C0033999	Pterygium	DO	0002116	pterygium

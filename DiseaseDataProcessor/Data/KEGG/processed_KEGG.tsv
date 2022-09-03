@@ -1,0 +1,2335 @@
+DiseaseID	DiseaseName
+ICD10:A04.2	Enteroinvasive Escherichia coli 
+ICD10:A04.8	Enterobacter infection
+ICD10:A04.9	Colonic spirochetosis
+ICD10:A08.1	Enteritis due to Norovirus
+ICD10:A41	Enterococcal infection
+ICD10:A41.4A	Vancomycin-resistant enterococci infection
+ICD10:A49	Anaerobic infection
+ICD10:A49.8	Citrobacter infection
+ICD10:A82	Lyssavirus infection
+ICD10:A83	Mosquito-borne viral encephalitis
+ICD10:A83.4	Murray Valley encephalitis
+ICD10:A92	Mosquito-borne viral fever
+ICD10:A93.8	Severe fever with thrombocytopenia syndrome
+ICD10:A96	South American hemorrhagic fever
+ICD10:A96.8	Venezuelan hemorrhagic fever
+ICD10:B00.4A	B virus infection
+ICD10:B20	Acquired immunodeficiency syndrome 
+ICD10:B30.2	Pharyngoconjunctival fever
+ICD10:B33.1	Ross River fever
+ICD10:B88.8	Pentastomiasis
+ICD10:B95	Methicillin-resistant Staphylococcus epidermidis 
+ICD10:C83.8	Lymphoplasmacytic lymphoma
+ICD10:D68.4	Autoimmune hemorrhaphilia XIII
+ICD10:F42	Obsessive-Compulsive and Related Disorder
+ICD10:F48.9	Excoriation disorder
+ICD10:G04.8	Atopic myelitis
+ICD10:G04.9	Acute encephalitis
+ICD10:G40.5	Hemiconvulsion-hemiplegia-epilepsy syndrome
+ICD10:G61.0	Bickerstaff brainstem encephalitis
+ICD10:G93.4	Acute encephalopathy with biphasic seizures and late reduced diffusion
+ICD10:I27.2	Chronic thromboembolic pulmonary hypertension
+ICD10:I40	Viral myocarditis
+ICD10:I81	Extrahepatic portal vein obstruction
+ICD10:J02.0	Group A streptococcal pharyngitis
+ICD10:J32.8	Eosinophilic sinusitis
+ICD10:J67	Saccharomonospora viridis infection
+ICD10:K63.3	Chronic nonspecific multiple ulcers of the small intestine
+ICD10:K75.8	Non-alcoholic fatty liver disease
+ICD10:L13.0	Dermatitis herpetiformis
+ICD10:L74.4	Acquired idiopathic generalized anhidrosis
+ICD10:M35.9	Immunoglobulin G4-related disease
+ICD10:N02.9	Henoch-Schonlein purpura nephritis
+ICD10:Q20.4	Univentricular heart
+ICD10:Q27.3	Peripheral arteriovenous malformation
+ICD10:Q43.7	Persistent cloaca
+ICD10:T86	Allograft rejection
+ICD10:U82.8	Carbapenem-resistant bacterial infection
+ICD11:1C80	Cache Valley virus infection
+ICD11:1C86	Saint Louis encephalitis
+ICD11:1C87	Rocio viral encephalitis
+ICD11:1D41	Colorado tick fever
+ICD11:1D43	Oropouche fever
+ICD11:1D45	Sandfly fever
+ICD11:1D61	Arenaviral hemorrhagic fever
+ICD11:1F2H	Scedosporiosis
+ICD11:1F2K	Talaromycosis
+ICD11:1F6C	Syngamosis
+ICD11:1G03	Phthiriasis
+ICD11:1G06	Cimicosis
+ICD11:2A81.5	Primary central nervous system lymphoma
+ICD11:4A00.3	NK cell defects
+ICD11:CA40.13	Human metapneumovirus infection
+ICD11:LD24.03	Diastrophic dysplasia
+MESH:C000598644	Leukoencephalopathy, brain calcifications, and cysts
+MESH:C000600608	Ehlers-Danlos syndrome musculocontractural type
+MESH:C531816	Adenosine deaminase deficiency
+MESH:C531821	Stenotrophomonas maltophilia infection
+MESH:C535282	Raine syndrome
+MESH:C535288	RAPADILINO syndrome
+MESH:C535301	Congenital hypomyelinating neuropathy
+MESH:C535306	D-2-hydroxyglutaric aciduria
+MESH:C535308	3-Methylcrotonylglycinuria
+MESH:C535310	3-Hydroxyacyl-CoA dehydrogenase deficiency
+MESH:C535313	3C syndrome
+MESH:C535314	3M syndrome
+MESH:C535322	5-Oxoprolinase deficiency
+MESH:C535323	5q- syndrome
+MESH:C535326	Holt-Oram syndrome
+MESH:C535331	Aarskog-Scott syndrome
+MESH:C535334	ABCD syndrome
+MESH:C535347	Catel-Manzke syndrome
+MESH:C535351	CAPOS syndrome
+MESH:C535358	Central areolar choroidal dystrophy
+MESH:C535362	1p36 deletion syndrome
+MESH:C535369	Ring chromosome 20 syndrome
+MESH:C535374	Dermatopathia pigmentosa reticularis
+MESH:C535382	Arthrogryposis, renal dysfunction, and cholestasis
+MESH:C535387	Progressive pseudorheumatoid dysplasia
+MESH:C535388	Arts syndrome
+MESH:C535393	Ataxia with isolated vitamin E deficiency 
+MESH:C535395	Atelosteogenesis type II
+MESH:C535396	Atelosteogenesis type I and III
+MESH:C535397	Athabascan brainstem dysgenesis syndrome
+MESH:C535407	GABA-transaminase deficiency
+MESH:C535408	Cystathioninuria
+MESH:C535426	Congenitally corrected transposition of the great arteries
+MESH:C535434	Alpha-methylacetoacetic aciduria
+MESH:C535436	Bethlem myopathy
+MESH:C535440	Bietti crystalline corneoretinal dystrophy
+MESH:C535441	Bifid nose with or without anorectal and renal anomalies
+MESH:C535442	Congenital bile acid synthesis defect
+MESH:C535460	Chylomicron retention disease
+MESH:C535466	Spheroid body myopathy
+MESH:C535475	Schnyder corneal dystrophy
+MESH:C535476	Reis-Bucklers corneal dystrophy
+MESH:C535477	Epithelial basement membrane corneal dystrophy
+MESH:C535480	Gelatinous drop-like corneal dystrophy
+MESH:C535501	Multiple epiphyseal dysplasia
+MESH:C535507	MYH9-related disease
+MESH:C535516	Multiple cutaneous and uterine leiomyomata
+MESH:C535540	Ischiocoxopodopatellar syndrome
+MESH:C535541	Isobutyryl-CoA dehydrogenase deficiency
+MESH:C535550	Cousin syndrome
+MESH:C535557	Ablepharon-macrostomia syndrome
+MESH:C535566	Vici syndrome
+MESH:C535576	X-linked cardiac valvular dysplasia
+MESH:C535579	Cardiofaciocutaneous syndrome
+MESH:C535581	Carvajal syndrome
+MESH:C535588	Carnitine palmitoyltransferase I deficiency
+MESH:C535594	Brain malformations with urinary tract defects
+MESH:C535598	X-linked creatine deficiency syndrome
+MESH:C535600	Dopamine beta-hydroxylase deficiency
+MESH:C535602	Doyne honeycomb retinal dystrophy
+MESH:C535607	Aicardi-Goutieres syndrome
+MESH:C535612	Al-Awadi
+MESH:C535627	Hand-foot-genital syndrome
+MESH:C535657	Acromelic frontonasal dysostosis
+MESH:C535661	Acromesomelic dysplasia, Maroteaux type
+MESH:C535662	Acromicric dysplasia
+MESH:C535668	Adrenocorticotropic hormone deficiency
+MESH:C535677	Richieri-Costa-Pereira syndrome
+MESH:C535679	Axenfeld-Rieger syndrome
+MESH:C535684	Ring dermoid of cornea
+MESH:C535686	Rippling muscle disease
+MESH:C535687	Roberts-SC phocomelia syndrome
+MESH:C535689	Laurin-Sandrow syndrome
+MESH:C535702	Malonyl-CoA decarboxylase deficiency
+MESH:C535704	3MC syndrome
+MESH:C535705	Mandibuloacral dysplasia
+MESH:C535726	Dyggve-Melchior-Clausen disease
+MESH:C535729	Dyschromatosis symmetrica hereditaria
+MESH:C535730	Dyschromatosis universalis hereditaria
+MESH:C535731	Cerebellar ataxia, mental retardation 
+MESH:C535733	Emanuel syndrome
+MESH:C535734	Emery-Dreifuss muscular dystrophy
+MESH:C535737	Ethylmalonic encephalopathy
+MESH:C535766	Czech dysplasia
+MESH:C535767	D-glyceric aciduria
+MESH:C535780	Spondylocarpotarsal synostosis syndrome
+MESH:C535789	Spondyloepiphyseal dysplasia with congenital joint dislocations
+MESH:C535792	Odontochondrodysplasia
+MESH:C535798	Spondylometaphyseal dysplasia, Sedaghatian type
+MESH:C535803	Succinic semialdehyde dehydrogenase deficiency
+MESH:C535804	Stargardt disease
+MESH:C535808	Mohr-Tranebjaerg syndrome
+MESH:C535811	Molybdenum cofactor deficiency
+MESH:C535819	Pseudoachondroplasia
+MESH:C535847	Ankyloblepharon-ectodermal defects-cleft lip
+MESH:C535849	Congenital heart defects, hamartomas of tongue, and polysyndactyly
+MESH:C535857	Trismus-pseudocamptodactyly syndrome
+MESH:C535858	HEM skeletal dysplasia
+MESH:C535866	Roifman syndrome
+MESH:C535880	Johanson-Blizzard syndrome
+MESH:C535887	Leukocyte adhesion deficiency
+MESH:C535895	Calpainopathy
+MESH:C535899	Limb-girdle muscular dystrophy 2B
+MESH:C535903	Limb-mammary syndrome
+MESH:C535904	Combined lipase deficiency
+MESH:C535909	Van den Ende-Gupta syndrome
+MESH:C535916	Cartilage-hair hypoplasia
+MESH:C535924	Familial chilblain lupus 
+MESH:C535943	Desbuquois syndrome
+MESH:C535963	Cole-Carpenter syndrome
+MESH:C535984	Congenital bilateral absence of vas deferens
+MESH:C535994	Heimler syndrome
+MESH:C536004	Aceruloplasminemia
+MESH:C536008	Achalasia Addisonianism Alacrima syndrome
+MESH:C536014	Acheiropodia
+MESH:C536015	Achondrogenesis type IA
+MESH:C536017	Achondrogenesis type II
+MESH:C536019	Achondrogenesis type IB
+MESH:C536022	Manitoba oculotrichoanal syndrome
+MESH:C536025	Marshall syndrome
+MESH:C536026	Marshall-Smith syndrome
+MESH:C536028	Martsolf syndrome
+MESH:C536029	MASA syndrome
+MESH:C536030	MASS phenotype
+MESH:C536038	MCAD deficiency
+MESH:C536039	Gnathodiaphyseal dysplasia
+MESH:C536050	Osteoglophonic dysplasia
+MESH:C536051	Torg syndrome
+MESH:C536053	Osteopathia striata with cranial sclerosis
+MESH:C536063	Osteoporosis-pseudoglioma syndrome
+MESH:C536068	Hoyeraal-Hreidarsson syndrome
+MESH:C536075	Wagner syndrome
+MESH:C536079	Hydrolethalus syndrome
+MESH:C536080	2-Methyl-3-hydroxybutyryl-CoA dehydrogenase 
+MESH:C536081	Hydroxykynureninuria
+MESH:C536085	Ichthyosis follicularis, alopecia, and photophobia syndrome
+MESH:C536088	Ichthyosis hystrix, Curth-Macklin type
+MESH:C536102	Carey-Fineman-Ziter syndrome
+MESH:C536106	Muscle hypertrophy
+MESH:C536109	N-acetylglutamate synthase deficiency
+MESH:C536113	Nevo syndrome
+MESH:C536116	Nicolaides-Baraitser syndrome
+MESH:C536122	Congenital stationary night blindness
+MESH:C536123	Nivelon-Nivelon-Mabille syndrome
+MESH:C536133	Meckel syndrome
+MESH:C536138	Megacystis microcolon intestinal hypoperistalsis syndrome
+MESH:C536139	Congenital megabladder
+MESH:C536140	Oto-spondylo-megaepiphyseal dysplasia
+MESH:C536141	Megaloencephalic leukoencephalopathy with subcortical cysts
+MESH:C536142	Megalencephaly-capillary malformation syndrome
+MESH:C536159	Keratosis pilaris atrophicans
+MESH:C536161	Punctate palmoplantar keratoderma
+MESH:C536162	Striate palmoplantar keratoderma
+MESH:C536167	Keutel syndrome
+MESH:C536171	Dicarboxylic aminoaciduria
+MESH:C536173	Palmoplantar keratoderma, Bothnian type
+MESH:C536174	Diffuse panbronchiolitis
+MESH:C536176	Glycogen storage disease type X
+MESH:C536181	Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency 
+MESH:C536183	Ectodermal dysplasia
+MESH:C536188	Blepharocheilodontic syndrome
+MESH:C536190	Ectodermal dysplasia, ectrodactyly, and macular dystrophy
+MESH:C536192	Brittle cornea syndrome
+MESH:C536198	Ehlers-Danlos syndrome kyphoscoliosis type
+MESH:C536200	Ehlers-Danlos syndrome cardiac valvular type
+MESH:C536201	Ehlers-Danlos syndrome, spondylodysplastic type
+MESH:C536209	Congenital central hypoventilation syndrome
+MESH:C536210	Congenital diarrhea
+MESH:C536211	Congenital contractural arachnodactyly
+MESH:C536214	Cold-induced sweating syndrome
+MESH:C536221	Currarino syndrome
+MESH:C536223	Proximal symphalangism
+MESH:C536252	Metaphyseal dysplasias
+MESH:C536253	Pyogenic sterile arthritis, pyoderma gangrenosum, and acne syndrome
+MESH:C536254	Pyridoxine-dependent epilepsy
+MESH:C536258	Pyruvate dehydrogenase phosphatase deficiency
+MESH:C536271	Ichthyosis prematurity syndrome
+MESH:C536273	Ichthyosis with hypotrichosis
+MESH:C536275	Familial idiopathic basal ganglia calcification
+MESH:C536285	Iminoglycinuria
+MESH:C536289	Immunodeficiency without anhidrotic ectodermal dysplasia
+MESH:C536293	Joubert syndrome
+MESH:C536300	Partington syndrome
+MESH:C536305	Patau syndrome
+MESH:C536309	Pattern dystrophies of the retinal pigment epithelium
+MESH:C536317	PEHO syndrome
+MESH:C536321	Kindler syndrome
+MESH:C536329	Nasu-Hakola disease
+MESH:C536330	Polycystic liver disease
+MESH:C536333	Polysyndactyly
+MESH:C536335	Familial expansile osteolysis
+MESH:C536343	Posterior column ataxia with retinitis pigmentosa
+MESH:C536345	Congenital vertical talus
+MESH:C536347	Vibratory urticaria
+MESH:C536348	Vibrio vulnificus infection
+MESH:C536352	Autosomal dominant vitreoretinochoroidopathy
+MESH:C536353	VLCAD deficiency
+MESH:C536361	Angel shaped phalangoepiphyseal dysplasia
+MESH:C536369	Angiostrongyliasis
+MESH:C536377	Anonychia congenita
+MESH:C536390	Donnai-Barrow syndrome
+MESH:C536399	Perlman syndrome
+MESH:C536405	Neu-Laxova syndrome
+MESH:C536411	Galactosialidosis
+MESH:C536416	Juvenile primary lateral sclerosis
+MESH:C536420	Primrose syndrome
+MESH:C536430	COACH syndrome
+MESH:C536434	CODAS syndrome
+MESH:C536436	Coffin-Siris syndrome
+MESH:C536438	Cohen syndrome
+MESH:C536446	Agenesis of the corpus callosum with peripheral neuropathy
+MESH:C536447	Cortisone reductase deficiency
+MESH:C536450	Cowchock syndrome
+MESH:C536453	Craniofacial-deafness-hand syndrome
+MESH:C536456	Craniofrontonasal syndrome
+MESH:C536457	Vohwinkel syndrome
+MESH:C536458	Platelet-type von Willebrand disease
+MESH:C536471	Kagami-Ogata syndrome
+MESH:C536479	Urocanase deficiency
+MESH:C536480	Urofacial syndrome
+MESH:C536482	Potter syndrome
+MESH:C536498	Tetra-amelia syndrome
+MESH:C536512	Thiopurine S-methyltransferase deficiency 
+MESH:C536528	Van der Woude syndrome
+MESH:C536530	Van Maldergem syndrome
+MESH:C536549	Tricho-dento-osseous syndrome
+MESH:C536552	Multiple familial trichoepithelioma
+MESH:C536560	Dorfman-Chanarin syndrome
+MESH:C536561	Trimethylaminuria
+MESH:C536573	Boomerang dysplasia
+MESH:C536575	Borjeson-Forssman-Lehmann syndrome
+MESH:C536582	Alpha-ketoglutarate dehydrogenase complex deficiency
+MESH:C536589	Alternating hemiplegia of childhood
+MESH:C536604	Jalili syndrome
+MESH:C536607	Brody myopathy
+MESH:C536611	Brooke-Spiegler syndrome
+MESH:C536614	Arthrogryposis multiplex congenita
+MESH:C536624	Scapuloperoneal myopathy
+MESH:C536629	Schimke immunoosseous dysplasia
+MESH:C536631	Alpha-N-acetylgalactosaminidase deficiency
+MESH:C536632	Schinzel-Giedion midface retraction syndrome
+MESH:C536637	Schneckenbecken dysplasia
+MESH:C536647	Fetal akinesia deformation sequence
+MESH:C536652	Pentosuria
+MESH:C536654	Phosphoenolpyruvate carboxykinase deficiency
+MESH:C536657	Tumor necrosis factor receptor-associated periodic syndrome
+MESH:C536662	Peroxisomal beta-oxidation enzyme deficiency
+MESH:C536663	D-bifunctional protein deficiency
+MESH:C536665	Persistent Mullerian duct syndrome
+MESH:C536677	Snowflake vitreoretinal degeneration
+MESH:C536678	Snyder-Robinson syndrome
+MESH:C536681	Warburg micro syndrome
+MESH:C536687	Weaver syndrome
+MESH:C536690	Welander distal myopathy
+MESH:C536695	Weyers acrofacial dysostosis
+MESH:C536697	WHIM syndrome
+MESH:C536703	Wieacker-Wolff syndrome
+MESH:C536714	Pancreatic agenesis and congenital heart disease
+MESH:C536719	Yunis-Varon syndrome
+MESH:C536725	Zimmermann-Laband syndrome
+MESH:C536736	Tooth and nail syndrome
+MESH:C536739	Wolcott-Rallison syndrome
+MESH:C536742	Woodhouse-Sakati syndrome
+MESH:C536747	Congenital suprabulbar paresis
+MESH:C536748	Worth type autosomal dominant osteosclerosis
+MESH:C536778	Systemic primary carnitine deficiency
+MESH:C536781	T-cell immunodeficiency congenital alopecia and nail dystrophy
+MESH:C536787	Autosomal recessive spastic ataxia of Charlevoix-Saguenay
+MESH:C536788	Baller-Gerold syndrome
+MESH:C536801	Phelan-McDermid syndrome
+MESH:C536816	Nonaka myopathy 
+MESH:C536817	Al-Gazali syndrome
+MESH:C536820	Trichorhinophalangeal syndrome
+MESH:C536826	Glomerulopathy with fibronectin deposits
+MESH:C536830	GLUT1 deficiency syndrome
+MESH:C536832	Congenital systemic glutamine deficiency
+MESH:C536835	Glutathione synthetase deficiency
+MESH:C536841	Familial encephalopathy with neuroserpin inclusion bodies
+MESH:C536850	Porencephaly
+MESH:C536914	Medullary thyroid cancer
+MESH:C536917	Isolated TSH deficiency
+MESH:C536919	Tietz syndrome
+MESH:C536920	Restrictive dermopathy
+MESH:C536937	Ulnar-mammary syndrome
+MESH:C536939	Uncombable hair syndrome
+MESH:C536940	Thrombocytopenia-absent radius syndrome
+MESH:C536942	TARP syndrome
+MESH:C536943	Tarsal-carpal coalition syndrome
+MESH:C536958	Temtamy preaxial brachydactyly syndrome
+MESH:C536961	Familial male-limited precocious puberty
+MESH:C536965	Hereditary neuropathy with liability to pressure palsies
+MESH:C536974	Townes-Brocks syndrome
+MESH:C536979	Transient bullous dermolysis of the newborn
+MESH:C536987	Mosaic variegated aneuploidy syndrome
+MESH:C536990	Mowat-Wilson syndrome
+MESH:C537013	Kaufman oculocerebrofacial syndrome
+MESH:C537015	KBG syndrome
+MESH:C537020	Kenny-Caffey syndrome
+MESH:C537022	Autosomal dominant keratitis
+MESH:C537032	Laryngo onycho cutaneous syndrome
+MESH:C537047	Allan-Herndon-Dudley syndrome
+MESH:C537048	Renal tubular dysgenesis
+MESH:C537055	Alopecia universalis
+MESH:C537062	Floating-Harbor syndrome
+MESH:C537067	Focal cortical dysplasia of Taylor
+MESH:C537068	Focal facial dermal dysplasia
+MESH:C537070	Isolated follicle-stimulating hormone deficiency
+MESH:C537081	Bowen-Conradi syndrome
+MESH:C537098	Brachyolmia
+MESH:C537115	Lenz-Majewski syndrome
+MESH:C537122	Opsismodysplasia
+MESH:C537130	Optic nerve hypoplasia
+MESH:C537136	Orotic aciduria
+MESH:C537145	Calcium sensing receptor 
+MESH:C537157	Hypoparathyroidism-retardation-dysmorphism syndrome
+MESH:C537163	Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infection
+MESH:C537168	Renal coloboma syndrome
+MESH:C537172	Parastremmatic dwarfism
+MESH:C537177	Kufor-Rakeb syndrome
+MESH:C537185	Pierson syndrome
+MESH:C537194	Lethal congenital contractural syndrome
+MESH:C537207	Kniest dysplasia
+MESH:C537209	Knobloch syndrome
+MESH:C537210	Bart-Pumphrey syndrome
+MESH:C537217	Infantile-onset ascending hereditary spastic paralysis
+MESH:C537218	Saccharopinuria
+MESH:C537221	Sacral agenesis with vertebral anomalies
+MESH:C537243	Hereditary prostate cancer
+MESH:C537255	Hennekam lymphangiectasia-lymphedema syndrome
+MESH:C537257	Hepatic venoocclusive disease with immunodeficiency
+MESH:C537274	Frank-ter Haar syndrome
+MESH:C537277	PIGM-congenital disorder of glycosylation
+MESH:C537279	Goldberg-Shprintzen megacolon syndrome
+MESH:C537286	Perrault syndrome
+MESH:C537291	Osteocraniostenosis
+MESH:C537297	Familial epilepsy temporal lobe 
+MESH:C537300	Greig cephalopolysyndactyly syndrome
+MESH:C537304	Granular corneal dystrophies
+MESH:C537327	SHORT syndrome
+MESH:C537328	Shprintzen-Goldberg syndrome
+MESH:C537330	Shwachman-Diamond syndrome
+MESH:C537340	Simpson-Golabi-Behmel syndrome
+MESH:C537342	Solitary median maxillary central incisor syndrome
+MESH:C537343	Singleton-Merten syndrome
+MESH:C537345	Sitosterolemia
+MESH:C537356	Metatropic dysplasia
+MESH:C537359	Methylmalonic aciduria and homocystinuria
+MESH:C537362	Other humoral immunodeficiencies
+MESH:C537369	Muenke syndrome
+MESH:C537371	Mullerian agenesis
+MESH:C537377	Multiple pterygium syndrome
+MESH:C537384	Merosin-deficient congenital muscular dystrophy
+MESH:C537393	Neurofibromatosis-Noonan syndrome
+MESH:C537396	NARP syndrome
+MESH:C537403	Pitt-Hopkins syndrome
+MESH:C537406	Bruck syndrome
+MESH:C537411	Burn-McKeown syndrome
+MESH:C537417	Butyrylcholinesterase deficiency
+MESH:C537418	C syndrome
+MESH:C537419	Bohring-Opitz syndrome
+MESH:C537425	Formiminotransferase deficiency
+MESH:C537430	Arima syndrome
+MESH:C537436	Aromatase excess syndrome
+MESH:C537437	Aromatic L-amino acid decarboxylase deficiency
+MESH:C537440	Generalized arterial calcification of infancy
+MESH:C537451	MEHMO syndrome
+MESH:C537457	X-linked intellectual disability-hypotonic facies syndrome
+MESH:C537459	Amyloidosis, Finnish type
+MESH:C537464	Microphthalmia, syndromic
+MESH:C537466	Microphthalmia with linear skin defects syndrome
+MESH:C537475	Mitochondrial complex I deficiency
+MESH:C537476	Mitochondrial myopathy with lactic acidosis
+MESH:C537477	Mitochondrial neurogastrointestinal encephalomyopathy
+MESH:C537480	Miyoshi muscular dystrophy
+MESH:C537492	Stickler syndrome
+MESH:C537495	Stocco dos Santos X-linked mental retardation syndrome
+MESH:C537500	Infantile bilateral striatal necrosis
+MESH:C537502	Stuve-Wiedemann syndrome
+MESH:C537519	Craniometaphyseal dysplasia
+MESH:C537521	Collagen VI myopathy
+MESH:C537525	Sclerosteosis
+MESH:C537527	Succinyl CoA
+MESH:C537533	Seckel syndrome
+MESH:C537548	Galloway-Mowat syndrome
+MESH:C537551	Microcornea, myopic chorioretinal atrophy, and telecanthus
+MESH:C537555	Microhydranencephaly
+MESH:C537559	Jackson-Weiss syndrome
+MESH:C537560	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome
+MESH:C537565	Spondylocostal dysostosis
+MESH:C537568	Jensen syndrome
+MESH:C537571	Asphyxiating thoracic dystrophy
+MESH:C537575	Congenital symmetric circumferential skin creases
+MESH:C537577	Microcephalic osteodysplastic primordial dwarfism, type I 
+MESH:C537580	Senior-Loken syndrome
+MESH:C537582	Sennetsu neorickettsiosis
+MESH:C537596	SCAD deficiency
+MESH:C537620	Myhre syndrome
+MESH:C537627	Haim-Munk syndrome
+MESH:C537633	Bjornstad syndrome
+MESH:C537658	Biotin-responsive basal ganglia disease
+MESH:C537659	Basan syndrome
+MESH:C537680	Acrofacial dysostosis
+MESH:C537690	Juberg-Hayward syndrome
+MESH:C537696	Autosomal dominant tubulointerstitial kidney disease
+MESH:C537698	Congenital hypotrichosis with juvenile macular dystrophy
+MESH:C537702	Juvenile polyposis syndrome
+MESH:C537704	Juvenile-onset dystonia
+MESH:C537705	Kabuki syndrome
+MESH:C537710	Lymphedema-distichiasis syndrome
+MESH:C537711	Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation
+MESH:C537724	Lujan-Fryns syndrome
+MESH:C537734	Feingold syndrome
+MESH:C537736	Oblique facial cleft
+MESH:C537742	Odontoonychodermal dysplasia
+MESH:C537746	Omodysplasia
+MESH:C537757	Renal hypouricemia
+MESH:C537761	Renpenning syndrome
+MESH:C537769	Microphthalmia with limb anomalies
+MESH:C537775	Anterior segment dysgenesis
+MESH:C537786	Congenital primary aphakia
+MESH:C537799	Geroderma osteodysplasticum
+MESH:C537839	Chronic recurrent multifocal osteomyelitis
+MESH:C537849	Norrie disease
+MESH:C537860	Occipital horn syndrome
+MESH:C537871	Growth hormone insensitivity with immunodeficiency
+MESH:C537878	Lateral meningocele syndrome
+MESH:C537880	Lathosterolosis
+MESH:C537884	Peters anomaly
+MESH:C537901	Bamforth-Lazarus syndrome
+MESH:C537903	Idiopathic portal hypertension
+MESH:C537907	Hypoparathyroidism with sensorineural deafness and renal dysplasia
+MESH:C537908	Barber-Say syndrome
+MESH:C537913	Acromesomelic dysplasia, Demirhan type
+MESH:C537914	Blomstrand syndrome
+MESH:C537915	Grebe dysplasia
+MESH:C537923	FG syndrome
+MESH:C537931	Fibular hypoplasia and complex brachydactyly
+MESH:C537934	GRACILE syndrome
+MESH:C537943	CEDNIK syndrome
+MESH:C537975	CATSHL syndrome
+MESH:C537996	Agnathia-otocephaly complex
+MESH:C537998	Dyssegmental dysplasia
+MESH:C538007	Dopa-responsive dystonia
+MESH:C538012	Meier-Gorlin syndrome
+MESH:C538013	Ataxia with ocular apraxia
+MESH:C538052	ADULT syndrome
+MESH:C538064	Frontometaphyseal dysplasia
+MESH:C538065	Frontonasal dysplasia
+MESH:C538080	Congenital diaphragmatic hernia
+MESH:C538101	Familial episodic pain syndrome
+MESH:C538132	Lacrimo-auriculo-dento-digital syndrome
+MESH:C538133	Glycogen storage disease type XI
+MESH:C538137	Hereditary hyperferritinaemia-cataract syndrome
+MESH:C538139	Congenital sucrase-isomaltase deficiency
+MESH:C538141	Sulfite oxidase deficiency
+MESH:C538150	Cenani-Lenz syndactyly syndrome
+MESH:C538152	Filippi syndrome
+MESH:C538153	Synpolydactyly
+MESH:C538157	Blau syndrome
+MESH:C538159	McKusick-Kaufman syndrome
+MESH:C538167	Isovaleric acidemia
+MESH:C538178	Acrodermatitis enteropathica
+MESH:C538179	Acrodysostosis
+MESH:C538189	Fuhrmann syndrome
+MESH:C538191	Diseases of the tricarboxylic acid cycle
+MESH:C538225	Adams-Oliver syndrome
+MESH:C538228	Adenine phosphoribosyltransferase deficiency
+MESH:C538234	AMP deaminase deficiency
+MESH:C538235	Adenylosuccinate lyase deficiency
+MESH:C538246	Aminoacylase 1 deficiency
+MESH:C538247	Microcephaly, Amish type
+MESH:C538256	Anauxetic dysplasia
+MESH:C538258	ATR-X syndrome
+MESH:C538270	Auriculocondylar syndrome
+MESH:C538275	Autoimmune polyendocrinopathy syndrome type 1
+MESH:C538278	Guttmacher syndrome
+MESH:C538317	Brachydactyly-mental retardation syndrome
+MESH:C538320	Histidinemia
+MESH:C538322	H syndrome
+MESH:C538324	3-Hydroxy-3-methylglutaryl-CoA lyase deficiency
+MESH:C538330	Inclusion body myopathy 3
+MESH:C538331	Naegeli-Franceschetti-Jadassohn syndrome
+MESH:C538336	Nance-Horan syndrome
+MESH:C538337	Keipert syndrome
+MESH:C538343	Native American myopathy
+MESH:C538346	Naxos disease
+MESH:C538353	Potassium-aggravated myotonia
+MESH:C538361	Reticular dysgenesis
+MESH:C538371	Revesz syndrome
+MESH:C538380	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome
+MESH:C538384	Hyperprolinemia
+MESH:C538424	Harlequin ichthyosis
+MESH:C538458	Rapidly progressive glomerulonephritis
+MESH:C538647	Centronuclear myopathy
+MESH:C538670	Early infantile epileptic encephalopathy
+MESH:C545036	Low molecular weight proteinuria with hypercalciuria and nephrocalcinosis
+MESH:C548016	Hypermanganesemia with dystonia
+MESH:C548028	Autosomal recessive peripheral neuropathy 
+MESH:C548032	Legius syndrome
+MESH:C548080	Neuroferritinopathy
+MESH:C557674	Seizures-sensorineural deafness-ataxia-mental retardation-electrolyte imbalance 
+MESH:C557815	Interleukin 1 receptor antagonist deficiency 
+MESH:C562407	Aplasia of lacrimal and salivary glands
+MESH:C562419	Blepharophimosis-ptosis-epicanthus inversus syndrome
+MESH:C562429	Postaxial polydactyly
+MESH:C562476	Benign familial hematuria
+MESH:C562487	Eosinophilic fasciitis
+MESH:C562492	Robinow syndrome
+MESH:C562509	Popliteal pterygium syndrome 
+MESH:C562515	Congenital hemidysplasia with ichthyosiform nevus and limb defects 
+MESH:C562524	Fibrochondrogenesis
+MESH:C562538	Cerebrocostomandibular syndrome
+MESH:C562581	Hypercalcemia infantile
+MESH:C562584	Xanthinuria
+MESH:C562600	Congenital lactase deficiency
+MESH:C562601	Lactose intolerance, adult type
+MESH:C562602	Congenital glucose-galactose malabsorption
+MESH:C562625	Ehlers-Danlos syndrome arthrochalasia type
+MESH:C562626	Ehlers-Danlos syndrome periodontal type
+MESH:C562642	Primary localized cutaneous amyloidosis
+MESH:C562645	Acid phosphatase deficiency
+MESH:C562649	Enterokinase deficiency
+MESH:C562664	Aland Island eye disease
+MESH:C562687	Lysinuric protein intolerance
+MESH:C562688	Vitamin D-dependent rickets
+MESH:C562692	Transient familial neonatal hyperbilirubinemia
+MESH:C562694	Idiopathic generalized epilepsies
+MESH:C562695	Early myoclonic encephalopathy
+MESH:C562710	Insulin-resistant diabetes mellitus with acanthosis nigricans
+MESH:C562718	Glycogen storage disease type XII
+MESH:C562719	Tn syndrome
+MESH:C562735	Progressive osseous heteroplasia
+MESH:C562745	Posterior polymorphous corneal dystrophy
+MESH:C562787	Central precocious puberty
+MESH:C562791	Autosomal dominant hypophosphatemic rickets
+MESH:C562792	Autosomal recessive hypophosphatemic rickets
+MESH:C562793	Hereditary hypophophatemic rickets with hypercalciuria
+MESH:C562803	Methacrylic aciduria
+MESH:C562812	Carnitine-acylcarnitine translocase deficiency
+MESH:C562815	Dihydropyrimidinase deficiency
+MESH:C562829	Megalocornea
+MESH:C562832	Pulmonary atresia with intact ventricular septum
+MESH:C562864	Myeloperoxidase deficiency
+MESH:C562873	Neutrophil specific granule deficiency
+MESH:C562876	Carboxypeptidase N deficiency
+MESH:C562901	X-linked recessive nephrolithiasis with renal failure
+MESH:C562924	Dowling-Degos disease
+MESH:C562935	Lipid storage myopathy due to FLAD1 deficiency
+MESH:C562937	Hypochondroplasia
+MESH:C562938	Metachondromatosis
+MESH:C562966	Cranioectodermal dysplasia
+MESH:C562968	SEMD with joint laxity type
+MESH:C563016	Pseudofolliculitis barbae
+MESH:C563028	Congenital asplenia
+MESH:C563034	Basal laminar drusen
+MESH:C563039	Coumarin resistance
+MESH:C563043	Kleefstra syndrome
+MESH:C563052	DOORS syndrome
+MESH:C563110	CK syndrome
+MESH:C563156	Brunner syndrome
+MESH:C563160	Oculodentodigital dysplasia
+MESH:C563162	Familial articular chondrocalcinosis
+MESH:C563177	Glucocorticoid-remediable aldosteronism 
+MESH:C563187	Carpenter syndrome
+MESH:C563207	Transaldolase deficiency
+MESH:C563209	Mucopolysaccharidosis type IX
+MESH:C563210	Beta-ureidopropionase deficiency
+MESH:C563212	Ribose 5-phosphate isomerase deficiency
+MESH:C563218	Spondyloepiphyseal dysplasia, Maroteaux type
+MESH:C563256	Fleck corneal dystrophy
+MESH:C563311	T
+MESH:C563322	Transient neonatal diabetes mellitus
+MESH:C563363	Cerebellar ataxia cayman type
+MESH:C563365	Hereditary mixed polyposis syndrome
+MESH:C563375	Neonatal hyperparathyroidism
+MESH:C563399	Familial adult myoclonic epilepsy
+MESH:C563422	Non-epidermolytic palmoplantar keratoderma
+MESH:C563423	Prohormone convertase 1
+MESH:C563424	Permanent neonatal diabetes mellitus
+MESH:C563440	T-B-Severe combined immunodeficiency
+MESH:C563462	Carnitine palmitoyltransferase II deficiency
+MESH:C563466	UV-sensitive syndrome
+MESH:C563475	Paroxysmal extreme pain disorder
+MESH:C563477	Calcium oxalate nephrolithiasis
+MESH:C563481	OFC syndrome
+MESH:C563574	Metaphyseal dysplasia without hypotrichosis
+MESH:C563665	Mitochondrial phosphate carrier deficiency
+MESH:C563698	Oligodontia-colorectal cancer syndrome
+MESH:C563703	Poor drug metabolism
+MESH:C563719	Generalized epilepsy and paroxysmal dyskinesia
+MESH:C563738	Rhabdoid predisposition syndrome
+MESH:C563745	BILU syndrome
+MESH:C563783	Autosomal dominant striatal degeneration
+MESH:C563786	Congenital hyperthyroidism
+MESH:C563789	PCWH syndrome
+MESH:C563790	Auditory neuropathy
+MESH:C563797	Combined oxidative phosphorylation deficiency
+MESH:C563798	Nephropathy with pretibial epidermolysis bullosa and deafness
+MESH:C563799	Amish infantile epilepsy syndrome
+MESH:C563818	Autosomal dominant sensory ataxia
+MESH:C563825	Spondylometaphyseal dysplasia with cone-rod dystrophy
+MESH:C563856	Sudden infant death with dysgenesis of the testes syndrome
+MESH:C563867	Insulin-like growth factor I deficiency
+MESH:C563869	SEMD, Matrilin type
+MESH:C563876	AICA-ribosiduria
+MESH:C563914	Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects
+MESH:C563977	Venous malformations
+MESH:C563983	Nanophthalmos
+MESH:C563990	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy
+MESH:C564010	Eiken dysplasia
+MESH:C564038	McLeod syndrome
+MESH:C564071	Pyruvate dehydrogenase E1-alpha deficiency
+MESH:C564100	Metacarpal 4-5 fusion
+MESH:C564105	Fragile X tremor
+MESH:C564163	Familial progressive hyperpigmentation
+MESH:C564185	Beukes hip dysplasia
+MESH:C564221	Glucocorticoid resistance syndrome
+MESH:C564234	Primary open angle glaucoma
+MESH:C564243	Bradyopsia
+MESH:C564245	CD36 deficiency
+MESH:C564252	Spondyloepiphyseal dysplasia, Kimberley type
+MESH:C564253	Myosin storage myopathy
+MESH:C564254	Capillary malformation-arteriovenous malformation
+MESH:C564276	Tropical calcific pancreatitis
+MESH:C564305	Diaphanospondylodysostosis
+MESH:C564307	Spondyloenchondrodysplasia with immune dysregulation 
+MESH:C564312	Localized autosomal recessive hypotrichosis
+MESH:C564315	Caudal duplication anomaly
+MESH:C564321	Congenital aural atresia
+MESH:C564327	Hypotrichosis-lymphedema-telangiectasia syndrome
+MESH:C564332	Cranio-lenticulo-sutural dysplasia
+MESH:C564334	Acrocapitofemoral dysplasia
+MESH:C564336	Familial hypercholanemia
+MESH:C564342	Noonan-like syndrome with loose anagen hair
+MESH:C564359	Skin fragility-woolly hair syndrome
+MESH:C564365	Neonatal ichthyosis-sclerosing cholangitis 
+MESH:C564367	Annular epidermolytic ichthyosis
+MESH:C564372	Brain small vessel disease
+MESH:C564391	Newfoundland rod-cone dystrophy
+MESH:C564403	Coenzyme Q10 deficiency
+MESH:C564433	Deafness, X-linked
+MESH:C564442	Cleft palate with ankyloglossia
+MESH:C564461	X-linked reticulate pigmentary disorder with systemic manifestations
+MESH:C564474	Hyperekplexia and epilepsy
+MESH:C564479	SHOX-related short stature
+MESH:C564484	Hartsfield syndrome
+MESH:C564490	X-linked intellectual developmental disorder
+MESH:C564491	Nephrogenic syndrome of inappropriate antidiuresis
+MESH:C564509	Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia
+MESH:C564543	IMAGE syndrome
+MESH:C564554	Terminal osseous dysplasia
+MESH:C564589	Smith-McCort dysplasia
+MESH:C564591	Hyperalphalipoproteinemia
+MESH:C564593	Horizontal gaze palsy with progressive scoliosis
+MESH:C564600	Absorptive hypercalciuria
+MESH:C564603	HARP syndrome
+MESH:C564683	Hypermethioninemia
+MESH:C564700	Craniosynostosis and dental anomalies
+MESH:C564715	PCDH19-related epilepsy syndrome
+MESH:C564735	Woolly hair
+MESH:C564752	VACTERL
+MESH:C564766	Thyroid dyshormonogenesis
+MESH:C564794	SEMD, short limb-hand type
+MESH:C564805	Spinal muscular atrophy with congenital bone fractures
+MESH:C564815	Spastic ataxia
+MESH:C564816	Growth delay due to insulin-like growth factor I resistance
+MESH:C564818	Peeling skin syndrome
+MESH:C564832	Acute recurrent myoglobinuria
+MESH:C564835	Goldmann-Favre syndrome
+MESH:C564874	Lethal-type popliteal pterygium syndrome
+MESH:C564888	Glycogen storage disease of heart
+MESH:C564893	Eosinophil peroxidase deficiency
+MESH:C564926	Autosomal recessive progressive external ophthalmoplegia
+MESH:C564968	Myosclerosis
+MESH:C564969	Multi-minicore disease
+MESH:C564992	Sorsby fundus dystrophy
+MESH:C565005	Foveal hypoplasia
+MESH:C565016	Gingival fibromatosis with hypertrichosis
+MESH:C565062	Ectrodactyly-ectodermal dysplasia-cleft lip
+MESH:C565089	Calvarial doughnut lesions with bone fragility
+MESH:C565095	Dihydrofolate reductase deficiency
+MESH:C565101	Maturity onset diabetes of the young 
+MESH:C565114	Primary failure of tooth eruption
+MESH:C565121	Deafness, autosomal dominant
+MESH:C565128	Mitochondrial complex III deficiency
+MESH:C565129	Beare-Stevenson syndrome
+MESH:C565152	Corticosteroid-binding globulin 
+MESH:C565192	Neutral lipid storage disease with myopathy
+MESH:C565193	Brachydactyly-syndactyly syndrome
+MESH:C565195	Congenital deafness with inner ear agenesis, microtia, and microdontia
+MESH:C565217	Seborrhea-like dermatitis with psoriasiform element
+MESH:C565278	Dimethylglycine dehydrogenase deficiency
+MESH:C565285	Spondyloocular syndrome
+MESH:C565304	Multiple mitochondrial dysfunctions syndrome
+MESH:C565309	Late-onset retinal degeneration
+MESH:C565328	Radioulnar synostosis with amegakaryocytic thrombocytopenia
+MESH:C565375	Mitochondrial complex II deficiency
+MESH:C565390	Methylmalonic aciduria
+MESH:C565394	Methylcobalamin deficiency type G
+MESH:C565439	Leukotriene C4 synthase deficiency
+MESH:C565447	Pyruvate dehydrogenase E3-binding protein deficiency
+MESH:C565448	Pyruvate dehydrogenase E2 deficiency
+MESH:C565449	Erythrocyte lactate transporter defect
+MESH:C565460	Stromme syndrome
+MESH:C565485	Glycogen storage disease type 0a
+MESH:C565507	Multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia, and hydranencephaly
+MESH:C565547	Primary congenital glaucoma
+MESH:C565551	Diaphyseal dysplasia with anemia
+MESH:C565564	Fleck retina, familial benign
+MESH:C565607	Schopf-Schulz-Passarge syndrome
+MESH:C565624	2,4-Dienoyl-CoA reductase deficiency
+MESH:C565627	Tricho-hepato-enteric syndrome
+MESH:C565662	Bilateral macronodular adrenal hyperplasia
+MESH:C565740	Osteoarthritis with mild chondrodysplasia
+MESH:C565768	Alpha-methylacyl-CoA racemase deficiency
+MESH:C565779	Ataxia-telangiectasia-like syndrome
+MESH:C565784	Fatal infantile cardioencephalomyopathy
+MESH:C565789	Familial advanced sleep phase syndrome
+MESH:C565808	Generalized epilepsy with febrile seizures plus
+MESH:C565820	Poikiloderma with neutropenia
+MESH:C565822	Congenital cataracts, facial dysmorphism, and neuropathy
+MESH:C565836	Leukoencephalopathy, progressive, with ovarian failure
+MESH:C565850	PNPLA6-related disorders
+MESH:C565882	Cardiac valvular defect, developmental
+MESH:C565891	Calcification of joints and arteries
+MESH:C565898	Microcephalic osteodysplastic primordial dwarfism, type II 
+MESH:C565924	Atrichia with papular lesions
+MESH:C565935	Asthma with nasal polyps and aspirin intolerance
+MESH:C565942	Arterial tortuosity syndrome
+MESH:C565965	Alopecia-mental retardation syndrome
+MESH:C565974	Familial glucocorticoid deficiency
+MESH:C566007	Retinal vasculopathy with cerebral leukodystrophy
+MESH:C566108	Stormorken syndrome
+MESH:C566112	Stiff skin syndrome
+MESH:C566130	Adrenal insufficiency, NR5A1 related
+MESH:C566236	Sveinsson chorioretinal atrophy 
+MESH:C566288	Frontotemporal dementia and amyotrophic lateral sclerosis
+MESH:C566293	Amelogenesis imperfecta hypoplastic-hypomaturation with taurodontism
+MESH:C566381	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+MESH:C566402	Methylmalonate semialdehyde dehydrogenase deficiency
+MESH:C566438	Cathepsin D deficiency
+MESH:C566449	Pyridoxamine-5
+MESH:C566452	Congenital stromal corneal dystrophy
+MESH:C566454	Abnormal thyroid hormone metabolism
+MESH:C566469	Pigmented micronodular adrenocortical disease
+MESH:C566476	Koolen-De Vries syndrome
+MESH:C566487	SBCAD deficiency
+MESH:C566529	Grange syndrome
+MESH:C566555	Desmosterolosis
+MESH:C566592	Ectodermal dysplasia, hair-nail type
+MESH:C566593	Hypomagnesemia
+MESH:C566600	Keratosis linearis with ichthyosis congenita and sclerosing keratoderma
+MESH:C566618	3-Phosphoglycerate dehydrogenase 
+MESH:C566636	PTEN hamartoma tumor syndrome
+MESH:C566654	Leukoencephalopathy with dystonia and motor neuropathy
+MESH:C566729	Pyruvate dehydrogenase E1-beta deficiency
+MESH:C566801	Pigmented paravenous chorioretinal atrophy
+MESH:C566813	Adult-onset autosomal dominant leukodystrophy
+MESH:C566815	Char syndrome
+MESH:C566822	Perry syndrome
+MESH:C566826	Enlarged parietal foramina
+MESH:C566870	Familial tumoral calcinosis
+MESH:C566897	Plasminogen deficiency
+MESH:C566903	Mesial temporal lobe epilepsy with hippocampal sclerosis
+MESH:C566906	Congenital anomalies of kidney and urinary tract
+MESH:C566917	Glycogen storage disease type 0b
+MESH:C566924	Cavitary optic disc anomalies
+MESH:C566945	Mitochondrial trifunctional protein deficiency
+MESH:C566947	Autosomal dominant intellectual developmental disorder
+MESH:C566970	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation
+MESH:C566980	FRA12A mental retardation
+MESH:C567009	Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation
+MESH:C567010	Deafness-infertility syndrome
+MESH:C567020	Polyhydramnios, megalencephaly, and symptomatic epilepsy
+MESH:C567024	Optic disc anomalies with retinal and
+MESH:C567032	Phosphoserine aminotransferase deficiency
+MESH:C567034	Brain-lung-thyroid syndrome
+MESH:C567064	Phosphoribosylpyrophosphate synthetase superactivity
+MESH:C567078	Allergic rhinitis
+MESH:C567088	Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps 
+MESH:C567089	Lipoprotein glomerulopathy
+MESH:C567125	Combined SAP deficiency
+MESH:C567134	Deafness, autosomal recessive
+MESH:C567142	Renal-hepatic-pancreatic dysplasia
+MESH:C567165	Palmoplantar hyperkeratosis with squamous cell carcinoma of skin and sex reversal
+MESH:C567171	Multicentric carpotarsal osteolysis syndrome
+MESH:C567195	Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis
+MESH:C567203	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract
+MESH:C567258	Adiponectin deficiency
+MESH:C567260	Darsun syndrome
+MESH:C567274	DDOD syndrome
+MESH:C567296	Hypercarotenemia and vitamin A deficiency
+MESH:C567306	Skeletal defects, genital hypoplasia, and mental retardation
+MESH:C567320	Lysyl hydroxylase 3 deficiency
+MESH:C567357	Birk Barel mental retardation syndrome 
+MESH:C567359	Microtia hearing impairment and cleft palate
+MESH:C567363	Nephrolithiasis
+MESH:C567379	Pyogenic bacterial infections, recurrent, due to MYD88 deficiency
+MESH:C567401	Coats plus syndrome
+MESH:C567408	Epidermolysis bullosa, hemidesmosomal
+MESH:C567411	Ectodermal dysplasia associated immunodeficiency
+MESH:C567425	Alopecia neurologic defects and endocrinopathy syndrome
+MESH:C567439	Chromosome 15q13
+MESH:C567453	RIDDLE syndrome
+MESH:C567466	MICPCH syndrome
+MESH:C567468	Reducing body myopathy
+MESH:C567475	STAR syndrome
+MESH:C567480	X-linked myopathy with postural muscle atrophy
+MESH:C567484	Christianson syndrome
+MESH:C567502	Congenital arthrogryposis with anterior horn cell disease
+MESH:C567517	SERKAL syndrome
+MESH:C567527	Ehlers-Danlos syndrome dermatosparaxis type
+MESH:C567528	ATP synthase deficiency
+MESH:C567551	SEMD, Pakistani type
+MESH:C567570	Mitchell-Riley syndrome
+MESH:C567594	Congenital fiber type disproportion
+MESH:C567639	Spondylo-megaepiphyseal-metaphyseal dysplasia
+MESH:C567652	Primary bile acid malabsorption
+MESH:C567716	Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities
+MESH:C567718	Marie-Unna hereditary hypotrichosis
+MESH:C567751	Hypotrichosis and recurrent skin vesicles
+MESH:C567763	CLAPO syndrome
+MESH:C567770	Macrocephaly, alopecia, cutis laxa, and scoliosis
+MESH:C567784	HMG-CoA synthase deficiency
+MESH:C567791	Neurodegeneration due to cerebral folate transport deficiency
+MESH:C567815	Lymphoproliferative syndrome
+MESH:C567832	Spermatogenic failure
+MESH:C567845	Cystic leukoencephalopathy without megalencephaly
+MESH:C567847	Global cerebral hypomyelination
+MESH:C567856	Growth retardation, developmental delay, coarse facies, and early death
+MESH:C567859	Glycogen storage disease type XIV
+MESH:C567861	Glycogen storage disease type XIII
+MESH:C567863	Congenital lipomatous overgrowth, vascular malformations, and epidermal nevi
+MESH:C567893	Split-hand
+MESH:C567932	Opitz-GBBB syndrome
+MESH:C573012	Dihydrolipoamide dehydrogenase deficiency
+MESH:C573898	Triphalangeal thumb-polysyndactyly syndrome
+MESH:C579849	Chromosome 15q24 microdeletion syndrome
+MESH:C579867	3-Methylglutaconic aciduria
+MESH:C579922	Mitochondrial recessive ataxia syndrome
+MESH:C579932	Nocturnal frontal lobe epilepsy
+MESH:C579969	Cap myopathy
+MESH:C580002	Combined malonic and methylmalonic aciduria
+MESH:C580012	Congenital fibrosis of the extraocular muscles
+MESH:C580083	Familial exudative vitreoretinopathy
+MESH:C580150	Hereditary diffuse leukoencephalopathy with spheroids
+MESH:C580174	Huntington disease-like syndrome
+MESH:C580192	IPEX syndrome
+MESH:C580224	KID
+MESH:C580273	MECP2-related severe neonatal encephalopathy
+MESH:C580316	Myofibrillar myopathies
+MESH:C580359	Palmoplantar keratoderma with deafness
+MESH:C580364	Chronic eosinophilic leukemia
+MESH:C580383	Pontocerebellar hypoplasia
+MESH:C580500	Edwards syndrome
+MESH:C580533	X-linked chondrodysplasia punctata
+MESH:C580539	Congenital motor nystagmus 
+MESH:D000012	Abetalipoproteinemia
+MESH:D000067877	Intellectual developmental disorder with autism and speech delay
+MESH:D000069544	Infection-induced acute encephalopathy
+MESH:D000071243	Zika fever
+MESH:D000071700	Cone-rod dystrophy and cone dystrophy
+MESH:D000073605	Rickettsialpox
+MESH:D000075224	Cardiac conduction disease with or without dilated cardiomyopathy
+MESH:D000075262	Glycerol kinase deficiency
+MESH:D000075363	AL amyloidosis
+MESH:D000077195	Head and neck cancer
+MESH:D000080984	Bone marrow failure syndrome
+MESH:D000081207	Disorders of innate immunity
+MESH:D000130	FGFR3-related short limb skeletal dysplasia
+MESH:D000141	Distal renal tubular acidosis 
+MESH:D000151	Multidrug-resistant Acinetobacter infection
+MESH:D000152	Acne vulgaris
+MESH:D000168	Syndromic craniosynostoses
+MESH:D000172	Excessive secretion of growth hormone
+MESH:D000196	Actinomycosis
+MESH:D000224	Addison disease
+MESH:D000258	Adenovirus infection
+MESH:D000306	Adrenal carcinoma
+MESH:D000309	Adrenal insufficiency, congenital, with 46XY sex reversal, partial or complete
+MESH:D000312	Congenital adrenal hyperplasia
+MESH:D000326	Adrenoleukodystrophy
+MESH:D000361	Agammaglobulinemias
+MESH:D000437	Alcohol dependence
+MESH:D000474	Alkaptonuria
+MESH:D000542	Extrinsic allergic alveolitis
+MESH:D000544	Alzheimer disease
+MESH:D000562	Amoebiasis
+MESH:D000567	Amelogenesis imperfecta
+MESH:D000592	Hypertryptophanemia
+MESH:D000690	Amyotrophic lateral sclerosis 
+MESH:D000699	Congenital insensitivity to pain
+MESH:D000707	Anaphylaxis
+MESH:D000712	Human granulocytic anaplasmosis
+MESH:D000744	Autoimmune hemolytic anemia
+MESH:D000757	Anencephaly
+MESH:D000787	Angina pectoris
+MESH:D000795	Fabry disease
+MESH:D000848	Tooth agenesis
+MESH:D000881	Anthrax
+MESH:D001005	Cancer of the anal canal
+MESH:D001008	Generalized anxiety disorder
+MESH:D001068	Eating Disorders
+MESH:D001072	Speech-language disorder 1
+MESH:D001139	Chiari malformation
+MESH:D001157	Chronic arterial occlusive disease
+MESH:D001162	Arteriosclerosis obliterans
+MESH:D001170	Septic arthritis
+MESH:D001171	Juvenile idiopathic arthritis
+MESH:D001172	Rheumatoid arthritis
+MESH:D001176	Distal arthrogryposis
+MESH:D001196	Ascariasis
+MESH:D001228	Aspergillosis
+MESH:D001249	Asthma
+MESH:D001254	Subependymal giant cell astrocytoma
+MESH:D001260	Ataxia telangiectasia
+MESH:D001289	Attention deficit hyperactivity disorder 
+MESH:D001321	Autism
+MESH:D001327	Syndromic multisystem autoimmune disease
+MESH:D001404	Babesiosis
+MESH:D001437	Asymptomatic bacteriuria
+MESH:D001442	Bacteroides infection
+MESH:D001447	Balantidiasis
+MESH:D001471	Barrett esophagus
+MESH:D001474	Bartonellosis
+MESH:D001477	Bartter syndrome
+MESH:D001478	Basal cell nevus syndrome
+MESH:D001506	Beckwith-Wiedemann syndrome
+MESH:D001528	Behcet disease
+MESH:D001602	Beriberi
+MESH:D001656	Biliary atresia
+MESH:D001714	Bipolar disorder
+MESH:D001749	Bladder cancer
+MESH:D001759	Blastomycosis
+MESH:D001762	Blepharitis
+MESH:D001816	Bloom syndrome
+MESH:D001885	Bordetella petrii infection
+MESH:D001906	Botulism
+MESH:D001943	Breast cancer
+MESH:D001987	Bronchiectasis with or without elevated sweat chloride
+MESH:D001989	Obliterative bronchiolitis
+MESH:D002006	Brucellosis
+MESH:D002042	Bunyamwera fever
+MESH:D002051	Burkitt lymphoma
+MESH:D002141	Jamestown Canyon encephalitis
+MESH:D002169	Campylobacter infection
+MESH:D002177	Candidiasis
+MESH:D002178	Chronic mucocutaneous candidiasis
+MESH:D002276	Carcinoid
+MESH:D002280	Basal cell carcinoma
+MESH:D002289	Non-small cell lung cancer
+MESH:D002292	Renal cell carcinoma
+MESH:D002294	Squamous cell carcinoma
+MESH:D002349	Familial carpal tunnel syndrome
+MESH:D002386	Cataract
+MESH:D002446	Celiac disease
+MESH:D002547	Spastic quadriplegic cerebral palsy
+MESH:D002549	Alpers syndrome
+MESH:D002583	Cervical cancer
+MESH:D002590	Dipylidiasis
+MESH:D002602	Chancroid
+MESH:D002607	Roussy-Levy syndrome
+MESH:D002609	Chediak-Higashi syndrome
+MESH:D002636	Cherubism
+MESH:D002644	Varicella
+MESH:D002647	Chilblains
+MESH:D002690	Chlamydia infection
+MESH:D002754	Choanal atresia and lymphedema
+MESH:D002771	Cholera
+MESH:D002780	Progressive familial intrahepatic cholestasis
+MESH:D002813	Extraskeletal myxoid chondrosarcoma
+MESH:D002819	Sydenham chorea
+MESH:D002822	Choriocarcinoma
+MESH:D002862	Chromomycosis
+MESH:D002972	Cleft lip and
+MESH:D002973	Cleidocranial dysplasia
+MESH:D003003	Clonorchiasis
+MESH:D003015	Foodborne Clostridium perfringens intoxication
+MESH:D003025	Congenital clubfoot
+MESH:D003027	Cluster headache
+MESH:D003047	Coccidioidomycosis
+MESH:D003057	Cockayne syndrome
+MESH:D003093	Ulcerative colitis
+MESH:D003103	Ocular coloboma
+MESH:D003117	Achromatopsia
+MESH:D003123	Hereditary nonpolyposis colorectal cancer
+MESH:D003139	Common cold
+MESH:D003218	Condyloma acuminatum
+MESH:D003232	Acute hemorrhagic conjunctivitis
+MESH:D003234	Bacterial conjunctivitis
+MESH:D003294	Febrile seizures
+MESH:D003317	Macular corneal dystrophy
+MESH:D003324	Coronary artery disease
+MESH:D003354	Corynebacterium ulcerans infection
+MESH:D003394	Crouzon syndrome
+MESH:D003398	Trigonocephaly
+MESH:D003409	Central hypothyroidism and testicular enlargement
+MESH:D003410	Chromosome 5p deletion syndrome
+MESH:D003414	Crigler-Najjar syndrome
+MESH:D003424	Crohn disease
+MESH:D003453	Cryptococcosis
+MESH:D003456	Cryptorchidism
+MESH:D003457	Cryptosporidiosis
+MESH:D003480	Cushing syndrome
+MESH:D003483	Cutis laxa
+MESH:D003550	Cystic fibrosis
+MESH:D003551	Cysticercosis
+MESH:D003554	Cystinosis
+MESH:D003555	Cystinuria
+MESH:D003586	Cytomegalovirus infection
+MESH:D003616	Dandy-Walker syndrome
+MESH:D003635	Cornelia de Lange syndrome
+MESH:D003639	Sudden sensorineural hearing loss
+MESH:D003699	Hepatitis D
+MESH:D003704	Familial dementia
+MESH:D003715	Dengue
+MESH:D003731	Dental caries
+MESH:D003805	Dentin dysplasia
+MESH:D003863	Major depressive disorder
+MESH:D003876	Atopic dermatitis
+MESH:D003919	Disorders of antidiuretic hormone 
+MESH:D003922	Ketosis-prone diabetes mellitus
+MESH:D003924	Type 2 diabetes mellitus
+MESH:D003928	Microvascular complications of diabetes
+MESH:D003929	Diabetic neuropathy
+MESH:D003930	Diabetic retinopathy
+MESH:D003966	Camurati-Engelmann disease
+MESH:D004011	Dicrocoeliasis
+MESH:D004030	Dientamoebiasis
+MESH:D004057	Diffuse idiopathic skeletal hyperostosis
+MESH:D004062	DiGeorge syndrome
+MESH:D004165	Diphtheria
+MESH:D004169	Diphyllobothriasis
+MESH:D004211	Disseminated intravascular coagulation
+MESH:D004310	Double-outlet right ventricle
+MESH:D004314	Down syndrome
+MESH:D004320	Dracunculiasis
+MESH:D004370	Duane retraction syndrome
+MESH:D004374	Patent ductus arteriosus
+MESH:D004393	Isolated growth hormone deficiency
+MESH:D004402	Familial dysautonomia
+MESH:D004405	Shigellosis
+MESH:D004410	Dyslexia
+MESH:D004437	Ebstein anomaly
+MESH:D004443	Human echinococcosis
+MESH:D004474	Orf
+MESH:D004476	Ectodermal dysplasia, Clouston type
+MESH:D004479	Ectopia lentis
+MESH:D004480	Sacral defect with anterior meningocele
+MESH:D004535	Ehlers-Danlos syndrome vascular type
+MESH:D004605	Lymphatic filariasis
+MESH:D004613	Ellis-van Creveld syndrome
+MESH:D004660	Rasmussen encephalitis
+MESH:D004669	Alkhumra hemorrhagic fever
+MESH:D004670	La Crosse encephalitis
+MESH:D004672	Japanese encephalitis
+MESH:D004675	Tick-borne viral encephalitis
+MESH:D004685	Venezuelan equine encephalitis
+MESH:D004697	Bacterial endocarditis
+MESH:D004715	Endometriosis
+MESH:D004761	Pseudomembranous colitis
+MESH:D004769	Enterovirus infection
+MESH:D004819	Epidermodysplasia verruciformis
+MESH:D004820	Epidermolysis bullosa
+MESH:D004828	Familial focal epilepsy with variable foci
+MESH:D004829	Symptomatic generalized epilepsies
+MESH:D004831	Dravet syndrome
+MESH:D004832	Childhood absence epilepsy
+MESH:D004886	Erysipelas
+MESH:D004887	Erysipeloid
+MESH:D004892	Erythema multiforme
+MESH:D004893	Erythema nodosum leprosum
+MESH:D004916	Inherited erythromelalgia
+MESH:D004927	Enteroaggregative Escherichia coli 
+MESH:D004938	Esophageal cancer
+MESH:D005097	Multiple exostoses
+MESH:D005158	Hereditary congenital facial paresis
+MESH:D005168	Factor VII deficiency
+MESH:D005171	Factor X deficiency
+MESH:D005185	Fallopian tube cancer
+MESH:D005198	Fanconi-Bickel syndrome
+MESH:D005211	Liver fluke disease
+MESH:D005271	Avascular necrosis of femoral head
+MESH:D005351	Hereditary gingival fibromatosis
+MESH:D005356	Fibromyalgia
+MESH:D005359	Fibrous dysplasia, polyostotic
+MESH:D005368	Filariasis
+MESH:D005489	Focal dermal hypoplasia
+MESH:D005585	Avian influenza
+MESH:D005600	Fragile X syndrome
+MESH:D005621	Friedreich ataxia
+MESH:D005633	Hereditary fructose intolerance
+MESH:D005642	Fuchs corneal dystrophy
+MESH:D005645	Fucosidosis
+MESH:D005687	Galactorrhea
+MESH:D005693	Galactosemia
+MESH:D005705	Gallbladder disease
+MESH:D005706	Gallbladder cancer
+MESH:D005738	Gas gangrene
+MESH:D005759	Viral gastroenteritis
+MESH:D005764	Gastroesophageal reflux disease
+MESH:D005776	Gaucher disease
+MESH:D005871	Castleman disease
+MESH:D005873	Giardiasis
+MESH:D005877	Pituitary gigantism
+MESH:D005878	Gilbert syndrome
+MESH:D005879	Tourette syndrome
+MESH:D005892	Acute necrotizing ulcerative gingivitis
+MESH:D005896	Glanders
+MESH:D005910	Glioma
+MESH:D005922	IgA nephropathy
+MESH:D005923	Focal segmental glomerulosclerosis
+MESH:D005953	Glycogen storage disease type I
+MESH:D005955	Anemia due to disorders of glutathione metabolism
+MESH:D006008	Glycogen storage disease
+MESH:D006009	Glycogen storage disease type II
+MESH:D006010	Glycogen storage disease type III
+MESH:D006011	Glycogen storage disease type IV
+MESH:D006012	Glycogen storage disease type V
+MESH:D006013	Glycogen storage disease type VI
+MESH:D006014	Glycogen storage disease type VII
+MESH:D006015	Glycogen storage disease type IX
+MESH:D006030	Familial renal glucosuria
+MESH:D006061	46,XY gonadal dysgenesis
+MESH:D006069	Gonococcal infection
+MESH:D006073	Gout
+MESH:D006086	Graft-versus-host disease
+MESH:D006100	Donovanosis
+MESH:D006105	Chronic granulomatous disease
+MESH:D006111	Graves disease
+MESH:D006192	Haemophilus influenzae infection
+MESH:D006211	Pantothenate kinase-associated neurodegeneration
+MESH:D006223	Cowden syndrome
+MESH:D006232	Hand, foot and mouth disease
+MESH:D006250	Hartnup disorder
+MESH:D006312	Bilateral sudden sensorineural hearing loss
+MESH:D006319	Deafness, Y-linked
+MESH:D006330	Congenital heart defects, multiple type
+MESH:D006333	Acute heart failure
+MESH:D006344	Atrial septal defect
+MESH:D006345	Ventricular septal defect
+MESH:D006349	Aortic valve disease
+MESH:D006391	Infantile hepatic hemangioma
+MESH:D006394	Hepatic angiosarcoma
+MESH:D006432	Hemochromatosis
+MESH:D006478	Argentine hemorrhagic fever
+MESH:D006479	Crimean-Congo hemorrhagic fever
+MESH:D006480	Hemorrhagic fever with renal syndrome
+MESH:D006481	Omsk hemorrhagic fever
+MESH:D006486	Superficial siderosis
+MESH:D006501	Hepatic encephalopathy
+MESH:D006502	Budd-Chiari syndrome
+MESH:D006506	Hepatitis A
+MESH:D006509	Hepatitis B
+MESH:D006525	Viral hepatitis
+MESH:D006526	Hepatitis C
+MESH:D006527	Wilson disease
+MESH:D006528	Hepatocellular carcinoma
+MESH:D006557	Herpangina
+MESH:D006561	Herpes simplex virus infection
+MESH:D006623	von Hippel-Lindau syndrome
+MESH:D006627	Hirschsprung disease
+MESH:D006646	Langerhans cell histiocytosis
+MESH:D006660	Histoplasmosis
+MESH:D006689	Hodgkin lymphoma
+MESH:D006712	Homocystinuria
+MESH:D006725	Hookworm disease
+MESH:D006816	Huntington disease
+MESH:D006828	Recurrent hydatidiform moles
+MESH:D006849	Hydrocephalus due to congenital stenosis of aqueduct of Sylvius
+MESH:D006850	Normal pressure hydrocephalus
+MESH:D006925	Hymenolepiasis
+MESH:D006929	Primary aldosteronism
+MESH:D006932	Hyperbilirubinemia
+MESH:D006933	Rotor syndrome
+MESH:D006934	Familial hypocalciuric hypercalcemia
+MESH:D006937	Familial hypercholesterolemia
+MESH:D006938	Hyperlipoproteinemia type IIa
+MESH:D006946	Familial hyperinsulinemic hypoglycemia
+MESH:D006949	Hyperlipidemia
+MESH:D006950	Familial combined hyperlipidemia
+MESH:D006952	Hyperlipoproteinemia, type III
+MESH:D006954	Hyperlipoproteinemia, type V
+MESH:D006958	Infantile cortical hyperostosis
+MESH:D006960	Primary hyperoxaluria
+MESH:D006962	Secondary hyperparathyroidism
+MESH:D006964	Abnormal pituitary gonadotropin secretion
+MESH:D006966	Hyperprolactinemia
+MESH:D006973	High blood pressure
+MESH:D006980	Hyperthyroidism
+MESH:D006995	Familial hypobetalipoproteinemia
+MESH:D007006	Male hypogonadism
+MESH:D007007	Isolated anhidrosis with normal sweat glands
+MESH:D007011	Hypoparathyroidism
+MESH:D007014	Hypophosphatasia
+MESH:D007018	Hypopituitarism
+MESH:D007021	Hypospadias
+MESH:D007039	Hypotrichosis
+MESH:D007057	Congenital ichthyosis
+MESH:D007177	Syndrome of inappropriate secretion of antidiuretic hormone
+MESH:D007184	Incontinentia pigmenti
+MESH:D007247	Oocyte maturation defect
+MESH:D007251	Influenza
+MESH:D007319	Insomnia
+MESH:D007418	Chronic idiopathic intestinal pseudo-obstruction
+MESH:D007566	Dubin-Johnson syndrome
+MESH:D007589	Hyper-IgE syndrome
+MESH:D007593	Joint laxity, short stature, and myopia
+MESH:D007619	Primary ciliary dyskinesia
+MESH:D007625	Kearns-Sayre syndrome
+MESH:D007639	Epidemic keratoconjunctivitis
+MESH:D007640	Keratoconus
+MESH:D007644	Darier disease
+MESH:D007645	Mal de Meleda
+MESH:D007676	Renal anemia
+MESH:D007690	Polycystic kidney disease
+MESH:D007706	Menkes syndrome
+MESH:D007710	Klebsiella infection
+MESH:D007714	Klippel-Feil syndrome
+MESH:D007715	Klippel-Trenaunay-Weber syndrome
+MESH:D007733	Kyasanur Forest disease
+MESH:D007767	Lacrimal duct defect
+MESH:D007822	Laryngeal cancer
+MESH:D007835	Lassa fever
+MESH:D007849	Laurence-Moon syndrome
+MESH:D007863	Lecithin
+MESH:D007873	Legg-Calve-Perthes Disease
+MESH:D007876	Legionellosis
+MESH:D007888	Leigh syndrome
+MESH:D007889	Uterine leiomyoma
+MESH:D007896	Leishmaniasis
+MESH:D007918	Leprosy
+MESH:D007922	Leptospirosis
+MESH:D007926	Lesch-Nyhan syndrome
+MESH:D007943	Hairy cell leukemia
+MESH:D007946	Mast-cell leukemia
+MESH:D007965	Krabbe disease
+MESH:D007966	Metachromatic leukodystrophy
+MESH:D007968	Progressive multifocal leukoencephalopathy
+MESH:D008010	Lichen planus
+MESH:D008011	Lichen sclerosus et atrophicus
+MESH:D008052	Disorders of mitochondrial fatty-acid oxidation
+MESH:D008059	Mucopolysaccharidosis type I
+MESH:D008060	Acquired generalized lipodystrophy
+MESH:D008061	Whipple disease
+MESH:D008065	Lipoid proteinosis
+MESH:D008072	Hyperlipoproteinemia, type I
+MESH:D008088	Listeriosis
+MESH:D008105	Primary biliary cirrhosis
+MESH:D008108	Alcoholic liver disease
+MESH:D008118	Loiasis
+MESH:D008178	Cutaneous lupus erythematosus
+MESH:D008180	Systemic lupus erythematosus
+MESH:D008181	Lupus nephritis
+MESH:D008193	Lyme borreliosis
+MESH:D008199	Tick-borne lymphadenopathy
+MESH:D008202	Lymphangioma
+MESH:D008209	Lymphatic malformation
+MESH:D008216	Lymphocytic choriomeningitis
+MESH:D008219	Lymphogranuloma venereum
+MESH:D008224	Follicular lymphoma
+MESH:D008228	Non-Hodgkin lymphoma
+MESH:D008232	X-linked lymphoproliferative syndrome
+MESH:D008268	Age-related macular degeneration
+MESH:D008269	Macular edema
+MESH:D008271	Actinomycetoma
+MESH:D008288	Malaria
+MESH:D008342	Treacher Collins syndrome
+MESH:D008363	alpha-Mannosidosis
+MESH:D008368	Mansonelliasis
+MESH:D008375	Maple syrup urine disease
+MESH:D008379	Marburg disease
+MESH:D008382	Marfan syndrome
+MESH:D008457	Measles
+MESH:D008527	Medulloblastoma
+MESH:D008545	Melanoma
+MESH:D008554	Melioidosis
+MESH:D008575	Meniere disease
+MESH:D008579	Meningioma
+MESH:D008581	Neoplastic meningitis
+MESH:D008582	Aseptic meningitis
+MESH:D008589	Meningococcal infection
+MESH:D008607	Syndromic intellectual developmental disorder
+MESH:D008654	Malignant pleural mesothelioma
+MESH:D008831	Primary microcephaly
+MESH:D008850	Microphthalmia
+MESH:D008945	Mitral valve prolapse
+MESH:D008947	Mixed connective tissue disease
+MESH:D008976	Molluscum contagiosum
+MESH:D009062	Oral cancer
+MESH:D009072	Moyamoya disease
+MESH:D009080	Kawasaki disease
+MESH:D009081	Mucolipidosis III
+MESH:D009084	Mucopolysaccharidosis type III
+MESH:D009085	Mucopolysaccharidosis type IV
+MESH:D009087	Mucopolysaccharidosis type VI
+MESH:D009091	Mucormycosis
+MESH:D009101	Multiple myeloma
+MESH:D009103	Multiple sclerosis
+MESH:D009107	Mumps
+MESH:D009123	Infantile hypotonia with psychomotor retardation and characteristic facies
+MESH:D009134	Spinal muscular atrophy
+MESH:D009136	Congenital muscular dystrophies 
+MESH:D009157	Myasthenia gravis
+MESH:D009165	Mycobacterium avium complex 
+MESH:D009182	Mycosis fungoides
+MESH:D009190	Myelodysplastic syndrome
+MESH:D009198	Myiasis
+MESH:D009203	Myocardial infarction
+MESH:D009216	Myopia
+MESH:D009221	Fibrodysplasia ossificans progressiva
+MESH:D009223	Myotonic dystrophy
+MESH:D009224	Myotonia congenita
+MESH:D009261	Nail-patella syndrome
+MESH:D009290	Narcolepsy
+MESH:D009303	Nasopharyngeal cancer
+MESH:D009377	Multiple endocrine neoplasia syndrome
+MESH:D009394	Karyomegalic interstitial nephritis
+MESH:D009396	Nephroblastoma
+MESH:D009404	Nephrotic syndrome
+MESH:D009437	Neuropathic pain
+MESH:D009447	Neuroblastoma
+MESH:D009456	Watson syndrome
+MESH:D009459	Neuroleptic malignant syndrome
+MESH:D009471	Neuromyelitis optica
+MESH:D009472	Neuronal ceroid lipofuscinosis
+MESH:D009477	Congenital pain insensitivity with anhidrosis
+MESH:D009497	Neurosis
+MESH:D009617	Nocardiosis
+MESH:D009634	Noonan syndrome and related disorders
+MESH:D009765	Genetic obesity
+MESH:D009767	Morbid obesity and spermatogenic failure
+MESH:D009771	Obsessive-compulsive disorder
+MESH:D009800	Lowe syndrome
+MESH:D009814	Oesophagostomiasis
+MESH:D009855	Onchocerciasis
+MESH:D009889	Opisthorchiasis
+MESH:D009901	Optic neuropathy
+MESH:D009902	Optic neuritis
+MESH:D009956	Psittacosis
+MESH:D009958	Oral-facial-digital syndrome
+MESH:D009959	Oropharyngeal cancer
+MESH:D010001	Paget disease of bone
+MESH:D010004	Isolated congenital nail clubbing
+MESH:D010008	Familial osteochondritis dissecans
+MESH:D010009	Spondyloepiphyseal dysplasia
+MESH:D010013	Osteogenesis imperfecta
+MESH:D010015	Lymphangiomatosis
+MESH:D010022	Osteopetrosis
+MESH:D010023	Buschke-Ollendorff syndrome
+MESH:D010024	Osteoporosis
+MESH:D010051	Ovarian cancer
+MESH:D010190	Pancreatic cancer
+MESH:D010195	Hereditary pancreatitis
+MESH:D010214	Papillon-Lefevre syndrome
+MESH:D010217	Arthropod-borne viral fever
+MESH:D010229	Paracoccidioidomycosis
+MESH:D010235	Malignant paraganglioma
+MESH:D010237	Paragonimiasis
+MESH:D010282	Parathyroid carcinoma
+MESH:D010284	Paratyphoid fever
+MESH:D010300	Parkinson disease
+MESH:D010326	Pasteurellosis
+MESH:D010373	Pediculosis
+MESH:D010383	Pellagra
+MESH:D010391	Pemphigoid
+MESH:D010392	Pemphigus
+MESH:D010412	Penile cancer
+MESH:D010437	Peptic ulcer
+MESH:D010438	Gastrointestinal ulceration, recurrent, with dysfunctional platelets
+MESH:D010488	Polyarteritis nodosa
+MESH:D010505	Familial Mediterranean fever
+MESH:D010510	Periodontal disease
+MESH:D010518	Aggressive periodontitis
+MESH:D010534	Primary peritoneal carcinoma
+MESH:D010547	Alveolar capillary dysplasia with misalignment of pulmonary veins
+MESH:D010580	Peutz-Jeghers syndrome
+MESH:D010661	Phenylketonuria
+MESH:D010698	Social anxiety disorder
+MESH:D010845	Obesity hypoventilation syndrome
+MESH:D010859	Hypomelanosis of Ito
+MESH:D010874	Pinta
+MESH:D010911	Pituitary adenomas
+MESH:D010916	Pityriasis rubra pilaris
+MESH:D010930	Plague
+MESH:D011000	Epidemic myalgia
+MESH:D011008	Pneumococcal disease
+MESH:D011019	Mycoplasma pneumonia
+MESH:D011020	Pneumocystis pneumonia
+MESH:D011038	Rothmund-Thomson syndrome
+MESH:D011051	Acute poliomyelitis
+MESH:D011081	Relapsing polychondritis
+MESH:D011085	Polycystic ovary syndrome
+MESH:D011087	Polycythemia vera
+MESH:D011111	Polymyalgia rheumatica
+MESH:D011115	Subacute myelo-optico-neuropathy 
+MESH:D011125	Familial adenomatous polyposis
+MESH:D011218	Prader-Willi syndrome
+MESH:D011371	Hutchinson-Gilford progeria syndrome
+MESH:D011512	Providencia stuartii infection
+MESH:D011535	Prune belly syndrome
+MESH:D011546	Hyperkalemic distal renal tubular acidosis 
+MESH:D011547	Pseudohypoparathyroidism
+MESH:D011552	Multidrug-resistant Pseudomonas aeruginosa infection
+MESH:D011561	Pseudoxanthoma elasticum
+MESH:D011565	Psoriasis
+MESH:D011629	Precocious puberty
+MESH:D011649	Congenital pulmonary alveolar proteinosis
+MESH:D011668	Pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis
+MESH:D011695	IgA vasculitis
+MESH:D011778	Q fever
+MESH:D011782	Spastic tetraplegia, thin corpus callosum, and progressive microcephaly
+MESH:D011818	Rabies
+MESH:D011906	Rat-bite fever
+MESH:D011928	Raynaud syndrome
+MESH:D012010	Acquired pure red cell aplasia
+MESH:D012035	Refsum disease
+MESH:D012061	Relapsing fever
+MESH:D012148	Restless legs syndrome
+MESH:D012167	Idiopathic macular hole
+MESH:D012174	Retinitis pigmentosa
+MESH:D012175	Retinoblastoma
+MESH:D012227	Rhinosporidiosis
+MESH:D012257	Riboflavin deficiency
+MESH:D012295	Rift Valley fever
+MESH:D012373	Spotted fever
+MESH:D012400	Rotaviral enteritis
+MESH:D012409	Rubella
+MESH:D012415	Rubinstein-Taybi syndrome
+MESH:D012468	Salivary gland cancer
+MESH:D012478	Salmonellosis
+MESH:D012497	Sandhoff disease
+MESH:D012507	Sarcoidosis, early-onset
+MESH:D012509	Soft tissue sarcomas
+MESH:D012512	Ewing sarcoma
+MESH:D012514	Kaposi sarcoma
+MESH:D012516	Osteosarcoma
+MESH:D012523	Sarcocystosis
+MESH:D012532	Scabies
+MESH:D012541	Scarlet fever
+MESH:D012552	Schistosomiasis
+MESH:D012559	Schizophrenia
+MESH:D012594	Localized Scleroderma
+MESH:D012595	Systemic sclerosis
+MESH:D012600	Congenital scoliosis associated with rib anomalies
+MESH:D012612	Scrub typhus
+MESH:D012614	Vitamin C deficiency
+MESH:D012618	Sea-blue histiocyte disease
+MESH:D012628	Seborrheic dermatitis
+MESH:D012640	Myoclonic-atonic epilepsy
+MESH:D012778	Short bowel syndrome
+MESH:D012779	Short-rib thoracic dysplasia
+MESH:D012859	Sjogren syndrome
+MESH:D012899	Smallpox
+MESH:D013031	Sparganosis
+MESH:D013036	West syndrome
+MESH:D013130	Spinal stenosis
+MESH:D013132	Marinesco-Sjogren syndrome
+MESH:D013167	Ankylosing spondylitis
+MESH:D013174	Sporotrichosis
+MESH:D013203	Methicillin-resistant Staphylococcal aureus 
+MESH:D013262	Stevens-Johnson syndrome
+MESH:D013274	Gastric cancer
+MESH:D013290	Streptococcal infection
+MESH:D013322	Strongyloidiasis
+MESH:D013341	Sturge-Weber syndrome
+MESH:D013344	Subacute sclerosing panencephalitis
+MESH:D013494	Progressive supranuclear palsy
+MESH:D013576	Syndactyly
+MESH:D013584	Synovial sarcoma
+MESH:D013587	Syphilis
+MESH:D013595	Syringomyelia
+MESH:D013622	Taenia saginata infection
+MESH:D013631	Tangier disease
+MESH:D013661	Tay-Sachs disease
+MESH:D013683	Hereditary hemorrhagic telangiectasia
+MESH:D013700	Giant cell arteritis
+MESH:D013734	Androgen insensitivity syndrome
+MESH:D013736	Testicular cancer
+MESH:D013742	Tetanus
+MESH:D013771	Tetralogy of Fallot
+MESH:D013796	Thanatophoric dysplasia
+MESH:D013919	Buerger disease
+MESH:D013920	Essential thrombocytosis
+MESH:D013921	Macrothrombocytopenia
+MESH:D013964	Thyroid cancer
+MESH:D013968	Subacute thyroiditis
+MESH:D014005	Dermatophytosis
+MESH:D014010	Tinea versicolor
+MESH:D014067	Tonsillar cancer
+MESH:D014103	Cervical dystonia
+MESH:D014120	Toxocariasis
+MESH:D014123	Toxoplasmosis
+MESH:D014141	Trachoma
+MESH:D014188	Complete transposition of the great arteries
+MESH:D014201	Foodborne trematodiasis
+MESH:D014205	Trench fever
+MESH:D014211	Bejel
+MESH:D014235	Trichinosis
+MESH:D014245	Trichomoniasis
+MESH:D014253	Trichostrongyliasis
+MESH:D014256	Trichotillomania
+MESH:D014257	Trichuriasis
+MESH:D014339	Persistent truncus arteriosus
+MESH:D014353	African trypanosomiasis
+MESH:D014355	Chagas disease
+MESH:D014376	Tuberculosis
+MESH:D014402	Tuberous sclerosis complex
+MESH:D014406	Tularemia
+MESH:D014435	Typhoid fever
+MESH:D014437	Epidemic typhus
+MESH:D014607	Vogt-Koyanagi-Harada syndrome
+MESH:D014615	Vaccinia
+MESH:D014718	Vesicoureteral reflux
+MESH:D014735	Vibrio parahaemolyticus infection
+MESH:D014820	Vitiligo
+MESH:D014842	von Willebrand disease
+MESH:D014846	Vulvar cancer
+MESH:D014849	Waardenburg syndrome
+MESH:D014860	Viral wart
+MESH:D014890	Granulomatosis with polyangiitis
+MESH:D014898	Werner syndrome
+MESH:D014899	Wernicke encephalopathy
+MESH:D014901	West Nile fever
+MESH:D014917	Pertussis
+MESH:D014923	Wiskott-Aldrich syndrome
+MESH:D014929	Wolfram syndrome
+MESH:D014973	Xanthoma
+MESH:D014983	Disorders of nucleotide excision repair
+MESH:D015001	Yaws
+MESH:D015004	Yellow fever
+MESH:D015009	Yersiniosis
+MESH:D015043	Zollinger-Ellison syndrome
+MESH:D015179	Colorectal cancer
+MESH:D015209	Primary sclerosing cholangitis
+MESH:D015211	Zellweger syndrome
+MESH:D015212	Inflammatory bowel disease 
+MESH:D015223	Lysosomal acid lipase deficiency
+MESH:D015228	Hypertriglyceridemia
+MESH:D015266	Merkel cell carcinoma
+MESH:D015267	Eosinophilic granulomatosis with polyangiitis
+MESH:D015324	Pyruvate carboxylase deficiency
+MESH:D015325	Pyruvate dehydrogenase complex deficiency
+MESH:D015352	Dry eye disease
+MESH:D015417	Dejerine-Sottas disease
+MESH:D015419	Hereditary spastic paraplegia
+MESH:D015432	C3 glomerulopathy
+MESH:D015451	Chronic lymphocytic leukemia
+MESH:D015459	Adult T-cell leukemia
+MESH:D015464	Chronic myeloid leukemia
+MESH:D015470	Acute myeloid leukemia
+MESH:D015473	Acute promyelocytic leukemia
+MESH:D015477	Chronic myelomonocytic leukemia
+MESH:D015493	HTLV1-associated myelopathy
+MESH:D015518	Rett syndrome
+MESH:D015605	Cowpox
+MESH:D015624	Lambert-Eaton myasthenic syndrome
+MESH:D015658	HIV infection
+MESH:D015783	Aniridia
+MESH:D015794	Choroideremia
+MESH:D015799	Ornithinaemia
+MESH:D016108	Epidermolysis bullosa, dystrophica
+MESH:D016109	Epidermolysis bullosa, junctional
+MESH:D016110	Epidermolysis bullosa simplex
+MESH:D016111	Sjogren-Larsson syndrome
+MESH:D016112	Ichthyosis vulgaris
+MESH:D016114	X-linked ichthyosis
+MESH:D016115	Oculocutaneous albinism
+MESH:D016116	Piebaldism
+MESH:D016117	Ocular albinism
+MESH:D016135	Neural tube defects
+MESH:D016142	Holoprosencephaly
+MESH:D016403	Diffuse large B-cell lymphoma, not otherwise specified
+MESH:D016411	Peripheral T cell lymphoma
+MESH:D016464	Lysosomal storage disease
+MESH:D016471	Ovarian hyperstimulation syndrome
+MESH:D016481	Helicobacter pylori infection
+MESH:D016506	Familial benign chronic pemphigus
+MESH:D016511	Omenn syndrome
+MESH:D016518	Neurofibromatosis type 2
+MESH:D016532	Mucopolysaccharidosis type II
+MESH:D016537	GM1 gangliosidosis
+MESH:D016538	Mucopolysaccharidosis type VII
+MESH:D016553	Immune thrombocytopenia
+MESH:D016584	Panic disorder
+MESH:D016585	Bacterial vaginosis
+MESH:D016649	Premature ovarian failure
+MESH:D016657	Cerebral amyloid angiopathy
+MESH:D016706	Adult onset Still disease
+MESH:D016715	Proteus syndrome
+MESH:D016731	Erythema infectiosum
+MESH:D016736	Antiphospholipid syndrome
+MESH:D016738	Alagille syndrome
+MESH:D016750	Hyperekplexia
+MESH:D016751	Hepatitis E
+MESH:D016776	Blastocystosis
+MESH:D016863	Foodborne Bacillus cereus intoxication
+MESH:D016864	Li-Fraumeni syndrome
+MESH:D016868	Serratia infection
+MESH:D016870	Chromobacterium violaceum infection
+MESH:D016873	Human monocytic ehrlichiosis
+MESH:D016878	Crow-Fukase syndrome
+MESH:D016889	Endometrial cancer
+MESH:D016890	Encephalitozoon infection
+MESH:D017074	Common variable immunodeficiency
+MESH:D017092	Erythropoietic porphyria
+MESH:D017093	Infantile liver failure
+MESH:D017094	Hepatic porphyria
+MESH:D017096	Prion disease
+MESH:D017114	Fulminant hepatic failure
+MESH:D017129	Anisakiasis
+MESH:D017180	Familial ventricular tachycardia
+MESH:D017189	Capillariasis
+MESH:D017204	Angelman syndrome
+MESH:D017229	Enterobiasis
+MESH:D017237	Mitochondrial DNA depletion syndrome
+MESH:D017241	MELAS syndrome
+MESH:D017243	Myoclonic Epilepsy and Ragged-Red Fiber Disease
+MESH:D017246	Progressive external ophthalmoplegia
+MESH:D017285	Polymyositis and dermatomyositis
+MESH:D017449	Allergic contact dermatitis
+MESH:D017488	Bullous congenital ichthyosiform erythroderma 
+MESH:D017490	Autosomal dominant lamellar ichthyosis
+MESH:D017497	Acne inversa
+MESH:D017499	Porokeratosis
+MESH:D017515	Pityriasis rosea
+MESH:D017681	Hypereosinophilic syndrome
+MESH:D017689	Preaxial polydactyly
+MESH:D017696	Nemaline myopathy
+MESH:D017728	Anaplastic large-cell lymphoma
+MESH:D017825	Canavan disease
+MESH:D017827	Machado-Joseph disease
+MESH:D017887	Ossification of the posterior longitudinal ligament of spine
+MESH:D018088	Multidrug-resistant tuberculosis
+MESH:D018159	Delayed endolymphatic hydrops
+MESH:D018184	Parainfluenza infection
+MESH:D018197	Hepatoblastoma
+MESH:D018207	Renal angiomyolipoma
+MESH:D018208	Myxoid liposarcoma
+MESH:D018212	Giant cell tumor of bone
+MESH:D018227	Clear cell sarcoma of soft tissue
+MESH:D018232	Rhabdomyosarcoma
+MESH:D018234	Alveolar soft part sarcoma
+MESH:D018273	Pancreatic neuroendocrine tumor
+MESH:D018281	Cholangiocarcinoma
+MESH:D018296	Pilomatricoma
+MESH:D018352	Middle East respiratory syndrome
+MESH:D018354	O
+MESH:D018357	Respiratory syncytial virus infection
+MESH:D018382	Thyroid hormone resistance syndrome
+MESH:D018500	Congenital nephrogenic diabetes insipidus
+MESH:D018630	Autosomal dominant neovascular inflammatory vitreoretinopathy
+MESH:D018633	Pulmonary atresia with ventricular septal defect
+MESH:D018636	Hypoplastic left heart syndrome
+MESH:D018785	Tricuspid atresia
+MESH:D018804	Hantavirus pulmonary syndrome
+MESH:D018805	Hafnia alvei infection
+MESH:D018856	Interstitial cystitis
+MESH:D018879	Premature ventricular complexes
+MESH:D018887	Landau-Kleffner syndrome
+MESH:D018901	Neonatal adrenoleukodystrophy
+MESH:D018902	Rhizomelic chondrodysplasia punctata
+MESH:D018979	Inclusion body myositis
+MESH:D018980	Williams-Beuren syndrome
+MESH:D018981	Congenital disorder of glycosylation with defective fucosylation
+MESH:D019082	Smith-Lemli-Opitz syndrome
+MESH:D019115	Necrotizing fasciitis
+MESH:D019142	Ebola disease
+MESH:D019280	Branchio-oto-renal syndrome
+MESH:D019283	Acute pancreatitis
+MESH:D019294	Cerebrotendinous xanthomatosis
+MESH:D019305	Rolandic epilepsy, mental retardation, and speech dyspraxia
+MESH:D019349	Exanthema subitum
+MESH:D019578	Multiple system atrophy
+MESH:D019693	Autoimmune hepatitis
+MESH:D019846	Fisher syndrome
+MESH:D019867	Anti-glomerular basement membrane 
+MESH:D019871	Dyskeratosis congenita
+MESH:D020031	Infectious mononucleosis
+MESH:D020096	Zygomycosis
+MESH:D020143	GM2 gangliosidoses
+MESH:D020152	Antithrombin III deficiency
+MESH:D020159	Citrullinemia
+MESH:D020162	Hyperargininemia
+MESH:D020163	Ornithine transcarbamylase deficiency
+MESH:D020165	Carbamoyl phosphate synthetase I deficiency
+MESH:D020167	Hyperlysinemia
+MESH:D020176	Tyrosinemia
+MESH:D020178	Delayed sleep phase syndrome
+MESH:D020182	Primary alveolar hypoventilation syndrome
+MESH:D020190	Juvenile myoclonic epilepsy
+MESH:D020191	Progressive myoclonic epilepsy
+MESH:D020192	Lafora disease
+MESH:D020194	Unverricht-Lundborg disease
+MESH:D020241	Western equine encephalitis
+MESH:D020242	Eastern equine encephalitis
+MESH:D020246	Deep vein thrombosis
+MESH:D020275	Guillain-Barre syndrome
+MESH:D020277	Chronic inflammatory demyelinating polyradiculoneuropathy
+MESH:D020288	Choroid plexus papilloma
+MESH:D020294	Congenital myasthenic syndrome
+MESH:D020325	Hemiplegic migraine
+MESH:D020329	Essential tremor
+MESH:D020331	Moebius syndrome
+MESH:D020347	Intrahepatic lithiasis
+MESH:D020371	Hypomyelinating leukodystrophy
+MESH:D020386	Isaacs syndrome
+MESH:D020388	Duchenne muscular dystrophy
+MESH:D020391	Facioscapulohumeral muscular dystrophy
+MESH:D020512	Central core disease
+MESH:D020513	Hyperkalemic periodic paralysis 
+MESH:D020514	Hypokalemic periodic paralysis 
+MESH:D020522	Mantle cell lymphoma
+MESH:D020642	Acatalasemia
+MESH:D020734	Parkinsonian syndrome
+MESH:D020754	Spinocerebellar ataxia 
+MESH:D020786	Cerebral cavernous malformation
+MESH:D020788	Bardet-Biedl syndrome
+MESH:D020790	Neurohypophyseal diabetes insipidus 
+MESH:D020808	Acanthamoebiasis
+MESH:D020814	Escherichia coli meningitis
+MESH:D020817	Asperger syndrome
+MESH:D020820	Infantile-onset limb and orofacial dyskinesia
+MESH:D020821	Primary dystonia
+MESH:D020914	Congenital myopathy
+MESH:D020936	Benign familial infantile seizure
+MESH:D020961	Lewy body dementia 
+MESH:D020966	Spinal and bulbar muscular atrophy 
+MESH:D020967	Paramyotonia congenita
+MESH:D020968	Hereditary neuralgic amyotrophy
+MESH:D021865	Cystoisosporiasis
+MESH:D022124	Primary hyperammonemic disorders 
+MESH:D022861	Hermansky-Pudlak syndrome
+MESH:D023961	Ovarian dysgenesis
+MESH:D025241	Seronegative arthritis
+MESH:D025962	Septo-optic dysplasia
+MESH:D028226	Familial amyloidosis
+MESH:D028361	Mitochondrial disease
+MESH:D028921	Biotinidase deficiency
+MESH:D028922	Holocarboxylase synthetase deficiency
+MESH:D029241	Optic atrophy
+MESH:D029242	Leber hereditary optic atrophy
+MESH:D029424	Chronic obstructive pulmonary disease 
+MESH:D029461	Sialuria
+MESH:D029503	Diamond-Blackfan anemia
+MESH:D029593	Jervell and Lange-Nielsen syndrome
+MESH:D030401	Cytochrome c oxidase 
+MESH:D031249	Erdheim-Chester disease
+MESH:D031845	Hajdu-Cheney syndrome
+MESH:D038261	Alexander disease
+MESH:D038901	X-linked syndromic intellectual developmental disorder
+MESH:D038921	Coffin-Lowry syndrome
+MESH:D039141	Oculopharyngeal muscular dystrophy
+MESH:D041441	Retinoschisis
+MESH:D043183	Irritable bowel syndrome
+MESH:D043204	Apparent mineralocorticoid excess syndrome
+MESH:D044483	Cronkhite-Canada syndrome
+MESH:D044542	Leopard syndrome
+MESH:D044905	beta-Mannosidosis
+MESH:D045169	Severe acute respiratory syndrome
+MESH:D045464	Hendra virus infection
+MESH:D045704	Non-chlamydial non-gonococcal urethritis
+MESH:D045908	Monkeypox
+MESH:D046150	Laron syndrome
+MESH:D046152	Gastrotintestinal stromal tumor
+MESH:D049288	Muscular dystrophy-dystroglycanopathy type C
+MESH:D049310	Tibial muscular dystrophy
+MESH:D049932	Nijmegen breakage syndrome
+MESH:D049950	Primary hyperparathyroidism
+MESH:D049970	Thyroid eye disease
+MESH:D050030	Andersen-Tawil syndrome
+MESH:D050031	Hashimoto thyroiditis
+MESH:D050197	Atherosclerosis
+MESH:D050336	Mulibrey nanism
+MESH:D050500	Chronic pancreatitis
+MESH:D050937	Guanidinoacetate methyltransferase deficiency
+MESH:D051474	Postherpetic neuralgia
+MESH:D052120	Danon disease
+MESH:D052177	Nephronophthisis
+MESH:D052245	Usher syndrome
+MESH:D052456	Hypoalphalipoproteinemia
+MESH:D052496	Familial partial lipodystrophy
+MESH:D052497	Congenital generalized lipodystrophy
+MESH:D052517	Multiple sulfatase deficiency
+MESH:D052536	Niemann-Pick disease type A
+MESH:D052556	Niemann-Pick disease type C
+MESH:D053098	X-linked recessive hypophosphatemic rickets
+MESH:D053306	Hyper IgM syndromes, autosomal recessive type
+MESH:D053358	Hypohidrotic ectodermal dysplasia
+MESH:D053529	White sponge nevus
+MESH:D053546	Epidermolytic palmoplantar keratoderma
+MESH:D053549	Pachyonychia congenita
+MESH:D053559	Meesmann corneal dystrophy
+MESH:D053560	Ichthyosis bullosa of Siemens
+MESH:D053579	Gitelman syndrome
+MESH:D053632	T-B
+MESH:D053713	Azoospermia
+MESH:D054062	Deafness and myopia
+MESH:D054067	Dihydropyrimidine dehydrogenase deficiency
+MESH:D054069	Glutaric acidemia
+MESH:D054078	Mevalonate kinase deficiency
+MESH:D054081	Neuronal migration disorder
+MESH:D054082	Lissencephaly
+MESH:D054091	Periventricular nodular heterotopia
+MESH:D054198	B-cell acute lymphoblastic leukemia
+MESH:D054218	T-cell acute lymphoblastic leukemia
+MESH:D054220	Complex cortical dysplasia with other brain malformations
+MESH:D054243	Vesicular stomatitis fever
+MESH:D054312	Buruli ulcer
+MESH:D054429	Juvenile myelomonocytic leukemia
+MESH:D054437	Myelodysplastic
+MESH:D054438	Atypical chronic myeloid leukemia
+MESH:D054463	Trichothiodystrophy
+MESH:D054514	Persistent hyperplastic primary vitreous
+MESH:D054546	Choreoacanthocytosis
+MESH:D054877	4p deletion syndrome
+MESH:D054880	Aspartylglucosaminuria
+MESH:D054882	Disordered steroidogenesis due to cytochrome P450 oxidoreductase
+MESH:D054971	Orthostatic intolerance
+MESH:D054975	Pallister-Hall syndrome
+MESH:D054988	Idiopathic interstitial pneumonias
+MESH:D055036	Campomelic dysplasia
+MESH:D055577	Farber lipogranulomatosis
+MESH:D055623	Actinic keratosis
+MESH:D055652	Gray platelet syndrome
+MESH:D055653	Muir-Torre syndrome
+MESH:D055673	Acrocallosal syndrome
+MESH:D055728	Myelofibrosis
+MESH:D055752	Small cell lung cancer
+MESH:D055947	Loeys-Dietz syndrome
+MESH:D055953	Microscopic polyangiitis
+MESH:D055959	Intervertebral disc disease
+MESH:D056266	Erythrokeratodermia variabilis
+MESH:D056587	Familial cold autoinflammatory syndrome
+MESH:D056660	Proteasome-associated autoinflammatory syndrome
+MESH:D056685	Costello syndrome
+MESH:D056693	Propionic acidemia
+MESH:D056730	Russell-Silver syndrome
+MESH:D056731	Rabson-Mendenhall syndrome
+MESH:D056732	Prolidase deficiency
+MESH:D056733	Carney complex
+MESH:D056734	Monilethrix
+MESH:D056735	Autoimmune lymphoproliferative syndromes
+MESH:D056768	Giant axonal neuropathy
+MESH:D056769	Alstrom syndrome
+MESH:D056770	Netherton syndrome
+MESH:D056784	Leukoencephalopathy with vanishing white matter
+MESH:D056807	Argininosuccinic aciduria
+MESH:D056830	Left ventricular noncompaction
+MESH:D056846	Weill-Marchesani syndrome
+MESH:D057130	Leber congenital amaurosis
+MESH:D057174	Frontotemporal lobar degeneration
+MESH:D057215	Body dysmorphic disorder
+MESH:D057765	Eosinophilic esophagitis
+MESH:D057770	Hyaline fibromatosis syndrome
+MESH:D057826	Vitelliform macular dystrophy
+MESH:D057973	X-linked hypercalciuric nephrolithiasis
+MESH:D058065	Diabetic cardiomyopathy
+MESH:D058088	Sarcoglycanopathies
+MESH:D058165	22q11
+MESH:D058249	Birt-Hogg-Dube syndrome
+MESH:D058285	Tungiasis
+MESH:D058405	Desmoplastic small round cell tumor
+MESH:D058429	Gnathostomiasis
+MESH:D058490	46,XY disorder of sex development due to testosterone secretion defect
+MESH:D058494	Muscular dystrophy-dystroglycanopathy type A
+MESH:D058495	Sotos syndrome
+MESH:D058496	Smith-Magenis syndrome
+MESH:D058497	Fraser syndrome
+MESH:D058531	46,XX testicular disorder of sex development
+MESH:D058540	Aicardi syndrome
+MESH:D058627	Autosomal recessive macrocephaly
+MESH:D058631	Pycnodysostosis
+MESH:D058747	CHARGE syndrome
+MESH:D059327	Brachydactyly
+MESH:D059446	Heterotaxy
+MESH:D060368	Lobomycosis
+MESH:D060446	Phaeohyphomycosis
+MESH:D060586	Trichosporonosis
+MESH:D060845	Hoarding disorder
+MESH:D061325	Familial breast-ovarian cancer
+MESH:D061387	Chlamydial pneumonia
+MESH:D063730	Hypophosphatemic rickets
+MESH:D065627	Primary pulmonary hypertension
+MESH:D065632	Chikungunya fever
+MESH:D065705	Hemimegalencephaly
+MESH:D065766	Atypical hemolytic uremic syndrome
+MESH:D065768	Lennox-Gastaut syndrome
+MESH:D065886	Lamb-Shaffer syndrome
+MESH:D58494	Muscular dystrophy-dystroglycanopathy
+OMIM:102530	Globozoospermia
+OMIM:106100	Hereditary angioedema
+OMIM:107970	Arrhythmogenic right ventricular cardiomyopathy
+OMIM:108300	Vitreoretinal degeneration
+OMIM:110800	Adult i phenotype
+OMIM:113900	Progressive cardiac conduction defect 
+OMIM:115200	Dilated cardiomyopathy
+OMIM:115210	Restrictive cardiomyopathy
+OMIM:121200	Benign familial neonatal seizure
+OMIM:122200	Lattice corneal dystrophies
+OMIM:123320	Idiopathic hyperCKemia
+OMIM:125310	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy 
+OMIM:125370	Dentatorubropallidoluysian atrophy 
+OMIM:125490	Hereditary dentine disorders
+OMIM:126600	Familial flecked retina syndrome
+OMIM:133100	Congenital polycythemia
+OMIM:136000	Adermatoglyphia
+OMIM:138500	Hyperglycinuria
+OMIM:141750	Thalassemia
+OMIM:143860	Hyperchlorhidrosis isolated 
+OMIM:147750	IVIC syndrome
+OMIM:150250	Larsen syndrome
+OMIM:153640	Fechtner syndrome
+OMIM:155100	May-Hegglin anomaly
+OMIM:157600	Congenital mirror movements
+OMIM:157800	Cardiospondylocarpofacial syndrome
+OMIM:159550	Ataxia-pancytopenia syndrome
+OMIM:160120	Episodic ataxias
+OMIM:161050	Nonsyndromic congenital nail disorder
+OMIM:162000	Familial juvenile hyperuricemic nephropathy
+OMIM:164310	Oculopharyngodistal myopathy
+OMIM:166900	Southeast Asian ovalocytosis
+OMIM:167320	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia
+OMIM:169400	Pelger-Huet anomaly
+OMIM:173600	Pneumothorax
+OMIM:174000	Medullary cystic kidney disease
+OMIM:176807	Prostate cancer
+OMIM:177200	Liddle syndrome
+OMIM:178500	Idiopathic pulmonary fibrosis
+OMIM:181405	Scapuloperoneal spinal muscular atrophy
+OMIM:182900	Hereditary spherocytosis
+OMIM:185000	Overhydrated hereditary stomatocytosis
+OMIM:185020	Cryohydrocytosis
+OMIM:185500	Congenital supravalvar aortic stenosis
+OMIM:188050	Inherited thrombophilia
+OMIM:190330	Trichomegaly
+OMIM:192500	Long QT syndrome
+OMIM:192600	Hypertrophic cardiomyopathy
+OMIM:194200	Wolff-Parkinson-White 
+OMIM:194380	Dehydrated hereditary stomatocytosis
+OMIM:200150	Core neuroacanthocytosis syndromes
+OMIM:200610	Type II collagenopathies
+OMIM:202400	Afibrinogenemia
+OMIM:203400	Aldosterone synthase deficiency
+OMIM:206100	Hypochromic microcytic anemia
+OMIM:206200	Iron-refractory iron deficiency anemia
+OMIM:209300	Atransferrinemia
+OMIM:209920	Bare lymphocyte syndrome type2
+OMIM:210900	Microcephaly, growth restriction, and increased sister chromatid exchange
+OMIM:211500	Infantile progressive bulbar palsy
+OMIM:211530	Brown-Vialetto-Van Laere syndrome
+OMIM:212840	Gordon Holmes syndrome
+OMIM:213000	Cerebellar hypoplasia, epilepsy, and global developmental delay
+OMIM:213980	Craniofacial dysmorphism, skeletal anomalies, and mental retardation syndrome
+OMIM:214150	Cerebro-oculo-facio-skeletal syndrome
+OMIM:214450	Griscelli syndrome
+OMIM:214500	Other phagocyte defects
+OMIM:215470	Boucher-Neuhauser syndrome
+OMIM:215600	Familial cirrhosis
+OMIM:217300	Cornea plana congenita
+OMIM:217700	Congenital hereditary endothelial dystrophy
+OMIM:224120	Congenital dyserythropoietic anemia
+OMIM:225790	Proliferative vasculopathy and hydranencephaly-hydrocephaly syndrome
+OMIM:226750	Kohlschutter-Tonz syndrome
+OMIM:227300	Combined deficiency of factors V and VIII
+OMIM:227400	Factor V deficiency
+OMIM:227650	Fanconi anemia
+OMIM:228300	Fertile eunuch syndrome
+OMIM:228550	Infantile myofibromatosis
+OMIM:229050	Hereditary folate malabsorption
+OMIM:229700	Fructose-1,6-bisphosphatase deficiency
+OMIM:230500	Gangliosidosis
+OMIM:231200	Bernard-Soulier syndrome
+OMIM:234000	Factor XII deficiency
+OMIM:235700	Anemia due to disorders of glycolytic enzymes
+OMIM:239300	Hyperphosphatasia with mental retardation syndrome
+OMIM:240900	Hypoinsulinemic hypoglycemia with hemihypertrophy
+OMIM:241600	Hypercatabolic hypoproteinemia
+OMIM:243150	Gastrointestinal defects and immunodeficiency syndrome
+OMIM:243310	Baraitser-Winter syndrome
+OMIM:245000	Lysosomal cysteine protease deficiencies
+OMIM:249270	Thiamine-responsive megaloblastic anemia
+OMIM:250100	Sphingolipidosis
+OMIM:250410	Retinitis pigmentosa with skeletal anomalies
+OMIM:250800	Methemoglobinemia
+OMIM:251270	Autosomal recessive microcephaly and chorioretinopathy
+OMIM:251280	Diencephalic-mesencephalic junction dysplasia syndrome
+OMIM:251290	Pseudo-TORCH syndrome
+OMIM:256040	Autoinflammation lipodystrophy and dermatosis syndrome
+OMIM:256550	Glycoproteinoses
+OMIM:257200	Defects in the degradation of sphingomyelin
+OMIM:257220	Defects in lysosomal trafficking
+OMIM:258040	Cloacal exstrophy
+OMIM:260370	Pancreatic agenesis
+OMIM:261000	Vitamin B12 deficiency anaemia
+OMIM:262650	Kowarski syndrome
+OMIM:262850	Alpha-2-plasmin inhibitor 
+OMIM:262890	Scott syndrome
+OMIM:265100	Pulmonary alveolar microlithiasis
+OMIM:266140	Hereditary pyropoikilocytosis
+OMIM:266200	Pyruvate kinase deficiency
+OMIM:268150	Rh-null hemolytic anemia 
+OMIM:273800	Glanzmann thrombasthenia
+OMIM:274150	Thrombotic thrombocytopenic purpura
+OMIM:275350	Transcobalamin II deficiency
+OMIM:277450	Combined deficiency of vitamin K-dependent clotting factors
+OMIM:277950	Winchester syndrome
+OMIM:280000	CHIME syndrome
+OMIM:300087	Familial skewed X-chromosome inactivation
+OMIM:300475	Deafness, dystonia, and cerebral hypomyelination
+OMIM:300679	Chromosome Xp21 deletion syndrome
+OMIM:300751	Sideroblastic anemia
+OMIM:300818	Paroxysmal nocturnal hemoglobinuria
+OMIM:300863	Chondrodysplasia Chassaing-Lacombe type
+OMIM:300960	MEND syndrome
+OMIM:300990	Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis
+OMIM:301000	Other well-defined immunodeficiency syndromes
+OMIM:301022	Mullegama-Klein-Martinez syndrome
+OMIM:302060	Barth syndrome
+OMIM:306700	Hemophilia
+OMIM:309541	Methylmalonic acidemia and hyperhomocysteinemia, cblX type
+OMIM:309585	Wilson-Turner syndrome
+OMIM:313900	Thrombocytopenia 
+OMIM:415000	Y-linked spermatogenic failure
+OMIM:600462	Myopathy with lactic acidosis and sideroblastic anaemia
+OMIM:600987	Cleft palate, cardiac defects, and mental retardation
+OMIM:601144	Brugada syndrome
+OMIM:601552	FDLAB syndrome
+OMIM:602082	Thiel-Behnke dystrophies
+OMIM:602342	Pierpont syndrome
+OMIM:602875	Acromesomelic dysplasia
+OMIM:603736	Young-Simpson syndrome
+OMIM:603813	Familial autosomal recessive hypercholesterolemia
+OMIM:603829	Familial idiopathic ventricular fibrillation
+OMIM:603903	Sickle cell anemia
+OMIM:604498	Congenital amegakaryocytic thrombocytopenia
+OMIM:604571	Bare lymphocyte syndrome type1
+OMIM:604772	Catecholaminergic polymorphic ventricular tachycardia
+OMIM:604901	North American Indian childhood cirrhosis
+OMIM:605115	Hypertension exacerbated in pregnancy
+OMIM:605130	Wiedemann-Steiner syndrome
+OMIM:605249	Sebastian syndrome
+OMIM:605552	Abdominal obesity-metabolic syndrome
+OMIM:605899	Nonketotic hyperglycinemia
+OMIM:606170	Genitopatellar syndrome
+OMIM:606217	Atrioventricular septal defect
+OMIM:606220	Intellectual developmental disorder with short stature
+OMIM:606593	LIG4 syndrome
+OMIM:606690	Lymphangioleiomyomatosis
+OMIM:606768	Distal myopathy with anterior tibial onset
+OMIM:606835	Familial digital arthropathy-brachydactyly
+OMIM:606893	Primary intraosseous vascular malformation
+OMIM:607015	Mucopolysaccharidosis
+OMIM:607086	Familial thoracic aortic aneurysm and dissection
+OMIM:607676	Defects of toll-like receptor signaling
+OMIM:608118	Transient neonatal zinc deficiency
+OMIM:608567	Sick sinus syndrome
+OMIM:608583	Atrial fibrillation
+OMIM:609135	Aplastic anemia
+OMIM:609165	Ichthyosis with confetti
+OMIM:609313	MEDNIK syndrome
+OMIM:609536	Late complement pathway defects
+OMIM:609541	Spastic paraplegia, optic atrophy, and neuropathy
+OMIM:609620	Short QT syndrome
+OMIM:609821	Bleeding disorder platelet-type
+OMIM:610251	Acute alcohol sensitivity
+OMIM:610293	Inherited glycosylphosphatidylinositol deficiencies
+OMIM:610427	Cone-rod synaptic disorder
+OMIM:610536	Mandibulofacial dysostosis with microcephaly
+OMIM:610738	Neutropenic disorders
+OMIM:610798	P14 deficiency
+OMIM:611126	Acyl-CoA dehydrogenase 9 deficiency
+OMIM:611174	Hamamy syndrome
+OMIM:611804	Hereditary elliptocytosis
+OMIM:612109	Oculo-auricular syndrome
+OMIM:612119	Trehalase deficiency
+OMIM:612289	Fontaine progeroid syndrome
+OMIM:612313	Glass syndrome
+OMIM:612416	Factor XI deficiency
+OMIM:612423	Fletcher factor deficiency
+OMIM:612591	Polymerase proofreading-associated polyposis
+OMIM:612631	Anemia due to disorders of nucleotide metabolism
+OMIM:612651	Endocrine-cerebro-osteodysplasia syndrome
+OMIM:613000	Focal nonepidermolytic palmoplantar keratoderma
+OMIM:613225	Factor XIII deficiency
+OMIM:613239	Thyrotoxic hypokalemic periodic paralysis
+OMIM:613320	Spondylometaphyseal dysplasia, Megarbane-Dagher-Melki type
+OMIM:613328	Roifman-Chitayat syndrome
+OMIM:613329	Plasminogen activator inhibitor type 1 deficiency
+OMIM:613398	Warsaw breakage syndrome
+OMIM:613443	Mental retardation-stereotypic movements-epilepsy and
+OMIM:613471	Reynolds syndrome
+OMIM:613490	Alpha-1-antitrypsin deficiency
+OMIM:613507	Glycogen storage disease type XV
+OMIM:613563	CBL syndrome
+OMIM:613573	Ectodermal dysplasia-syndactyly syndrome
+OMIM:613587	Occult macular dystrophy
+OMIM:613630	Cocoon syndrome
+OMIM:613652	Classic complement pathway component defects
+OMIM:613658	Rajab interstitial lung disease with brain calcification
+OMIM:613668	Microcephaly syndrome
+OMIM:613679	Congenital prothrombin deficiency
+OMIM:613680	Beaulieu-Boycott-Innes syndrome
+OMIM:613722	Malignant migrating partial seizures in infancy
+OMIM:613730	Hemorrhagic destruction of the brain, subependymal calcification, and cataracts
+OMIM:613792	Blepharophimosis-mental retardation syndrome
+OMIM:613845	HUPRA syndrome
+OMIM:614023	Phosphoserine phosphatase deficiency
+OMIM:614078	Chondrodysplasia with joint dislocations, GPAPP type
+OMIM:614080	Multiple congenital anomalies-hypotonia-seizures syndrome
+OMIM:614098	Keppen-Lubinsky syndrome
+OMIM:614156	Hyperbiliverdinemia
+OMIM:614192	Macrocephaly macrosomia facial dysmorphism syndrome
+OMIM:614261	Microcephaly-capillary malformation syndrome
+OMIM:614303	EDICT syndrome
+OMIM:614321	Distal myopathy, Tateyama type
+OMIM:614328	Neonatal inflammatory skin and bowel disease
+OMIM:614338	Pancreatic lipase deficiency
+OMIM:614372	Mannose-binding lectin pathway component defects
+OMIM:614388	Encephalopathy due to defective mitochondrial and peroxisomal fission
+OMIM:614399	Early-onset myopathy, areflexia, respiratory distress, and dysphagia
+OMIM:614458	Thiamine pyrophosphokinase deficiency
+OMIM:614462	Hyperglycinemia, lactic acidosis, and seizures
+OMIM:614559	Infantile cerebellar-retinal degeneration
+OMIM:614564	Familial cutaneous telangiectasia and cancer syndrome
+OMIM:614594	Olmsted syndrome
+OMIM:614741	Mitochondrial pyruvate carrier deficiency
+OMIM:614742	Pulmonary fibrosis and
+OMIM:614748	Congenital interstitial lung disease with nephrotic syndrome and epidermolysis bullosa
+OMIM:614756	Nonprogressive cerebellar ataxia with mental retardation
+OMIM:614878	Autoinflammation and PLCG2-associated antibody deficiency and immune dysregulation
+OMIM:614890	IFN-gamma
+OMIM:614923	Branched-chain ketoacid dehydrogenase kinase deficiency
+OMIM:614962	Leptin deficiency
+OMIM:614963	Leptin receptor deficiency
+OMIM:614979	ROSAH syndrome
+OMIM:615071	Alazami syndrome
+OMIM:615139	FILS syndrome
+OMIM:615147	Retinal dystrophy, iris coloboma, and comedogenic acne syndrome
+OMIM:615155	Steel syndrome
+OMIM:615281	Hypomyelination with brainstem and spinal cord involvement and leg spasticity
+OMIM:615363	Estrogen resistance syndrome
+OMIM:615369	Epileptic encephalopathy, childhood-onset
+OMIM:615381	MDPL syndrome
+OMIM:615485	Bainbridge-Ropers syndrome
+OMIM:615486	Interstitial lung and liver disease
+OMIM:615513	Activated PI3K-delta syndrome
+OMIM:615522	Cole disease
+OMIM:615547	Schaaf-Yang syndrome
+OMIM:615553	Arthrogryposis, mental retardation, and seizures
+OMIM:615561	Alternative complement pathway component defects
+OMIM:615582	Rienhoff syndrome
+OMIM:615583	Verheij syndrome
+OMIM:615598	Palmoplantar keratoderma, Nagashima type
+OMIM:615673	Myopathy with extrapyramidal signs
+OMIM:615704	Poikiloderma, hereditary fibrosing, with tendon contractures, myopathy, and pulmonary fibrosis
+OMIM:615722	Bosch-Boonstra optic atrophy syndrome
+OMIM:615789	Syndromic disorder with short stature
+OMIM:615802	Autosomal recessive mental retardation-42
+OMIM:615873	Helsmoortel-van der Aa syndrome
+OMIM:615879	Tatton-Brown-Rahman syndrome
+OMIM:615895	Polyglucosan body myopathy
+OMIM:615926	Webb-Dattani syndrome
+OMIM:615934	STING-associated vasculopathy with onset in infancy
+OMIM:615960	Poretti-Boltshauser syndrome
+OMIM:615961	Acid-labile subunit deficiency
+OMIM:616007	CAGSSS syndrome
+OMIM:616033	Microcephaly, short stature, and impaired glucose metabolism
+OMIM:616050	Autoinflammation with infantile enterocolitis
+OMIM:616079	Retinal dystrophy with inner retinal dysfunction and ganglion cell abnormalities
+OMIM:616108	Retinal dystrophy, juvenile cataracts, and short stature syndrome
+OMIM:616154	Peroxisomal fatty acyl-CoA reductase 1 disorder
+OMIM:616192	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus
+OMIM:616200	Ruijs-Aalfs syndrome
+OMIM:616201	Chronic atrial and intestinal dysrhythmia
+OMIM:616202	Cerebellofaciodental syndrome
+OMIM:616260	Tenorio syndrome
+OMIM:616263	Infantile-onset multisystem neurologic, endocrine, and pancreatic disease
+OMIM:616367	Mandibulofacial dysostosis with alopecia
+OMIM:616368	CHOPS syndrome
+OMIM:616449	Basel-Vanagaite-Smirin-Yosef syndrome
+OMIM:616459	Al-Raqad syndrome
+OMIM:616471	Ehlers-Danlos syndrome myopathic type
+OMIM:616541	Short stature, microcephaly, and endocrine dysfunction
+OMIM:616580	Au-Kline syndrome
+OMIM:616638	Smith-Kingsmore syndrome
+OMIM:616708	DeSanto-Shinawi syndrome
+OMIM:616722	Retinal dystrophy and iris coloboma with congenital cataract
+OMIM:616728	Cleft palate, psychomotor retardation, and distinctive facial features
+OMIM:616756	Spastic paraplegia-psychomotor retardation-seizures syndrome
+OMIM:616763	Leukodystrophy and acquired microcephaly with or without dystonia
+OMIM:616814	Preimplantation embryonic lethality
+OMIM:616819	Corpus callosum agenesis with facial anomalies and cerebellar ataxia
+OMIM:616831	Luscan-Lumish syndrome
+OMIM:616854	EVEN-plus syndrome
+OMIM:616863	Hao-Fountain syndrome
+OMIM:616875	Cerebellar atrophy, visual impairment, and psychomotor retardation
+OMIM:616897	Complex lethal osteochondrodysplasia
+OMIM:616901	Developmental delay with short stature, dysmorphic facial features, and sparse hair
+OMIM:616920	Heart and brain malformation syndrome
+OMIM:616954	You-Hoover-Fong syndrome
+OMIM:616975	RERE-related neurodevelopmental syndrome
+OMIM:617011	Macrocephaly, dysmorphic facies, and psychomotor retardation
+OMIM:617044	Short stature, developmental delay, congenital heart defect
+OMIM:617093	Growth retardation, impaired intellectual development, hypotonia, and hepatopathy
+OMIM:617099	Autoinflammation, panniculitis, and dermatosis syndrome
+OMIM:617107	Thauvin-Robinet-Faivre syndrome
+OMIM:617140	ZTTK syndrome
+OMIM:617159	Sifrim-Hitz-Weiss syndrome
+OMIM:617175	Retinal dystrophy with or without extraocular anomalies
+OMIM:617183	Harel-Yoon syndrome
+OMIM:617186	PEBEL
+OMIM:617193	PEBAT
+OMIM:617236	Cone-rod dystrophy and hearing loss
+OMIM:617250	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies
+OMIM:617301	Glycine encephalopathy with normal serum glycine
+OMIM:617303	Mucopolysaccharidosis-plus syndrome
+OMIM:617330	Hypotonia, ataxia, and delayed development syndrome
+OMIM:617360	Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder
+OMIM:617364	Congenital heart defects and ectodermal dysplasia
+OMIM:617425	Immunoskeletal dysplasia with neurodevelopmental abnormalities
+OMIM:617561	Cohen-Gibson syndrome
+OMIM:617595	Birk-Landau-Perez syndrome
+OMIM:617616	Skraban-Deardorff syndrome
+OMIM:617660	Vertebral, cardiac, renal, and limb defects syndrome
+OMIM:617668	Neonatal severe encephalopathy with lactic acidosis and brain abnormalities
+OMIM:617669	Early-onset progressive encephalopathy
+OMIM:617671	HELIX syndrome
+OMIM:617672	Childhood-onset neurodegeneration with brain atrophy
+OMIM:617682	Pilarowski-Bjornsson syndrome
+OMIM:617694	Al Kaissi syndrome
+OMIM:617709	Neurodevelopmental disorder with microcephaly
+OMIM:617711	Infantile or early childhood epileptic encephalopathy
+OMIM:617757	Gabriele-de Vries syndrome
+OMIM:617762	Early childhood-onset progressive leukodystrophy
+OMIM:617822	Alkuraya-Kucinskas syndrome
+OMIM:617865	Neurodevelopmental disorder with movement abnormalities or hypotonia
+OMIM:617988	Jaberi-Elahi syndrome
+OMIM:618113	Mild encephalopathy with reversible myelin vacuolization
+OMIM:618148	Extraoral halitosis due to MTO deficiency
+OMIM:618170	Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures
+OMIM:618273	Mega-corpus-callosum syndrome with cerebellar hypoplasia and cortical malformations
+OMIM:618280	Cardiac-urogenital syndrome
+OMIM:618336	IMAGE-I syndrome
+OMIM:618354	Neurodevelopmental disorder with structural brain abnormalities
+OMIM:618479	Cerebellar, ocular, craniofacial, and genital syndrome
+OMIM:618577	Neurodevelopmental disorder with dysmorphic facies
+OMIM:618603	Neurodevelopmental disorder with hypotonia and variable intellectual and behavioral abnormalities
+OMIM:618604	Snijders Blok-Fisher syndrome
+OMIM:618619	Weiss-Kruszka syndrome
+OMIM:618659	Neurodevelopmental disorder with dysmorphic facies and skeletal anomalies
+OMIM:618707	Syndromic neurodevelopmental disorder
+OMIM:618761	CATIFA syndrome
+OMIM:618786	Imagawa-Matsumoto syndrome
+OMIM:618820	Genitourinary and
+OMIM:618846	Diets-Jongmans syndrome
+OMIM:618870	Skeletal dysplasia with joint laxity and advanced bone age
+OMIM:618878	Developmental delay, leukoencephalopathy, and neurologic decompensation
+OMIM:618912	Sorbitol dehydrogenase deficiency with peripheral neuropathy
+OMIM:618929	Agenesis of corpus callosum, cardiac, ocular, and genital syndrome
+OMIM:618974	Li-Ghorbani-Weisz-Hubshman syndrome
+OMIM:619142	Cardioacrofacial dysplasia
+OMIM:619273	CIMDAG syndrome
+OMIM:619352	Ataxia, intention tremor, and hypotonia syndrome
+OMIM:619375	Familial autoinflammatory syndrome with or without immunodeficiency
+OMIM:619426	White-Kernohan syndrome
+OMIM:619534	BRENS syndrome
+OMIM:619576	Cerebellar ataxia, brain abnormalities, and cardiac conduction defects
+OMIM:619699	Ferguson-Bonni neurodevelopmental syndrome
+OMIM:619701	Yoon-Bellen neurodevelopmental syndrome
+OMIM:619727	Craniotubular dysplasia, Ikegawa type

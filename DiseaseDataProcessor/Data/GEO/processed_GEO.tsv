@@ -1,0 +1,260 @@
+DiseaseID	DiseaseName
+DOID:0050156	idiopathic pulmonary fibrosis 
+DOID:0050211	H1N1 
+DOID:0050589	inflammatory bowel disease 
+DOID:0050700	cardiomyopathy 
+DOID:0050742	nicotine dependence 
+DOID:0050861	colorectal adenocarcinoma 
+DOID:0050872	large cell neuroendocrine carcinoma 
+DOID:0050908	myelodysplastic syndrome 
+DOID:0050912	colon adenoma 
+DOID:0050933	low-grade serous ovarian carcinomas 
+DOID:0060041	autism spectrum disorder 
+DOID:0060074	ductal carcinoma in situ 
+DOID:0060180	colitis 
+DOID:0060201	amyotrophic lateral sclerosis type 10 
+DOID:10223	dermatomyositis 
+DOID:10283	prostate cancer 
+DOID:1040	chronic lymphocytic leukemia 
+DOID:10534	stomach cancer 
+DOID:10588	adrenoleukodystrophy 
+DOID:1059	mental retardation 
+DOID:10652	Alzheimer's disease 
+DOID:10923	sickle-cell anemia 
+DOID:10941	intracranial aneurysm 
+DOID:11335	sarcoidosis 
+DOID:11432	endometriosis of ovary 
+DOID:11612	polycystic ovary syndrome 
+DOID:11664	nephrosclerosis 
+DOID:11722	myotonic dystrophy type 1 
+DOID:11723	Duchenne muscular dystrophy 
+DOID:11727	facioscapulohumeral muscular dystrophy 
+DOID:11981	morbid obesity 
+DOID:12205	dengue disease 
+DOID:12206	Dengue Fever 
+DOID:12217	Lewy body dementia 
+DOID:12351	Alcoholic Hepatitis 
+DOID:12849	autistic disorder 
+DOID:12858	Huntington's disease 
+DOID:12894	Sjogren's syndrome 
+DOID:12930	dilated cardiomyopathy 
+DOID:1339	Diamond-Blackfan anaemia 
+DOID:13406	pulmonary sarcoidosis 
+DOID:1380	endometrial cancer 
+DOID:13809	familial combined hyperlipidemia 
+DOID:13810	familial hypercholesterolemia 
+DOID:14250	Down syndrome 
+DOID:14261	fragile X syndrome 
+DOID:14330	Parkinson's disease 
+DOID:1485	cystic fibrosis 
+DOID:1555	idiopathic urticaria 
+DOID:1574	Schizophrenia 
+DOID:1596	Depression 
+DOID:1612	Breast Cancer 
+DOID:1793	pancreatic cancer 
+DOID:1883	hepatitis C 
+DOID:1909	melanoma 
+DOID:1928	Williams-Beuren syndrome 
+DOID:1936	atherosclerosis 
+DOID:1969	cerebral palsy 
+DOID:219	colon cancer 
+DOID:2355	anemia 
+DOID:2366	West Nile fever 
+DOID:2377	multiple sclerosis 
+DOID:2378	relapsing-remitting multiple sclerosis 
+DOID:2394	ovarian cancer 
+DOID:2841	asthma 
+DOID:289	endometriosis 
+DOID:3008	invasive ductal carcinoma 
+DOID:3042	allergic contact dermatitis 
+DOID:3069	astrocytoma 
+DOID:3151	skin squamous cell carcinoma 
+DOID:3181	oligodendroglioma 
+DOID:3310	atopic dermatitis skin 
+DOID:3312	bipolar disorder 
+DOID:332	amyotrophic lateral sclerosis 
+DOID:3429	inclusion body myositis 
+DOID:3457	invasive lobular carcinoma 
+DOID:3458	breast adenocarcinoma 
+DOID:3491	Turner syndrome 
+DOID:3498	pancreatic ductal adenocarcinoma 
+DOID:3748	esophagus squamous cell carcinoma 
+DOID:3907	lung squamous cell carcinoma 
+DOID:3969	papillary thyroid carcinoma 
+DOID:399	tuberculosis 
+DOID:4325	Zaire ebolavirus 
+DOID:4362	cervical cancer 
+DOID:4450	renal cell carcinoma 
+DOID:4556	lung large cell carcinoma 
+DOID:4644	epidermolysis bullosa simplex 
+DOID:4829	adenosquamous cell lung carcinoma 
+DOID:4866	salivary gland adenoid cystic carcinoma 
+DOID:4914	esophagus adenocarcinoma 
+DOID:5082	liver cirrhosis 
+DOID:5394	prolactinoma 
+DOID:5419	schizophrenia 
+DOID:5520	head and neck squamous cell carcinoma 
+DOID:5842	testis seminoma 
+DOID:6543	Inflammatory papules (Acne) 
+DOID:684	hepatocellular carcinoma 
+DOID:7061	precursor B lymphoblastic lymphoma/leukemia 
+DOID:7148	rheumatoid arthritis 
+DOID:7442	monoclonal gammopathy of uncertain significance 
+DOID:7685	pancreatic non-invasive intraductal papillary-mucinous carcinoma 
+DOID:7693	abdominal aortic aneurysm 
+DOID:7851	pancreatic intraductal papillary-mucinous adenoma 
+DOID:8029	sporadic breast cancer 
+DOID:8106	cellular phase chronic idiopathic myelofibrosis 
+DOID:8150	pancreatic invasive intraductal papillary-mucinous carcinoma 
+DOID:8398	osteoarthritis 
+DOID:848	systemic juvenile idiopathic arthritis (sJIA) (enthesitis-related) 
+DOID:8552	Chronic phase chronic myelogenous leukemia 
+DOID:8577	ulcerative colitis 
+DOID:8778	Crohn's disease 
+DOID:8857	lupus erythematosus 
+DOID:8866	actinic keratosis 
+DOID:8893	psoriasis 
+DOID:9008	psoriatic arthritis 
+DOID:9074	systemic lupus erythematosus 
+DOID:9119	acute myeloid leukemia 
+DOID:9206	Barrett's esophagus 
+DOID:9256	colorectal cancer 
+DOID:9261	nasopharynx carcinoma 
+DOID:9296	Non-syndromic cleft lip and palate 
+DOID:9352	type 2 diabetes mellitus 
+DOID:9408	acute myocardial infarction 
+DOID:9415	allergic asthma 
+DOID:9538	multiple myeloma 
+DOID:9551	smoldering myeloma 
+DOID:971	Tendonopathy 
+DOID:9884	tibial muscular dystrophy 
+DOID:9997	peripartum cardiomyopathy 
+UMLS:C0001430	Adenoma 
+UMLS:C0001792	Senescence 
+UMLS:C0002736	ALS (Amyotrophic Lateral Sclerosis) 
+UMLS:C0002797	Anaplasmosis 
+UMLS:C0002874	Aplastic anaemia 
+UMLS:C0002895	Sickle Cell Anemia 
+UMLS:C0003615	Appendicitis 
+UMLS:C0003873	RA (rheumatoid arthritis) 
+UMLS:C0004096	Asthma 
+UMLS:C0004153	Atherosclerosis 
+UMLS:C0004623	Bacterial Infection 
+UMLS:C0005586	Bipolar Disorder 
+UMLS:C0006142	Breast Cancer 
+UMLS:C0006287	bronchopulmonary dysplasia UMLS 
+UMLS:C0007102	Cancer of Colon 
+UMLS:C0007193	Cardiomyopathy, Dilated 
+UMLS:C0009324	Ulcerative Colitis 
+UMLS:C0010481	Cushing Syndrome 
+UMLS:C0011633	Dermatomyositis 
+UMLS:C0011644	Scleroderma 
+UMLS:C0011854	Type 1 diabetes mellitus 
+UMLS:C0011860	Type 2 diabetes mellitus 
+UMLS:C0011881	Diabetic Nephropathy 
+UMLS:C0013080	Down Syndrome 
+UMLS:C0013595	Eczema 
+UMLS:C0014175	Endometriosis 
+UMLS:C0014544	Epilepsy 
+UMLS:C0017168	GERD - Gastro-esophageal reflux disease 
+UMLS:C0017636	glioblastoma UMLS 
+UMLS:C0018203	Granulomatous Disease, Chronic 
+UMLS:C0019196	Hepatitis C infection 
+UMLS:C0019204	Carcinoma, Hepatocellular 
+UMLS:C0019693	HIV - Human immunodeficiency virus infection 
+UMLS:C0020474	Familial combined hyperlipidaemia 
+UMLS:C0020542	Pulmonary Hypertension 
+UMLS:C0022408	Arthropathy 
+UMLS:C0022602	Actinic keratosis 
+UMLS:C0023434	Chronic Lymphocytic Leukemia (Chronic B-lymphocytic leukemia) UMLS 
+UMLS:C0023458	B-cell chronic lymphocytic leukaemia/small lymphocytic lymphoma 
+UMLS:C0023467	AML - Acute myeloid leukemia 
+UMLS:C0023473	CML - Chronic myeloid leukemia 
+UMLS:C0023493	Leukemia, Adult T Cell 
+UMLS:C0024117	COPD - Chronic obstructive pulmonary disease 
+UMLS:C0024138	discoid lupus erythematosus UMLS 
+UMLS:C0024141	Systemic lupus erythematosus (SLE) 
+UMLS:C0024419	Waldenstrom Macroglobulinemia UMLS 
+UMLS:C0024437	Macular degeneration 
+UMLS:C0024623	Cancer of the Stomach 
+UMLS:C0025202	Malignant Melanoma 
+UMLS:C0025303	Meningococcal infection 
+UMLS:C0026769	MS (Multiple Sclerosis) 
+UMLS:C0026986	MDS - Myelodysplastic syndrome 
+UMLS:C0027708	Nephroblastoma 
+UMLS:C0028043	Nicotine addiction 
+UMLS:C0028754	Obesity 
+UMLS:C0028945	Oligodendroglioma 
+UMLS:C0029408	Osteoarthritis 
+UMLS:C0029435	Osteolysis 
+UMLS:C0029456	Osteoporosis 
+UMLS:C0032460	Polycystic Ovary Syndrome 
+UMLS:C0032914	Preeclampsia 
+UMLS:C0033740	Protozoan Infection 
+UMLS:C0033817	Pseudomonas Infection 
+UMLS:C0035372	Rett Syndrome 
+UMLS:C0036202	Sarcoidosis 
+UMLS:C0036341	Schizophrenia 
+UMLS:C0036983	Septic Shock 
+UMLS:C0038013	Ankylosing Spondylitides 
+UMLS:C0038436	PTSD - Post-traumatic stress disorder 
+UMLS:C0039585	Androgen insensitivity syndrome 
+UMLS:C0040028	Essential Thrombocytemia 
+UMLS:C0042133	Uterine leiomyoma 
+UMLS:C0043117	Purpura, Idiopathic Thrombocytopenic 
+UMLS:C0080151	Simian Acquired Immune Deficiency Syndrome 
+UMLS:C0085655	Polymyositis 
+UMLS:C0085786	Idiopathic fibrosing alveolitis 
+UMLS:C0149782	Squamous cell carcinoma of lung 
+UMLS:C0149925	Small cell carcinoma of lung 
+UMLS:C0152013	Adenocarcinoma of lung 
+UMLS:C0153594	Cancer of the testis 
+UMLS:C0154681	Anterior Horn Cell Disease 
+UMLS:C0155877	Asthma, allergic 
+UMLS:C0157917	Pauciarticular juvenile arthritis 
+UMLS:C0161750	Overexertion 
+UMLS:C0162671	MELAS - Mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes 
+UMLS:C0206701	Serous carcinoma 
+UMLS:C0221757	Alpha -1 anti-trypsin deficiency 
+UMLS:C0231341	Premature aging 
+UMLS:C0238198	Gastrointestinal stromal tumor 
+UMLS:C0238461	anaplastic thyroid carcinoma UMLS 
+UMLS:C0238463	Papillary Carcinoma of the Thyroid 
+UMLS:C0242184	Hypoxia 
+UMLS:C0242488	Acute Lung Injury 
+UMLS:C0263361	Psoriasis vulgaris 
+UMLS:C0263666	juvenile dermatomyositis UMLS 
+UMLS:C0264797	Viral cardiomyopathy 
+UMLS:C0267187	Intestinal metaplasia of gastric mucosa 
+UMLS:C0273115	Lung Injury 
+UMLS:C0276447	Rhinovirus infection 
+UMLS:C0276548	HIV encephalitis 
+UMLS:C0276655	Infection by Aspergillus fumigatus 
+UMLS:C0279628	Adenocarcinoma of esophagus 
+UMLS:C0334267	Urothelial carcinoma in situ 
+UMLS:C0339573	Primary open angle glaucoma 
+UMLS:C0342751	Pompe disease, infantile-onset form UMLS 
+UMLS:C0346040	melanoma in situ UMLS 
+UMLS:C0346210	Vulvar intraepithelial tumor UMLS 
+UMLS:C0346647	Malignant tumor of pancreas 
+UMLS:C0376358	Cancer of prostate 
+UMLS:C0393593	Dystonia 
+UMLS:C0399396	Dental cavity, complex 
+UMLS:C0399440	Hereditary gingival fibromatosis 
+UMLS:C0400966	NASH 
+UMLS:C0553662	JRA - Juvenile rheumatoid arthritis 
+UMLS:C0585362	Squamous cell carcinoma of mouth 
+UMLS:C0686087	Carcinoma in situ of large intestine 
+UMLS:C0702166	Acne 
+UMLS:C0729958	Lung transplant rejection 
+UMLS:C0812413	Malignant mesothelioma of pleura 
+UMLS:C0878544	Cardiomyopathy 
+UMLS:C0919628	Teratospermia UMLS 
+UMLS:C0948008	Ischemic stroke UMLS 
+UMLS:C1175175	Severe acute respiratory syndrome (SARS) 
+UMLS:C1333978	hepatitis C virus related hepatocellular carcinoma UMLS 
+UMLS:C1442797	Rotavirus infection of children 
+UMLS:C1522378	LGLL - Large granular lymphocytic leukemia 
+UMLS:C1531608	Smoldering multiple myeloma 
+UMLS:C1744559	Setleis syndrome 
+UMLS:C2363142	Leukemia, Chronic T-Cell 

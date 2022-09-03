@@ -7,6 +7,9 @@ import time
 import winsound
 from threading import Thread
 import math
+
+
+# Connect VPN first!
 data_folder_name='Data'
 id_converter_file= 'UMLS_ID_converter.json'
 
@@ -99,25 +102,15 @@ def my_thread(ids,mappings,start_i):
     for i in range(start_i,min(len(ids),start_i+query_limit*20),query_limit):
         data = '{"ids" : [ "%s" ],"inputSource" : null, "mappingTarget" : ["UMLS"],"mappingSource" : [],"distance" : 1}' % "\" , \"".join(
             ids[i:min(i + query_limit, len(ids))])
-        # print(data)
         search_state=0
-        # count_fails=-1
         while search_state!=200:
             search_result = requests.post(oxo_api_address, headers=headers, data=data,timeout=time_out)
             search_result_content = search_result.content.strip()
             search_state = search_result.status_code
-            # count_fails+=1
-        # if count_fails>0:
-        #     print(f"Succeeded after {count_fails}")
         search_result_json = json.loads(search_result_content)
-        # except Exception as e:
-        #     print(e)
-        #     print(search_result_content)
-        #     print(search_state)
-        #     exit(0)
-        #     winsound.PlaySound("SystemExclamation", winsound.SND_ALIAS)
-        #     print(requests.post(oxo_api_address, headers=headers, data=data).content)
-        #     search_result_json = json.loads(requests.post(oxo_api_address, headers=headers, data=data).content)
+        #check for distance 2 and 3
+        # print(search_result_json)
+        # exit(0)
         for query in search_result_json['_embedded']['searchResults']:
             mapped_ids = list()
             for mapped_id in query['mappingResponseList']:
@@ -180,20 +173,6 @@ def process(file,id_converter,seperator):
             else:
                 unmapped_disease_names.append(df['DiseaseName'].iloc[i])
                 unmapped_disease_ids.append(id_)
-
-        # else:
-        #     try:
-        #         id_=clean_id(id_)
-        #         xrefs=id_converter[id_]
-        #         # count_mapped+=len(xrefs)
-        #         count_mapped+=1
-        #         for xref in xrefs:
-        #             converted_ids.append(xref)
-        #             converted_names.append(df['DiseaseName'].iloc[i])
-        #     except:
-        #         unmapped_disease_names.append(df['DiseaseName'].iloc[i])
-        #         unmapped_disease_ids.append(id_)
-        #         continue
     unmapped_df=pd.DataFrame({"DiseaseID":unmapped_disease_ids,"DiseaseName":unmapped_disease_names})
     unmapped_df=unmapped_df.set_index("DiseaseID")
     unmapped_ids_df=pd.concat([unmapped_ids_df,unmapped_df],axis=0)
@@ -221,12 +200,17 @@ if __name__ == '__main__':
     for column in old_df.columns:
         old_databases.append(str(column))
     data_base_modified=False
+    counter=0
     for file in all_data_files:
         if file.folder not in old_databases:
             data_base_modified=True
+            if counter==3:
+                break
             if file.name.endswith('.tsv'):
+                counter += 1
                 old_df=update_df(process(file,id_converter,seperator='\t'),old_df)
             elif file.name.endswith('.csv'):
+                counter += 1
                 old_df = update_df(process(file, id_converter, seperator=','), old_df)
     print("Writing the result into result.tsv")
     if data_base_modified:
@@ -241,7 +225,6 @@ if __name__ == '__main__':
             for column in old_df.columns:
                 if column!="DiseaseName" and column!='Sum':
                     if str(old_df[column].iloc[i])=='1.0':
-                        # print(combination)
                         combination+=str(j)+","
                 j+=1
             i+=1
