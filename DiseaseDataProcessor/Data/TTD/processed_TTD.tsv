@@ -1,4 +1,83 @@
 DiseaseID	DiseaseName
+ICD-10:A00-B99	Syphilis
+ICD-10:A02.0	Salmonella infection
+ICD-10:A15-A19	Tuberculosis
+ICD-10:A48.3	Toxic shock syndrome
+ICD-10:A90	Dengue
+ICD-10:A92.3	West nile virus infection
+ICD-10:B02	Zoster
+ICD-10:B03	Smallpox
+ICD-10:B17.1	HIV infection
+ICD-10:B18.1	Hepatitis B
+ICD-10:B18.2	Chronic HCV-1 infection
+ICD-10:B44	Aspergillosis
+ICD-10:B50-B54	Malaria
+ICD-10:B55	Leishmaniasis
+ICD-10:B55.0	Visceral leishmaniasis
+ICD-10:B56	African trypanosomiasis
+ICD-10:B58	Toxoplasmosis
+ICD-10:B65	Schistosomiasis
+ICD-10:B73	Onchocerciasis
+ICD-10:C00-C96	Advanced cancer
+ICD-10:C19	Metastatic colorectal cancer
+ICD-10:C22.0	Hepatocellular carcinoma
+ICD-10:C32.0	Glottic cancer
+ICD-10:C50	Invasive breast cancer
+ICD-10:C56	Ovarian cancer
+ICD-10:C61	Prostate cancer
+ICD-10:C64	Renal cell carcinoma
+ICD-10:C71.6	Medulloblastoma
+ICD-10:C76-C80	Solid tumour/cancer
+ICD-10:C79.0	Metastatic renal cancer
+ICD-10:C79.3	Metastatic prostate carcinoma
+ICD-10:C85.9	B-cell non-hodgkin lymphoma
+ICD-10:C92.1	Chronic myelogenous leukaemia
+ICD-10:C92.7	Chronic myeloid leukaemia
+ICD-10:C92.9	Acute promyelocytic leukaemia
+ICD-10:E84	Cystic fibrosis
+ICD-10:F06.7	Cognitive impairment
+ICD-10:G10	Huntington disease
+ICD-10:G30	Alzheimer disease
+ICD-10:G36.0	Neuromyelitis optica
+ICD-10:G70.0	Myasthenia gravis
+ICD-10:G93	Myalgic encephalomyelitis
+ICD-10:I00-I99	Cardiovascular disease
+ICD-10:I25.1	Coronary artery disease
+ICD-10:I26	Pulmonary embolism
+ICD-10:I27	Pulmonary hypertension
+ICD-10:I50	Chronic heart failure
+ICD-10:I50.0	Congestive heart failure
+ICD-10:I70	Arteriosclerosis
+ICD-10:I73	Peripheral arterial disease
+ICD-10:I80-I82	Atherosclerosis
+ICD-10:I82.4	Deep vein thrombosis
+ICD-10:J09-J99	Lower respiratory tract infection
+ICD-10:J40-J44	Chronic obstructive pulmonary disease
+ICD-10:J44	Chronic obstructive pulmonary disease
+ICD-10:J45	Asthma
+ICD-10:J84.1	Fibrosing alveolitis
+ICD-10:K50	Crohn disease
+ICD-10:K50-K52	Inflammatory bowel disease
+ICD-10:K70.1	Steatohepatitis
+ICD-10:K75.8	Non-alcoholic steatohepatitis
+ICD-10:K90.0	Coeliac disease
+ICD-10:M15-M19	Knee osteoarthritis
+ICD-10:M35	Sjogren syndrome
+ICD-10:M81.0	Postmenopausal osteoporosis
+ICD-10:N18	Chronic kidney disease
+ICD-10:N32.8	Overactive bladder
+ICD-10:O11	Chronic hypertension
+ICD-10:O14	Pre-eclampsia
+ICD-10:P27.1	Bronchopulmonary dysplasia
+ICD-10:P29.3	Persistent pulmonary hypertension of the newborn
+ICD-10:Q25.0	Patent ductus arteriosus
+ICD-10:Q61.2	Autosomal dominant polycystic kidney disease
+ICD-10:R09.0	Asphyxia
+ICD-10:R50	Rheumatic fever
+ICD-10:S27.3	Acute lung injury
+ICD-10:S37.0	Kidney injury
+ICD-10:T86.0	Acute graft versus host disease
+ICD-10:Z49.1	Hemodialysis
 ICD-11	
 ICD-11:1A00	Vibrio cholerae infection
 ICD-11:1A00-1A09	Methicillin-resistant staphylococci infection
@@ -112,6 +191,7 @@ ICD-11:1D93	Parvovirus infection
 ICD-11:1D9Y	Parainfluenza virus infection
 ICD-11:1E30	Influenza A virus infection
 ICD-11:1E30-1E32	Influenza virus infection
+ICD-11:1E30-1E32?	Influenza
 ICD-11:1E50	Acute viral hepatitis
 ICD-11:1E50-1E51	Hepatitis virus infection
 ICD-11:1E50.0	Hepatitis A virus infection
@@ -332,6 +412,7 @@ ICD-11:2C60	Advanced/metastatic breast cancer
 ICD-11:2C60-2C65	Breast cancer
 ICD-11:2C60-2C6Y	Breast cancer
 ICD-11:2C60-2C6Z	Mammary tumour
+ICD-11:2C61	Invasive breast cancer
 ICD-11:2C62	Inflammatory breast cancer
 ICD-11:2C6Y	Metastatic breast cancer
 ICD-11:2C72	Uterine ligament/parametrium/uterine adnexa neoplasm
@@ -974,6 +1055,7 @@ ICD-11:BD52	Artery stenosis
 ICD-11:BD52.Y	Arterial calcification
 ICD-11:BD53.Y	Diabetic angiopathy
 ICD-11:BD54	Diabetic foot ulcer
+ICD-11:BD55	Carotid artery atherosclerosis
 ICD-11:BD5Z	Vascular systems peripheral arterial disorder
 ICD-11:BD71	Deep vein thrombosis
 ICD-11:BD72	Venous thromboembolism
@@ -1554,3 +1636,77 @@ ICD-11:QB8Z	Investigative surgical procedure
 ICD-11:QB98	Blood transfusion
 ICD-11:SA80-SA8Z	Phlegmy cough
 ICD-11:SC00	Morning sickness
+ICD-9:156	Irresectable biliary tract cancer
+ICD-9:157	Pancreatic cancer
+ICD-9:162	Lung cancer
+ICD-9:170	Ewing sarcoma
+ICD-9:172	Melanoma
+ICD-9:186	Advanced seminoma
+ICD-9:186.9	Non-seminoma testicular cancer
+ICD-9:202	Advanced stage follicular lymphoma
+ICD-9:205	Elderly acute myeloid leukaemia
+ICD-9:250.4	Diabetic nephropathy
+ICD-9:277.5	Mucopolysaccharidosis
+ICD-9:279.3	HIV infection
+ICD-9:279.5	Graft-versus-host disease
+ICD-9:280	Iron-deficiency anemia
+ICD-9:280-285	Anemia
+ICD-9:308	Stress
+ICD-9:327.23	Obstructive sleep apnea
+ICD-9:331.1	Frontotemporal lobar degeneration
+ICD-9:332	Parkinson disease
+ICD-9:335.2	Amyotrophic lateral sclerosis
+ICD-9:340	Multiple sclerosis
+ICD-9:365	Glaucoma/ocular hypertension
+ICD-9:370.33	Dry eye disease
+ICD-9:401	Hypertension
+ICD-9:410	Acute myocardial infarction
+ICD-9:411.1	Acute coronary syndrome
+ICD-9:416	Chronic thromboembolic pulmonary hypertension
+ICD-9:424.1	Calcific aortic valve stenosis
+ICD-9:428	Acute heart failure
+ICD-9:453	Venous thromboembolism
+ICD-9:459.89	Ischemia
+ICD-9:490-496	Chronic lung disease
+ICD-9:492	Emphysema
+ICD-9:521	Dental caries
+ICD-9:530.13	Eosinophilic disorders
+ICD-9:556	Ulcerative colitis
+ICD-9:581	Focal segmental glomerulonephritis
+ICD-9:581.3	Nephropathy
+ICD-9:584	Acute kidney injury
+ICD-9:696	Psoriasis vulgaris
+ICD-9:710	Systemic lupus erythematosus
+ICD-9:710.1	Systemic sclerosis
+ICD-9:715	Osteoarthritis
+ICD-9:759.3	Primary ciliary dyskinesia
+ICD-9:995.91	Sepsis
+ICD-9:996	Graft rejection
+ICD-9:996.81	Kidney transplant rejection
+ICD10:A02.8	Salmonella infection
+ICD10:B18.2	HIV infection
+ICD10:B55.9	Leishmaniasis
+ICD10:B56.9	African trypanosomiasis
+ICD10:B65.9	Schistosomiasis
+ICD10:B90	Tuberculosis
+ICD10:E84.9	Cystic fibrosis
+ICD10:G30.9	Alzheimer disease
+ICD10:I25.4	Coronary artery disease
+ICD10:I26.0	Pulmonary embolism
+ICD10:I27.0	Pulmonary hypertension
+ICD10:I50.9	Chronic heart failure
+ICD10:I73.9	Peripheral arterial disease
+ICD10:J44.9	Chronic obstructive pulmonary disease
+ICD10:J45.8	Asthma
+ICD10:J47	Chronic obstructive pulmonary disease
+ICD10:K50.9	Crohn disease
+ICD10:K76.0	Steatohepatitis
+ICD10:M35.0	Sjogren syndrome
+ICD10:M47	Knee osteoarthritis
+ICD10:N17-N19	Renal dysfunction
+ICD10:N18.9	Chronic kidney disease
+ICD10:O14	Chronic hypertension
+ICD10:O14.9	Pre-eclampsia
+ICD10:R50	Dengue
+ICD9:770.7	Chronic lung disease
+ICD9:780.57	Obstructive sleep apnea

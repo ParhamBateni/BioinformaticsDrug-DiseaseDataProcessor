@@ -9,6 +9,13 @@ import os
 from threading import Thread
 
 data_folder='Data/'
+def preprocess_ALLIANCE():
+    print('preprocessing ALLIANCE')
+    folder=f'{data_folder}/ALLIANCE'
+    pd.read_csv(f'{folder}/DISEASE-ALLIANCE_COMBINED_0.tsv',sep='\t',dtype=str)[['DOID','DOtermName']]\
+        .rename(columns={'DOID':'DiseaseID','DOtermName':'DiseaseName'})\
+        .drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index()\
+        .to_csv(f'{folder}/processed_ALLIANCE.tsv',sep='\t')
 def preprocess_BioMuta():
     print('preprocessing BioMuta')
     folder=f'{data_folder}/BioMuta'
@@ -136,6 +143,14 @@ def preprocess_G2P():
             df_final=df_final.append(df)
     df_final.drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index()\
         .to_csv(f'{folder}/processed_G2P.tsv', sep='\t')
+
+def preprocess_GenCC():
+    print('preprocessing GCC')
+    folder=f'{data_folder}/GenCC'
+    pd.read_csv(f'{folder}/gencc-submissions.tsv',sep='\t')[['disease_curie','disease_title']]\
+        .rename(columns={'disease_curie':'DiseaseID','disease_title':'DiseaseName'})\
+        .drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index()\
+        .to_csv(f'{folder}/processed_GenCC.tsv',sep='\t')
 def preprocess_GEO():
     print('preprocessing GEO')
     folder = f'{data_folder}/GEO'
@@ -166,11 +181,17 @@ def preprocess_GEO():
 def preprocess_GWAS():
     print('preprocessing GWAS')
     folder = f'{data_folder}/GWAS'
-    df=pd.read_csv(f'{folder}/gwas-catalog-associations_ontology-annotated.tsv',sep='\t',dtype=str)[['MAPPED_TRAIT_URI','MAPPED_TRAIT']]\
-        .rename(columns={'MAPPED_TRAIT':'DiseaseName','MAPPED_TRAIT_URI':'DiseaseID'})
-    df['DiseaseID']=df.DiseaseID.str.extract(r'\b/(\w+)_', expand=True)+':'+df.DiseaseID.str.extract(r'_(\d+)$',expand=True)
-    df.drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index()\
-        .to_csv(f'{folder}/processed_GWAS.tsv',sep='\t')
+    # df=pd.read_csv(f'{folder}/gwas-catalog-associations_ontology-annotated.tsv',sep='\t',dtype=str)[['MAPPED_TRAIT_URI','MAPPED_TRAIT']]\
+    #     .rename(columns={'MAPPED_TRAIT':'DiseaseName','MAPPED_TRAIT_URI':'DiseaseID'})
+    # df['DiseaseID']=df.DiseaseID.str.extract(r'\b/(\w+)_', expand=True)+':'+df.DiseaseID.str.extract(r'_(\d+)$',expand=True)
+    # df.drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID'])
+    df = pd.read_csv(f'{folder}/gwas-efo-trait-mappings.tsv', sep='\t', dtype=str)[
+        ['EFO URI', 'Disease trait']] \
+        .rename(columns={'Disease trait': 'DiseaseName', 'EFO URI': 'DiseaseID'})
+    df['DiseaseID'] = df.DiseaseID.str.extract(r'\b/(\w+)_', expand=True) + ':' + df.DiseaseID.str.extract(r'_(\d+)$',
+                                                                                                           expand=True)
+    df.drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index() \
+        .to_csv(f'{folder}/processed_GWAS.tsv', sep='\t')
 def preprocess_HPO():
     print('preprocessing HPO')
     folder = f'{data_folder}/HPO'
@@ -258,6 +279,21 @@ def preprocess_MedGen():
 def preprocess_OMIM():
     print('preprocessing OMIM')
     folder = f'{data_folder}/OMIM'
+    with open(f'{folder}/omim_result.txt', 'r', encoding="utf-8") as file:
+        disease_names=[]
+        disease_ids=[]
+        for line in file:
+            match=re.match('[0-9]+\.\s.([0-9]+) - (.+)',line)
+            if match is not None:
+                disease_id,disease_name=match.groups()
+                disease_id='OMIM:'+disease_id
+                if ';' in disease_name:
+                    disease_name=disease_name[:disease_name.find(';')]
+                disease_ids.append(disease_id)
+                disease_names.append(disease_name)
+    pd.DataFrame({'DiseaseID':disease_ids,'DiseaseName':disease_names}).drop_duplicates(subset=['DiseaseID'])\
+        .dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index().to_csv(f'{folder}/processed_OMIM.tsv',sep='\t')
+
 def preprocess_OncoMX():
     print('preprocessing OncoMX')
     folder = f'{data_folder}/OncoMX'
@@ -332,11 +368,36 @@ def preprocess_TTD():
             if line.__contains__("INDICATI"):
                 disease_names.append(line[line.rfind('\t')+1:line.find("[")-1])
                 disease_ids.append(line[line.find("[")+1:line.find("]")].replace(" ",''))
-    with open(f'{folder}/P1-08-Biomarker_disease.txt',encoding="utf-8") as file:
-        for line in file:
-            if line.__contains__("INDICATI"):
-                disease_names.append(line[line.rfind('\t')+1:line.find("[")-1])
-                disease_ids.append(line[line.find("[")+1:line.find("]")].replace(" ",''))
+    df=pd.read_csv(f'{folder}/P1-08-Biomarker_disease.txt',sep='\t')[['Diseasename','ICD11','ICD10','ICD9']]\
+        .rename(columns={'Diseasename':'DiseaseName'})
+    for ind_,row in df.iterrows():
+        if row["ICD10"] != '.':
+            id_=str(row["ICD10"])
+            disease_names.append(row["DiseaseName"])
+            if id_.__contains__(","):
+                disease_ids.append(id_[:id_.find(",")].replace(' ',''))
+                disease_ids.append("ICD10:"+id_[id_.find(",")+2:].replace(' ',''))
+                disease_names.append(row["DiseaseName"])
+            else:
+                disease_ids.append(row["ICD10"].replace(' ',''))
+        elif row["ICD9"]!='.':
+            id_ = str(row["ICD9"])
+            disease_names.append(row["DiseaseName"])
+            if id_.__contains__(","):
+                disease_ids.append(id_[:id_.find(",")].replace(' ',''))
+                disease_ids.append("ICD9:" + id_[id_.find(",") + 2:].replace(' ',''))
+                disease_names.append(row["DiseaseName"])
+            else:
+                disease_ids.append(row["ICD9"].replace(' ',''))
+        else:
+            id_ = str(row["ICD11"])
+            disease_names.append(row["DiseaseName"])
+            if id_.__contains__(","):
+                disease_ids.append(id_[:id_.find(",")].replace(' ',''))
+                disease_ids.append("ICD11:" + id_[id_.find(",") + 2:].replace(' ',''))
+                disease_names.append(row["DiseaseName"])
+            else:
+                disease_ids.append(row["ICD11"].replace(' ',''))
     df=pd.DataFrame({'DiseaseID':disease_ids,'DiseaseName':disease_names})
     df.drop_duplicates(subset=['DiseaseID']).dropna(subset=['DiseaseID']).set_index('DiseaseID').sort_index()\
         .to_csv(f'{folder}/processed_TTD.tsv',sep='\t')
@@ -344,13 +405,14 @@ def preprocess_TTD():
 
 
 if __name__ == '__main__':
-    databases=['BioMuta','ClinGen','ClinVar','COSMIC','CTDbase','DISEASES','DisGeNET','DOID','EFO','G2P',
+    databases=['ALLIANCE','BioMuta','ClinGen','ClinVar','COSMIC','CTDbase','DISEASES','DisGeNET','DOID','EFO','G2P','GenCC',
                'GEO','GWAS','HPO','KEGG','MedGen','OMIM','OncoMX','OpenTargetsPlatform','Pharos','RepoDB','SIDER','TTD']
-    databases_preprocess_functions=[preprocess_BioMuta,preprocess_ClinGen,preprocess_ClinVar,preprocess_COSMIC,
-                                    preprocess_CTDbase,preprocess_DISEASES,preprocess_DisGeNET,preprocess_DOID,
-                                    preprocess_EFO,preprocess_G2P,preprocess_GEO,preprocess_GWAS,preprocess_HPO,
-                                    preprocess_KEGG,preprocess_MedGen,preprocess_OMIM,preprocess_OncoMX,preprocess_OpenTargetsPlatform,
-                                    preprocess_Pharos,preprocess_RepoDB,preprocess_SIDER,preprocess_TTD]
+    databases_preprocess_functions=[preprocess_ALLIANCE,preprocess_BioMuta,preprocess_ClinGen,preprocess_ClinVar,
+                                    preprocess_COSMIC,preprocess_CTDbase,preprocess_DISEASES,preprocess_DisGeNET,
+                                    preprocess_DOID,preprocess_EFO,preprocess_G2P,preprocess_GenCC,preprocess_GEO,
+                                    preprocess_GWAS,preprocess_HPO,preprocess_KEGG,preprocess_MedGen,preprocess_OMIM,
+                                    preprocess_OncoMX,preprocess_OpenTargetsPlatform,preprocess_Pharos,
+                                    preprocess_RepoDB,preprocess_SIDER,preprocess_TTD]
 
     while True:
         print('\n'.join([f'{i}.{databases[i-1]}' for i in range(1,len(databases)+1)]))
