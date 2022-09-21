@@ -257,20 +257,18 @@ if __name__ == '__main__':
         old_df = old_df.fillna(0)
         old_df['Sum'] = old_df.loc[:, old_df.columns != 'DiseaseName'].sum(axis=1)
         old_df=old_df.sort_index(axis=0)
-        i=0
-        combinations=[]
-        for ind_,row in old_df.iterrows():
-            combination=""
-            j=0
-            for column in old_df.columns:
-                if column!="DiseaseName" and column!='Sum':
-                    if str(old_df[column].iloc[i])=='1.0':
-                        combination+=str(j)+","
-                j+=1
-            i+=1
-            combinations.append(combination[:-1])
-        old_df['Combinations'] = combinations
-        old_df.to_csv(result_file,sep='\t',index=True)
+        comb_df = old_df.reset_index()[:-2]
+        for i in range(len(comb_df.columns) - 3):
+            if i == 0:
+                comb_df['Combinations'] = comb_df[comb_df.columns[2]].astype(int) * pd.Series(
+                    [',1'] * len(comb_df.index))
+            else:
+                comb_df['Combinations'] = comb_df['Combinations'] + comb_df[comb_df.columns[2 + i]].astype(
+                    int) * pd.Series([f',{i + 1}'] * len(comb_df.index))
+        comb_df['Combinations'] = comb_df['Combinations'].str.extract(',(.*)')
+        result_df = comb_df.append(old_df.iloc[-2:].reset_index()).set_index('CID')
+        result_df = result_df.iloc[-2:].append(result_df.iloc[:-2])
+        result_df.to_csv(result_file,sep='\t',index=True)
         unmapped_ids_df=unmapped_ids_df.sort_index()
         unmapped_ids_df.to_csv("unmapped_ids.tsv",sep="\t")
     print(f"The result is written in {result_file}")

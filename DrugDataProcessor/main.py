@@ -47,20 +47,22 @@ if __name__ == '__main__':
     result_df = result_df.fillna(0)
     result_df['Sum'] = result_df.loc[:, result_df.columns != 'DrugName'].sum(axis=1)
     result_df = result_df.sort_index()
-    combinations = []
-    i=0
-    for ind_, row in result_df.iterrows():
-        combination = ""
-        j = 0
-        for column in result_df.columns:
-            if column != "DrugName" and column != 'Sum' and column!='CID':
-                if str(result_df[column].iloc[i]) == '1.0':
-                    combination += str(j) + ","
-            j += 1
-        i += 1
-        combinations.append(combination[:-1])
-    result_df['Combinations'] = combinations
-    indexes_except_sum_and_count = [i for i in result_df.index if  i != 'CountOfMappedNames' and i !="CountOfTotalNames"]
-    result_df = result_df.loc[['CountOfMappedNames'] + ['CountOfTotalNames']+indexes_except_sum_and_count ]
+    comb_df=result_df.reset_index()[:-2]
+    for i in range(len(comb_df.columns)-3):
+        if i==0:
+            comb_df['Combinations']=comb_df[comb_df.columns[2]].astype(int)*pd.Series([',1']*len(comb_df.index))
+        else:
+            comb_df['Combinations'] = comb_df['Combinations']+comb_df[comb_df.columns[2+i]].astype(int) * pd.Series([f',{i+1}'] * len(comb_df.index))
+    comb_df['Combinations']=comb_df['Combinations'].str.extract(',(.*)')
+    result_df=comb_df.append(result_df.iloc[-2:].reset_index()).set_index('CID')
+    result_df=result_df.iloc[-2:].append(result_df.iloc[:-2])
+    print('Writing the result into drug_results.tsv')
     result_df.to_csv("drug_results.tsv", sep='\t')
+    count_parts=5
+    part_size=len(result_df.index)//count_parts
+    for i in range(count_parts):
+        if i!=count_parts-1:
+            result_df.iloc[i * part_size:(i + 1) * part_size].to_csv(f'drug_results_part{i+1}.tsv', sep='\t')
+        else:
+            result_df.iloc[i * part_size:].to_csv(f'drug_results_part{i+1}.tsv', sep='\t')
     pd.DataFrame({"DrugName": list(unmapped_drugs)}).set_index("DrugName").to_csv("unmapped_drugs.tsv", sep='\t')
