@@ -1,5 +1,7 @@
+import math
 import os
 import pandas as pd
+from tqdm import tqdm
 data_folder_name="Data"
 global result_df
 result_df=pd.DataFrame({})
@@ -26,7 +28,8 @@ def process(file_name,folder_name,file_address):
     unmapped_drugs=unmapped_drugs.union(set(unmapped_names))
 
 
-    df=df.dropna()
+    df.loc[df['DrugName'].isna(),'DrugName']='Not available'
+    df.dropna()
     df=df.set_index('CID')
     df[folder_name] = 1
     df.loc['CountOfMappedNames', folder_name] = count_total_names-len(unmapped_names)
@@ -36,7 +39,7 @@ if __name__ == '__main__':
     counter=0
     for folder in os.listdir(data_folder_name):
         for file in os.listdir(f"{data_folder_name}/{folder}"):
-            # if counter==6:continue
+            # if counter==15:continue
             if file.startswith("parsed") and file.endswith(".tsv"):
                 counter+=1
                 file_address=f"{data_folder_name}/{folder}/{file}"
