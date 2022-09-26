@@ -108,23 +108,26 @@ def get_id_converter():
     return converter
 
 def load_ids_history_data():
-    global ids_history
     ids_history=dict()
-    df = pd.read_csv(id_history_file_address, sep='\t')[['Previous ConceptID', 'Current ConceptID']]\
+    df = pd.read_csv('../DiseaseDataProcessor/'+id_history_file_address, sep='\t')[['Previous ConceptID', 'Current ConceptID']]\
         .rename(columns={'Previous ConceptID':'PreviousUMLS','Current ConceptID':'CurrentUMLS'})
     df['PreviousUMLS'],df['CurrentUMLS']='UMLS:'+df['PreviousUMLS'],'UMLS:'+df['CurrentUMLS']
     df=df.drop_duplicates(subset=['PreviousUMLS','CurrentUMLS'])
     for index,row in df.iterrows():
         if ids_history.get(row['PreviousUMLS']) is not None:
             if row['CurrentUMLS']=='UMLS:No longer reported':
-                ids_history[str(row['PreviousUMLS']).strip()]=[str(row['PreviousUMLS']).strip()+'(No longer reported)']
+                ids_history[str(row['PreviousUMLS']).strip()]=set([str(row['PreviousUMLS']).strip()+'(No longer reported)'])
             else:
-                ids_history[str(row['PreviousUMLS']).strip()].append(row['CurrentUMLS'])
+                ids_history[str(row['PreviousUMLS']).strip()].add(row['CurrentUMLS'])
         else:
             if row['CurrentUMLS']=='UMLS:No longer reported':
-                ids_history[str(row['PreviousUMLS']).strip()]=[str(row['PreviousUMLS']).strip()+'(No longer reported)']
+                ids_history[str(row['PreviousUMLS']).strip()]=set([str(row['PreviousUMLS']).strip()+'(No longer reported)'])
             else:
-                ids_history[str(row['PreviousUMLS']).strip()] = [row['CurrentUMLS']]
+                ids_history[str(row['PreviousUMLS']).strip()] = set([row['CurrentUMLS']])
+    # print([x for x in ids_history if len(ids_history[x])>1])
+    # print(len([x for x in ids_history if len(ids_history[x]) > 1]))
+    # print(ids_history['UMLS:CN263221'])
+    return ids_history
 
 def my_thread(ids,mappings,start_i):
     global oxo_api_address, headers
@@ -228,13 +231,13 @@ def process(file,id_converter,seperator):
     return converted_df
 
 if __name__ == '__main__':
-    global unmapped_ids_df
+    global unmapped_ids_df,ids_history
     unmapped_ids_df = pd.DataFrame({"DiseaseID": [], "DiseaseName": []})
     unmapped_ids_df = unmapped_ids_df.set_index("DiseaseID")
     old_df=get_old_df()
     all_data_files=get_data_files()
     id_converter=get_id_converter()
-    load_ids_history_data()
+    ids_history=load_ids_history_data()
     old_databases=[]
     for column in old_df.columns:
         old_databases.append(str(column))
@@ -244,7 +247,7 @@ if __name__ == '__main__':
         if file.folder not in old_databases:
             if file.name.startswith('processed'):
                 data_base_modified=True
-                if counter==15:
+                if counter==5:
                     break
                 if file.name.endswith('.tsv'):
                     counter += 1
@@ -257,6 +260,8 @@ if __name__ == '__main__':
         old_df = old_df.fillna(0)
         old_df['Sum'] = old_df.loc[:, old_df.columns != 'DiseaseName'].sum(axis=1)
         old_df=old_df.sort_index(axis=0)
+        old_df=old_df.iloc[2:].append(old_df.iloc[:2])
+
         comb_df = old_df.reset_index()[:-2]
         for i in range(len(comb_df.columns) - 3):
             if i == 0:
@@ -266,8 +271,8 @@ if __name__ == '__main__':
                 comb_df['Combinations'] = comb_df['Combinations'] + comb_df[comb_df.columns[2 + i]].astype(
                     int) * pd.Series([f',{i + 1}'] * len(comb_df.index))
         comb_df['Combinations'] = comb_df['Combinations'].str.extract(',(.*)')
-        result_df = comb_df.append(old_df.iloc[-2:].reset_index()).set_index('CID')
-        result_df = result_df.iloc[-2:].append(result_df.iloc[:-2])
+        result_df = comb_df.reset_index().append(old_df.iloc[-2:].reset_index()).set_index('DiseaseID')
+        result_df = result_df.iloc[-2:].append(result_df.iloc[:-2]).drop('index',axis=1)
         result_df.to_csv(result_file,sep='\t',index=True)
         unmapped_ids_df=unmapped_ids_df.sort_index()
         unmapped_ids_df.to_csv("unmapped_ids.tsv",sep="\t")

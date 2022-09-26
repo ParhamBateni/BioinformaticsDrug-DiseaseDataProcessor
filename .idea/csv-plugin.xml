@@ -17,6 +17,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\DiseaseDataProcessor\Data\G2P\CardiacG2P_2_9_2022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\DiseaseDataProcessor\Data\G2P\DDG2P_2_9_2022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\DiseaseDataProcessor\Data\G2P\EyeG2P_2_9_2022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\DiseaseDataProcessor\Data\G2P\SkinG2P_2_9_2022.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\DiseaseDataProcessor\Data\Pharos\query results.csv">
           <value>
             <Attribute>
